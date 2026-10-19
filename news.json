@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:27:19.935623+00:00",
+ "updated": "2026-10-19T15:17:51.036109+00:00",
  "items": [
   {
    "club": "FCN",
@@ -36,10 +36,87 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Álex Primo vuelve a sonreír",
+   "summary": "El portero del Levante regresa a los entrenamientos tras ser intervenido quirúrgicamente del hombro el pasado mes de mayo  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/levante/2026/10/19/alex-primo-vuelve-sonreir.html",
+   "img": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/04/29/17774714441616.jpg",
+   "ts": "2026-10-19T14:52:50+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Sabah FK - der bunte Novize vom Kaspischen Meer",
+   "summary": "Borussia Dortmund bestreitet bereits sein drittes Europapokalspiel in Baku. Mit Sabah FK wartet in der Champions League ein besonders facettenreicher Gegner.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/championsleague/sabah-fk-der-bunte-novize-vom-kaspischen-meer,sabah-fk-als-champions-league-neuling-mit-vielen-facetten-100.html",
+   "img": "",
+   "ts": "2026-10-19T14:51:35+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
+   "summary": "Diego Gómez’s wondergoal in a five-star demolition is just the latest in an impressive run of results for the south coast teamSign up for our free newsletter hereFor two or three years now, it’s been standard to nod appr",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
+   "img": "https://i.guim.co.uk/img/media/d4f1ebbec5cf67090a9f1382158ed27329f52e33/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=076db64fab7e8ae9076b279e6280c7f8",
+   "ts": "2026-10-19T14:51:11+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bayern polieren Bilanz der Bundesliga gegen die Großen",
+   "summary": "Gleich drei Teams aus der Fußball-Bundesliga treffen am dritten Spieltag der Champions League auf Gegner aus Lostopf 1. Die Bilanz aus solchen Duellen spricht gegen die Bundesliga - mit Ausnahme der Bayern.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/championsleague/bayern-polieren-bilanz-der-bundesliga-gegen-die-grossen,cl-topf-eins-100.html",
+   "img": "",
+   "ts": "2026-10-19T14:44:57+00:00"
+  },
+  {
+   "club": null,
+   "league": "Regionalliga Nord",
+   "tag": "News",
+   "title": "Regionalliga-Reform: Neuendorf will konkreten Modell-Entwurf bald präsentieren",
+   "summary": "Kommt das Kompassmodell nun, oder kommt es nicht? Zumindest nach DFB-Präsident Bernd Neuendorf soll der jahrelange Streit möglichst zeitnah gelöst werden, einen konkreten Entwurf für das Kompassmodell möchte er in der nä",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/regionalliga-reform-neuendorf-will-konkreten-modell-entwurf-bald-praesentieren-1263022/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-19T14:25:32+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Neuer Lack oder ein Pfeifkonzert? Mainz sucht das Auswärtsgefühl",
+   "summary": "Der dritte Sieg im dritten Auswärtsspiel setzt die Mainzer Serie und zugleich das Rätsel fort, warum es im eigenen Stadion nicht klappen will. Womöglich hilft der Griff in die mentale Trickkiste.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/neuer-lack-oder-ein-pfeifkonzert-mainz-sucht-das-auswaertsgefuehl-1262513/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-19T14:03:44+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Celta celebra este martes su Junta General de Accionistas",
+   "summary": "Se aprobará una ampliación de capital para el proyecto Celta360  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/19/celta-celebra-martes-junta-general-accionistas.html",
+   "img": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/10/19/17924182332201.jpg",
+   "ts": "2026-10-19T13:57:21+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "STUNNERS from Mbappe, Yamal & Olise! Best goals from across Europe",
-   "summary": "Check out some of the best goals from LaLiga, Serie A, Ligue 1, and Bundesliga.",
+   "summary": "Check out some of the best goals from LaLiga, Serie A, Ligue 1 and Bundesliga.",
    "source": "Sky Sports",
    "url": "https://www.skysports.com/watch/video/13600970/stunners-from-kylian-mbappe-lamine-yamal-michael-olise-best-goals-from-across-europe",
    "img": "https://e2.365dm.com/26/10/1920x1080/michael-olise-football-sky-sports_7380779.jpg?20261019141401",
@@ -66,6 +143,17 @@
    "url": "https://www.marca.com/futbol/athletic/2026/10/19/guruzeta-pierde-toda-temporada.html",
    "img": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/10/18/17923185038331.jpg",
    "ts": "2026-10-19T12:33:08+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Matthäus: Was ihm bei Olise auffiel und er in Gladbach vermisst",
+   "summary": "Lothar Matthäus erfreut sich am FC Bayern und leidet mit Borussia Mönchengladbach. Der Rekordnationalspieler über die Tendenzen in der Bundesliga - und beim Ballon d'Or.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/matthaeus-was-ihm-bei-olise-auffiel-und-er-in-gladbach-vermisst-1262985/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-19T12:03:48+00:00"
   },
   {
    "club": null,
