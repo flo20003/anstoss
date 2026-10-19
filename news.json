@@ -1,1 +1,1275 @@
-{"updated":"2026-10-19T00:00:00+00:00","items":[]}
+{
+ "updated": "2026-10-19T10:24:17.582625+00:00",
+ "items": [
+  {
+   "club": "FCN",
+   "league": "2. Bundesliga",
+   "tag": "Spiel",
+   "title": "1. FC Nürnberg gegen 1. FC Kaiserslautern",
+   "summary": "Anstoß 24.10. 18:30 UTC",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-24T18:30:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "Borussia Dortmund gegen Eintracht Frankfurt",
+   "summary": "Anstoß 24.10. 16:30 UTC",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-24T16:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "SC Paderborn 07 gegen Hamburger SV",
+   "summary": "Anstoß 24.10. 13:30 UTC",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-24T13:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Becks Wiederwahl und Applaus für Krösche? Das bietet Frankfurts Mitgliederversammlung",
+   "summary": "Am Montagabend steigt die Mitgliederversammlung bei Eintracht Frankfurt. Neben der Präsidentenwahl steht auch die Reaktion des Plenums auf Markus Krösches Verabschiedung im Blickpunkt.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/becks-wiederwahl-und-applaus-fuer-kroesche-das-bietet-frankfurts-mitgliederversammlung-1262610/artikel#omrss",
+   "ts": "2026-10-19T10:11:39+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "Wer steigt auf? Wer steigt ab? Der Tabellenrechner zur 2. Liga",
+   "summary": "Die Länderspielpause ist vorbei, die 2. Bundesliga geht wieder los. Spiele die Saison 2026/27 mit dem kicker-Tabellenrechner durch ...",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wer-steigt-auf-wer-steigt-ab-der-tabellenrechner-zur-2-liga-999449/artikel#omrss",
+   "ts": "2026-10-19T10:04:45+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Operation nötig: Zoma fehlt Nürnberg mindestens bis Jahreswechsel",
+   "summary": "Dass Mohamed Ali Zoma dem 1. FC Nürnberg nach seiner Schulterverletzung bei Energie Cottbus fehlen wird, stand bereits fest. Seit Montag steht fest: Der Club muss monatelang auf seinen Topspieler verzichten.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/operation-noetig-zoma-fehlt-nuernberg-mindestens-bis-jahreswechsel-1262380/artikel#omrss",
+   "ts": "2026-10-19T09:50:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "News",
+   "title": "Sieben Neulinge und Saarbrückens linke Flanke: Die Elf des Tages in der 3. Liga",
+   "summary": "Sieben Akteure haben es am 10. Spieltag erstmals in dieser Saison in die Elf des Tages der 3. Liga geschafft, zwei Duisburger rückten zum zweiten Mal rein.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/sieben-neulinge-und-saarbrueckens-linke-flanke-die-elf-des-tages-in-der-3-liga-1262938/artikel#omrss",
+   "ts": "2026-10-19T09:00:22+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Mister Omnipräsent: Krauß beißt sich in Kölns Mittelfeld durch",
+   "summary": "Tom Krauß spielte schon in England und bei sechs verschiedenen Klubs in Deutschland. Nun ist er beim 1. FC Köln im Mittelfeld unverzichtbar geworden. Wird er im Rheinland endlich glücklich?",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/mister-omnipraesent-krauss-beisst-sich-in-koelns-mittelfeld-durch-1262893/artikel#omrss",
+   "ts": "2026-10-19T08:56:35+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Ricken: \"Natürlich hat man gewissen Druck\"",
+   "summary": "Lars Ricken spricht vor dem Champions-League-Spiel gegen Sabah FK über die langen Auswärtsreisen des BVB und die Abwehrstärke des Gegners aus Aserbaidschan.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ricken-natuerlich-hat-man-gewissen-druck-1262936/video#omrss",
+   "ts": "2026-10-19T08:53:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
+   "summary": "Markus Krösche steht nach übereinstimmenden italienischen Medienberichten dicht vor einer neuen Aufgabe bei der AC Mailand. Mit einer Einigung wird noch in dieser Woche gerechnet.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
+   "ts": "2026-10-19T08:49:23+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Ricken über Karetsas-Verletzung: \"Haben Schlimmeres befürchet\"",
+   "summary": "BVB-Geschäftsführer Lars Ricken spricht vor dem Abflug nach Baku über die Bänderverletzung von Konstantinos Karetsas und betont, dass der BVB auch diese Verletzung auffangen könne.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ricken-ueber-karetsas-verletzung-haben-schlimmeres-befuerchet-1262933/video#omrss",
+   "ts": "2026-10-19T08:39:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Gladbachs Absturz auf Rekordniveau - und kaum Hoffnung",
+   "summary": "Borussia Mönchengladbach bleibt trotz eines Trainerwechsels in der Krise. Wenig spricht dafür, dass sich das bald ändert.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-gladbachs-absturz-auf-rekordniveau-und-kaum-hoffnung-100.html",
+   "ts": "2026-10-19T08:11:40+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ekstase in Flensburg: Pytlick wirft SG per Freiwurf nach der Sirene zum Sieg",
+   "summary": "Das Topspiel der Handball-Bundesliga wurde den hohen Erwartungen gerecht. Die SG Flensburg-Handewitt gewann gegen die Füchse Berlin dramatisch. Ausgerechnet ein künftiger Füchse-Profi traf nach Ablauf der Sirene per Frei",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ekstase-in-flensburg-pytlick-wirft-sg-per-freiwurf-nach-der-sirene-zum-sieg-1262708/video#omrss",
+   "ts": "2026-10-19T07:48:55+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
+   "summary": "Beim torlosen Remis des BVB bei Union Berlin musste Konstantinos Karetsas nur wenige Minuten nach seiner Einwechslung das Spielfeld verletzt verlassen. Nun steht fest, dass der Grieche Dortmund erneut fehlen wird.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel#omrss",
+   "ts": "2026-10-19T07:30:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Die Erlösung des Luis Díaz",
+   "summary": "Wochenlang fehlten Luis Díaz Zentimeter, Glück oder Timing. Gegen RB Leipzig platzte beim Offensivspieler endlich der Knoten. Beim 6:1 gegen RB Leipzig glänzte Luis Díaz als Offensivmotor des FC Bayern.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-nach-wochen-voller-frust-die-erloesung-des-luis-daz-102.html",
+   "ts": "2026-10-19T06:48:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Noll-Festspiele: Die Alleingänge des \"besonderen Rundumpakets\"",
+   "summary": "Ein halbes Dutzend Rettungstaten, sicher abgefangene Flanken und - bis auf eine Ausnahme - ein kluger Spielaufbau. So präsentierte sich der Deutsch-Spanier in Bremen zwischen den Pfosten des Aufsteigers.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/noll-festspiele-die-alleingaenge-des-besonderen-rundumpakets-1262588/artikel#omrss",
+   "ts": "2026-10-19T05:59:59+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kommentar: Die Trennung von Eintracht Frankfurt und Markus Krösche war nötig",
+   "summary": "Dass die Zeit von Markus Krösche als Sportvorstand von Eintracht Frankfurt endet, ist schade. Der Manager hat zweifelsohne viele Verdienste. Richtig aber ist die Entscheidung dennoch - aus mehreren Gründen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/hr/hr-kommentar-zum-bosse-beben-bei-eintracht-frankfurt-kroesche-trennung-war-noetig-100.html",
+   "ts": "2026-10-19T05:52:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
+   "summary": "Im Topspiel bei Bayer 04 Leverkusen hat der SC Freiburg den Kürzeren gezogen. Julian Schuster musste sich dabei auch noch über das Verhalten der Gästefans ärgern.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel#omrss",
+   "ts": "2026-10-19T04:51:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Karlsruher SC bremst gegen Darmstadt freien Fall",
+   "summary": "Der Karlsruher SC konnte seine Negativserie in der 2. Fußball-Bundesliga beenden. Gegen das schwache Team des SV Darmstadt 98, das selbst große Sorgen hat, gelang ein deutlicher Erfolg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/karlsruhe-bremst-freien-fall,spielbericht-karlsruher-sc-sv-darmstadt-106.html",
+   "ts": "2026-10-18T22:02:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+   "summary": "Sechster Spieltag, sechste Niederlage: Im Duell der Bundesliga-Schlusslichter hat die TSG Hoffenheim dafür gesorgt, dass Borussia Mönchengladbach weiter punktlos bleibt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+   "ts": "2026-10-18T22:01:28+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Mainz verdient sich den Sieg gegen Schalke 04",
+   "summary": "Die Schalker Fans warten weiter auf einen Treffer ihrer Mannschaft im heimischen Stadion. Auch gegen Mainz bleibt Königsblau ohne Torerfolg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/mainz-verdient-sich-drei-punkte-gegen-harmlose-schalker,video-bundesliga-fc-schalke-04-1-fsv-mainz-05-100.html",
+   "ts": "2026-10-18T22:00:40+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Dortmund stolpert bei Union Berlin",
+   "summary": "Der BVB tritt weiter auf der Stelle. Bei Union Berlin kommen die Borussen nicht über ein torloses Remis hinaus und müssen darüber hinaus um Konstantinos Karetsas bangen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/dortmund-stolpert-bei-union-und-bangt-um-karetsas,video-bundesliga-1-fc-union-berlin-borussia-dortmund-100.html",
+   "ts": "2026-10-18T22:00:34+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: TSG Hoffenheim verschlimmert Gladbachs Krise",
+   "summary": "Die Krise von Borussia Mönchengladbach in der Bundesliga nimmt immer schlimmere Züge an. Gegen Hoffenheim verloren die \"Fohlen\" das sechste Spiel in Folge und warten weiterhin auf die ersten Punkte.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-verschlimmert-gladbachs-krise,video-bundesliga-borussia-moenchengladbach-tsg-1899-hoffenheim-100.html",
+   "ts": "2026-10-18T22:00:26+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Leverkusen sorgt für erste Freiburger Niederlage",
+   "summary": "Bayer Leverkusen hat dem SC Freiburg die erste Pleite der Saison zugefügt. Beim knappen Heimerfolg der Werkself trafen Maza und Schick.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/schick-und-maza-sorgen-fuer-erste-freiburger-niederlage,video-bundesliga-bayer-04-leverkusen-sc-freiburg-100.html",
+   "ts": "2026-10-18T22:00:25+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "2. Liga: Energie Cottbus erkämpft sich Remis gegen Nürnberg",
+   "summary": "Nürnberg verpasst es, durch das Unentschieden gegen Cottbus den Abstand zur Hertha zu verkürzen. Zudem wurde Torjäger Mohamed Ali Zoma verletzt ausgewechselt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/energie-cottbus-erkaempft-sich-remis-gegen-nuernberg,video-zweite-bundesliga-energie-cottbus-1-fc-nuernberg-100.html",
+   "ts": "2026-10-18T22:00:20+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Frankfurts Ebnoutalib entscheidet Spiel gegen Köln",
+   "summary": "Nach der Klatsche in Leipzig vergangene Woche zeigt Eintracht Frankfurt eine Reaktion und besiegt den 1. FC Köln dank einer überragenden Aktion.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/ebnoutalib-vollendet-asekos-geniestreich-gegen-koeln,video-bundesliga-eintracht-frankfurt-1-fc-koeln-100.html",
+   "ts": "2026-10-18T22:00:18+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Bayern München zeigt Leipzig die Grenzen auf",
+   "summary": "Bayern München hat die zuletzt aufstrebenden Leipziger in die Schranken gewiesen. Luis Diaz traf beim Heimsieg gleich dreimal.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/muenchens-machtdemonstration-zeigt-leipzig-die-grenzen-auf,video-bundesliga-fc-bayern-muenchen-rb-leipzig-100.html",
+   "ts": "2026-10-18T22:00:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Elversberg behält gegen Ausgburg die Oberhand",
+   "summary": "Die SV Elversberg sorgt in der Bundesliga weiter für Furore und fährt in einem vogelwilden Spiel einen Heimsieg gegen den FC Augsburg ein.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/elversberg-behaelt-gegen-augsburg-die-oberhand,video-bundesliga-sv-07-elversberg-fc-augsburg-100.html",
+   "ts": "2026-10-18T22:00:13+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Werder Bremen kommt auch gegen Paderborn zurück",
+   "summary": "Werder Bremen und Niclas Füllkrug beweisen weiter Comeback-Qualitäten. Gegen den SC Paderborn gelingt nach einem 0:2-Rückstand noch der Ausgleich.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/werders-comebacker-schlagen-auch-gegen-paderborn-zu,video-bundesliga-sv-werder-bremen-sc-paderborn-100.html",
+   "ts": "2026-10-18T22:00:10+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Matchwinner Muheim erlöst Hamburg gegen den VfB",
+   "summary": "Der Hamburger SV gewinnt gegen den VfB Stuttgart das dritte Bundesligaspiel in Serie und kann sich dabei auf seinen neuen Matchwinner verlassen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/wiederholungstaeter-muheim-erloest-hamburg-spaet,video-bundesliga-hamburger-sv-vfb-stuttgart-100.html",
+   "ts": "2026-10-18T22:00:08+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
+   "summary": "Auf eines können sie sich in Bremen in dieser Saison verlassen: Niclas Füllkrug dreht einen 0:2-Rückstand. Trotzdem hadert man bei Werder mit dem Punkt gegen Paderborn.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
+   "ts": "2026-10-18T21:53:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Im Kopf ist es drin\": Was Blessin Mut macht",
+   "summary": "Mönchengladbach-Trainer Alexander Blessin sieht trotz der 1:2-Niederlage gegen Hoffenheim positive Ansätze. Die tägliche Arbeit und die Bereitschaft seiner Mannschaft, die Vorgaben umzusetzen, geben ihm Mut.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/im-kopf-ist-es-drin-was-blessin-mut-macht-1262839/video#omrss",
+   "ts": "2026-10-18T21:02:48+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
+   "summary": "Der FC Bayern schenkte RB Leipzig im Topspiel sechs Tore ein, sechs Münchner schafften es nun auch in die kicker-Elf des Spieltags. Drei Spieler verdienten sich die Note 1, nur zwei davon kicken beim Rekordmeister.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow#omrss",
+   "ts": "2026-10-18T19:57:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Aus der zweiten Reihe in den Mittelpunkt: Prass reißt die TSG-Kollegen mit",
+   "summary": "Ausgerechnet Alexander Prass, der lange in der zweiten Reihe geschmort hat, beendet in Gladbach mit einem Tor, einer Vorlage und als Aggressiv-Leader die Hoffenheimer Niederlagenserie.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/aus-der-zweiten-reihe-in-den-mittelpunkt-prass-reisst-die-tsg-kollegen-mit-1262772/artikel#omrss",
+   "ts": "2026-10-18T19:01:02+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
+   "summary": "Borussia Mönchengladbach hat im sechsten Saisonspiel zum sechsten Mal verloren. Aber nicht nur die Niederlage ärgerte Trainer Alexander Blessin, sondern vor allem die Art und Weise, wie die Fohlen sich phasenweise präsen",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel#omrss",
+   "ts": "2026-10-18T18:39:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Zocken im Käfig\": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier",
+   "summary": "Beim 2:1 gegen Freiburg trifft Ibrahim Maza nicht nur selbst, sondern liefert auch eine traumhafte Vorlage für Rekordtorschütze Patrik Schick. Wie der Spielmacher des Werksklubs die Szene erklärt - und wer nun noch vor L",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/zocken-im-kaefig-maza-erklaert-zauber-assist-schick-nimmt-ein-duo-ins-visier-1262757/artikel#omrss",
+   "ts": "2026-10-18T18:21:56+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Total ärgerlich\": Schuster hadert mit den Gegentoren",
+   "summary": "Julian Schuster hadert nach der 1:2-Niederlage gegen Bayer Leverkusen mit den Gegentoren seiner Mannschaft.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/total-aergerlich-schuster-hadert-mit-den-gegentoren-1262796/video#omrss",
+   "ts": "2026-10-18T18:21:45+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Premier League: Joker Madueke rettet Arsenal bei Bayern-Generalprobe",
+   "summary": "Dieser FC Arsenal muss den Bayern keine Angst machen: Bei Nottingham Forest haben die Londoner eine schwache Partie gezeigt, aber spät gewonnen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/premier-league/joker-madueke-rettet-arsenal-bei-bayern-generalprobe,spielbericht-nottingham-arsenal-100.html",
+   "ts": "2026-10-18T18:02:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Wie findest du die Trennung von Frankfurt und Krösche?",
+   "summary": "Einen Tag vor der Mitgliederversammlung hat Eintracht Frankfurt dem Wunsch von Markus Krösche entsprochen und den Sportvorstand freigestellt. Was hältst du von der Entscheidung?",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wie-findest-du-die-trennung-von-frankfurt-und-kroesche-1262755/artikel#omrss",
+   "ts": "2026-10-18T17:41:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
+   "summary": "Die TSG Hoffenheim wird voraussichtlich länger auf Nathan De Cat verzichten müssen. Das belgische Top-Talent muss sogar operiert werden.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel#omrss",
+   "ts": "2026-10-18T17:40:07+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bestes Erkenntnis: \"Wir waren zu gierig\"",
+   "summary": "Fußball ist bekanntlich ein Fehlerspiel - und zwei Fehler kamen den SC Freiburg in Leverkusen teuer zu stehen. Der Ärger war nach Abpfiff entsprechend groß.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bestes-erkenntnis-wir-waren-zu-gierig-1262707/artikel#omrss",
+   "ts": "2026-10-18T16:50:11+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Eintracht Frankfurt stellt Sportvorstand Krösche frei",
+   "summary": "Paukenschlag am Sonntagabend: Eintracht Frankfurt hat Sportvorstand Markus Krösche mit sofortiger Wirkung freigestellt. Der bisherige Vorstandssprecher Axel Hellmann wird Vorstandsvorsitzender und übernimmt zudem Krösche",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/eintracht-frankfurt-stellt-sportvorstand-kroesche-frei-1262686/artikel#omrss",
+   "ts": "2026-10-18T16:35:04+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
+   "summary": "Bayer 04 Leverkusen setzt sich knapp gegen den SC Freiburg durch und zieht mit den Breisgauern in der Fußball-Bundesliga gleich. Überragender Spieler war Bayer-Offensivmann Ibrahim Maza.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
+   "ts": "2026-10-18T16:15:54+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Premier League: Sieglos-Serie von Man United hält in Leeds an",
+   "summary": "Manchester Uniteds Saison bleibt zäh: Auch beim \"Roses Derby\" gegen den Rivalen Leeds United gab es für die \"Red Devils\" keinen Sieg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/premier-league/man-uniteds-sieglosserie-haelt-im-roses-derby-an,spielbericht-leeds-man-united-100.html",
+   "ts": "2026-10-18T15:11:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
+   "summary": "Auch nach sechs Spieltagen wartet Schalke 04 auf ein echtes Stürmer-Tor, doch dieses Manko geriet angesichts der schlechten Gesamtleistung gegen Mainz sogar noch in den Hintergrund. Die Schalker fällten nach dem 0:1 hart",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel#omrss",
+   "ts": "2026-10-18T14:54:28+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Union baut Serie mit Sieg gegen Nürnberg aus",
+   "summary": "Das Frauen-Team des 1. FC Union hat seine aufsteigende Form bestätigt. Am Sonntagnachmittag setzten sich die Köpenickerinnen im Bundesliga-Heimspiel gegen den 1. FC Nürnberg mit 2:1 durch.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/rbb/rbb-bundesliga-union-frauen-bauen-serie-mit-sieg-gegen-nuernberg-aus-100.html",
+   "ts": "2026-10-18T14:36:31+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Noch nie erlebt\": Werder muss Spiel krankheitsbedingt absagen",
+   "summary": "Werder Bremen stehen für die geplante Bundesliga-Partie der Frauen gegen Hoffenheim nicht genügend Spielerinnen zur Verfügung. Das Spiel wird verschoben.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/rb/rb-zu-viele-ausfaelle-heutiges-spiel-von-werders-fussballerinnen-abgesagt-100.html",
+   "ts": "2026-10-18T13:29:28+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Gerücht",
+   "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
+   "summary": "Der VfB Stuttgart präsentiert sich beim HSV in vielerlei Hinsicht als Wiederholungstäter - doch eine Debatte nervt Sportchef Fabian Wohlgemuth.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel#omrss",
+   "ts": "2026-10-18T12:56:51+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Dortmunds Suche nach der Durchschlagskraft",
+   "summary": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/dortmunds-suche-nach-der-durchschlagskraft-1262383/artikel#omrss",
+   "ts": "2026-10-18T12:53:34+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
+   "summary": "Der 27-Jährige ist zurück auf seiner angestammten Position. Dort kann er seine Stärken deutlich besser ausspielen als auf der Zehn.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/das-ende-der-wilden-aktionen-wie-schaefer-union-jetzt-stabilisiert-1262552/artikel#omrss",
+   "ts": "2026-10-18T11:50:23+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Keine Punkte, keine Leistung - Schalke macht sich Sorgen",
+   "summary": "Der FC Schalke 04 zeigt gegen Mainz 05 die schwächste Saisonleistung. Die Alarmglocken schrillen bei allen Beteiligten.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
+   "ts": "2026-10-18T10:44:03+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Schick ist erst der Elfte: Diese Spieler trafen an den ersten fünf Spieltagen",
+   "summary": "Patrik Schick hat an jedem der ersten fünf Spieltage getroffen - das ist vor ihm nur zehn anderen Bundesliga-Spielern gelungen. Wem genau? Und welches Duo verlängerte die Serie noch weiter?",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/schick-ist-erst-der-elfte-diese-spieler-trafen-an-den-ersten-fuenf-spieltagen-1260404/slideshow#omrss",
+   "ts": "2026-10-18T09:31:25+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Keine Spitzenmannschaft\" - VfB Stuttgart fehlt der Flow",
+   "summary": "Nach dem späten 0:1 beim HSV nimmt Kapitän Deniz Undav den VfB Stuttgart in die Pflicht. Vor dem Atlético-Kracher am Dienstag fehlt den Schwaben der Flow.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/swr/swr-keine-spitzenmannschaft--undavs-klartext-als-wachmacher-vor-dem-atltico-kracher-100.html",
+   "ts": "2026-10-18T08:44:30+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Oldschool-Union ist zurück",
+   "summary": "Ein torloses Remis, das wie eine weitere Annäherung zwischen Team und Trainer wirkt. Union verteidigt leidenschaftlich gegen den BVB, wie zu alten Zeiten. Von den Defensivproblemen zum Saisonstart keine Spur.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/rbb/rbb-nach-00-gegen-bvb-oldschool-union-ist-zurueck-100.html",
+   "ts": "2026-10-18T08:17:46+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Polzin: \"Der Weg, dem wir uns als HSV verschrieben haben\"",
+   "summary": "Obwohl der HSV gegen Stuttgart den dritten Liga-Sieg in Serie einfuhr, wollte Coach Merlin Polzin danach nicht in Euphorie verfallen. Er erinnerte stattdessen auch an die schwierigen Anfangswochen der Saison zurück.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video#omrss",
+   "ts": "2026-10-17T20:49:25+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Kovac zu Karetsas-Verletzung: \"Nicht vom Glück geküsst\"",
+   "summary": "BVB-Trainer Niko Kovac äußert sich zur Verletzung von Konstantinos Karetsas, der bei einer Aktion unglücklich auf dem Fuß landete. Ob die Verletzung schwerwiegender ist, muss sich noch zeigen.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kovac-zu-karetsas-verletzung-nicht-vom-glueck-gekuesst-1262405/video#omrss",
+   "ts": "2026-10-17T18:44:55+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bayern schießt sich gegen Leipzig den Frust von der Seele",
+   "summary": "RB Leipzig hat darunter leiden müssen, dass der FC Bayern München zuvor zwei Enttäuschungen erlebt hatte. Luis Diaz war beim Schützenfest des Rekordmeisters der Hauptakteur.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+   "ts": "2026-10-17T18:33:17+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Kovac unzufrieden: \"Für unsere Ansprüche zu wenig\"",
+   "summary": "Niko Kovac konnte mit dem torlosen Remis seiner Dortmunder bei Union nicht zufrieden sein. Besonders die fehlende Präzision ärgerte den Coach.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kovac-unzufrieden-fuer-unsere-ansprueche-zu-wenig-1262396/video#omrss",
+   "ts": "2026-10-17T18:16:19+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bremen schafft gegen Paderborn das nächste Zwei-Tore-Comeback",
+   "summary": "Drei Mal in Folge lag Werder Bremen in der Bundesliga mit 0:2 zurück, drei Mal hat Bremen nicht verloren. Gegen den SC Paderborn war sogar ein Sieg drin.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
+   "ts": "2026-10-17T16:44:44+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Faktor Volkspark, Muheim und der \"neu erfundene HSV\"",
+   "summary": "Wie schon in der Vorwoche war es Miro Muheim, der den HSV zum späten Sieg schoss. Das Volksparkstadion bebte, als der Schweizer den Ball mit einem Strich ins Stuttgarter Tor jagte.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/faktor-volkspark-muheim-und-der-neu-erfundene-hsv-1262344/video#omrss",
+   "ts": "2026-10-17T16:43:02+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Muheim als Hamburgs Matchwinner gegen Stuttgart",
+   "summary": "Der HSV und der VfB liefern sich ein ausgeglichenes Duell mit Chancen auf beiden Seiten - bis Muheim den Hammer rausholt. Der Schweizer erfindet sich gerade neu.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/muheims-knaller-bringt-dem-hsv-dritten-sieg,spielbericht-hamburger-sv-vfb-stuttgart-102.html",
+   "ts": "2026-10-17T16:33:42+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
+   "summary": "Borussia Dortmund ist hat zum dritten Mal in Folge nicht gewonnen - und schoss in einem unansehnlichen Spiel bei Union Berlin erneut kein Tor.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
+   "ts": "2026-10-17T16:28:04+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
+   "summary": "Schalke 04 bleibt ohne Heimtor, Mainz 05 gewinnt nur auswärts: Beim Mainzer Sieg auf Schalke setzten sich zwei Serien fort.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
+   "ts": "2026-10-17T16:00:52+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
+   "summary": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel#omrss",
+   "ts": "2026-10-17T15:46:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
+   "summary": "Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+   "ts": "2026-10-17T15:45:41+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "1. FC Union Berlin 0:0 Borussia Dortmund",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-17T13:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "Hamburger SV 1:0 VfB Stuttgart",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-17T13:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Pauline Bremer mit Dreierpack im Jubiläumsspiel",
+   "summary": "Der 1. FC Köln hat am 7. Spieltag der Frauen-Bundesliga einen verdienten Sieg über den Hamburger SV eingefahren.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-pauline-bremer-mit-dreierpack-im-jubilaeumsspiel-100.html",
+   "ts": "2026-10-17T12:11:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
+   "summary": "Die Kritik an Maximilian Beier wehrte Niko Kovac auf der Pressekonferenz am Freitag mit Lob ab. Der einstige Mittelstürmer wird auch in den kommenden Wochen ein wichtiger Faktor für Borussia Dortmund bleiben.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel#omrss",
+   "ts": "2026-10-17T06:26:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln",
+   "summary": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+   "ts": "2026-10-16T21:16:05+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Klose lobt Wollitz: \"Fragen Sie lieber den Mann rechts von mir\"",
+   "summary": "Miroslav Klose ist trotz des 1:1-Remis gegen Energie Cottbus zufrieden mit seiner Mannschaft. Der FCN-Coach wusste, welcher Fußball seine Mannschaft erwartet. Pele Wollitz sprach anschließend über sein Vermächtnis für di",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/klose-lobt-wollitz-fragen-sie-lieber-den-mann-rechts-von-mir-1262150/video#omrss",
+   "ts": "2026-10-16T20:18:54+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "Schulter ausgekugelt: Nürnberg sorgt sich um Top-Torjäger Zoma",
+   "summary": "Er ist der Top-Torjäger des 1. FC Nürnberg und der 2. Bundesliga: Nun droht Mohamed Ali Zoma aber eine Zwangspause. Der italienische Nationalstürmer hat sich bei Energie Cottbus die Schulter ausgekugelt.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/schulter-ausgekugelt-nuernberg-sorgt-sich-um-top-torjaeger-zoma-1262095/artikel#omrss",
+   "ts": "2026-10-16T18:49:52+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "2. Bundesliga",
+   "tag": "Spiel",
+   "title": "Energie Cottbus 1:1 1. FC Nürnberg",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-16T16:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Stadionallianzen - was im Westen schiefläuft",
+   "summary": "Warum funktioniert in NRW nicht, was anderswo erfolgreich ist? Fanprojekte und Kommunen fühlen sich übergangen. Ist das Projekt bereits gescheitert?",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/stadionallianzen-was-im-westen-schief-laeuft,stadionallianzen-fussball-100.html",
+   "ts": "2026-10-16T15:45:39+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
+   "summary": "Das 2:2 gegen Bremen war ein Rückschlag, das 0:1 in Bodö ein echter Dämpfer. Doch in anspruchsvollen Wochen von Borussia Dortmund bleibt nicht viel Zeit, um darüber nachzudenken. Gegen Union Berlin will Niko Kovac auf di",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel#omrss",
+   "ts": "2026-10-16T12:29:42+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
+   "summary": "Niko Kovac stellte sich auf der BVB-PK vor Maximilian Beier, der immer häufiger in der Kritik steht. Für den Dortmund-Trainer nicht nachvollziehbar.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video#omrss",
+   "ts": "2026-10-16T11:00:56+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
+   "summary": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video#omrss",
+   "ts": "2026-10-16T10:40:56+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Klose fordert Energie gegen Cottbus: \"Mit das schwierigste Spiel\"",
+   "summary": "Miroslav Klose warnt vor dem Auswärtsspiel in Cottbus und benennt es als eine der schwierigsten Aufgaben der Saison. Der Nürnberg-Trainer fordert Energie, wie in der zweiten Hälfte des 4:4 gegen Wolfsburg am vergangenen",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/klose-fordert-energie-gegen-cottbus-mit-das-schwierigste-spiel-1261803/video#omrss",
+   "ts": "2026-10-15T15:27:41+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
+   "summary": "Bei beiden Siegen des Hamburger SV in dieser Saison standen sowohl Nicolai Remberg als auch Albert Sambi Lokonga auf der Doppelsechs in der Startelf. Gegen Stuttgart droht dort nun eine Komplettrotation.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel#omrss",
+   "ts": "2026-10-15T13:36:02+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Das Bundesliga-Quiz zum 6. Spieltag",
+   "summary": "Zwischen den 2. und 3. Spieltagen in der Champions und Europa League findet der 6. Spieltag in der Bundesliga statt. Erholen sich der FC Bayern und Borussia Dortmund von ihren Dämpfern in Norwegen? Wie reagiert Frankfurt",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/das-bundesliga-quiz-zum-6-spieltag-1261672/artikel#omrss",
+   "ts": "2026-10-15T09:04:35+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Mangelhafte Offensive: Die Noten zur BVB-Pleite bei Bodö/Glimt",
+   "summary": "Borussia Dortmund hat nach einer schwachen Leistung verdient mit 0:1 bei Außenseiter Bodö/Glimt verloren. Zwei BVB-Spieler haben für ihren Auftritt die kicker-Note 5 erhalten.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/mangelhafte-offensive-die-noten-zur-bvb-pleite-bei-bodoe-glimt-1261611/slideshow#omrss",
+   "ts": "2026-10-15T08:55:40+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Vierte CL-Auswärtsniederlage in Folge: \"Kein gutes Omen für die nächsten Wochen\"",
+   "summary": "Der BVB musste gegen Bodö/Glimt die vierte Auswärtsniederlage in der Champions League in Serie hinnehmen. Warum das kein gutes Omen für die nächsten Wochen ist, erklärt kicker-Reporter Patrick Kleinmann.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/vierte-cl-auswaertsniederlage-in-folge-kein-gutes-omen-fuer-die-naechsten-wochen-1261533/video#omrss",
+   "ts": "2026-10-14T22:59:24+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Kovac bedient nach Bodö-Pleite: \"Defensiv nicht stattgefunden\"",
+   "summary": "Niko Kovac äußert sich zur 1:0-Niederlage gegen Bodö/Glimt und kritisiert vor allem das Defensivverhalten seiner Mannschaft. Die Verantwortung für die Aufstellung nimmt der BVB-Trainer auf sich.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kovac-bedient-nach-bodoe-pleite-defensiv-nicht-stattgefunden-1261532/video#omrss",
+   "ts": "2026-10-14T22:57:11+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Kovac nach Niederlage am Polarkreis: \"Nehme ich auf meine Kappe\"",
+   "summary": "Fast eine Stunde lang verschlief Borussia Dortmund die Partie bei FK Bodö/Glimt, erwachte erst nach einem Rückstand. Ein Comeback gelang anschließend auch deshalb nicht mehr, weil insbesondere die letzte Leidenschaft gef",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kovac-nach-niederlage-am-polarkreis-nehme-ich-auf-meine-kappe-1261517/artikel#omrss",
+   "ts": "2026-10-14T22:12:13+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Nmecha: \"Nicht so tun, als ob alles schlecht ist\"",
+   "summary": "Borussia Dortmund verlor bei Bodö/Glimt mit 0:1. BVB-Mittelfeldspieler Felix Nmecha versuchte in der Mixed Zone die Gründe dafür finden, warnte aber auch davor \"alles schlecht\" zu reden.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/nmecha-nicht-so-tun-als-ob-alles-schlecht-ist-1261523/video#omrss",
+   "ts": "2026-10-14T21:57:26+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Book: Kunstrasen \"war ein Nachteil, definitiv\"",
+   "summary": "Ole Book sprach nach der enttäuschenden 0:1-Pleite des BVB gegen Bodö/Glimt über den ungewohnten Untergrund und die Leistung der Dortmunder.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/book-kunstrasen-war-ein-nachteil-definitiv-1261521/video#omrss",
+   "ts": "2026-10-14T21:53:17+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "HSV: Erster Auftrag für das Remberg-Double",
+   "summary": "Beim Hamburger 3:2-Erfolg in Hoffenheim kam Kofi Amoako zu seinen ersten Einsatzminuten seit seinem Wechsel. Weil der Kapitän mit Kreuzbandriss voraussichtlich bis zum Saisonende ausfällt, ist er fortan als Abräumer im M",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel#omrss",
+   "ts": "2026-10-14T13:20:46+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "\"Ey, wir fressen die auf\": Wie sich der FCN Respekt verschafft",
+   "summary": "Der 1. FC Nürnberg kann nicht nur in Führung gehen, sondern auch Rückstände aufholen. Nicht nur für die eigenen Köpfe ist das eine wichtige Erkenntnis.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ey-wir-fressen-die-auf-wie-sich-der-fcn-respekt-verschafft-1260454/artikel#omrss",
+   "ts": "2026-10-13T11:40:16+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Poulsens Quoten-Geheimnis",
+   "summary": "Beim 3:2-Auswärtssieg des Hamburger SV in Hoffenheim hat Yussuf Poulsen sein zweites Saisontor erzielt und damit bereits seine Vorjahres-Quote verdoppelt. Es ist nicht die einzige Zahl, die der Sturm-Routinier gesteigert",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel#omrss",
+   "ts": "2026-10-13T11:27:29+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
+   "summary": "In Hoffenheim gehörte Miro Muheim erstmals in dieser Spielzeit zum HSV-Kader und hatte als Joker direkt entscheidenden Anteil am 3:2-Sieg. Die Perspektive des Schweizers verändert sich dadurch jedoch zumindest nicht zwan",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel#omrss",
+   "ts": "2026-10-12T16:49:50+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Nach nur acht Monaten: Fink nicht mehr Trainer von Samsunspor",
+   "summary": "Zuletzt gab sich Thorsten Fink als Trainer des türkischen Erstligisten Samsunspor noch kämpferisch. Kurze Zeit nach seiner viral gegangenen Motivationsrede ist er seinen Job in der Türkei aber los. Nach nur acht Monaten.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/nach-nur-acht-monaten-fink-nicht-mehr-trainer-von-samsunspor-1260642/artikel#omrss",
+   "ts": "2026-10-12T16:30:09+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der FCN ein Top-Team? Klose stimmt zu",
+   "summary": "Mit welcher Wucht und Klasse die junge FCN-Mannschaft nach der Pause gegen die Wölfe ein 0:2 dreht, imponiert und zeigt, dass sie zu Recht auf Rang 2 steht.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/der-fcn-ein-top-team-klose-stimmt-zu-1260200/artikel#omrss",
+   "ts": "2026-10-12T11:35:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Auch HSV-Eintracht: Sogar drei Spiele der 2. Pokalrunde laufen im Free-TV",
+   "summary": "Seit Montagvormittag steht fest, dass mit dem Frankfurter Gastspiel in Hamburg auch eine dritte Partie der 2. Pokalrunde live im Free-TV übertragen wird.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/auch-hsv-eintracht-sogar-drei-spiele-der-2-pokalrunde-laufen-im-free-tv-1260486/artikel#omrss",
+   "ts": "2026-10-12T09:02:31+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+   "summary": "Der 1. FC Köln hat Borussia Mönchengladbach in einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
+   "ts": "2026-10-12T07:28:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg",
+   "summary": "Am 5. Spieltag der laufenden Bundesligasaison hat Union Berlin gegen Elversberg den ersten Sieg eingefahren. In einer umkämpften Partie erzielte Livan Burcu das entscheidende Tor.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
+   "ts": "2026-10-11T22:00:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Leverkusen behält bei Spektakel in Mainz die Oberhand",
+   "summary": "Mainz 05 reichen drei eigene Treffer nicht, um etwas Zählbares aus dem Heimspiel gegen Bayer Leverkusen mitzunehmen. Die Werkself holt ihren ersten Bundesliga-Auswärtssieg der Saison.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
+   "ts": "2026-10-11T22:00:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Augsburg nutzt Neuer-Patzer bei Remis gegen Bayern",
+   "summary": "Der FC Augsburg und der FC Bayern München trennen sich mit 2:2. Bereits die erste Szene des Spiels sorgte für Spektakel.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
+   "ts": "2026-10-11T22:00:24+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Freiburg dank Goto am Platz an der Sonne",
+   "summary": "Der SC Freiburg steht nach dem 5. Spieltag an der Tabellenspitze der Bundesliga. Gegen Schalke 04 gelang der Siegtreffer sogar mit einem Mann weniger auf dem Platz.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
+   "ts": "2026-10-11T22:00:23+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: El Malas Traumtor beschert Köln den Derbysieg",
+   "summary": "Borussia Mönchengladbach wartet auch nach dem rheinischen Derby auf den ersten Punkt in dieser Bundesliga-Saison. Said El Malas Traumtor entscheidet ein umkämpftes Spiel.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
+   "ts": "2026-10-11T22:00:22+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Dreifacher Nkunku überragt bei Leipziger Kantersieg",
+   "summary": "Eintracht Frankfurt liegt in Leipzig bereits zur Pause mit 0:4 hinten und kassiert am Ende ein halbes Dutzend Gegentore. RB überzeugt auf ganzer Linie und verschärft die SGE-Krise.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
+   "ts": "2026-10-11T22:00:13+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Führich-Hammer besiegelt Paderborns Pleite gegen Stuttgart",
+   "summary": "Trotz einer kämpferischen Leistung in der zweiten Hälfte muss sich der SC Paderborn dem VfB Stuttgart mit 0:2 geschlagen geben. Chris Führich sorgt mit dem 2:0 für die Entscheidung.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
+   "ts": "2026-10-11T22:00:08+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Rückkehrer Füllkrug bringt BVB zum Schweigen",
+   "summary": "Dortmund und Bremen trennen sich nach einer spektakulären Schlussphase mit einem Unentschieden. Ausgerechnet Niclas Füllkrug entreißt seinem Ex-Klub den sicher geglaubten Sieg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
+   "ts": "2026-10-11T22:00:04+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Muheims Last-Minute-Tor krönt HSV-Comeback",
+   "summary": "Der Hamburger SV nimmt drei Punkte aus Hoffenheim mit. In einer hart umkämpften Partie fiel die Entscheidung zum 3:2 für den HSV erst in der Nachspielzeit.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
+   "ts": "2026-10-11T22:00:01+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Löst nun Amoako die HSV-Probleme?",
+   "summary": "Der Kreuzbandriss von Nicolai Remberg überschattet den Hamburger Sieg in Hoffenheim. Immerhin: Anders als in der Vorsaison ist mit Sommer-Zugang Kofi Amoako nun ein Profi im Kader, der vom Profil her zum direkten Ersatz",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel#omrss",
+   "ts": "2026-10-11T19:15:50+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
+   "summary": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+   "ts": "2026-10-11T18:26:55+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
+   "summary": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+   "ts": "2026-10-11T12:04:34+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
+   "summary": "In den ersten Auswärtssieg des Hamburger SV in Hoffenheim mischte sich ein bitterer Beigeschmack in den Freudenbecher: Nicolai Remberg verletzte sich dabei - schwer, wie sich nun nach der genauen Diagnose herausstellte.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kreuzbandriss-remberg-fehlt-dem-hsv-lange-1260093/artikel#omrss",
+   "ts": "2026-10-11T09:13:20+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Keine Zeit zum Verschnaufen in Nürnberg: \"Unfassbare Emotionen\"",
+   "summary": "Diese Nachspielzeit in Nürnberg zwischen dem FCN und Wolfsburg wird allen Stadionbesuchern noch lange in Erinnerung bleiben. Die Partie hielt unzählige Wendungen parat, ehe am Ende der VfL über das 4:4 jubeln durfte.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/keine-zeit-zum-verschnaufen-in-nuernberg-unfassbare-emotionen-1260029/video#omrss",
+   "ts": "2026-10-10T21:25:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hattrick Nkunku - Leipziger Kantersieg gegen Frankfurt",
+   "summary": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+   "ts": "2026-10-10T19:55:46+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Muheim wird zum HSV-Helden: \"Er kam, er brauchte ein bisschen, er siegte\"",
+   "summary": "Miro Muheim nutzte seinen ersten Saisoneinsatz direkt dazu, der Held des Tages für den HSV zu werden. Mit einer Vorlage und einem Treffer sicherte er den Rothosen den Sieg.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video#omrss",
+   "ts": "2026-10-10T17:53:19+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Verdacht auf Kreuzbandriss: HSV bangt um Leader Remberg",
+   "summary": "Als der glückliche 3:2-Sieg in Hoffenheim perfekt war, drückte Merlin Polzin seinen Kapitän ganz fest und innig an sich. Nicolai Remberg war bereits in der ersten Hälfte mit Verdacht auf Kreuzbandriss ausgeschieden - der",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel#omrss",
+   "ts": "2026-10-10T16:57:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Stuttgart reicht gegen Paderborn eine starke Halbzeit",
+   "summary": "Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
+   "ts": "2026-10-10T16:55:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Union feiert erlösenden Sieg gegen Elversberg",
+   "summary": "Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
+   "ts": "2026-10-10T16:18:23+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg",
+   "summary": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
+   "ts": "2026-10-10T15:54:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
+   "summary": "Nach der Länderspielpause patzt der FC Bayern München im bayerischen Bundesliga-Duell beim Angstgegner FC Augsburg. Im Mittelpunkt: Manuel Neuer und Robin Fellhauers Bundesliga-Rekord.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
+   "ts": "2026-10-10T15:53:09+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
+   "summary": "2008 wurde das Spiel zwischen dem 1. FC Nürnberg und dem VfL Wolfsburg abgebrochen - der erste Spielabbruch der Bundesliga-Geschichte aufgrund von Regen. Das Wiederholungsspiel gewann der Club mit 1:0.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video#omrss",
+   "ts": "2026-10-10T11:53:59+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Bestandsaufnahme extrem: Auf diese Faktoren kommt es für den FCN an",
+   "summary": "Der 1. FC Nürnberg steht vor dem Härtetest schlechthin, am Samstag ist der VfL Wolfsburg zum Topspiel zu Gast. Was gegen den Aufstiegsfavoriten Nummer 1 wichtig wird ...",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bestandsaufnahme-extrem-auf-diese-faktoren-kommt-es-fuer-den-fcn-an-1258809/artikel#omrss",
+   "ts": "2026-10-10T08:13:28+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Wer überträgt 1. FC Nürnberg gegen VfL Wolfsburg live im Free-TV und Stream?",
+   "summary": "Im Topspiel des 7. Spieltags der 2. Liga treffen der 1. FC Nürnberg und der VfL Wolfsburg aufeinander. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wer-uebertraegt-1-fc-nuernberg-gegen-vfl-wolfsburg-live-im-free-tv-und-stream-1257317/artikel#omrss",
+   "ts": "2026-10-10T06:38:32+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
+   "summary": "Am Samstag steigt mal wieder das derzeit einzige Duell zwischen bayerischen Erstligisten. Der FC Augsburg empfängt die Bayern. Ein Blick auf die Bilanz des Rekordmeisters gegen Teams aus dem Freistaat - mit legendären Du",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel#omrss",
+   "ts": "2026-10-10T06:34:32+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bremens Füllkrug schockiert den BVB in der Nachspielzeit",
+   "summary": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+   "ts": "2026-10-09T21:17:49+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Mit \"halbvollem Tank\" ans Ziel? Auch Moffi ist eine Kaderoption gegen Hoffenheim",
+   "summary": "Der Hamburger SV kehrt aus der Länderspielpause zurück - mit Ausfällen, aber auch rechtzeitig fit gewordenen Rückkehrern. Hinter Zakaria El Ouahdi steht ein Fragezeichen.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel#omrss",
+   "ts": "2026-10-08T14:20:02+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Rassismus und Gewalt: Pherai über \"das schlimmste Spiel meiner Karriere\"",
+   "summary": "Immanuel Pherai war mit der Nationalmannschaft von Suriname auf Länderspielreise - und erlebte dort das schlimmste Spiel seiner Karriere. Nach seiner Rückkehr nach Hamburg sprach der HSV-Profi über das Geschehene.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel#omrss",
+   "ts": "2026-10-08T13:23:14+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Klose: \"Können das zu Recht als Topspiel werten\"",
+   "summary": "Nürnberg-Trainer Miroslav Klose spricht auf der Pressekonferenz vor dem Spiel gegen Wolfsburg über die Stärken und Schwächen beider Mannschaften und wieso es ein Topspiel werden kann.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/klose-koennen-das-zu-recht-als-topspiel-werten-1259336/video#omrss",
+   "ts": "2026-10-08T12:45:08+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Das Bundesliga-Quiz zum 5. Spieltag",
+   "summary": "Nach der langen Länderspielpause steht die Bundesliga wieder im Fokus. Legt der BVB gegen Bremen am 5. Spieltag vor und bleibt Spitzenreiter? Die Bayern müssen zu stark gestarteten Augsburgern. Gladbachs neuer Coach Alex",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel#omrss",
+   "ts": "2026-10-07T16:40:39+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
+   "summary": "Jeder auf dem Fußballplatz hat seinen Job. Der Stürmer soll Tore schießen, der Torwart soll Tore verhindern. Aber was, wenn sich die Rollen drehen? 38 Torwarttore wurden in der Bundesliga-Historie erzielt - von insgesamt",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video#omrss",
+   "ts": "2026-10-07T10:32:24+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
+   "summary": "Nach der frühen Auswechslung im Test gegen den FC Kopenhagen hatte Yussuf Poulsen am Sonntag umgehend Entwarnung gegeben. Zumindest beim Start in die neue Trainingswoche aber arbeitete der Sturm-Routinier noch individuel",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel#omrss",
+   "ts": "2026-10-07T10:19:53+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Langwierige Gerichtsprozesse vermeiden: Bundesliga-Präsidium setzt bei 50+1 auf Konsens",
+   "summary": "Das Bundesliga-Präsidium strebt nach der finalen Einschätzung des Bundeskartellamtes zur 50+1-Regel eine gemeinsame Lösung mit den Ausnahmeklubs an. Dazu sollen dem Ligaverband im ersten Halbjahr 2027 finale Vorschläge z",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/langwierige-gerichtsprozesse-vermeiden-bundesliga-praesidium-setzt-bei-501-auf-konsens-1258736/artikel#omrss",
+   "ts": "2026-10-06T10:04:32+00:00"
+  }
+ ]
+}
