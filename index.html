@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Anstoß</title>
+<style>
+:root{--bg:#f3f5f1;--surface:#fff;--ink:#14201a;--muted:#5d6b63;--line:#d9dfd8;--accent:#0f6b3a;--accent-ink:#fff;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e1511;--surface:#16201a;--ink:#eaf1ec;--muted:#93a399;--line:#273329;--accent:#4cc27f;--accent-ink:#06150c;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0e1511;--surface:#16201a;--ink:#eaf1ec;--muted:#93a399;--line:#273329;--accent:#4cc27f;--accent-ink:#06150c;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 "Helvetica Neue",Arial,sans-serif}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px 48px}
+header{padding:20px 0 8px}
+h1{margin:0;font-size:30px;font-weight:800;letter-spacing:-.02em}
+.sub{margin:2px 0 0;color:var(--muted);font-size:14px}
+.demo{margin:12px 0 4px;padding:10px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--surface);font-size:13px;color:var(--muted);border-radius:6px}
+.layout{display:flex;align-items:flex-start}
+.layout .wrap{flex:1;min-width:0}
+#side{background:var(--surface);border-right:1px solid var(--line);position:fixed;z-index:20;top:0;bottom:0;left:0;width:min(84vw,300px);padding:calc(20px + env(safe-area-inset-top,0px)) 16px 24px;overflow-y:auto;transform:translateX(-100%);visibility:hidden}
+body.open #side{transform:none;visibility:visible}
+.sh{display:flex;justify-content:space-between;align-items:center;font-size:18px}
+.row{display:flex;flex-wrap:wrap;gap:8px;padding:0 0 4px}
+.row h2{flex-basis:100%;margin:18px 0 2px;font-size:13px;font-weight:600;color:var(--muted)}
+#bd{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:15}
+body.open #bd{display:block}
+#tg{position:fixed;z-index:10;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));padding:12px 18px;border-radius:999px;border:0;background:var(--accent);color:var(--accent-ink);font:inherit;font-weight:700;box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer}
+#tg:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+@media (min-width:820px){#side{position:sticky;top:0;bottom:auto;height:100vh;transform:none;width:260px;flex:none;margin-left:-260px}
+body.open #side{margin-left:0}
+#bd,body.open #bd{display:none}}
+button.chip{flex:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:7px 13px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer;display:flex;align-items:center;gap:7px}
+button.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+button.chip:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.25)}
+article{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 14px 12px;margin:0 0 10px}
+.meta{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--muted);flex-wrap:wrap}
+.tag{font-weight:700;color:var(--ink);border:1px solid var(--line);padding:1px 8px;border-radius:4px}
+.tag.t-Transfer{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+article h3{margin:8px 0 4px;font-size:18px;line-height:1.25;font-weight:700}
+article p{margin:0;color:var(--muted);font-size:15px}
+.src{margin-top:8px;font-size:13px;color:var(--muted)}
+.empty{padding:32px 8px;text-align:center;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){button.chip{transition:background .15s}}
+</style>
+</head>
+<body>
+<div class="layout">
+<aside id="side" aria-label="Filter">
+<div class="sh"><strong>Filter</strong><button class="chip" id="cl">Schließen</button></div>
+<div class="row" id="clubs"><h2>Vereine</h2></div>
+<div class="row" id="leagues"><h2>Ligen</h2></div>
+</aside>
+<div class="wrap">
+<header>
+<h1>Anstoß</h1>
+<p class="sub">Alle Meldungen deiner Vereine und Ligen an einem Ort.</p>
+<p class="demo" id="upd">Lade Meldungen …</p>
+</header>
+<main id="feed"></main>
+</div>
+</div>
+<div id="bd"></div>
+<button id="tg" aria-expanded="false" aria-controls="side">Filter</button>
+<script>
+const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
+const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","Regionalliga Nord","SH-Liga","LaLiga","Premier League"];
+let ITEMS=[];
+let selC=new Set(),selL=new Set();
+try{const s=JSON.parse(localStorage.getItem("anstoss")||"null");if(s){selC=new Set(s.c||[]);selL=new Set(s.l||[])}}catch(e){}
+function save(){try{localStorage.setItem("anstoss",JSON.stringify({c:[...selC],l:[...selL]}))}catch(e){}}
+function chip(label,pressed,fn,color){const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",pressed);
+if(color){const d=document.createElement("span");d.className="dot";d.style.background=color;b.appendChild(d)}
+b.appendChild(document.createTextNode(label));b.onclick=fn;return b}
+function ago(m){if(m<0){m=-m;return m<1440?"in "+Math.round(m/60)+" Std.":"in "+Math.round(m/1440)+" Tag(en)"}return m<60?"vor "+m+" Min.":m<1440?"vor "+Math.round(m/60)+" Std.":"vor "+Math.round(m/1440)+" Tag(en)"}
+function render(){
+const cr=document.getElementById("clubs"),lr=document.getElementById("leagues");
+[...cr.querySelectorAll("button")].forEach(n=>n.remove());[...lr.querySelectorAll("button")].forEach(n=>n.remove());
+CLUBS.forEach(([k,n,c])=>cr.appendChild(chip(n,selC.has(k),()=>{selC.has(k)?selC.delete(k):selC.add(k);save();render()},c)));
+LEAGUES.forEach(l=>lr.appendChild(chip(l,selL.has(l),()=>{selL.has(l)?selL.delete(l):selL.add(l);save();render()})));
+const none=!selC.size&&!selL.size;document.getElementById("tg").textContent="Filter"+(none?"":" ("+(selC.size+selL.size)+")");
+const list=ITEMS.filter(i=>none||(i[0]&&selC.has(i[0]))||selL.has(i[1]));
+const f=document.getElementById("feed");f.textContent="";
+if(!list.length){const e=document.createElement("p");e.className="empty";e.textContent="Keine Meldungen für diese Auswahl. Wähle weitere Vereine oder Ligen.";f.appendChild(e);return}
+list.forEach(i=>{const a=document.createElement("article");
+const m=document.createElement("div");m.className="meta";
+const t=document.createElement("span");t.className="tag t-"+i[2];t.textContent=i[2];
+const l=document.createElement("span");l.textContent=i[1]+" · "+ago(i[6]);
+m.append(t,l);
+const h=document.createElement("h3");if(i[7]){const a2=document.createElement("a");a2.href=i[7];a2.target="_blank";a2.rel="noopener";a2.textContent=i[3];a2.style.color="inherit";h.appendChild(a2)}else h.textContent=i[3];
+const p=document.createElement("p");p.textContent=i[4];
+const s=document.createElement("div");s.className="src";s.textContent="Quelle: "+i[5];
+a.append(m,h,p,s);f.appendChild(a)})}
+const mq=matchMedia("(min-width:820px)"),tg=document.getElementById("tg");
+function setOpen(o){document.body.classList.toggle("open",o);tg.setAttribute("aria-expanded",o)}
+tg.onclick=()=>setOpen(!document.body.classList.contains("open"));
+document.getElementById("cl").onclick=()=>setOpen(false);
+document.getElementById("bd").onclick=()=>setOpen(false);
+setOpen(mq.matches);
+const u=document.getElementById("upd");
+fetch("news.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ITEMS=d.items.map(i=>[i.club,i.league||"Fußball",i.tag,i.title,i.summary,i.source,Math.round((Date.now()-new Date(i.ts))/60000),i.url]);u.textContent=d.items.length?"Stand: "+new Date(d.updated).toLocaleString("de-DE"):"Noch keine Meldungen. Der erste Abruf läuft bald.";render()}).catch(()=>{u.textContent="Meldungen konnten nicht geladen werden.";render()});
+</script>
+</body>
+</html>
