@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:17:51.036109+00:00",
+ "updated": "2026-10-19T15:37:36.812927+00:00",
  "items": [
   {
    "club": "FCN",
@@ -33,6 +33,28 @@
    "url": "",
    "img": "",
    "ts": "2026-10-24T13:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "LIVE! Mit Dallmann in der Startelf: Bayern-Frauen empfangen den VfB",
+   "summary": "Montagabend, Schauplatz München: Am Campus trifft der FC Bayern auf den VfB Stuttgart. Es ist der 7. Spieltag der Frauen-Bundesliga. Führen die Double-Siegerinnen ihren Lauf nach sechs Siegen in den ersten sechs Partien",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bayern-gegen-stuttgart-2026-frauen-bundesliga-5243479/spielbericht#omrss",
+   "img": "",
+   "ts": "2026-10-19T15:32:53+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Los 10 millones que se le han 'atragantado' al Valencia",
+   "summary": "Sato y Arnau Martínez, los únicos jugadores por los que el Valencia pagó en este mercado, desaparecen de la rotación tras arrancar como titulares  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/valencia/2026/10/19/10-millones-le-han-atragantado-valencia.html",
+   "img": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/10/19/17924234971764.jpg",
+   "ts": "2026-10-19T15:25:02+00:00"
   },
   {
    "club": null,
@@ -2146,7 +2168,7 @@
    "club": "BVB",
    "league": null,
    "tag": "Video",
-   "title": "Live: Pressekonferenz mit Svensson & Kovac | Sabah FK - BVB | UEFA Champions League",
+   "title": "„Haben die Qualität zu gewinnen, müssen das aber auch beweisen“ | Svensson & Kovac vor Sabah - BVB",
    "summary": "",
    "source": "YouTube",
    "url": "https://www.youtube.com/watch?v=D-e2PZHNB0Q",
@@ -2950,21 +2972,27 @@
    "league": "Bundesliga",
    "home": "SC Paderborn 07",
    "away": "Hamburger SV",
-   "ts": "2026-10-24T13:30:00+00:00"
+   "ts": "2026-10-24T13:30:00+00:00",
+   "hi": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+   "ai": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
   },
   {
    "club": "BVB",
    "league": "Bundesliga",
    "home": "Borussia Dortmund",
    "away": "Eintracht Frankfurt",
-   "ts": "2026-10-24T16:30:00+00:00"
+   "ts": "2026-10-24T16:30:00+00:00",
+   "hi": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
+   "ai": "https://i.imgur.com/X8NFkOb.png"
   },
   {
    "club": "FCN",
    "league": "2. Bundesliga",
    "home": "1. FC Nürnberg",
    "away": "1. FC Kaiserslautern",
-   "ts": "2026-10-24T18:30:00+00:00"
+   "ts": "2026-10-24T18:30:00+00:00",
+   "hi": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+   "ai": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg"
   }
  ],
  "tables": {
@@ -2973,109 +3001,127 @@
     "team": "FC Bayern München",
     "played": 6,
     "gd": 17,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
    },
    {
     "team": "Borussia Dortmund",
     "played": 6,
     "gd": 7,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
    },
    {
     "team": "SC Freiburg",
     "played": 6,
     "gd": 9,
-    "pts": 13
+    "pts": 13,
+    "icon": "https://i.imgur.com/r3mvi0h.png"
    },
    {
     "team": "Bayer 04 Leverkusen",
     "played": 6,
     "gd": 7,
-    "pts": 13
+    "pts": 13,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
    },
    {
     "team": "1. FSV Mainz 05",
     "played": 6,
     "gd": 4,
-    "pts": 10
+    "pts": 10,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
    },
    {
     "team": "SV 07 Elversberg",
     "played": 6,
     "gd": 1,
-    "pts": 10
+    "pts": 10,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
    },
    {
     "team": "RB Leipzig",
     "played": 6,
     "gd": 5,
-    "pts": 9
+    "pts": 9,
+    "icon": "https://i.imgur.com/Rpwsjz1.png"
    },
    {
     "team": "SV Werder Bremen",
     "played": 6,
     "gd": 0,
-    "pts": 9
+    "pts": 9,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
    },
    {
     "team": "Hamburger SV",
     "played": 6,
     "gd": -9,
-    "pts": 9
+    "pts": 9,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
    },
    {
     "team": "FC Augsburg",
     "played": 6,
     "gd": 4,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://i.imgur.com/sdE62e2.png"
    },
    {
     "team": "Eintracht Frankfurt",
     "played": 6,
     "gd": -6,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://i.imgur.com/X8NFkOb.png"
    },
    {
     "team": "1. FC Köln",
     "played": 6,
     "gd": -3,
-    "pts": 7
+    "pts": 7,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
    },
    {
     "team": "VfB Stuttgart",
     "played": 6,
     "gd": -2,
-    "pts": 6
+    "pts": 6,
+    "icon": "https://i.imgur.com/v0tkpNx.png"
    },
    {
     "team": "TSG Hoffenheim",
     "played": 6,
     "gd": -3,
-    "pts": 6
+    "pts": 6,
+    "icon": "https://i.imgur.com/gF0PfEl.png"
    },
    {
     "team": "FC Schalke 04",
     "played": 6,
     "gd": -3,
-    "pts": 5
+    "pts": 5,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
    },
    {
     "team": "SC Paderborn 07",
     "played": 6,
     "gd": -4,
-    "pts": 5
+    "pts": 5,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
    },
    {
     "team": "1. FC Union Berlin",
     "played": 6,
     "gd": -12,
-    "pts": 5
+    "pts": 5,
+    "icon": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
    },
    {
     "team": "Borussia Mönchengladbach",
     "played": 6,
     "gd": -12,
-    "pts": 0
+    "pts": 0,
+    "icon": "https://i.imgur.com/KSIk0Eu.png"
    }
   ],
   "2. Bundesliga": [
@@ -3083,109 +3129,127 @@
     "team": "Hertha BSC",
     "played": 8,
     "gd": 11,
-    "pts": 22
+    "pts": 22,
+    "icon": "https://i.imgur.com/apFwbYZ.png"
    },
    {
     "team": "1. FC Nürnberg",
     "played": 8,
     "gd": 10,
-    "pts": 18
+    "pts": 18,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg"
    },
    {
     "team": "VfL Wolfsburg",
     "played": 8,
     "gd": 9,
-    "pts": 15
+    "pts": 15,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VfL_Wolfsburg_logo_2026.svg/960px-VfL_Wolfsburg_logo_2026.svg.png"
    },
    {
     "team": "1. FC Kaiserslautern",
     "played": 8,
     "gd": 4,
-    "pts": 15
+    "pts": 15,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg"
    },
    {
     "team": "1. FC Heidenheim 1846",
     "played": 8,
     "gd": 0,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg"
    },
    {
     "team": "1. FC Magdeburg",
     "played": 8,
     "gd": 3,
-    "pts": 13
+    "pts": 13,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg"
    },
    {
     "team": "FC St. Pauli",
     "played": 8,
     "gd": 2,
-    "pts": 11
+    "pts": 11,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fc_st_pauli_logo.svg"
    },
    {
     "team": "DSC Arminia Bielefeld",
     "played": 8,
     "gd": 0,
-    "pts": 11
+    "pts": 11,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Arminia_Bielefeld_Logo_2021%E2%80%93.svg"
    },
    {
     "team": "Energie Cottbus",
     "played": 8,
     "gd": -1,
-    "pts": 9
+    "pts": 9,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg"
    },
    {
     "team": "SpVgg Greuther Fürth",
     "played": 8,
     "gd": -1,
-    "pts": 9
+    "pts": 9,
+    "icon": "https://i.imgur.com/pwuVbKr.png"
    },
    {
     "team": "Dynamo Dresden",
     "played": 8,
     "gd": -4,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/960px-Logo_SG_Dynamo_Dresden_neu.svg.png"
    },
    {
     "team": "VfL Osnabrück",
     "played": 8,
     "gd": -4,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VfL_Osnabrueck_Logo_2021%E2%80%93.svg/960px-VfL_Osnabrueck_Logo_2021%E2%80%93.svg.png"
    },
    {
     "team": "Karlsruher SC",
     "played": 8,
     "gd": -4,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg"
    },
    {
     "team": "Hannover 96",
     "played": 8,
     "gd": -5,
-    "pts": 8
+    "pts": 8,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg"
    },
    {
     "team": "Eintracht Braunschweig",
     "played": 8,
     "gd": -2,
-    "pts": 7
+    "pts": 7,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg"
    },
    {
     "team": "VfL Bochum",
     "played": 8,
     "gd": -4,
-    "pts": 7
+    "pts": 7,
+    "icon": "https://i.imgur.com/5jy3Gfr.png"
    },
    {
     "team": "SV Darmstadt 98",
     "played": 8,
     "gd": -10,
-    "pts": 7
+    "pts": 7,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg"
    },
    {
     "team": "Holstein Kiel",
     "played": 8,
     "gd": -4,
-    "pts": 5
+    "pts": 5,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png"
    }
   ],
   "3. Liga": [
@@ -3193,121 +3257,141 @@
     "team": "MSV Duisburg",
     "played": 10,
     "gd": 15,
-    "pts": 25
+    "pts": 25,
+    "icon": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg"
    },
    {
     "team": "Viktoria Köln",
     "played": 10,
     "gd": 13,
-    "pts": 20
+    "pts": 20,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/960px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png"
    },
    {
     "team": "Rot-Weiss Essen",
     "played": 10,
     "gd": 5,
-    "pts": 18
+    "pts": 18,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png"
    },
    {
     "team": "1. FC Saarbrücken",
     "played": 10,
     "gd": 7,
-    "pts": 17
+    "pts": 17,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/f/ff/1._FC_Saarbr%C3%BCcken.svg/960px-1._FC_Saarbr%C3%BCcken.svg.png"
    },
    {
     "team": "TSG 1899 Hoffenheim II",
     "played": 10,
     "gd": 5,
-    "pts": 16
+    "pts": 16,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/960px-Logo_TSG_Hoffenheim.svg.png"
    },
    {
     "team": "Hansa Rostock",
     "played": 10,
     "gd": -2,
-    "pts": 15
+    "pts": 15,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
    },
    {
     "team": "VfB Stuttgart II",
     "played": 10,
     "gd": -1,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png"
    },
    {
     "team": "Alemannia Aachen",
     "played": 10,
     "gd": -1,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alemannia_Aachen_2010.svg"
    },
    {
     "team": "FC Ingolstadt 04",
     "played": 10,
     "gd": -2,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/960px-FC-Ingolstadt_logo.svg.png"
    },
    {
     "team": "Fortuna Düsseldorf",
     "played": 10,
     "gd": -2,
-    "pts": 14
+    "pts": 14,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/960px-Fortuna_D%C3%BCsseldorf.svg.png"
    },
    {
     "team": "SV Waldhof Mannheim",
     "played": 10,
     "gd": 0,
-    "pts": 13
+    "pts": 13,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Svwaldhof.svg/960px-Svwaldhof.svg.png"
    },
    {
     "team": "SV Meppen",
     "played": 10,
     "gd": -4,
-    "pts": 13
+    "pts": 13,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SV_Meppen_Logo_2022.svg/250px-SV_Meppen_Logo_2022.svg.png"
    },
    {
     "team": "Preußen Münster",
     "played": 10,
     "gd": -3,
-    "pts": 12
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/7/7e/SC_Preussen_Muenster_Logo_2018.svg"
    },
    {
     "team": "SV Wehen Wiesbaden",
     "played": 10,
     "gd": -3,
-    "pts": 12
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Logo_SV_Wehen_Wiesbaden.svg/250px-Logo_SV_Wehen_Wiesbaden.svg.png"
    },
    {
     "team": "SC Verl",
     "played": 10,
     "gd": -4,
-    "pts": 12
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png"
    },
    {
     "team": "SG Sonnenhof Großaspach",
     "played": 10,
     "gd": -6,
-    "pts": 12
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/86/SG_Sonnenhof_Gro%C3%9Faspach_logo.png"
    },
    {
     "team": "Würzburger Kickers",
     "played": 10,
     "gd": -4,
-    "pts": 11
+    "pts": 11,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Würzburger_Kickers_Logo.svg/250px-Würzburger_Kickers_Logo.svg.png"
    },
    {
     "team": "Jahn Regensburg",
     "played": 10,
     "gd": 1,
-    "pts": 10
+    "pts": 10,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/960px-Jahn_Regensburg_logo2014.svg.png"
    },
    {
     "team": "Fortuna Köln",
     "played": 10,
     "gd": -3,
-    "pts": 10
+    "pts": 10,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SC_Fortuna_Koeln_Logo_2013–2019%2C_2026–.svg/250px-SC_Fortuna_Koeln_Logo_2013–2019%2C_2026–.svg.png"
    },
    {
     "team": "TSV Havelse",
     "played": 10,
     "gd": -11,
-    "pts": 5
+    "pts": 5,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TSV_Havelse_logo.svg/120px-TSV_Havelse_logo.svg.png"
    }
   ]
  }
