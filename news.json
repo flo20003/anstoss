@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:37:36.812927+00:00",
+ "updated": "2026-10-19T16:39:43.993368+00:00",
  "items": [
   {
    "club": "FCN",
@@ -36,9 +36,31 @@
   },
   {
    "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Brentford contact police after rugby ball kicked into stadium during Liverpool match",
+   "summary": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e8/live/900722f0-cbd7-11f1-b139-f77a8b036d06.jpg",
+   "ts": "2026-10-19T16:26:44+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "„Haben die Qualität zu gewinnen, müssen das aber auch beweisen“ | Svensson & Kovac vor Sabah - BVB",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=D-e2PZHNB0Q",
+   "img": "https://i1.ytimg.com/vi/D-e2PZHNB0Q/hqdefault.jpg",
+   "ts": "2026-10-19T15:37:49+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
-   "title": "LIVE! Mit Dallmann in der Startelf: Bayern-Frauen empfangen den VfB",
+   "title": "LIVE! Früher Doppelschlag: Dallmann und Harder sorgen für klare Verhältnisse",
    "summary": "Montagabend, Schauplatz München: Am Campus trifft der FC Bayern auf den VfB Stuttgart. Es ist der 7. Spieltag der Frauen-Bundesliga. Führen die Double-Siegerinnen ihren Lauf nach sechs Siegen in den ersten sechs Partien",
    "source": "Kicker",
    "url": "https://www.kicker.de/bayern-gegen-stuttgart-2026-frauen-bundesliga-5243479/spielbericht#omrss",
@@ -2163,17 +2185,6 @@
    "url": "https://www.kicker.de/mangelhafte-offensive-die-noten-zur-bvb-pleite-bei-bodoe-glimt-1261611/slideshow#omrss",
    "img": "",
    "ts": "2026-10-15T08:55:40+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Video",
-   "title": "„Haben die Qualität zu gewinnen, müssen das aber auch beweisen“ | Svensson & Kovac vor Sabah - BVB",
-   "summary": "",
-   "source": "YouTube",
-   "url": "https://www.youtube.com/watch?v=D-e2PZHNB0Q",
-   "img": "https://i1.ytimg.com/vi/D-e2PZHNB0Q/hqdefault.jpg",
-   "ts": "2026-10-15T07:44:20+00:00"
   },
   {
    "club": "BVB",
