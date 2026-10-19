@@ -61,6 +61,7 @@ th,td{padding:8px 6px;text-align:right;border-bottom:1px solid var(--line)}
 th:nth-child(2),td:nth-child(2){text-align:left}
 tr.hl td{font-weight:700;background:color-mix(in srgb,var(--accent) 16%,transparent)}
 caption{padding:16px;color:var(--muted)}
+.cr{width:20px;height:20px;object-fit:contain;vertical-align:middle;margin-right:6px}
 </style>
 </head>
 <body>
@@ -78,6 +79,7 @@ caption{padding:16px;color:var(--muted)}
 <nav class="tabs"><button class="chip" id="t1" aria-pressed="true">Meldungen</button><button class="chip" id="t2" aria-pressed="false">Tabellen</button></nav>
 <div id="v1"><input id="q" type="search" placeholder="Suche, z. B. Spielername" aria-label="Suche"><main id="feed"></main></div>
 <div id="v2" hidden><div class="row" id="tl"></div><div class="tw"><table id="tb"></table></div></div>
+<p class="sub">Spieldaten: OpenLigaDB (ODbL). Wappen und Logos gehören den jeweiligen Vereinen.</p>
 </div>
 </div>
 <div id="bd"></div>
@@ -85,6 +87,7 @@ caption{padding:16px;color:var(--muted)}
 <script>
 const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
 const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","DFB-Pokal","Regionalliga Nord","SH-Liga","LaLiga","Premier League"];
+const SHOW_CRESTS=true; /* auf false setzen, um Wappen auszublenden */
 const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 const KW={BVB:["dortmund"],HSV:["hamburger sv","hsv"],FCN:["nürnberg"]};
 let ITEMS=[],NEXT=[],TABLES={},LIM=40,Q="",TL="Bundesliga",PREV=0;
@@ -100,10 +103,11 @@ function fill(id,list,set){const r=$(id);[...r.querySelectorAll("button")].forEa
 function ago(m){if(m<0){m=-m;return m<1440?"in "+Math.round(m/60)+" Std.":"in "+Math.round(m/1440)+" Tag(en)"}return m<60?"vor "+m+" Min.":m<1440?"vor "+Math.round(m/60)+" Std.":"vor "+Math.round(m/1440)+" Tag(en)"}
 function fmt(ts){return new Date(ts).toLocaleString("de-DE",{weekday:"short",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}
 function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e}
+function crest(u){if(!SHOW_CRESTS||!u||!u.startsWith("http"))return null;const i=el("img","cr");i.loading="lazy";i.referrerPolicy="no-referrer";i.alt="";i.src=u.replace(/^http:/,"https:");i.onerror=()=>i.remove();return i}
 function renderNext(){const n=$("nx");n.textContent="";const l=NEXT.filter(g=>Date.parse(g.ts)>Date.now()-72e5);n.hidden=!l.length;if(!l.length)return;
 n.appendChild(el("h2","","Nächste Spiele"));
 l.forEach((g,i)=>{const c=CLUBS.find(x=>x[0]===g.club),d=el("div","ng"+(i?"":" f")),dot=el("span","dot");dot.style.background=c?c[2]:"#999";
-const t=el("div");t.append(el("strong","",g.home+" – "+g.away),el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChild(d)})}
+const t=el("div");const s=el("strong"),a=crest(g.hi),b=crest(g.ai);if(a)s.appendChild(a);s.appendChild(document.createTextNode(g.home+" – "+g.away));if(b){b.style.margin="0 0 0 6px";s.appendChild(b)}t.append(s,el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChild(d)})}
 function render(){
 fill("clubs",CLUBS,selC);fill("leagues",LEAGUES,selL);fill("types",TYPES,selT);fill("sources",[...new Set(ITEMS.map(i=>i[5]))].sort(),selS);
 const none=!selC.size&&!selL.size,cnt=selC.size+selL.size+selT.size+selS.size;
@@ -126,7 +130,7 @@ const t=$("tb");t.textContent="";const rows=TABLES[TL]||[];
 if(!rows.length){t.createCaption().textContent="Noch keine Tabelle verfügbar.";return}
 const hd=t.insertRow();["#","Verein","Sp","Diff","Pkt"].forEach(x=>{const c=document.createElement("th");c.textContent=x;hd.appendChild(c)});
 rows.forEach((x,i)=>{const tr=t.insertRow(),n=x.team.toLowerCase();if(Object.values(KW).some(w=>w.some(k=>n.includes(k))))tr.className="hl";
-[i+1,x.team,x.played,(x.gd>0?"+":"")+x.gd,x.pts].forEach(v=>{tr.insertCell().textContent=v})})}
+[i+1,x.team,x.played,(x.gd>0?"+":"")+x.gd,x.pts].forEach((v,j)=>{const c=tr.insertCell();if(j===1){const k=crest(x.icon);if(k)c.appendChild(k);c.appendChild(document.createTextNode(v))}else c.textContent=v})})}
 function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2);$("tg").hidden=v!==1}
 $("t1").onclick=()=>show(1);$("t2").onclick=()=>show(2);
 $("q").oninput=e=>{Q=e.target.value;LIM=40;render()};

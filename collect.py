@@ -129,7 +129,7 @@ def league(short, name, season, out):
         try:
             tb = json.loads(get(f"https://api.openligadb.de/getbltable/{short}/{season}"))
             tb.sort(key=lambda t: (-t["points"], -t["goalDiff"], -t["goals"]))
-            TABLES[name] = [{"team": t["teamName"], "played": t["matches"], "gd": t["goalDiff"], "pts": t["points"]} for t in tb]
+            TABLES[name] = [{"team": t["teamName"], "played": t["matches"], "gd": t["goalDiff"], "pts": t["points"], "icon": t.get("teamIconUrl") or ""} for t in tb]
         except Exception as ex:
             print("Tabelle fehlt", name, ex)
     for m in json.loads(get(f"https://api.openligadb.de/getmatchdata/{short}/{season}")):
@@ -140,7 +140,8 @@ def league(short, name, season, out):
         ts = datetime.fromisoformat(m["matchDateTimeUTC"].replace("Z", "+00:00"))
         done = m.get("matchIsFinished")
         if not done and ts > NOW - timedelta(hours=2) and (c not in NEXT or ts.isoformat() < NEXT[c]["ts"]):
-            NEXT[c] = {"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat()}
+            NEXT[c] = {"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat(),
+                          "hi": m["team1"].get("teamIconUrl") or "", "ai": m["team2"].get("teamIconUrl") or ""}
         res = [r for r in m.get("matchResults", []) if r.get("resultTypeID") == 2]
         if done and res and NOW - ts < timedelta(days=4):
             title, summ = f"{t1} {res[0]['pointsTeam1']}:{res[0]['pointsTeam2']} {t2}", "Endergebnis"
