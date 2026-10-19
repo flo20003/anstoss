@@ -28,10 +28,10 @@ FEEDS = [
 YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
 CLUBS = {"BVB": ["dortmund", "bvb"], "HSV": ["hsv", "hamburger sv"],
          "FCN": ["nürnberg", "nuernberg"], "SCW": ["weiche flensburg", "sc weiche"]}
-LEAGUES = [("2. Bundesliga", "2. Bundesliga"), ("3. Liga", "3. Liga"), ("Regionalliga", "Regionalliga Nord"),
+LEAGUES = [("DFB-Pokal", "DFB-Pokal"), ("2. Bundesliga", "2. Bundesliga"), ("3. Liga", "3. Liga"), ("Regionalliga", "Regionalliga Nord"),
            ("Schleswig-Holstein-Liga", "SH-Liga"), ("Bundesliga", "Bundesliga"),
            ("LaLiga", "LaLiga"), ("La Liga", "LaLiga"), ("Premier League", "Premier League")]
-OPENLIGA = [("bl1", "Bundesliga"), ("bl2", "2. Bundesliga"), ("bl3", "3. Liga")]
+OPENLIGA = [("bl1", "Bundesliga"), ("bl2", "2. Bundesliga"), ("bl3", "3. Liga"), ("dfb", "DFB-Pokal")]
 NOW = datetime.now(timezone.utc)
 
 
@@ -82,6 +82,16 @@ def parse_date(s):
             return NOW
 
 
+def img_of(e):
+    for c in e.iter():
+        u = c.get("url")
+        if c.tag.split("}")[-1] in ("thumbnail", "content", "enclosure") and u and \
+                re.search(r"\.(jpe?g|png|webp)|image", u + c.get("type", "") + c.get("medium", ""), re.I):
+            return u
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', unescape(child(e, "description") or child(e, "encoded") or ""))
+    return m.group(1) if m else ""
+
+
 def feed_items(url, source, league, club, tag=None):
     root = ET.fromstring(get(url))
     out = []
@@ -96,7 +106,7 @@ def feed_items(url, source, league, club, tag=None):
         if not (c or l) or NOW - ts > timedelta(days=14):
             continue
         out.append({"club": c, "league": l, "tag": tag or tag_of(full),
-                    "title": title, "summary": summ, "source": source, "url": child(e, "link"),
+                    "title": title, "summary": summ, "source": source, "url": child(e, "link"), "img": img_of(e),
                     "ts": ts.isoformat()})
     return out
 
@@ -111,25 +121,45 @@ def yt_items(handle, club):
     return feed_items(url, "YouTube", None, club, "Video")
 
 
+NEXT, TABLES = {}, {}
+
+
+def league(short, name, season, out):
+    if short != "dfb":
+        try:
+            tb = json.loads(get(f"https://api.openligadb.de/getbltable/{short}/{season}"))
+            tb.sort(key=lambda t: (-t["points"], -t["goalDiff"], -t["goals"]))
+            TABLES[name] = [{"team": t["teamName"], "played": t["matches"], "gd": t["goalDiff"], "pts": t["points"]} for t in tb]
+        except Exception as ex:
+            print("Tabelle fehlt", name, ex)
+    for m in json.loads(get(f"https://api.openligadb.de/getmatchdata/{short}/{season}")):
+        t1, t2 = m["team1"]["teamName"], m["team2"]["teamName"]
+        c = club_of(t1) or club_of(t2)
+        if not c:
+            continue
+        ts = datetime.fromisoformat(m["matchDateTimeUTC"].replace("Z", "+00:00"))
+        done = m.get("matchIsFinished")
+        if not done and ts > NOW - timedelta(hours=2) and (c not in NEXT or ts.isoformat() < NEXT[c]["ts"]):
+            NEXT[c] = {"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat()}
+        res = [r for r in m.get("matchResults", []) if r.get("resultTypeID") == 2]
+        if done and res and NOW - ts < timedelta(days=4):
+            title, summ = f"{t1} {res[0]['pointsTeam1']}:{res[0]['pointsTeam2']} {t2}", "Endergebnis"
+        elif not done and timedelta(0) < ts - NOW < timedelta(days=8):
+            title, summ = f"{t1} gegen {t2}", "Anstoß " + ts.strftime("%d.%m. %H:%M UTC")
+        else:
+            continue
+        out.append({"club": c, "league": name, "tag": "Spiel", "title": title, "summary": summ,
+                    "source": "OpenLigaDB", "url": "", "img": "", "ts": ts.isoformat()})
+
+
 def matches():
     out = []
     season = NOW.year if NOW.month >= 7 else NOW.year - 1
     for short, name in OPENLIGA:
-        for m in json.loads(get(f"https://api.openligadb.de/getmatchdata/{short}/{season}")):
-            t1, t2 = m["team1"]["teamName"], m["team2"]["teamName"]
-            c = club_of(t1) or club_of(t2)
-            if not c:
-                continue
-            ts = datetime.fromisoformat(m["matchDateTimeUTC"].replace("Z", "+00:00"))
-            res = [r for r in m.get("matchResults", []) if r.get("resultTypeID") == 2]
-            if m.get("matchIsFinished") and res and NOW - ts < timedelta(days=4):
-                title, summ = f"{t1} {res[0]['pointsTeam1']}:{res[0]['pointsTeam2']} {t2}", "Endergebnis"
-            elif not m.get("matchIsFinished") and timedelta(0) < ts - NOW < timedelta(days=8):
-                title, summ = f"{t1} gegen {t2}", "Anstoß " + ts.astimezone().strftime("%d.%m. %H:%M UTC")
-            else:
-                continue
-            out.append({"club": c, "league": name, "tag": "Spiel", "title": title, "summary": summ,
-                        "source": "OpenLigaDB", "url": "", "ts": ts.isoformat()})
+        try:
+            league(short, name, season, out)
+        except Exception as ex:
+            print("FEHLER OpenLigaDB", name, type(ex).__name__, ex)
     return out
 
 
@@ -142,9 +172,11 @@ for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items,
     except Exception as ex:
         print("FEHLER", args[0] if args else "OpenLigaDB", type(ex).__name__, ex)
 
+OLD = {}
 try:
     with open("news.json", encoding="utf-8") as f:
-        items += [i for i in json.load(f)["items"] if i["tag"] != "Spiel"
+        OLD = json.load(f)
+        items += [i for i in OLD["items"] if i["tag"] != "Spiel"
                   and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
 except Exception as ex:
     print("Alte news.json nicht lesbar:", ex)
@@ -159,4 +191,6 @@ if final:
     vids = [i for i in final if i["tag"] == "Video"][:60]
     out = sorted(vids + [i for i in final if i["tag"] != "Video"][:400], key=lambda x: x["ts"], reverse=True)
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump({"updated": NOW.isoformat(), "items": out}, f, ensure_ascii=False, indent=1)
+        json.dump({"updated": NOW.isoformat(), "items": out,
+                   "next": sorted(NEXT.values(), key=lambda g: g["ts"]) or OLD.get("next", []),
+                   "tables": {**OLD.get("tables", {}), **TABLES}}, f, ensure_ascii=False, indent=1)
