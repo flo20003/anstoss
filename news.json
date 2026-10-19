@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:24:17.582625+00:00",
+ "updated": "2026-10-19T11:14:05.511046+00:00",
  "items": [
   {
    "club": "FCN",
@@ -32,6 +32,56 @@
    "ts": "2026-10-24T13:30:00+00:00"
   },
   {
+   "club": "SCW",
+   "league": "3. Liga",
+   "tag": "News",
+   "title": "Bei Weiche Flensburg wird der \"verrückte\" Moment gelebt",
+   "summary": "Der SC Weiche Flensburg schüttelte durch ein 3:0 seinen bis dato schärfsten Verfolger ab. An die Aufstiegsspiele zur 3. Liga will der Tabellenführer der Regionalliga Nord aber nicht denken. Der Blick auf die Tabelle nich",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bei-weiche-flensburg-wird-der-verrueckte-moment-gelebt-1262375/artikel#omrss",
+   "ts": "2026-10-19T10:49:26+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Matthäus' Plädoyer: \"Klopp sollte über Füllkrug nachdenken\"",
+   "summary": "Kehrt Niclas Füllkrug noch mal ins DFB-Team zurück? Während der Werder-Angreifer das Thema selbst nicht befeuern will, tun das zunehmend andere - so deutlich wie bislang kein anderer jetzt auch Lothar Matthäus.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/matthaeus-plaedoyer-klopp-sollte-ueber-fuellkrug-nachdenken-1262964/artikel#omrss",
+   "ts": "2026-10-19T10:43:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Betis presentará este martes alegaciones al acta de De Burgos por la expulsión de Facundo Bernal",
+   "summary": "El mediocentro uruguayo podría ser sancionado con varios partidos de suspensión  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/19/betis-presentara-martes-alegaciones-acta-burgos-expulsion-facundo-bernal.html",
+   "ts": "2026-10-19T10:41:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Wir werden den Laden nicht zusperren\": Schröder beschwört in der Krise den Zusammenhalt",
+   "summary": "Nach der sechsten Niederlage spitzt sich die Lage bei Borussia Mönchengladbach weiter zu. Neue Personalsorgen kommen obendrauf.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wir-werden-den-laden-nicht-zusperren-schroeder-beschwoert-in-der-krise-den-zusammenhalt-1262949/artikel#omrss",
+   "ts": "2026-10-19T10:33:43+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Hinrunden-Aus für Nürnbergs Toptorjäger Zoma",
+   "summary": "Der 1. FC Nürnberg muss bis zur Winterpause auf seinen Toptorjäger Mohamed Ali Zoma verzichten. Der Angreifer muss sich operieren lassen, nachdem er sich am Freitag in Cottbus die Schulter ausgekugelt hatte.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-schockdiagnose-hinrunden-aus-fuer-fcn-toptorjaeger-zoma-102.html",
+   "ts": "2026-10-19T10:25:08+00:00"
+  },
+  {
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
@@ -43,6 +93,26 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Cucho Hernández, principal ausencia a dos días de recibir al Feyenoord",
+   "summary": "El delantero colombiano tiene molestias y es duda para el partido de Champions League  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/19/cucho-hernandez-principal-ausencia-dos-dias-recibir-feyenoord.html",
+   "ts": "2026-10-19T10:10:34+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Su primer gol como regalo de boda",
+   "summary": "Apenas unos días después de anunciar por sorpresa su matrimonio, Take Kubo rompió en Málaga por fin una mala racha anotadora que duraba todo este 2026  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-sociedad/2026/10/19/primer-gol-regalo-boda.html",
+   "ts": "2026-10-19T10:08:59+00:00"
+  },
+  {
+   "club": null,
    "league": "2. Bundesliga",
    "tag": "News",
    "title": "Wer steigt auf? Wer steigt ab? Der Tabellenrechner zur 2. Liga",
@@ -50,6 +120,16 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/wer-steigt-auf-wer-steigt-ab-der-tabellenrechner-zur-2-liga-999449/artikel#omrss",
    "ts": "2026-10-19T10:04:45+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Nico se prueba y deja en manos de Terzic la decisión de jugar en Levante",
+   "summary": "El internacional sufrió una lesión muscular con la selección española el 29 de septiembre  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/19/nico-prueba-deja-manos-terzic-decision-jugar-levante.html",
+   "ts": "2026-10-19T10:00:17+00:00"
   },
   {
    "club": "FCN",
@@ -123,23 +203,53 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "LaLiga",
    "tag": "News",
-   "title": "Ekstase in Flensburg: Pytlick wirft SG per Freiwurf nach der Sirene zum Sieg",
-   "summary": "Das Topspiel der Handball-Bundesliga wurde den hohen Erwartungen gerecht. Die SG Flensburg-Handewitt gewann gegen die Füchse Berlin dramatisch. Ausgerechnet ein künftiger Füchse-Profi traf nach Ablauf der Sirene per Frei",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/ekstase-in-flensburg-pytlick-wirft-sg-per-freiwurf-nach-der-sirene-zum-sieg-1262708/video#omrss",
-   "ts": "2026-10-19T07:48:55+00:00"
+   "title": "Jutglà: “Estoy muy feliz por el equipo, nos lo merecíamos”",
+   "summary": "El delantero sumó su segundo tanto de la temporada ante el Alavés  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/19/jutgla-feliz-equipo-mereciamos.html",
+   "ts": "2026-10-19T07:41:03+00:00"
   },
   {
    "club": "BVB",
-   "league": null,
+   "league": "Bundesliga",
    "tag": "News",
    "title": "Bandverletzung: BVB muss erneut auf Karetsas verzichten",
    "summary": "Beim torlosen Remis des BVB bei Union Berlin musste Konstantinos Karetsas nur wenige Minuten nach seiner Einwechslung das Spielfeld verletzt verlassen. Nun steht fest, dass der Grieche Dortmund erneut fehlen wird.",
    "source": "Kicker",
    "url": "https://www.kicker.de/bandverletzung-bvb-muss-erneut-auf-karetsas-verzichten-1262326/artikel#omrss",
    "ts": "2026-10-19T07:30:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "A qué hora es el Getafe - Rayo Vallecano: horario y dónde ver hoy en TV y online el partido de LaLiga EA Sports",
+   "summary": "Te contamos los detalles para que puedas disfrutar del encuentro correspondiente a la novena jornada  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/primera-division/2026/10/19/que-hora-getafe-rayo-vallecano-horario-donde-ver-hoy-tv-online-partido-laliga-ea-sports.html",
+   "ts": "2026-10-19T07:28:10+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Premier League: 10 talking points from the weekend’s action",
+   "summary": "Florian Wirtz takes on more responsibility in Liverpool’s attack while Pierre Sage is under pressure at Crystal PalaceDominic Calvert-Lewin’s physicality overpowering Bryan Mbeumo in Manchester United’s area at a corner",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action",
+   "ts": "2026-10-19T07:00:22+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "La historia interminable del Sevilla en el Bernabéu",
+   "summary": "Otro arbitraje salpicado de polémica y la pegada del Real Madrid acaban con la imbatibilidad de los hispalenses a domicilio  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/sevilla/2026/10/19/historia-interminable-sevilla-bernabeu.html",
+   "ts": "2026-10-19T06:51:45+00:00"
   },
   {
    "club": null,
@@ -173,6 +283,26 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Lamine Yamal-Raphinha, pareja para la historia",
+   "summary": "Octavo dúo que alcanza los 20 goles en Primera en las nueve jornadas iniciales del campeonato  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/premios-marca/2026/10/19/lamine-yamal-raphinha-pareja-historia.html",
+   "ts": "2026-10-19T05:09:18+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Euro Leagues",
+   "summary": "Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-19T05:00:00+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Nach Tennisball-Protest: Schuster kritisiert Freiburger Fans",
@@ -180,6 +310,26 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/nach-tennisball-protest-schuster-kritisiert-freiburger-fans-1262870/artikel#omrss",
    "ts": "2026-10-19T04:51:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Diomande aprieta a Vinicius",
+   "summary": "Al otro lado del espejo Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/19/diomande-aprieta-vinicius.html",
+   "ts": "2026-10-19T04:15:18+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Getafe - Rayo Vallecano | Todos los focos apuntan a Carvajal: previa, análisis, pronóstico y predicción",
+   "summary": "El ex del Real Madrid podría debutar con los azulones este lunes, pero Bordalás mantiene el suspense y dice que hasta última hora no decidirá si juega o no. El Rayo regresa tras la suspensión ante el Athletic  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/primera-division/2026/10/19/getafe-rayo-vallecano-todos-focos-apuntan-carvajal-previa-analisis-pronostico-prediccion.html",
+   "ts": "2026-10-18T23:18:09+00:00"
   },
   {
    "club": null,
@@ -282,6 +432,16 @@
    "ts": "2026-10-18T22:00:13+00:00"
   },
   {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "MUHEIM SICHERT ERNEUT DEN SIEG | Highlights | Hamburger SV vs. VfB Stuttgart",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=nKEhk7twDmQ",
+   "ts": "2026-10-18T22:00:12+00:00"
+  },
+  {
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
@@ -303,6 +463,16 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "García Plaza: \"Igual no querían que hubiera más distancia de puntos para el Clásico si ganábamos\"",
+   "summary": "El técnico del Sevilla, muy enfadado con la actuación del colegiado en el Bernabéu  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/sevilla/2026/10/18/garcia-plaza-igual-querian-hubiera-mas-distancia-puntos-clasico-ganabamos.html",
+   "ts": "2026-10-18T21:57:58+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Der SV Werder Bremen holt schon wieder einen Rückstand auf",
@@ -310,6 +480,16 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/einlaufkind-und-aufholjagd-werder-wahnsinn-geht-weiter,bundesliga-update-rueckblick-spieltag-sechs-106.html",
    "ts": "2026-10-18T21:53:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+   "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T21:39:04+00:00"
   },
   {
    "club": null,
@@ -323,6 +503,46 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "La Real ya es quinta en LaLiga",
+   "summary": "El equipo txuriurdin sigue su escalada desde la tercera jornada, consiguiendo 16 de los últimos 21 puntos, y supera al Sevilla, tras su derrota en el Bernabéu  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-sociedad/2026/10/18/real-quinta-laliga.html",
+   "ts": "2026-10-18T20:59:36+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Ramos could make La Liga return - Monday's gossip",
+   "summary": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T20:21:54+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Sevilla pide roja a Güler",
+   "summary": "Kike Salas, al descanso del partido en el Bernabéu: \"Es expulsión clara\"  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/sevilla/2026/10/18/sevilla-pide-roja-gueler.html",
+   "ts": "2026-10-18T20:13:07+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Mbappé se pica con Lamine y firma su mejor gol con el Real Madrid",
+   "summary": "Obra de arte del francés en 'respuesta' al azulgrana y para firmar su décimo gol de la temporada en 11 partidos  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-madrid/2026/10/18/mbappe-pica-lamine-firma-mejor-gol-real-madrid.html",
+   "ts": "2026-10-18T20:08:03+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Ein halbes Dutzend Bayern und dreimal die Bestnote: Die kicker-Elf des 6. Spieltags",
@@ -330,6 +550,16 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/ein-halbes-dutzend-bayern-und-dreimal-die-bestnote-die-kicker-elf-des-6-spieltags-1262788/slideshow#omrss",
    "ts": "2026-10-18T19:57:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Matarazzo: \"Jugamos el mejor fútbol ofensivo, hicimos cinco goles y pudieron ser más\"",
+   "summary": "El técnico de la Real se mostró muy feliz con el triunfo por goleada en Málaga  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-sociedad/2026/10/18/matarazzo-jugamos-mejor-futbol-ofensivo-hicimos-cinco-goles-pudieron-mas.html",
+   "ts": "2026-10-18T19:27:30+00:00"
   },
   {
    "club": null,
@@ -343,6 +573,26 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Oyarzabal se reencuentra con el gol con doblete",
+   "summary": "El capitán txuriurdin se echó una vez más al equipo a su espalda cuando el Málaga acortó distancia en la segunda parte, para marcar dos goles y devolver la tranquilidad&nbsp;  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-sociedad/2026/10/18/oyarzabal-reencuentra-gol-doblete.html",
+   "ts": "2026-10-18T18:56:24+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "'Maybe we became arrogant' - Sunderland struggles continue",
+   "summary": "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6073pmddk0ko?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T18:49:00+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Blessin wird deutlich: \"Wir brauchen keine Duckmäuser\"",
@@ -350,6 +600,36 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/blessin-wird-deutlich-wir-brauchen-keine-duckmaeuser-1262792/artikel#omrss",
    "ts": "2026-10-18T18:39:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Radu: “Hemos sufrido hasta el final, pero el equipo está creciendo”",
+   "summary": "El meta firmó una actuación espectacular en el encuentro ante el Alavés  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/18/radu-hemos-sufrido-final-equipo-esta-creciendo.html",
+   "ts": "2026-10-18T18:39:03+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+   "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T18:33:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Arsenal substitutes change game - Arteta",
+   "summary": "Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T18:31:09+00:00"
   },
   {
    "club": null,
@@ -375,11 +655,31 @@
    "club": null,
    "league": "Premier League",
    "tag": "News",
+   "title": "Long-range goals from further and further out",
+   "summary": "After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20 seasons.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6jdmy04ryjgo?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T18:09:13+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
    "title": "Premier League: Joker Madueke rettet Arsenal bei Bayern-Generalprobe",
    "summary": "Dieser FC Arsenal muss den Bayern keine Angst machen: Bei Nottingham Forest haben die Londoner eine schwache Partie gezeigt, aber spät gewonnen.",
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/premier-league/joker-madueke-rettet-arsenal-bei-bayern-generalprobe,spielbericht-nottingham-arsenal-100.html",
    "ts": "2026-10-18T18:02:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Neville delivers Carrick warning after Man Utd 'stepping stone' performance",
+   "summary": "Sky Sports pundit Gary Neville believes Manchester United's 1-1 draw at Leeds could be a \"stepping stone\" but has warned that Michael Carrick will have a problem if his side are still 13th in the Premier League come Janu",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/news/11095/13600722/man-utd-boss-michael-carrick-must-not-be-in-bottom-half-come-january-warns-gary-neville-after-leeds-draw",
+   "ts": "2026-10-18T17:59:00+00:00"
   },
   {
    "club": null,
@@ -393,6 +693,26 @@
   },
   {
    "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Nottingham Forest 0-1 Arsenal: Premier League – as it happened",
+   "summary": "A late, deflected winner from Noni Madueke gave Arsenal a vital win in a low-quality game, Forest then missing two good chances to equaliseForest will want – and probably need – to make this game a mess. If it’s open and",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+   "ts": "2026-10-18T17:41:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Quique: \"Si después del partido me dicen que con estos números no hemos puntuado me costaría creerlo\"",
+   "summary": "El técnico lamentó irse de vacío de Vigo pese a hacer \"el mejor partido fuera de casa de la temporada\"  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/alaves/2026/10/18/quique-partido-me-dicen-numeros-hemos-puntuado-me-costaria-creerlo.html",
+   "ts": "2026-10-18T17:40:43+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Nächster langer Ausfall: Auch De Cat fehlt Hoffenheim",
@@ -400,6 +720,46 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/naechster-langer-ausfall-auch-de-cat-fehlt-hoffenheim-1262717/artikel#omrss",
    "ts": "2026-10-18T17:40:07+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory",
+   "summary": "The theme before kick-off was blanks. Or, more precisely, whether either team could stop firing them at the City Ground. It was a detail to make Oliver Glasner extremely uncomfortable that his Nottingham Forest team had",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
+   "ts": "2026-10-18T17:39:57+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Giráldez: “Me voy contento con el resultado, pero no con el partido”",
+   "summary": "El técnico valora la importancia de sumar los tres puntos  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/18/giraldez-me-contento-resultado-partido.html",
+   "ts": "2026-10-18T17:15:39+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Alavés se estrella con Radu",
+   "summary": "Los babazorros aumentaron su producción ofensiva, pero les faltó acierto en la finalización para puntuar en Vigo  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/alaves/2026/10/18/alaves-estrella-radu.html",
+   "ts": "2026-10-18T17:06:52+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Javi Rodríguez: “Lo doy todo por esta camiseta y estoy muy feliz\"",
+   "summary": "El defensa marcó un gol y dio la asistencia del otro  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/18/javi-rodriguez-doy-camiseta-feliz.html",
+   "ts": "2026-10-18T16:58:46+00:00"
   },
   {
    "club": null,
@@ -423,6 +783,16 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Celta encadena dos victorias ligueras en Balaídos nueve meses después",
+   "summary": "Los vigueses acumulan ya seis jornadas sin perder en el campeonato  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/celta/2026/10/18/celta-encadena-dos-victorias-ligueras-balaidos-nueve-meses.html",
+   "ts": "2026-10-18T16:27:31+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Ibrahim Maza überragt bei Leverkusens Sieg gegen Freiburg",
@@ -430,6 +800,26 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
    "ts": "2026-10-18T16:15:54+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Leeds United 1-1 Manchester United: Premier League – as it happened",
+   "summary": "Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors⚽ The Joy of Six: Leeds v Manchester United matchesDaniel Farke, Leeds manager, is the next to speak to Sky Sports:",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live",
+   "ts": "2026-10-18T15:25:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland",
+   "summary": "Bournemouth’s, and Marco Rose’s, wait for a Premier League win is over. Sunderland, locked in the bottom three, are becoming this season’s object lesson in travelling too far, too fast.Once Kevin Danso was dismissed in t",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/bournemouth-sunderland-premier-league-match-report",
+   "ts": "2026-10-18T15:19:30+00:00"
   },
   {
    "club": null,
@@ -443,6 +833,46 @@
   },
   {
    "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Manchester United held as Calvert-Lewin’s Leeds leveller keeps pressure on Carrick",
+   "summary": "What next for Michael Carrick and Manchester United? Game-wise, the answer is the trip to Como on Wednesday yet after failing, again, to double their league win tally to two, you have to wonder the destination for an alr",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/leeds-manchester-united-premier-league-match-report",
+   "ts": "2026-10-18T15:08:48+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
+   "summary": "At last, Fabian Hürzeler has the scalp that matters most to all Brighton fans and in humiliating fashion. Diego Gómez’s breathtaking goal-of-the-season contender from the halfway line, à la David Beckham, was the highlig",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
+   "ts": "2026-10-18T15:06:49+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Budimir: \"Osasuna y Jagoba son como el botón y la camisa\"",
+   "summary": "El croata se acordó de Ramis, de quien valoró su trabajo, tras la victoria ante el Racing  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/osasuna/2026/10/18/budimir-osasuna-jagoba-son-boton-camisa.html",
+   "ts": "2026-10-18T15:05:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Pablo García, muy crítico: \"Hay que mirarse un poco el ombligo todo el mundo\"",
+   "summary": "\"Hay que espabilar ya fuera de casa\", dice el atacante del Racing  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/racing-santander/2026/10/18/pablo-garcia-critico-hay-mirarse-poco-ombligo-mundo.html",
+   "ts": "2026-10-18T14:57:37+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko",
@@ -450,6 +880,26 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/harte-schalker-selbsturteile-und-die-erkenntnis-bei-dzeko-1262620/artikel#omrss",
    "ts": "2026-10-18T14:54:28+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Arrasate: \"Me hacía más falta la victoria a mí que a los jugadores, yo llevaba más tiempo sin ganar\"",
+   "summary": "El técnico de Osasuna no pudo ocultar su alegría tras regresar con victoria  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/osasuna/2026/10/18/arrasate-me-falta-victoria-mi-jugadores-llevaba-ganar.html",
+   "ts": "2026-10-18T14:41:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El 'efecto Jagoba' es inmediato",
+   "summary": "Osasuna gana, convence e ilusiona en El Sadar  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/osasuna/2026/10/18/efecto-jagoba-inmediato.html",
+   "ts": "2026-10-18T14:37:47+00:00"
   },
   {
    "club": "FCN",
@@ -463,6 +913,16 @@
   },
   {
    "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "José Alberto: \"Ha habido muchos condicionantes externos que han afectado en el resultado\"",
+   "summary": "El técnico del Racing se queja del arbitraje en El Sadar, en especial del penalti que dio origen al 1-0  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/racing-santander/2026/10/18/jose-alberto-habido-condicionantes-externos-han-afectado-resultado.html",
+   "ts": "2026-10-18T14:26:53+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "\"Noch nie erlebt\": Werder muss Spiel krankheitsbedingt absagen",
@@ -470,6 +930,16 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/regional/rb/rb-zu-viele-ausfaelle-heutiges-spiel-von-werders-fussballerinnen-abgesagt-100.html",
    "ts": "2026-10-18T13:29:28+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "\"DAS WAR KEIN GLÜCK\"| Interviews mit Miro Muheim und Sebastiaan Bornauw",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=5fak9a_n8ZQ",
+   "ts": "2026-10-18T13:00:04+00:00"
   },
   {
    "club": "HSV",
@@ -483,7 +953,7 @@
   },
   {
    "club": "BVB",
-   "league": "Bundesliga",
+   "league": null,
    "tag": "News",
    "title": "Dortmunds Suche nach der Durchschlagskraft",
    "summary": "Zwei Spiele ohne Treffer sind symptomatisch für die derzeit schwache Offensive von Borussia Dortmund. Dazu kommt die möglicherweise schwere Verletzung von Konstantinos Karetsas.",
@@ -493,13 +963,13 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "LaLiga",
    "tag": "News",
-   "title": "Das Ende der wilden Aktionen: Wie Schäfer Union jetzt stabilisiert",
-   "summary": "Der 27-Jährige ist zurück auf seiner angestammten Position. Dort kann er seine Stärken deutlich besser ausspielen als auf der Zehn.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/das-ende-der-wilden-aktionen-wie-schaefer-union-jetzt-stabilisiert-1262552/artikel#omrss",
-   "ts": "2026-10-18T11:50:23+00:00"
+   "title": "El regreso agridulce de Lo Celso",
+   "summary": "Pellegrini le dio galones al argentino con su primera titularidad y le anularon un gol  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/18/regreso-agridulce-celso.html",
+   "ts": "2026-10-18T11:50:33+00:00"
   },
   {
    "club": null,
@@ -510,6 +980,66 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/regional/wdr/wdr-keine-punkte-keine-leistung-schalke-macht-sich-sorgen-100.html",
    "ts": "2026-10-18T10:44:03+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Bordalás: \"¿Carvajal? Hasta mañana no tomaré la decisión\"",
+   "summary": "El técnico azulón analizó en sala de prensa el duelo del lunes frente al Rayo Vallecano  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/getafe/2026/10/18/bordalas-carvajal-manana-tomare-decision.html",
+   "ts": "2026-10-18T10:37:48+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream",
+   "summary": "How will Nottingham Forest and Arsenal fare today? Here is what to know, including kick-off time, TV channels and live stream optionsWhile the true stakes of this season’s Premier League title race won’t be clear until t",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/how-to-watch-premier-league-nottingham-forest-arsenal",
+   "ts": "2026-10-18T10:30:57+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Una Real aspirina para el Málaga",
+   "summary": "Los donostiarras ya han aliviado dos crisis malaguistas  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/malaga/2026/10/18/real-aspirina-malaga.html",
+   "ts": "2026-10-18T10:29:20+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Real Madrid - Sevilla FC: horario, dónde ver en TV y canal del partido de LaLiga EA Sports",
+   "summary": "Real Madrid y Sevilla FC se enfrentan hoy domingo 18 de octubre a las 21:00 horas en el Santiago Bernabéu en el partido correspondiente a la jornada 9 de LaLiga EA Sports.  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/primera-division/2026/10/18/real-madrid-sevilla-fc-horario-donde-ver-tv-canal-partido-laliga-ea-sports.html",
+   "ts": "2026-10-18T10:20:33+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Athletic espera con nervios las pruebas en la rodilla a Guruzeta",
+   "summary": "Terzic admite la preocupación por el estado del futbolista y dice que \"no tiene buena pinta\"  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/18/athletic-espera-nervios-pruebas-rodilla-guruzeta.html",
+   "ts": "2026-10-18T10:15:10+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Maroan aspira a recuperar en Levante los galones perdidos por la tormenta",
+   "summary": "El delantero iba a ser titular en el Ciutat de Valencia en el partido suspendido por la lluvia  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/18/maroan-aspira-recuperar-levante-galones-perdidos-tormenta.html",
+   "ts": "2026-10-18T10:02:21+00:00"
   },
   {
    "club": "BVB",
@@ -542,6 +1072,166 @@
    "ts": "2026-10-18T08:17:46+00:00"
   },
   {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "La tortura de la grada de Mestalla a Hugo Duro",
+   "summary": "Mestalla castiga al delantero con una 'persecución' durante la hora que estuvo sobre el campo que le dejó tocado  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/valencia/2026/10/18/tortura-grada-mestalla-hugo-duro.html",
+   "ts": "2026-10-18T08:02:11+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool | Sid Lowe",
+   "summary": "It will be a tense time for Europe’s longest serving president, despite the Champions League game at Anfield offering a symbol of how far they have come The first time Fernando Roig watched Villarreal play as their presi",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
+   "ts": "2026-10-18T07:00:53+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Icelander Gardarsson promises two goals in Norway! Can he deliver? 🧐 | Follow us around Europe",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=Rv6I56KDGbU",
+   "ts": "2026-10-18T07:00:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Mou alumbra un nuevo tridente",
+   "summary": "La baja de Vinicius abre un abanico de opciones al técnico pero también el empuje de Diomande y Endrick para renovar el ataque  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-madrid/2026/10/18/mou-alumbra-nuevo-tridente.html",
+   "ts": "2026-10-18T06:47:04+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Do Manchester City have any grounds to win their appeal?",
+   "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-18T06:36:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "\"A Mourinho la moviola le da la razón y el césped se la quita\"",
+   "summary": "El borde del área, por José Luis Hurtado Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/18/mourinho-moviola-le-da-razon-cesped-quita.html",
+   "ts": "2026-10-18T05:15:41+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El problema del Real Madrid no es Tebas ni Goebbels, ¿cuál es?",
+   "summary": "Sin ataduras Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/10/18/problema-real-madrid-tebas-goebbels-cual.html",
+   "ts": "2026-10-18T05:14:44+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "How 'dangerous' Man City maintained 100 per cent record",
+   "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-17T23:00:53+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Aguirre: \"No me preocupa la falta de gol; me preocupa más que nos quiten la pelota\"",
+   "summary": "El técnico del Valencia destaca la mejoría del equipo tras el 0-0 ante el Athletic, defiende el trabajo de Hugo Duro y pide paciencia con los jóvenes de la cantera.  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/valencia/2026/10/17/aguirre-me-preocupa-falta-gol-me-preocupa-mas-quiten-pelota.html",
+   "ts": "2026-10-17T21:53:05+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Espanyol - Osasuna | Quieren salir del borde del abismo",
+   "summary": "Arrasate vuelve con un objetivo, ganar y cortar la mala racha rojilla  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/osasuna/2026/10/17/espanyol-osasuna-quieren-salir-borde-abismo.html",
+   "ts": "2026-10-17T21:36:04+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+   "summary": "Lamine Yamal opens scoring in ninth straight winLuis Díaz hat-trick helps Bayern thump RB Leipzig 6-1Barcelona’s La Liga juggernaut rolled into Seville on Saturday and left with the scoreboard smoking, as the leaders bea",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+   "ts": "2026-10-17T21:33:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Terzic: \"Un partido un poco loco\"",
+   "summary": "El entrenador lamenta la falta de acierto y muestra preocupación por la lesión de Guruzeta  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/17/terzic-partido-poco-loco.html",
+   "ts": "2026-10-17T21:30:26+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Facundo Bernal pide disculpas por su expulsión: \"Debí controlarme\"",
+   "summary": "El jugador del Betis vio la roja en la segunda parte por un cabezazo a Lamine  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/17/facundo-bernal-pide-disculpas-expulsion-debi-controlarme.html",
+   "ts": "2026-10-17T21:12:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "El Athletic vuelve a la Liga igual que la dejó, empatando otra vez sin goles",
+   "summary": "El equipo dejó pasar la oportunidad que le ofreció una primera mitad mejor que el Valencia  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/17/athletic-vuelve-liga-igual-dejo-empatando-vez-goles.html",
+   "ts": "2026-10-17T21:00:35+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
+   "summary": "Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-17T20:55:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
+   "summary": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as they swept aside Real Betis in a seven-goal thriller to stay five points clear at the top of La Liga.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-17T20:49:36+00:00"
+  },
+  {
    "club": "HSV",
    "league": null,
    "tag": "News",
@@ -550,6 +1240,66 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/polzin-der-weg-dem-wir-uns-als-hsv-verschrieben-haben-1262441/video#omrss",
    "ts": "2026-10-17T20:49:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Alarma con la lesión de Guruzeta",
+   "summary": "El delantero se hace daño en la rodilla izquierda al poco de saltar al campo  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/athletic/2026/10/17/alarma-lesion-guruzeta.html",
+   "ts": "2026-10-17T20:44:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Wirtz delivers but remains Liverpool's conundrum",
+   "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-17T20:07:40+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Bellerín: \"Hay dos jugadas dudosas y una la castiga y otra la premia\"",
+   "summary": "El lateral del Betis quiso quitarle al árbitro \"la responsabilidad del resultado\"  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/17/bellerin-hay-dos-jugadas-dudosas-castiga-premia.html",
+   "ts": "2026-10-17T20:03:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Pellegrini: \"Decisiones absolutamente inentendibles e inexplicables\"",
+   "summary": "El chileno explota contra el arbitraje de De Burgos Bengoetxea  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/betis/2026/10/17/pellegrini-decisiones-absolutamente-inentendibles-e-inexplicables.html",
+   "ts": "2026-10-17T19:45:59+00:00"
+  },
+  {
+   "club": null,
+   "league": "LaLiga",
+   "tag": "News",
+   "title": "Braulio descarta el mercado mexicano: \"Hay muchos programas de televisión allí...\"",
+   "summary": "El director deportivo reconoce que la plantilla hay que mejorarla, pero asegura que están trabajando en otras opciones  Leer",
+   "source": "Marca",
+   "url": "https://www.marca.com/futbol/valencia/2026/10/17/braulio-descarta-mercado-mexicano-hay-programas-television.html",
+   "ts": "2026-10-17T19:04:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Newcastle 0-1 Aston Villa: Premier League – as it happened",
+   "summary": "Johan Manzambi scored the only goal to give Aston Villa deserved win at St James’ ParkA reminder of the teams It looks like Joe Willock will play on the right wing for Newcastle, with Joelinton in midfield alongside Nico",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
+   "ts": "2026-10-17T19:00:05+00:00"
   },
   {
    "club": "BVB",
@@ -562,6 +1312,26 @@
    "ts": "2026-10-17T18:44:55+00:00"
   },
   {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "RELIVE: MATCHDAY-PRESSEKONFERENZ MIT MERLIN POLZIN | HSV vs. Stuttgart",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=ou8U5czJLoA",
+   "ts": "2026-10-17T18:40:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
+   "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking mid",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
+   "ts": "2026-10-17T18:38:58+00:00"
+  },
+  {
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
@@ -570,6 +1340,26 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
    "ts": "2026-10-17T18:33:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+   "summary": "Find out which of the English top-flight’s sharp shooters are firing their way up the goalscoring charts Continue reading...",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+   "ts": "2026-10-17T18:30:17+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "\"Haben zu wenig Zählbares kreiert\" | PK mit Niko Kovac nach Union Berlin – Borussia Dortmund",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=8kc0if1XYM8",
+   "ts": "2026-10-17T18:21:32+00:00"
   },
   {
    "club": "BVB",
@@ -583,6 +1373,36 @@
   },
   {
    "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Boos and bananas on day of defiance at Man City",
+   "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+   "ts": "2026-10-17T18:02:39+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "PL Predictions: Spurs to bag rare home win on MNF",
+   "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+   "source": "Sky Sports",
+   "url": "https://www.skysports.com/football/news/11095/13598732/premier-league-predictions-jones-knows-best-bets-leeds-vs-manchester-united-and-more",
+   "ts": "2026-10-17T17:55:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "JAAAAAA!!!!! 😍😍😍😍😍",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/9dSsfxS-rjI",
+   "ts": "2026-10-17T17:39:08+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Bremen schafft gegen Paderborn das nächste Zwei-Tore-Comeback",
@@ -590,6 +1410,16 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/werder-schafft-naechste-zwei-tore-comeback,spielbericht-werder-bremen-sc-paderborn-100.html",
    "ts": "2026-10-17T16:44:44+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Manchester City 3-2 Ipswich, Brentford 1-2 Liverpool, and more: Football clockwatch - as it happened",
+   "summary": "Fulham secured a first win of the season against a dismal Hull, while Liverpool came from behind to beat nine-man BrentfordAndy Hunter’s match report from the Hill Dickinson is here, and you can find it below.Chelsea hav",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-v-ipswich-brentford-v-liverpool-and-more-football-clockwatch-live",
+   "ts": "2026-10-17T16:43:26+00:00"
   },
   {
    "club": "HSV",
@@ -623,6 +1453,46 @@
   },
   {
    "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
+   "summary": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after.Andoni Iraol",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
+   "ts": "2026-10-17T16:21:40+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "HSV & VOLKSPARK RASTEN WIEDER AUS! 😍 | Alle Momente nach Abpfiff | HSV vs. VfB Stuttgart",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=JaorHNXKCK4",
+   "ts": "2026-10-17T16:18:07+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
+   "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
+   "ts": "2026-10-17T16:08:40+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
+   "summary": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question, the former Real Madrid manager has a Premier Leagu",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
+   "ts": "2026-10-17T16:08:39+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "Schalke enttäuscht bei nächstem Auswärtscoup von Mainz 05",
@@ -630,646 +1500,6 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
    "ts": "2026-10-17T16:00:52+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
-   "summary": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel#omrss",
-   "ts": "2026-10-17T15:46:21+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
-   "summary": "Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
-   "ts": "2026-10-17T15:45:41+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "Spiel",
-   "title": "1. FC Union Berlin 0:0 Borussia Dortmund",
-   "summary": "Endergebnis",
-   "source": "OpenLigaDB",
-   "url": "",
-   "ts": "2026-10-17T13:30:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Spiel",
-   "title": "Hamburger SV 1:0 VfB Stuttgart",
-   "summary": "Endergebnis",
-   "source": "OpenLigaDB",
-   "url": "",
-   "ts": "2026-10-17T13:30:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Pauline Bremer mit Dreierpack im Jubiläumsspiel",
-   "summary": "Der 1. FC Köln hat am 7. Spieltag der Frauen-Bundesliga einen verdienten Sieg über den Hamburger SV eingefahren.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-pauline-bremer-mit-dreierpack-im-jubilaeumsspiel-100.html",
-   "ts": "2026-10-17T12:11:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "An Zahlen nicht ablesbar: Was Beier für Kovac so wertvoll macht",
-   "summary": "Die Kritik an Maximilian Beier wehrte Niko Kovac auf der Pressekonferenz am Freitag mit Lob ab. Der einstige Mittelstürmer wird auch in den kommenden Wochen ein wichtiger Faktor für Borussia Dortmund bleiben.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/an-zahlen-nicht-ablesbar-was-beier-fuer-kovac-so-wertvoll-macht-1262027/artikel#omrss",
-   "ts": "2026-10-17T06:26:30+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln",
-   "summary": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
-   "ts": "2026-10-16T21:16:05+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Klose lobt Wollitz: \"Fragen Sie lieber den Mann rechts von mir\"",
-   "summary": "Miroslav Klose ist trotz des 1:1-Remis gegen Energie Cottbus zufrieden mit seiner Mannschaft. Der FCN-Coach wusste, welcher Fußball seine Mannschaft erwartet. Pele Wollitz sprach anschließend über sein Vermächtnis für di",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/klose-lobt-wollitz-fragen-sie-lieber-den-mann-rechts-von-mir-1262150/video#omrss",
-   "ts": "2026-10-16T20:18:54+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Schulter ausgekugelt: Nürnberg sorgt sich um Top-Torjäger Zoma",
-   "summary": "Er ist der Top-Torjäger des 1. FC Nürnberg und der 2. Bundesliga: Nun droht Mohamed Ali Zoma aber eine Zwangspause. Der italienische Nationalstürmer hat sich bei Energie Cottbus die Schulter ausgekugelt.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/schulter-ausgekugelt-nuernberg-sorgt-sich-um-top-torjaeger-zoma-1262095/artikel#omrss",
-   "ts": "2026-10-16T18:49:52+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": "2. Bundesliga",
-   "tag": "Spiel",
-   "title": "Energie Cottbus 1:1 1. FC Nürnberg",
-   "summary": "Endergebnis",
-   "source": "OpenLigaDB",
-   "url": "",
-   "ts": "2026-10-16T16:30:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Stadionallianzen - was im Westen schiefläuft",
-   "summary": "Warum funktioniert in NRW nicht, was anderswo erfolgreich ist? Fanprojekte und Kommunen fühlen sich übergangen. Ist das Projekt bereits gescheitert?",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/stadionallianzen-was-im-westen-schief-laeuft,stadionallianzen-fussball-100.html",
-   "ts": "2026-10-16T15:45:39+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Kovacs klarer Appell - und seine Anforderung für die Startelf",
-   "summary": "Das 2:2 gegen Bremen war ein Rückschlag, das 0:1 in Bodö ein echter Dämpfer. Doch in anspruchsvollen Wochen von Borussia Dortmund bleibt nicht viel Zeit, um darüber nachzudenken. Gegen Union Berlin will Niko Kovac auf di",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/kovacs-klarer-appell-und-seine-anforderung-fuer-die-startelf-1261992/artikel#omrss",
-   "ts": "2026-10-16T12:29:42+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "\"Das ist mir zu billig\": Kovac stellt sich vor Beier",
-   "summary": "Niko Kovac stellte sich auf der BVB-PK vor Maximilian Beier, der immer häufiger in der Kritik steht. Für den Dortmund-Trainer nicht nachvollziehbar.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/das-ist-mir-zu-billig-kovac-stellt-sich-vor-beier-1261991/video#omrss",
-   "ts": "2026-10-16T11:00:56+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Als Koller, Großkreutz, Tarnat & Co. auf einmal Torhüter waren",
-   "summary": "Was haben Jan Koller, Michael Tarnat, Mike Büskens, Jan Rosenthal, Sebastian Polter und Kevin Großkreutz gemeinsam? Sie alle mussten auf einmal ungeplant ins Tor ihrer Mannschaft - mit unterschiedlichen Ausgängen...",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/als-koller-grosskreutz-tarnat-co-auf-einmal-torhueter-waren-1260908/video#omrss",
-   "ts": "2026-10-16T10:40:56+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Klose fordert Energie gegen Cottbus: \"Mit das schwierigste Spiel\"",
-   "summary": "Miroslav Klose warnt vor dem Auswärtsspiel in Cottbus und benennt es als eine der schwierigsten Aufgaben der Saison. Der Nürnberg-Trainer fordert Energie, wie in der zweiten Hälfte des 4:4 gegen Wolfsburg am vergangenen",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/klose-fordert-energie-gegen-cottbus-mit-das-schwierigste-spiel-1261803/video#omrss",
-   "ts": "2026-10-15T15:27:41+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?",
-   "summary": "Bei beiden Siegen des Hamburger SV in dieser Saison standen sowohl Nicolai Remberg als auch Albert Sambi Lokonga auf der Doppelsechs in der Startelf. Gegen Stuttgart droht dort nun eine Komplettrotation.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nach-remberg-aus-fehlt-dem-hsv-auch-sambi-lokonga-gegen-stuttgart-1261737/artikel#omrss",
-   "ts": "2026-10-15T13:36:02+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Das Bundesliga-Quiz zum 6. Spieltag",
-   "summary": "Zwischen den 2. und 3. Spieltagen in der Champions und Europa League findet der 6. Spieltag in der Bundesliga statt. Erholen sich der FC Bayern und Borussia Dortmund von ihren Dämpfern in Norwegen? Wie reagiert Frankfurt",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/das-bundesliga-quiz-zum-6-spieltag-1261672/artikel#omrss",
-   "ts": "2026-10-15T09:04:35+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Mangelhafte Offensive: Die Noten zur BVB-Pleite bei Bodö/Glimt",
-   "summary": "Borussia Dortmund hat nach einer schwachen Leistung verdient mit 0:1 bei Außenseiter Bodö/Glimt verloren. Zwei BVB-Spieler haben für ihren Auftritt die kicker-Note 5 erhalten.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/mangelhafte-offensive-die-noten-zur-bvb-pleite-bei-bodoe-glimt-1261611/slideshow#omrss",
-   "ts": "2026-10-15T08:55:40+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Vierte CL-Auswärtsniederlage in Folge: \"Kein gutes Omen für die nächsten Wochen\"",
-   "summary": "Der BVB musste gegen Bodö/Glimt die vierte Auswärtsniederlage in der Champions League in Serie hinnehmen. Warum das kein gutes Omen für die nächsten Wochen ist, erklärt kicker-Reporter Patrick Kleinmann.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/vierte-cl-auswaertsniederlage-in-folge-kein-gutes-omen-fuer-die-naechsten-wochen-1261533/video#omrss",
-   "ts": "2026-10-14T22:59:24+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Kovac bedient nach Bodö-Pleite: \"Defensiv nicht stattgefunden\"",
-   "summary": "Niko Kovac äußert sich zur 1:0-Niederlage gegen Bodö/Glimt und kritisiert vor allem das Defensivverhalten seiner Mannschaft. Die Verantwortung für die Aufstellung nimmt der BVB-Trainer auf sich.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/kovac-bedient-nach-bodoe-pleite-defensiv-nicht-stattgefunden-1261532/video#omrss",
-   "ts": "2026-10-14T22:57:11+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Kovac nach Niederlage am Polarkreis: \"Nehme ich auf meine Kappe\"",
-   "summary": "Fast eine Stunde lang verschlief Borussia Dortmund die Partie bei FK Bodö/Glimt, erwachte erst nach einem Rückstand. Ein Comeback gelang anschließend auch deshalb nicht mehr, weil insbesondere die letzte Leidenschaft gef",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/kovac-nach-niederlage-am-polarkreis-nehme-ich-auf-meine-kappe-1261517/artikel#omrss",
-   "ts": "2026-10-14T22:12:13+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Nmecha: \"Nicht so tun, als ob alles schlecht ist\"",
-   "summary": "Borussia Dortmund verlor bei Bodö/Glimt mit 0:1. BVB-Mittelfeldspieler Felix Nmecha versuchte in der Mixed Zone die Gründe dafür finden, warnte aber auch davor \"alles schlecht\" zu reden.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nmecha-nicht-so-tun-als-ob-alles-schlecht-ist-1261523/video#omrss",
-   "ts": "2026-10-14T21:57:26+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Book: Kunstrasen \"war ein Nachteil, definitiv\"",
-   "summary": "Ole Book sprach nach der enttäuschenden 0:1-Pleite des BVB gegen Bodö/Glimt über den ungewohnten Untergrund und die Leistung der Dortmunder.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/book-kunstrasen-war-ein-nachteil-definitiv-1261521/video#omrss",
-   "ts": "2026-10-14T21:53:17+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Transfer",
-   "title": "HSV: Erster Auftrag für das Remberg-Double",
-   "summary": "Beim Hamburger 3:2-Erfolg in Hoffenheim kam Kofi Amoako zu seinen ersten Einsatzminuten seit seinem Wechsel. Weil der Kapitän mit Kreuzbandriss voraussichtlich bis zum Saisonende ausfällt, ist er fortan als Abräumer im M",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/hsv-erster-auftrag-fuer-das-remberg-double-1261272/artikel#omrss",
-   "ts": "2026-10-14T13:20:46+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "\"Ey, wir fressen die auf\": Wie sich der FCN Respekt verschafft",
-   "summary": "Der 1. FC Nürnberg kann nicht nur in Führung gehen, sondern auch Rückstände aufholen. Nicht nur für die eigenen Köpfe ist das eine wichtige Erkenntnis.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/ey-wir-fressen-die-auf-wie-sich-der-fcn-respekt-verschafft-1260454/artikel#omrss",
-   "ts": "2026-10-13T11:40:16+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Poulsens Quoten-Geheimnis",
-   "summary": "Beim 3:2-Auswärtssieg des Hamburger SV in Hoffenheim hat Yussuf Poulsen sein zweites Saisontor erzielt und damit bereits seine Vorjahres-Quote verdoppelt. Es ist nicht die einzige Zahl, die der Sturm-Routinier gesteigert",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/poulsens-quoten-geheimnis-1260821/artikel#omrss",
-   "ts": "2026-10-13T11:27:29+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "HSV: Deshalb bleibt Muheims Perspektive schwierig",
-   "summary": "In Hoffenheim gehörte Miro Muheim erstmals in dieser Spielzeit zum HSV-Kader und hatte als Joker direkt entscheidenden Anteil am 3:2-Sieg. Die Perspektive des Schweizers verändert sich dadurch jedoch zumindest nicht zwan",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/hsv-deshalb-bleibt-muheims-perspektive-schwierig-1260561/artikel#omrss",
-   "ts": "2026-10-12T16:49:50+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Nach nur acht Monaten: Fink nicht mehr Trainer von Samsunspor",
-   "summary": "Zuletzt gab sich Thorsten Fink als Trainer des türkischen Erstligisten Samsunspor noch kämpferisch. Kurze Zeit nach seiner viral gegangenen Motivationsrede ist er seinen Job in der Türkei aber los. Nach nur acht Monaten.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nach-nur-acht-monaten-fink-nicht-mehr-trainer-von-samsunspor-1260642/artikel#omrss",
-   "ts": "2026-10-12T16:30:09+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der FCN ein Top-Team? Klose stimmt zu",
-   "summary": "Mit welcher Wucht und Klasse die junge FCN-Mannschaft nach der Pause gegen die Wölfe ein 0:2 dreht, imponiert und zeigt, dass sie zu Recht auf Rang 2 steht.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/der-fcn-ein-top-team-klose-stimmt-zu-1260200/artikel#omrss",
-   "ts": "2026-10-12T11:35:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Auch HSV-Eintracht: Sogar drei Spiele der 2. Pokalrunde laufen im Free-TV",
-   "summary": "Seit Montagvormittag steht fest, dass mit dem Frankfurter Gastspiel in Hamburg auch eine dritte Partie der 2. Pokalrunde live im Free-TV übertragen wird.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/auch-hsv-eintracht-sogar-drei-spiele-der-2-pokalrunde-laufen-im-free-tv-1260486/artikel#omrss",
-   "ts": "2026-10-12T09:02:31+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
-   "summary": "Der 1. FC Köln hat Borussia Mönchengladbach in einem hitzigen rheinischen Derby eine weitere Niederlage zugefügt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
-   "ts": "2026-10-12T07:28:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg",
-   "summary": "Am 5. Spieltag der laufenden Bundesligasaison hat Union Berlin gegen Elversberg den ersten Sieg eingefahren. In einer umkämpften Partie erzielte Livan Burcu das entscheidende Tor.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/burcu-treffer-stoppt-unions-sieglosserie,video-bundesliga-union-berlin-sv-07-elversberg-100.html",
-   "ts": "2026-10-11T22:00:30+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Leverkusen behält bei Spektakel in Mainz die Oberhand",
-   "summary": "Mainz 05 reichen drei eigene Treffer nicht, um etwas Zählbares aus dem Heimspiel gegen Bayer Leverkusen mitzunehmen. Die Werkself holt ihren ersten Bundesliga-Auswärtssieg der Saison.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-in-wildem-schlagabtausch-die-oberhand,video-bundesliga-fsv-mainz-05-bayer-04-leverkusen-100.html",
-   "ts": "2026-10-11T22:00:29+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Augsburg nutzt Neuer-Patzer bei Remis gegen Bayern",
-   "summary": "Der FC Augsburg und der FC Bayern München trennen sich mit 2:2. Bereits die erste Szene des Spiels sorgte für Spektakel.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/augsburg-nutzt-neuer-patzer-bei-remis-gegen-bayern,video-bundesliga-fc-augsburg-fc-bayern-muenchen-104.html",
-   "ts": "2026-10-11T22:00:24+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Freiburg dank Goto am Platz an der Sonne",
-   "summary": "Der SC Freiburg steht nach dem 5. Spieltag an der Tabellenspitze der Bundesliga. Gegen Schalke 04 gelang der Siegtreffer sogar mit einem Mann weniger auf dem Platz.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/freiburg-dank-goto-am-platz-an-der-sonne,video-bundesliga-sc-freiburg-fc-schalke-04-100.html",
-   "ts": "2026-10-11T22:00:23+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: El Malas Traumtor beschert Köln den Derbysieg",
-   "summary": "Borussia Mönchengladbach wartet auch nach dem rheinischen Derby auf den ersten Punkt in dieser Bundesliga-Saison. Said El Malas Traumtor entscheidet ein umkämpftes Spiel.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/el-malas-traumtor-beschert-koeln-derbysieg,video-bundesliga-1-fc-koeln-borussia-moenchengladbach-100.html",
-   "ts": "2026-10-11T22:00:22+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Dreifacher Nkunku überragt bei Leipziger Kantersieg",
-   "summary": "Eintracht Frankfurt liegt in Leipzig bereits zur Pause mit 0:4 hinten und kassiert am Ende ein halbes Dutzend Gegentore. RB überzeugt auf ganzer Linie und verschärft die SGE-Krise.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/dreifacher-nkunku-ueberragt-bei-leipziger-kantersieg,video-bundesliga-rb-leipzig-eintracht-frankfurt-108.html",
-   "ts": "2026-10-11T22:00:13+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Führich-Hammer besiegelt Paderborns Pleite gegen Stuttgart",
-   "summary": "Trotz einer kämpferischen Leistung in der zweiten Hälfte muss sich der SC Paderborn dem VfB Stuttgart mit 0:2 geschlagen geben. Chris Führich sorgt mit dem 2:0 für die Entscheidung.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/fuehrich-hammer-besiegelt-paderborner-niederlage,video-bundesliga-sc-paderborn-07-vfb-stuttgart-100.html",
-   "ts": "2026-10-11T22:00:08+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Rückkehrer Füllkrug bringt BVB zum Schweigen",
-   "summary": "Dortmund und Bremen trennen sich nach einer spektakulären Schlussphase mit einem Unentschieden. Ausgerechnet Niclas Füllkrug entreißt seinem Ex-Klub den sicher geglaubten Sieg.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/rueckkehrer-fuellkrug-bringt-bvb-zum-schweigen,video-bundesliga-borussia-dortmund-werder-bremen-100.html",
-   "ts": "2026-10-11T22:00:04+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Muheims Last-Minute-Tor krönt HSV-Comeback",
-   "summary": "Der Hamburger SV nimmt drei Punkte aus Hoffenheim mit. In einer hart umkämpften Partie fiel die Entscheidung zum 3:2 für den HSV erst in der Nachspielzeit.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/muheims-last-minute-tor-kroent-hsv-comeback,video-bundesliga-tsg-1899-hoffenheim-hamburger-sv-100.html",
-   "ts": "2026-10-11T22:00:01+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Löst nun Amoako die HSV-Probleme?",
-   "summary": "Der Kreuzbandriss von Nicolai Remberg überschattet den Hamburger Sieg in Hoffenheim. Immerhin: Anders als in der Vorsaison ist mit Sommer-Zugang Kofi Amoako nun ein Profi im Kader, der vom Profil her zum direkten Ersatz",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/loest-nun-amoako-die-hsv-probleme-1260250/artikel#omrss",
-   "ts": "2026-10-11T19:15:50+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
-   "summary": "Ein Joker hat im Breisgau für etwas beinahe Einmaliges gesorgt: Dank des späten Tores von Keisuke Goto gegen Schalke 04 ist der SC Freiburg nach dem fünften Spieltag Tabellenführer.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-   "ts": "2026-10-11T18:26:55+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-   "summary": "Mehrere zurückgenommene Treffer, ein Platzverweis, eine Verletzung und ein spätes Traumtor zum Sieg - die Partie zwischen Hoffenheim und Hamburg hatte wirklich alles.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-   "ts": "2026-10-11T12:04:34+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Kreuzbandriss: Remberg fehlt dem HSV lange",
-   "summary": "In den ersten Auswärtssieg des Hamburger SV in Hoffenheim mischte sich ein bitterer Beigeschmack in den Freudenbecher: Nicolai Remberg verletzte sich dabei - schwer, wie sich nun nach der genauen Diagnose herausstellte.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/kreuzbandriss-remberg-fehlt-dem-hsv-lange-1260093/artikel#omrss",
-   "ts": "2026-10-11T09:13:20+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Keine Zeit zum Verschnaufen in Nürnberg: \"Unfassbare Emotionen\"",
-   "summary": "Diese Nachspielzeit in Nürnberg zwischen dem FCN und Wolfsburg wird allen Stadionbesuchern noch lange in Erinnerung bleiben. Die Partie hielt unzählige Wendungen parat, ehe am Ende der VfL über das 4:4 jubeln durfte.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/keine-zeit-zum-verschnaufen-in-nuernberg-unfassbare-emotionen-1260029/video#omrss",
-   "ts": "2026-10-10T21:25:17+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Hattrick Nkunku - Leipziger Kantersieg gegen Frankfurt",
-   "summary": "RB Leipzig feiert einen Kantersieg gegen eine ganz schwache Frankfurter Eintracht. Christopher Nkunku sorgte mit einem Hattrick schon vor der Pause für klare Verhältnisse.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
-   "ts": "2026-10-10T19:55:46+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Muheim wird zum HSV-Helden: \"Er kam, er brauchte ein bisschen, er siegte\"",
-   "summary": "Miro Muheim nutzte seinen ersten Saisoneinsatz direkt dazu, der Held des Tages für den HSV zu werden. Mit einer Vorlage und einem Treffer sicherte er den Rothosen den Sieg.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/muheim-wird-zum-hsv-helden-er-kam-er-brauchte-ein-bisschen-er-siegte-1259933/video#omrss",
-   "ts": "2026-10-10T17:53:19+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Verdacht auf Kreuzbandriss: HSV bangt um Leader Remberg",
-   "summary": "Als der glückliche 3:2-Sieg in Hoffenheim perfekt war, drückte Merlin Polzin seinen Kapitän ganz fest und innig an sich. Nicolai Remberg war bereits in der ersten Hälfte mit Verdacht auf Kreuzbandriss ausgeschieden - der",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/verdacht-auf-kreuzbandriss-hsv-bangt-um-leader-remberg-1259893/artikel#omrss",
-   "ts": "2026-10-10T16:57:29+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Stuttgart reicht gegen Paderborn eine starke Halbzeit",
-   "summary": "Der VfB Stuttgart dominierte beim SC Paderborn die erste Halbzeit, musste dann aber noch um den Sieg zittern.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/fuehrich-erloest-vfb-in-paderborn-spaet,spielbericht-sc-paderborn-vfb-stuttgart-102.html",
-   "ts": "2026-10-10T16:55:14+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Union feiert erlösenden Sieg gegen Elversberg",
-   "summary": "Joker Livan Burcu bricht gegen die SV Elversberg den Bann und ermöglicht Union Berlin in der Fußball-Bundesliga den lang ersehnten ersten Saisonsieg.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/union-feiert-gegen-elversberg-ersten-saisonsieg,spielbericht-union-berlin-sv-elversberg-100.html",
-   "ts": "2026-10-10T16:18:23+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Drei Tore reichen Mainz gegen Leverkusen nicht zum ersten Heimsieg",
-   "summary": "Bayer Leverkusen hat in der Fußball-Bundesliga einen Sieg beim 1. FSV Mainz 05 eingefahren. Dabei wehrten sich die Rheinhessen nach Kräften, doch auch drei Tore reichten nicht zum Punktgewinn.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/drei-tore-reichen-mainz-nicht-zum-ersten-heimsieg,spielbericht-mainz-05-bayer-leverkusen-100.html",
-   "ts": "2026-10-10T15:54:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
-   "summary": "Nach der Länderspielpause patzt der FC Bayern München im bayerischen Bundesliga-Duell beim Angstgegner FC Augsburg. Im Mittelpunkt: Manuel Neuer und Robin Fellhauers Bundesliga-Rekord.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
-   "ts": "2026-10-10T15:53:09+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch",
-   "summary": "2008 wurde das Spiel zwischen dem 1. FC Nürnberg und dem VfL Wolfsburg abgebrochen - der erste Spielabbruch der Bundesliga-Geschichte aufgrund von Regen. Das Wiederholungsspiel gewann der Club mit 1:0.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/regenschlacht-von-nuernberg-absurde-szenen-und-ein-historischer-spielabbruch-1259808/video#omrss",
-   "ts": "2026-10-10T11:53:59+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Bestandsaufnahme extrem: Auf diese Faktoren kommt es für den FCN an",
-   "summary": "Der 1. FC Nürnberg steht vor dem Härtetest schlechthin, am Samstag ist der VfL Wolfsburg zum Topspiel zu Gast. Was gegen den Aufstiegsfavoriten Nummer 1 wichtig wird ...",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/bestandsaufnahme-extrem-auf-diese-faktoren-kommt-es-fuer-den-fcn-an-1258809/artikel#omrss",
-   "ts": "2026-10-10T08:13:28+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Wer überträgt 1. FC Nürnberg gegen VfL Wolfsburg live im Free-TV und Stream?",
-   "summary": "Im Topspiel des 7. Spieltags der 2. Liga treffen der 1. FC Nürnberg und der VfL Wolfsburg aufeinander. Wo ihr die Partie live verfolgen könnt, erfahrt ihr hier.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/wer-uebertraegt-1-fc-nuernberg-gegen-vfl-wolfsburg-live-im-free-tv-und-stream-1257317/artikel#omrss",
-   "ts": "2026-10-10T06:38:32+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Bayerns Bilanz gegen Bayern - und wo sich der FCA einreiht",
-   "summary": "Am Samstag steigt mal wieder das derzeit einzige Duell zwischen bayerischen Erstligisten. Der FC Augsburg empfängt die Bayern. Ein Blick auf die Bilanz des Rekordmeisters gegen Teams aus dem Freistaat - mit legendären Du",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/bayerns-bilanz-gegen-bayern-und-wo-sich-der-fca-einreiht-1259274/artikel#omrss",
-   "ts": "2026-10-10T06:34:32+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bremens Füllkrug schockiert den BVB in der Nachspielzeit",
-   "summary": "Borussia Dortmund führt gegen Werder Bremen bis zur 88. Minute mit 2:0 - und lässt dann seinen Ex-Angreifer aus den Augen.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
-   "ts": "2026-10-09T21:17:49+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Mit \"halbvollem Tank\" ans Ziel? Auch Moffi ist eine Kaderoption gegen Hoffenheim",
-   "summary": "Der Hamburger SV kehrt aus der Länderspielpause zurück - mit Ausfällen, aber auch rechtzeitig fit gewordenen Rückkehrern. Hinter Zakaria El Ouahdi steht ein Fragezeichen.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/mit-halbvollem-tank-ans-ziel-auch-moffi-ist-eine-kaderoption-gegen-hoffenheim-1259346/artikel#omrss",
-   "ts": "2026-10-08T14:20:02+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Rassismus und Gewalt: Pherai über \"das schlimmste Spiel meiner Karriere\"",
-   "summary": "Immanuel Pherai war mit der Nationalmannschaft von Suriname auf Länderspielreise - und erlebte dort das schlimmste Spiel seiner Karriere. Nach seiner Rückkehr nach Hamburg sprach der HSV-Profi über das Geschehene.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/rassismus-und-gewalt-pherai-ueber-das-schlimmste-spiel-meiner-karriere-1259311/artikel#omrss",
-   "ts": "2026-10-08T13:23:14+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Klose: \"Können das zu Recht als Topspiel werten\"",
-   "summary": "Nürnberg-Trainer Miroslav Klose spricht auf der Pressekonferenz vor dem Spiel gegen Wolfsburg über die Stärken und Schwächen beider Mannschaften und wieso es ein Topspiel werden kann.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/klose-koennen-das-zu-recht-als-topspiel-werten-1259336/video#omrss",
-   "ts": "2026-10-08T12:45:08+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Das Bundesliga-Quiz zum 5. Spieltag",
-   "summary": "Nach der langen Länderspielpause steht die Bundesliga wieder im Fokus. Legt der BVB gegen Bremen am 5. Spieltag vor und bleibt Spitzenreiter? Die Bayern müssen zu stark gestarteten Augsburgern. Gladbachs neuer Coach Alex",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/das-bundesliga-quiz-zum-5-spieltag-1259115/artikel#omrss",
-   "ts": "2026-10-07T16:40:39+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Torwart-Tore: Ein Derby-Held, ein brisantes Duell und 35 Sekunden für die Geschichtsbücher",
-   "summary": "Jeder auf dem Fußballplatz hat seinen Job. Der Stürmer soll Tore schießen, der Torwart soll Tore verhindern. Aber was, wenn sich die Rollen drehen? 38 Torwarttore wurden in der Bundesliga-Historie erzielt - von insgesamt",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/torwart-tore-ein-derby-held-ein-brisantes-duell-und-35-sekunden-fuer-die-geschichtsbuecher-1258993/video#omrss",
-   "ts": "2026-10-07T10:32:24+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "HSV: Der Not-Plan gegen die Sturm-Sorgen",
-   "summary": "Nach der frühen Auswechslung im Test gegen den FC Kopenhagen hatte Yussuf Poulsen am Sonntag umgehend Entwarnung gegeben. Zumindest beim Start in die neue Trainingswoche aber arbeitete der Sturm-Routinier noch individuel",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/hsv-der-not-plan-gegen-die-sturm-sorgen-1259007/artikel#omrss",
-   "ts": "2026-10-07T10:19:53+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Langwierige Gerichtsprozesse vermeiden: Bundesliga-Präsidium setzt bei 50+1 auf Konsens",
-   "summary": "Das Bundesliga-Präsidium strebt nach der finalen Einschätzung des Bundeskartellamtes zur 50+1-Regel eine gemeinsame Lösung mit den Ausnahmeklubs an. Dazu sollen dem Ligaverband im ersten Halbjahr 2027 finale Vorschläge z",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/langwierige-gerichtsprozesse-vermeiden-bundesliga-praesidium-setzt-bei-501-auf-konsens-1258736/artikel#omrss",
-   "ts": "2026-10-06T10:04:32+00:00"
   }
  ]
 }
