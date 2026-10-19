@@ -24,7 +24,7 @@ FEEDS = [
     ("https://as.com/rss/futbol/primera.xml", "AS", "LaLiga", None),
     # Regionalzeitungen und Vereinsseiten: weitere Feeds hier als neue Zeile eintragen
 ]
-# YouTube-Kanäle (Handle, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
+# YouTube-Kanäle (Handle wie @bvb oder Kanalnummer wie UCxxxx, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
 YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
 CLUBS = {"BVB": ["dortmund", "bvb"], "HSV": ["hsv", "hamburger sv"],
          "FCN": ["nürnberg", "nuernberg"], "SCW": ["weiche flensburg", "sc weiche"]}
@@ -102,9 +102,13 @@ def feed_items(url, source, league, club, tag=None):
 
 
 def yt_items(handle, club):
-    html = get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
+    html = "channel_id=" + handle if handle.startswith("UC") else get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
     m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
-    return feed_items("https://www.youtube.com/feeds/videos.xml?channel_id=" + m.group(1), "YouTube", None, club, "Video")
+    if not m:
+        raise Exception("Keine Kanalnummer gefunden auf https://www.youtube.com/" + handle)
+    url = "https://www.youtube.com/feeds/videos.xml?channel_id=" + m.group(1)
+    print("YouTube", handle, "->", url)
+    return feed_items(url, "YouTube", None, club, "Video")
 
 
 def matches():
@@ -136,7 +140,7 @@ for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items,
         print("OK ", args[0] if args else "OpenLigaDB", len(got))
         items += got
     except Exception as ex:
-        print("FEHLER", args[0] if args else "OpenLigaDB", ex)
+        print("FEHLER", args[0] if args else "OpenLigaDB", type(ex).__name__, ex)
 
 seen, final = set(), []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
@@ -145,5 +149,7 @@ for i in sorted(items, key=lambda x: x["ts"], reverse=True):
         seen.add(k)
         final.append(i)
 if final:
+    vids = [i for i in final if i["tag"] == "Video"][:30]
+    out = sorted(vids + [i for i in final if i["tag"] != "Video"][:150], key=lambda x: x["ts"], reverse=True)
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump({"updated": NOW.isoformat(), "items": final[:150]}, f, ensure_ascii=False, indent=1)
+        json.dump({"updated": NOW.isoformat(), "items": out}, f, ensure_ascii=False, indent=1)

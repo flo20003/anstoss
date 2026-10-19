@@ -52,6 +52,7 @@ article p{margin:0;color:var(--muted);font-size:15px}
 <div class="sh"><strong>Filter</strong><button class="chip" id="cl">Schließen</button></div>
 <div class="row" id="clubs"><h2>Vereine</h2></div>
 <div class="row" id="leagues"><h2>Ligen</h2></div>
+<div class="row" id="types"><h2>Art der Meldung</h2></div>
 </aside>
 <div class="wrap">
 <header>
@@ -68,20 +69,20 @@ article p{margin:0;color:var(--muted);font-size:15px}
 const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
 const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","Regionalliga Nord","SH-Liga","LaLiga","Premier League"];
 let ITEMS=[];
-let selC=new Set(),selL=new Set();
-try{const s=JSON.parse(localStorage.getItem("anstoss")||"null");if(s){selC=new Set(s.c||[]);selL=new Set(s.l||[])}}catch(e){}
-function save(){try{localStorage.setItem("anstoss",JSON.stringify({c:[...selC],l:[...selL]}))}catch(e){}}
+let selC=new Set(),selL=new Set(),selT=new Set();const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
+try{const s=JSON.parse(localStorage.getItem("anstoss")||"null");if(s){selC=new Set(s.c||[]);selL=new Set(s.l||[]);selT=new Set(s.t||[])}}catch(e){}
+function save(){try{localStorage.setItem("anstoss",JSON.stringify({c:[...selC],l:[...selL],t:[...selT]}))}catch(e){}}
 function chip(label,pressed,fn,color){const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",pressed);
 if(color){const d=document.createElement("span");d.className="dot";d.style.background=color;b.appendChild(d)}
 b.appendChild(document.createTextNode(label));b.onclick=fn;return b}
 function ago(m){if(m<0){m=-m;return m<1440?"in "+Math.round(m/60)+" Std.":"in "+Math.round(m/1440)+" Tag(en)"}return m<60?"vor "+m+" Min.":m<1440?"vor "+Math.round(m/60)+" Std.":"vor "+Math.round(m/1440)+" Tag(en)"}
 function render(){
-const cr=document.getElementById("clubs"),lr=document.getElementById("leagues");
+const cr=document.getElementById("clubs"),lr=document.getElementById("leagues"),tr=document.getElementById("types");[...tr.querySelectorAll("button")].forEach(n=>n.remove());TYPES.forEach(t=>tr.appendChild(chip(t,selT.has(t),()=>{selT.has(t)?selT.delete(t):selT.add(t);save();render()})));
 [...cr.querySelectorAll("button")].forEach(n=>n.remove());[...lr.querySelectorAll("button")].forEach(n=>n.remove());
 CLUBS.forEach(([k,n,c])=>cr.appendChild(chip(n,selC.has(k),()=>{selC.has(k)?selC.delete(k):selC.add(k);save();render()},c)));
 LEAGUES.forEach(l=>lr.appendChild(chip(l,selL.has(l),()=>{selL.has(l)?selL.delete(l):selL.add(l);save();render()})));
-const none=!selC.size&&!selL.size;document.getElementById("tg").textContent="Filter"+(none?"":" ("+(selC.size+selL.size)+")");
-const list=ITEMS.filter(i=>none||(i[0]&&selC.has(i[0]))||selL.has(i[1]));
+const none=!selC.size&&!selL.size;document.getElementById("tg").textContent="Filter"+(none&&!selT.size?"":" ("+(selC.size+selL.size+selT.size)+")");
+const list=ITEMS.filter(i=>(!selT.size||selT.has(i[2]))&&(none||(i[0]&&selC.has(i[0]))||selL.has(i[1])));
 const f=document.getElementById("feed");f.textContent="";
 if(!list.length){const e=document.createElement("p");e.className="empty";e.textContent="Keine Meldungen für diese Auswahl. Wähle weitere Vereine oder Ligen.";f.appendChild(e);return}
 list.forEach(i=>{const a=document.createElement("article");
