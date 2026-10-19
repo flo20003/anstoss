@@ -142,6 +142,13 @@ for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items,
     except Exception as ex:
         print("FEHLER", args[0] if args else "OpenLigaDB", type(ex).__name__, ex)
 
+try:
+    with open("news.json", encoding="utf-8") as f:
+        items += [i for i in json.load(f)["items"] if i["tag"] != "Spiel"
+                  and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
+except Exception as ex:
+    print("Alte news.json nicht lesbar:", ex)
+
 seen, final = set(), []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
     k = i["url"] or i["title"]
@@ -149,7 +156,7 @@ for i in sorted(items, key=lambda x: x["ts"], reverse=True):
         seen.add(k)
         final.append(i)
 if final:
-    vids = [i for i in final if i["tag"] == "Video"][:30]
-    out = sorted(vids + [i for i in final if i["tag"] != "Video"][:150], key=lambda x: x["ts"], reverse=True)
+    vids = [i for i in final if i["tag"] == "Video"][:60]
+    out = sorted(vids + [i for i in final if i["tag"] != "Video"][:400], key=lambda x: x["ts"], reverse=True)
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": NOW.isoformat(), "items": out}, f, ensure_ascii=False, indent=1)

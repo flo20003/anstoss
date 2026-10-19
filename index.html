@@ -69,7 +69,7 @@ article p{margin:0;color:var(--muted);font-size:15px}
 const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
 const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","Regionalliga Nord","SH-Liga","LaLiga","Premier League"];
 let ITEMS=[];
-let selC=new Set(),selL=new Set(),selT=new Set();const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
+let LIM=40,selC=new Set(),selL=new Set(),selT=new Set();const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 try{const s=JSON.parse(localStorage.getItem("anstoss")||"null");if(s){selC=new Set(s.c||[]);selL=new Set(s.l||[]);selT=new Set(s.t||[])}}catch(e){}
 function save(){try{localStorage.setItem("anstoss",JSON.stringify({c:[...selC],l:[...selL],t:[...selT]}))}catch(e){}}
 function chip(label,pressed,fn,color){const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",pressed);
@@ -85,7 +85,7 @@ const none=!selC.size&&!selL.size;document.getElementById("tg").textContent="Fil
 const list=ITEMS.filter(i=>(!selT.size||selT.has(i[2]))&&(none||(i[0]&&selC.has(i[0]))||selL.has(i[1])));
 const f=document.getElementById("feed");f.textContent="";
 if(!list.length){const e=document.createElement("p");e.className="empty";e.textContent="Keine Meldungen für diese Auswahl. Wähle weitere Vereine oder Ligen.";f.appendChild(e);return}
-list.forEach(i=>{const a=document.createElement("article");
+list.slice(0,LIM).forEach(i=>{const a=document.createElement("article");
 const m=document.createElement("div");m.className="meta";
 const t=document.createElement("span");t.className="tag t-"+i[2];t.textContent=i[2];
 const l=document.createElement("span");l.textContent=i[1]+" · "+ago(i[6]);
@@ -93,7 +93,7 @@ m.append(t,l);
 const h=document.createElement("h3");if(i[7]){const a2=document.createElement("a");a2.href=i[7];a2.target="_blank";a2.rel="noopener";a2.textContent=i[3];a2.style.color="inherit";h.appendChild(a2)}else h.textContent=i[3];
 const p=document.createElement("p");p.textContent=i[4];
 const s=document.createElement("div");s.className="src";s.textContent="Quelle: "+i[5];
-a.append(m,h,p,s);f.appendChild(a)})}
+a.append(m,h,p,s);f.appendChild(a)});if(list.length>LIM){const b=document.createElement("button");b.className="chip";b.textContent="Mehr anzeigen ("+(list.length-LIM)+")";b.onclick=()=>{LIM+=40;render()};f.appendChild(b)}}
 const mq=matchMedia("(min-width:820px)"),tg=document.getElementById("tg");
 function setOpen(o){document.body.classList.toggle("open",o);tg.setAttribute("aria-expanded",o)}
 tg.onclick=()=>setOpen(!document.body.classList.contains("open"));
