@@ -14,7 +14,18 @@ FEEDS = [
     ("https://newsfeed.kicker.de/team/1-fc-nuernberg", "Kicker", None, "FCN"),
     ("https://www.sportschau.de/fussball/index~rss2.xml", "Sportschau", None, None),
     ("https://www.sportschau.de/fussball/bundesliga/index~rss2.xml", "Sportschau", "Bundesliga", None),
+    # Premier League (geprüfte Adressen)
+    ("https://feeds.bbci.co.uk/sport/football/rss.xml", "BBC Sport", None, None),
+    ("https://www.theguardian.com/football/premierleague/rss", "The Guardian", "Premier League", None),
+    ("https://www.skysports.com/rss/11095", "Sky Sports", None, None),
+    # LaLiga (Adressen noch ungeprüft, im Protokoll nachsehen)
+    ("https://www.theguardian.com/football/laligafootball/rss", "The Guardian", "LaLiga", None),
+    ("https://e00-marca.uecdn.es/rss/futbol/primera-division.xml", "Marca", "LaLiga", None),
+    ("https://as.com/rss/futbol/primera.xml", "AS", "LaLiga", None),
+    # Regionalzeitungen und Vereinsseiten: weitere Feeds hier als neue Zeile eintragen
 ]
+# YouTube-Kanäle (Handle, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
+YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
 CLUBS = {"BVB": ["dortmund", "bvb"], "HSV": ["hsv", "hamburger sv"],
          "FCN": ["nürnberg", "nuernberg"], "SCW": ["weiche flensburg", "sc weiche"]}
 LEAGUES = [("2. Bundesliga", "2. Bundesliga"), ("3. Liga", "3. Liga"), ("Regionalliga", "Regionalliga Nord"),
@@ -47,9 +58,9 @@ def league_of(s):
 
 def tag_of(s):
     s = s.lower()
-    if re.search(r"gerücht|interesse|offenbar|angeblich|soll .* wechseln|vor dem wechsel", s):
+    if re.search(r"gerücht|interesse|offenbar|angeblich|soll .* wechseln|vor dem wechsel|reportedly|linked with|interested in|rumour|according to", s):
         return "Gerücht"
-    if re.search(r"transfer|wechsel|verpflicht|leihe|ablöse|zugang|abgang|vertrag|unterschreibt", s):
+    if re.search(r"transfer|wechsel|verpflicht|leihe|ablöse|zugang|abgang|vertrag|unterschreibt|signs|signing|loan|here we go|fichaje|ficha por|cesión", s):
         return "Transfer"
     return "News"
 
@@ -71,7 +82,7 @@ def parse_date(s):
             return NOW
 
 
-def feed_items(url, source, league, club):
+def feed_items(url, source, league, club, tag=None):
     root = ET.fromstring(get(url))
     out = []
     for e in root.iter():
@@ -84,10 +95,16 @@ def feed_items(url, source, league, club):
         c, l = club or club_of(full), league or league_of(full)
         if not (c or l) or NOW - ts > timedelta(days=14):
             continue
-        out.append({"club": c, "league": l, "tag": tag_of(full),
+        out.append({"club": c, "league": l, "tag": tag or tag_of(full),
                     "title": title, "summary": summ, "source": source, "url": child(e, "link"),
                     "ts": ts.isoformat()})
     return out
+
+
+def yt_items(handle, club):
+    html = get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
+    m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
+    return feed_items("https://www.youtube.com/feeds/videos.xml?channel_id=" + m.group(1), "YouTube", None, club, "Video")
 
 
 def matches():
@@ -113,7 +130,7 @@ def matches():
 
 
 items = []
-for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS]:
+for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items, y) for y in YOUTUBE]:
     try:
         got = fn(*args)
         print("OK ", args[0] if args else "OpenLigaDB", len(got))
