@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:14:05.511046+00:00",
+ "updated": "2026-10-19T11:30:13.521509+00:00",
  "items": [
   {
    "club": "FCN",
@@ -30,6 +30,16 @@
    "source": "OpenLigaDB",
    "url": "",
    "ts": "2026-10-24T13:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ache steigt teilintegriert ins Training ein - Schmied muss pausieren",
+   "summary": "Rund zweieinhalb Wochen nach seiner Muskelverletzung ist Ragnar Ache teilintegriert ins Training des 1. FC Köln zurückgekehrt. Joel Schmied fehlte dagegen verletzt.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ache-steigt-teilintegriert-ins-training-ein-schmied-muss-pausieren-1262978/artikel#omrss",
+   "ts": "2026-10-19T11:13:38+00:00"
   },
   {
    "club": "SCW",
@@ -140,6 +150,16 @@
    "source": "Kicker",
    "url": "https://www.kicker.de/operation-noetig-zoma-fehlt-nuernberg-mindestens-bis-jahreswechsel-1262380/artikel#omrss",
    "ts": "2026-10-19T09:50:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Kurioser Halbzeit-Wirbel: Warum Wiegert so hartnäckig intervenierte",
+   "summary": "Ein aberkanntes Tor, hitzige Diskussionen und ein denkbar knapper Sieg: Beim Duell zwischen dem SC Magdeburg und dem TVB Stuttgart sorgte ein Wechselfehler kurz vor der Halbzeit in der Handball-Bundesliga für eine kurios",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/kurioser-halbzeit-wirbel-warum-wiegert-so-hartnaeckig-intervenierte-1262904/artikel#omrss",
+   "ts": "2026-10-19T09:01:00+00:00"
   },
   {
    "club": null,
@@ -942,16 +962,6 @@
    "ts": "2026-10-18T13:00:04+00:00"
   },
   {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Gerücht",
-   "title": "Rätselraten beim VfB: \"Angebliches Muster\" oder mehr?",
-   "summary": "Der VfB Stuttgart präsentiert sich beim HSV in vielerlei Hinsicht als Wiederholungstäter - doch eine Debatte nervt Sportchef Fabian Wohlgemuth.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/raetselraten-beim-vfb-angebliches-muster-oder-mehr-1262594/artikel#omrss",
-   "ts": "2026-10-18T12:56:51+00:00"
-  },
-  {
    "club": "BVB",
    "league": null,
    "tag": "News",
@@ -1500,6 +1510,296 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga/schalke-enttaeuscht-gegen-mainzer-auswaerts-koenige,spielbericht-schalke-04-mainz-05-100.html",
    "ts": "2026-10-17T16:00:52+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "\"Im Moment nicht vom Glück geküsst\": BVB bangt erneut um Karetsas",
+   "summary": "Konstantinos Karetsas droht eine erneute Zwangspause: Der 18 Jahre junge Grieche verletzte sich beim Gastspiel des BVB bei Union Berlin. Eine genaue Diagnose stand kurz nach Spielschluss noch aus.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/im-moment-nicht-vom-glueck-gekuesst-bvb-bangt-erneut-um-karetsas-1262313/artikel#omrss",
+   "ts": "2026-10-17T15:46:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
+   "summary": "Dieses Spiel hatte alles, was sich Fußballfans wünschen: Viele Tore, strittige Entscheidungen, zwei stürmende Teams - am Ende jubelte die SV Elversberg und nicht der FC Augsburg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
+   "ts": "2026-10-17T15:45:41+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Everton 0-2 Chelsea: Premier League – as it happened",
+   "summary": "Pedro Neto’s goals bookended the second half and earned Chelsea a rare victory at EvertonEverton kick off, and launch it long. Martinez claims the punt.Before the kick-off, everyone takes the knee. It’s the first of two",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+   "ts": "2026-10-17T14:13:31+00:00"
+  },
+  {
+   "club": null,
+   "league": "Premier League",
+   "tag": "News",
+   "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
+   "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the sev",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
+   "ts": "2026-10-17T13:53:13+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "1. FC Union Berlin 0:0 Borussia Dortmund",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-17T13:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "Hamburger SV 1:0 VfB Stuttgart",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "ts": "2026-10-17T13:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "MAGIC MOMENT VON FABIO VIEIRA & ZU BESUCH BEI DANIEL ELFADLI | Matchday-1 | HSV vs. VfB Stuttgart",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=0rGO3MmVjc8",
+   "ts": "2026-10-16T14:39:50+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Stefan Reuter’s Goal Show - happy 60th birthday!",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=30M_ukTR_BA",
+   "ts": "2026-10-16T14:00:01+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "„Wir müssen morgen an die Leistungsgrenze gehen“ | PK mit Niko Kovac | BVB - Union Berlin",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=R1ew72JMozc",
+   "ts": "2026-10-16T10:18:24+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "ALWAYS by our side! 💛",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/NTxzizH6P6w",
+   "ts": "2026-10-15T17:12:46+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "RE-LIVE: PRESSEKONFERENZ MIT MERLIN POLZIN | HSV vs. Stuttgart",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=IfwvEXqwCW8",
+   "ts": "2026-10-15T12:54:02+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Defeat in Norway | Bodø/Glimt - BVB 1-0 | Highlights",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=icXeChfKyGY",
+   "ts": "2026-10-14T22:31:39+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "\"Wir haben zu spät die Kontrolle über das Spiel erhalten\" | Bodø/Glimt - BVB 1:0",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=NtwPyPt0c2k",
+   "ts": "2026-10-14T21:40:27+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Our FANS in NORWAY! 🖤💛",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/dt5xGZFbr1w",
+   "ts": "2026-10-14T19:55:38+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "👨‍🏫 Norwegian Crash Course with Julian Ryerson 🇳🇴🤓",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/TgsdZs3zixw",
+   "ts": "2026-10-14T15:01:44+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "🔎 ARTIFICIAL PITCH INSPECTION IN NORWAY! 🥶 | Inside Training I Bodø/Glimt - BVB",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=t_-cSEvZkFA",
+   "ts": "2026-10-13T18:55:56+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "\"ICH WERDE IMMER VERSUCHEN, DA ZU SEIN!\" | Presserunde mit Nicolai Remberg",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=xNt8hY8Mo-s",
+   "ts": "2026-10-13T16:16:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Pressekonferenz mit Ryerson & Kovac | Bodø/Glimt - BVB | UEFA Champions League",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=Szw6r-62TsE",
+   "ts": "2026-10-13T15:36:01+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "NIKO KOVAC STAYS!  ✍️ 💛🖤",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/KuuPNh0RbKc",
+   "ts": "2026-10-13T10:41:51+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "A New Black & Yellow Café?! 🤨 But first coffee with Bellingham, Karetsas, Nmecha & Sabitzer",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=OYR7fx0vh3w",
+   "ts": "2026-10-12T17:09:34+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "🏟️ THIS is what Bodø/Glimt’s stadium looks like from the inside! | Stadium Tour in Norway 🇳🇴",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=RbVSMTHdZng",
+   "ts": "2026-10-12T17:00:30+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "WAS FÜR EIN COMEBACK! 🔥 | Inside Matchday | TSG Hoffenheim vs. HSV",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=Qz388wjo7Zk",
+   "ts": "2026-10-12T12:58:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "REPORTER SAGEN TOR ZUM HSV-SIEG VORAUS! 😂🔊😍",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/Mq3jOTcFdVY",
+   "ts": "2026-10-11T23:00:24+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "HSV DREHT IRRE PARTIE GEGEN HOFFENHEIM | Highlights | TSG Hoffenheim vs. Hamburger SV",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=MiTjkydzuD0",
+   "ts": "2026-10-11T22:00:15+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Crazy Final Minutes Cost BVB the Home Win | Highlights | BVB vs. Werder Bremen",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=f7GFAxsqXwE",
+   "ts": "2026-10-11T22:00:05+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "\"VIELE GESCHICHTEN DIE GLÜCKLICH MACHEN\" | Matchday-Pressekonferenz | TSG 1899 Hoffenheim vs. HSV",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=HU_rkDKkg90",
+   "ts": "2026-10-11T16:00:22+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "\"UNGLAUBLICH EMOTIONALER TAG\"| Interviews mit Miro Muheim und Otto Stange",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=NSWHqrGEnBE",
+   "ts": "2026-10-11T13:00:37+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "WAS DER COACH SAGT! 🔊",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/6jvlokl0dGk",
+   "ts": "2026-10-11T12:59:19+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "LAST-MINUTE-SIEG & ESKALATION IN HOFFENHEIM! 😍",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=xW-JbFnBa7w",
+   "ts": "2026-10-10T16:40:17+00:00"
   }
  ]
 }
