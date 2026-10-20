@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:15:30.973781+00:00",
+ "updated": "2026-10-20T09:56:32.457347+00:00",
  "items": [
   {
    "club": "BVB",
@@ -2189,6 +2189,7 @@
  "next": [
   {
    "club": "HSV",
+   "id": 83218,
    "league": "Bundesliga",
    "home": "SC Paderborn 07",
    "away": "Hamburger SV",
@@ -2198,6 +2199,7 @@
   },
   {
    "club": "HSV",
+   "id": 87625,
    "league": "DFB-Pokal",
    "home": "Hamburger SV",
    "away": "Eintracht Frankfurt",
@@ -2207,6 +2209,7 @@
   },
   {
    "club": "HSV",
+   "id": 83221,
    "league": "Bundesliga",
    "home": "Eintracht Frankfurt",
    "away": "Hamburger SV",
@@ -2216,6 +2219,7 @@
   },
   {
    "club": "BVB",
+   "id": 83210,
    "league": "Bundesliga",
    "home": "Borussia Dortmund",
    "away": "Eintracht Frankfurt",
@@ -2225,6 +2229,7 @@
   },
   {
    "club": "BVB",
+   "id": 87623,
    "league": "DFB-Pokal",
    "home": "Borussia Dortmund",
    "away": "SV Werder Bremen",
@@ -2234,6 +2239,7 @@
   },
   {
    "club": "BVB",
+   "id": 83219,
    "league": "Bundesliga",
    "home": "FC Bayern München",
    "away": "Borussia Dortmund",
@@ -2243,6 +2249,7 @@
   },
   {
    "club": "FCN",
+   "id": 83652,
    "league": "2. Bundesliga",
    "home": "1. FC Nürnberg",
    "away": "1. FC Kaiserslautern",
@@ -2252,6 +2259,7 @@
   },
   {
    "club": "FCN",
+   "id": 87628,
    "league": "DFB-Pokal",
    "home": "Bayer 04 Leverkusen",
    "away": "1. FC Nürnberg",
@@ -2261,6 +2269,7 @@
   },
   {
    "club": "FCN",
+   "id": 83664,
    "league": "2. Bundesliga",
    "home": "FC St. Pauli",
    "away": "1. FC Nürnberg",
@@ -2668,5 +2677,6 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TSV_Havelse_logo.svg/120px-TSV_Havelse_logo.svg.png"
    }
   ]
- }
+ },
+ "transfers": []
 }
