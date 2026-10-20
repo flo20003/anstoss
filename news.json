@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-20T05:25:23.209626+00:00",
+ "updated": "2026-10-20T05:32:21.732022+00:00",
  "items": [
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der Club / Die ClubWoche Topspiel im Heimbereich ausverkauft!",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/clubwoche-topspiel-im-heimbereich-ausverkauft/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "ClubMänner / Personal Zoma muss an der Schulter operiert werden",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/mohamed-ali-zoma-muss-an-der-schulter-operiert-werden/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der Club / Am 25.10. \"Fit & Friends\"-Spendenlauf zugunsten bedürftiger Menschen",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/am-2510-fit-friends-spendenlauf-zugunsten-beduerftiger-menschen/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der Club Mitgliederversammlung 2026: Termine & Infos",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/mitgliederversammlung-2026-termine-infos/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Fans / Online erhältlich Heimspiel-Tickets im Vorverkauf",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/tickets-fuer-heimspiele-des-1-fcn-hier-laeuft-der-vorverkauf/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Fans / Laufende Vorverkäufe Tickets für Auswärtsspiele",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/tickets-fuer-auswaertsspiele-des-1-fcn-hier-laeuft-der-vorverkauf/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
   {
    "club": "HSV",
    "league": null,
@@ -24,61 +90,6 @@
    "ts": "2026-10-20T04:58:54.470200+00:00"
   },
   {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Akkreditierung für die Heimspiele",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/der-club/medien/akkreditierung-fuer-die-heimspiele/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der Club / Die ClubWoche Topspiel im Heimbereich ausverkauft!",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/clubwoche-topspiel-im-heimbereich-ausverkauft/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "ClubMänner / Personal Zoma muss an der Schulter operiert werden",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/mohamed-ali-zoma-muss-an-der-schulter-operiert-werden/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der Club / Am 25.10. \"Fit & Friends\"-Spendenlauf zugunsten bedürftiger Menschen",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/am-2510-fit-friends-spendenlauf-zugunsten-beduerftiger-menschen/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der Club Mitgliederversammlung 2026: Termine & Infos",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/mitgliederversammlung-2026-termine-infos/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
    "club": "SCW",
    "league": null,
    "tag": "News",
@@ -97,6 +108,17 @@
    "summary": "",
    "source": "SC Weiche",
    "url": "https://weiche-liga.de/klarer-sieg-beim-landesmeister/",
+   "img": "",
+   "ts": "2026-10-20T04:58:54.470200+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Akkreditierung für die Heimspiele",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/home/der-club/medien/akkreditierung-fuer-die-heimspiele/",
    "img": "",
    "ts": "2026-10-20T04:58:54.470200+00:00"
   },
