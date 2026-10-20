@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T19:39:16.143436+00:00",
+ "updated": "2026-10-20T19:44:36.572814+00:00",
  "items": [
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "News",
+   "title": "Nach Negativserie in der Liga: Münster zittert sich im Landespokal weiter",
+   "summary": "Preußen Münster hatte zuletzt in der 3. Liga große Probleme. Auch das Landespokal-Achtelfinale am Dienstag bei der SG Wattenscheid 09 taugte nur bedingt als Mutmacher.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wattenscheid-gegen-muenster-2026-landespokal-westfalen-5267579/spielbericht#omrss",
+   "img": "",
+   "ts": "2026-10-20T19:38:15+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Blick auf die nationale Konkurrenz - Galatasaray S. K. - Forum | Seite 1596",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQm1uMXIyYzZKNllyZDcwUnpRQUtsVDVfWUhQVzFjYWIxRjRMVW4ySWVrSERDNUU5SXhzSlJ2aGdLZEN4dHhtQWZ5aGRobm1FQXpxYXNMUTNoQXhFdEV1Rm9JdjA5V1U2WV9TbnhuZGxuRXhiWGNJc25lWXN3X21FeGlSQ0R0Q3hESHRsSlJ3R3d1R1FJQV9HNk1IT1U4NFV3RWczYXBDa1loaEE?oc=5",
+   "img": "",
+   "ts": "2026-10-20T19:38:00+00:00"
+  },
   {
    "club": null,
    "league": null,
@@ -11,6 +33,17 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2tlRjhyelptdDVhYlBQX1RuUHl6Rkd5eU1KZFkwUEFJYmNyQThSZXg5T25SMFJXOXAxSDQ4MU5FdmdUbjV0U3A5V1RySzlGLUsxMlJtYUVfREhiU282TjNQSlgzSzlBTmp4cXpRUlk0blVvN05HbThCZ2ZKYXhaMGJZTjhNbGYxa2xNbzhyZ3o?oc=5",
    "img": "",
    "ts": "2026-10-20T19:35:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Demichelis will „Mut & Persönlichkeit“ gegen Real sehen – Raum: „Anderes Gesicht zeigen“",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSThGZ3FoVkI4UUpERFdGelo0alp2TFd5cXRjNm5vUV9aZ0xCdExNbkZtWkxXLUt2VWdGM210cjExd0pFSDA4S3RCbnNpMHRVdVhSVko1NlMtUExlUzR6OXltaUUxdmJLX3JsdEY4dDMxUExsUnNGZjd2RVhMRXFOYXRTbHdEd1JRLXEtOC1sbC1RM19FbE0yTFdRX3hxOFg4M1BSQnBzWk04bTRIcWVrMmZxc0k4dERmTEYyM1A0V2paenBJbzhicGVsTWhkb0dqaHJBX0NDcw?oc=5",
+   "img": "",
+   "ts": "2026-10-20T19:32:00+00:00"
   },
   {
    "club": null,
@@ -4498,39 +4531,6 @@
    "ts": "2026-10-16T22:05:00+00:00"
   },
   {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Highlights Kompakt: Dank Ebnoutalib: Frankfurt landet Befreiungsschlag",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOE5rNG95WVdTS29oelp5dG51NmM5ZWxwX3pJOGxKbjhyMncyQW5ZTnIwVHdLN3RtbzlLSDFwRjBTWkR3NmRfQVZYWVZtWlhBVUFUT3d6ejU2OW54YlNNY243QUF4TVBYdl91d1phc25ON3ZxMTF5SE9CbVBSSzFPYmNwek1tT1ctV1RSOUdRVzBzLXEyVXA2TXlmUjJTZ2JEUTFSdGhZTG1pME1oM3UtMmpRVnBDQW4ySy0xMGhR?oc=5",
-   "img": "",
-   "ts": "2026-10-16T21:30:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln",
-   "summary": "Lange mühte sich Eintracht Frankfurt gegen einen harmlosen 1. FC Köln, doch dann griff Noel Aseko ganz tief in seine Trick-Kiste und Younes Ebnoutalib schlug eiskalt zu.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
-   "img": "",
-   "ts": "2026-10-16T21:16:05+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Klose lobt Wollitz: \"Fragen Sie lieber den Mann rechts von mir\"",
-   "summary": "Miroslav Klose ist trotz des 1:1-Remis gegen Energie Cottbus zufrieden mit seiner Mannschaft. Der FCN-Coach wusste, welcher Fußball seine Mannschaft erwartet. Pele Wollitz sprach anschließend über sein Vermächtnis für di",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/klose-lobt-wollitz-fragen-sie-lieber-den-mann-rechts-von-mir-1262150/video#omrss",
-   "img": "",
-   "ts": "2026-10-16T20:18:54+00:00"
-  },
-  {
    "club": "HSV",
    "league": null,
    "tag": "Video",
@@ -6658,7 +6658,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Bara Sapoko Ndiaye",
    "o": "Gambinos Stars",
@@ -6666,7 +6666,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ismael Saibari",
    "o": "PSV Eindhoven",
@@ -6674,7 +6674,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Nathaniel Brown",
    "o": "Eintracht Frankfurt",
@@ -6682,7 +6682,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Sacha Boey",
    "o": "Galatasaray",
@@ -6690,7 +6690,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tarek Buchmann",
    "o": "1. FC Nürnberg",
@@ -6698,7 +6698,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arijon Ibrahimović",
    "o": "FC Augsburg",
@@ -6706,7 +6706,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Bryan Zaragoza",
    "o": "Espanyol Barcelona",
@@ -6714,7 +6714,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Wisdom Mike",
    "o": "Club Brügge",
@@ -6722,7 +6722,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "João Palhinha",
    "o": "Benfica Lissabon",
@@ -6730,7 +6730,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Felipe Chávez",
    "o": "1. FC Magdeburg",
@@ -6738,7 +6738,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Armindo Sieb",
    "o": "Los Angeles FC",
@@ -6746,7 +6746,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noel Aseko Nkili",
    "o": "Eintracht Frankfurt",
@@ -6754,7 +6754,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Lovro Zvonarek",
    "o": "CF Estrela Amadora",
@@ -6762,7 +6762,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alexander Nübel",
    "o": "Beşiktaş Istanbul",
@@ -6770,7 +6770,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Deniz Ofli",
    "o": "Karlsruher SC",
@@ -6778,7 +6778,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jonah Kusi-Asare",
    "o": "FC Fulham",
@@ -6786,7 +6786,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maurice Krattenmacher",
    "o": "SV Elversberg",
@@ -6794,7 +6794,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Leon Goretzka",
    "o": "Aston Villa",
@@ -6802,7 +6802,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Raphaël Guerreiro",
    "o": "Vertragsende",
@@ -6810,7 +6810,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nicolas Jackson",
    "o": "FC Chelsea",
@@ -6818,7 +6818,7 @@
   },
   {
    "c": "FC Bayern München",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Peretz",
    "o": "FC Southampton",
@@ -6826,7 +6826,7 @@
   },
   {
    "c": "Borussia Dortmund",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Enzo dos Santos",
    "o": "eigene Jugend",
@@ -6834,7 +6834,7 @@
   },
   {
    "c": "Borussia Dortmund",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Samuele Inácio",
    "o": "",
@@ -6842,7 +6842,7 @@
   },
   {
    "c": "Borussia Dortmund",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mussa Kaba",
    "o": "",
@@ -6850,7 +6850,7 @@
   },
   {
    "c": "Borussia Dortmund",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mathis Albert",
    "o": "alle Borussia Dortmund II",
@@ -6858,7 +6858,7 @@
   },
   {
    "c": "Borussia Dortmund",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kjell Wätjen",
    "o": "FC Midtjylland",
@@ -6866,7 +6866,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Neil El Aynaoui",
    "o": "AS Rom",
@@ -6874,7 +6874,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Marc Guiu",
    "o": "FC Chelsea",
@@ -6882,7 +6882,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Christopher Nkunku",
    "o": "AC Mailand",
@@ -6890,7 +6890,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ørjan Nyland",
    "o": "vereinslos",
@@ -6898,7 +6898,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Maxime Estève",
    "o": "FC Burnley",
@@ -6906,7 +6906,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Brajan Gruda",
    "o": "Brighton Hove & Albion",
@@ -6914,7 +6914,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Rocco Reitz",
    "o": "Borussia Mönchengladbach",
@@ -6922,7 +6922,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Viggo Gebel",
    "o": "eigene Jugend",
@@ -6930,7 +6930,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Abdoul Koné",
    "o": "Stade Reims",
@@ -6938,7 +6938,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Arthur Vermeeren",
    "o": "Olympique Marseille",
@@ -6946,7 +6946,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Suleman Sani",
    "o": "Al-Qadsiah",
@@ -6954,7 +6954,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arthur Vermeeren",
    "o": "Royal Antwerpen",
@@ -6962,7 +6962,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "El Chadaille Bitshiabu",
    "o": "Galatasaray Istanbul",
@@ -6970,7 +6970,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ayodele Thomas",
    "o": "N.E.C. Nijmegen",
@@ -6978,7 +6978,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Joyeux Masanka Bungi",
    "o": "VfB Stuttgart II",
@@ -6986,7 +6986,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Conrad Harder",
    "o": "Racing Straßburg",
@@ -6994,7 +6994,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Eljif Elmas",
    "o": "Atalanta Bergamo",
@@ -7002,7 +7002,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Lutsharel Geertruida",
    "o": "PSV Eindhoven",
@@ -7010,7 +7010,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jonathan Norbye",
    "o": "FK Haugesund",
@@ -7018,7 +7018,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Robert Ramsak",
    "o": "NK Aluminij",
@@ -7026,7 +7026,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yan Diomande",
    "o": "Real Madrid",
@@ -7034,7 +7034,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Péter Gulácsi",
    "o": "FC Villarreal",
@@ -7042,7 +7042,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ota Yamamoto",
    "o": "Leihe an RB Ōmiya Ardija",
@@ -7050,7 +7050,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Frederik Jäkel",
    "o": "Eintracht Braunschweig",
@@ -7058,7 +7058,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kosta Nedeljković",
    "o": "Aston Villa",
@@ -7066,7 +7066,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Loïs Openda",
    "o": "Juventus Turin",
@@ -7074,7 +7074,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Xaver Schlager",
    "o": "Nottingham Forest",
@@ -7082,7 +7082,7 @@
   },
   {
    "c": "RB Leipzig",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Timo Schlieck",
    "o": "SC Verl",
@@ -7090,7 +7090,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Dženan Pejčinović",
    "o": "VfL Wolfsburg",
@@ -7098,7 +7098,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Leo Sauer",
    "o": "Feyenoord Rotterdam",
@@ -7106,7 +7106,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tim van der Leij",
    "o": "RKC Waalwijk",
@@ -7114,7 +7114,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Marius Funk",
    "o": "FC Energie Cottbus",
@@ -7122,7 +7122,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Grischa Prömel",
    "o": "TSG Hoffenheim",
@@ -7130,7 +7130,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Bilal El Khannouss",
    "o": "Leicester City",
@@ -7138,7 +7138,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Dennis Seimen",
    "o": "SC Paderborn 07",
@@ -7146,7 +7146,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Leonidas Stergiou",
    "o": "1. FC Heidenheim",
@@ -7154,7 +7154,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Laurin Ulrich",
    "o": "1. FC Magdeburg",
@@ -7162,7 +7162,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jeremy Arévalo",
    "o": "CF Estrela Amadora",
@@ -7170,7 +7170,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Badredine Bouanani",
    "o": "Glasgow Rangers",
@@ -7178,7 +7178,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Chema Andrés",
    "o": "Brighton & Hove Albion",
@@ -7186,7 +7186,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mirza Catovic",
    "o": "FC Barcelona II",
@@ -7194,7 +7194,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Chema",
    "o": "Brighton & Hove Albion",
@@ -7202,7 +7202,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Lazar Jovanović",
    "o": "Udinese Calcio",
@@ -7210,7 +7210,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jovan Milošević",
    "o": "SC Braga",
@@ -7218,7 +7218,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Darvich",
    "o": "SV Elversberg",
@@ -7226,7 +7226,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yannik Keitel",
    "o": "FC Augsburg",
@@ -7234,7 +7234,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Florian Hellstern",
    "o": "SpVgg Greuther Fürth",
@@ -7242,7 +7242,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Pascal Stenzel",
    "o": "Vertragsende",
@@ -7250,7 +7250,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alexander Nübel",
    "o": "FC Bayern München",
@@ -7258,7 +7258,7 @@
   },
   {
    "c": "VfB Stuttgart",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Laurin Ulrich",
    "o": "SC Paderborn 07",
@@ -7266,7 +7266,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Adam Daghim",
    "o": "RB Salzburg",
@@ -7274,7 +7274,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Nathan De Cat",
    "o": "RSC Anderlecht",
@@ -7282,7 +7282,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Sean Dulic",
    "o": "TSV 1860 München",
@@ -7290,7 +7290,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mats Rots",
    "o": "Twente Enschede",
@@ -7298,7 +7298,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Patrick Wimmer",
    "o": "VfL Wolfsburg",
@@ -7306,7 +7306,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Konstantin Aleksa",
    "o": "Austria Wien",
@@ -7314,7 +7314,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Cajetan Lenz",
    "o": "VfL Bochum",
@@ -7322,7 +7322,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Bambasé Conté",
    "o": "SV Elversberg",
@@ -7330,7 +7330,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arthur Chaves",
    "o": "Botafogo Rio de Janeiro",
@@ -7338,7 +7338,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alessandro Vogt",
    "o": "1. FC Heidenheim",
@@ -7346,7 +7346,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Precious Benjamin",
    "o": "Austria Lustenau",
@@ -7354,7 +7354,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Dennis Geiger",
    "o": "Vertragsauflösung",
@@ -7362,7 +7362,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Umut Tohumcu",
    "o": "RB Salzburg",
@@ -7370,7 +7370,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Deniz Zeitler",
    "o": "SC Paderborn",
@@ -7378,7 +7378,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Gift Orban",
    "o": "Amed SFK",
@@ -7386,7 +7386,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Luca Erlein",
    "o": "Bayer 04 Leverkusen",
@@ -7394,7 +7394,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Muhammed Damar",
    "o": "VfL Wolfsburg",
@@ -7402,7 +7402,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yannick Eduardo",
    "o": "ADO Den Haag",
@@ -7410,7 +7410,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Erencan Yardımcı",
    "o": "1. FC Kaiserslautern",
@@ -7418,7 +7418,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Hennes Behrens",
    "o": "FC Augsburg",
@@ -7426,7 +7426,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Haris Tabaković",
    "o": "RB Salzburg",
@@ -7434,7 +7434,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Attila Szalai",
    "o": "Pogon Stettin",
@@ -7442,7 +7442,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kelven Frees",
    "o": "1. FC Kaiserslautern",
@@ -7450,7 +7450,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Bazoumana Touré",
    "o": "Newcastle United",
@@ -7458,7 +7458,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Stanley Nsoki",
    "o": "1. FC Union Berlin",
@@ -7466,7 +7466,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nahuel Noll",
    "o": "SC Paderborn 07",
@@ -7474,7 +7474,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Paul Hennrich",
    "o": "1. FC Heidenheim",
@@ -7482,7 +7482,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Luka Đurić",
    "o": "SC Paderborn 07",
@@ -7490,7 +7490,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Grischa Prömel",
    "o": "VfB Stuttgart",
@@ -7498,7 +7498,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kevin Akpoguma",
    "o": "Frosinone Calcio",
@@ -7506,7 +7506,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ihlas Bebou",
    "o": "Vertragsende",
@@ -7514,7 +7514,7 @@
   },
   {
    "c": "TSG Hoffenheim",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Cole Campbell",
    "o": "Borussia Dortmund",
@@ -7522,7 +7522,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Guéla Doué",
    "o": "Racing Straßburg",
@@ -7530,7 +7530,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Moussa Diaby",
    "o": "Al-Ittihad",
@@ -7538,7 +7538,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Facundo Medina",
    "o": "Olympique Marseille",
@@ -7546,7 +7546,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Miguel Gutiérrez",
    "o": "SSC Neapel",
@@ -7554,7 +7554,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Kennet Eichhorn",
    "o": "Hertha BSC",
@@ -7562,7 +7562,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Afonso Moreira",
    "o": "Olympique Lyon",
@@ -7570,7 +7570,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ndjicoura Bomba",
    "o": "CS Bamako",
@@ -7578,7 +7578,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Aleksa Damjanović",
    "o": "Roter Stern Belgrad",
@@ -7586,7 +7586,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Victor Boniface",
    "o": "SV Werder Bremen",
@@ -7594,7 +7594,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arthur",
    "o": "SV Werder Bremen",
@@ -7602,7 +7602,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jeanuël Belocian",
    "o": "Racing Santander",
@@ -7610,7 +7610,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Axel Tape",
    "o": "UD Levante",
@@ -7618,7 +7618,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Exequiel Palacios",
    "o": "Ipswich Town",
@@ -7626,7 +7626,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ernest Poku",
    "o": "Beşiktaş Istanbul",
@@ -7634,7 +7634,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Farid Alfa-Ruprecht",
    "o": "Hertha BSC",
@@ -7642,7 +7642,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jeremiah Mensah",
    "o": "Roda JC",
@@ -7650,7 +7650,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Mbama",
    "o": "FC Lorient",
@@ -7658,7 +7658,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Abdoulaye Faye",
    "o": "Celta Vigo",
@@ -7666,7 +7666,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kerim Alajbegović",
    "o": "Juventus Turin",
@@ -7674,7 +7674,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Andrea Natali",
    "o": "AZ Alkmaar",
@@ -7682,7 +7682,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Luca Erlein",
    "o": "Leihe",
@@ -7690,7 +7690,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alejo Sarco",
    "o": "Sporting Gijon",
@@ -7698,7 +7698,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alejandro Grimaldo",
    "o": "Atlético Madrid",
@@ -7706,7 +7706,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Piero Hincapié",
    "o": "FC Arsenal",
@@ -7714,7 +7714,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Francis Onyeka",
    "o": "SV Elversberg",
@@ -7722,7 +7722,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Matěj Kovář",
    "o": "PSV Eindhoven",
@@ -7730,7 +7730,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jonas Omlin",
    "o": "Borussia Mönchengladbach",
@@ -7738,7 +7738,7 @@
   },
   {
    "c": "Bayer 04 Leverkusen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Issa Traoré",
    "o": "AS Trencin",
@@ -7746,7 +7746,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Yannik Engelhardt",
    "o": "Como 1907",
@@ -7754,7 +7754,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Keisuke Gotō",
    "o": "RSC Anderlecht",
@@ -7762,7 +7762,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Rihito Yamamoto",
    "o": "VV St. Truiden",
@@ -7770,7 +7770,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mio Backhaus",
    "o": "SV Werder Bremen",
@@ -7778,7 +7778,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Florent Muslija",
    "o": "Fortuna Düsseldorf",
@@ -7786,7 +7786,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Berkay Yilmaz",
    "o": "1. FC Nürnberg",
@@ -7794,7 +7794,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Rouven Tarnutzer",
    "o": "SC Freiburg II",
@@ -7802,7 +7802,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Louey Ben Farhat",
    "o": "Karlsruher SC",
@@ -7810,7 +7810,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Atubolu",
    "o": "Eintracht Frankfurt",
@@ -7818,7 +7818,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Karl Steinmann",
    "o": "Hannover 96",
@@ -7826,7 +7826,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Eren Dinkçi",
    "o": "SV Werder Bremen",
@@ -7834,7 +7834,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Johan Manzambi",
    "o": "Aston Villa",
@@ -7842,7 +7842,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alessio Besio",
    "o": "VfL Wolfsburg",
@@ -7850,7 +7850,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Robert Wagner",
    "o": "SG Dynamo Dresden",
@@ -7858,7 +7858,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yann Sturm",
    "o": "Eintracht Braunschweig",
@@ -7866,7 +7866,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Weißhaupt",
    "o": "SV Darmstadt 98",
@@ -7874,7 +7874,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Junior Adamu",
    "o": "FC Schalke 04",
@@ -7882,7 +7882,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Merlin Röhl",
    "o": "FC Everton",
@@ -7890,7 +7890,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nicolas Höfler",
    "o": "SC Freiburg II",
@@ -7898,7 +7898,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Kofi Kyereh",
    "o": "VfL Osnabrück",
@@ -7906,7 +7906,7 @@
   },
   {
    "c": "Sport-Club Freiburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maximilian Philipp",
    "o": "Vertragsende",
@@ -7914,7 +7914,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Lilian Brassier",
    "o": "Stade Rennais",
@@ -7922,7 +7922,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Noah Atubolu",
    "o": "SC Freiburg",
@@ -7930,7 +7930,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Raphael Onyedika",
    "o": "Club Brügge",
@@ -7938,7 +7938,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Otávio",
    "o": "CF Estrela Amadora",
@@ -7946,7 +7946,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Noel Aseko Nkili",
    "o": "FC Bayern München",
@@ -7954,7 +7954,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Malik Pimpong",
    "o": "FC Midtjylland",
@@ -7962,7 +7962,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Jessic Ngankam",
    "o": "Wolfsberger AC",
@@ -7970,7 +7970,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jean-Mattéo Bahoya",
    "o": "Leeds United",
@@ -7978,7 +7978,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Hugo Larsson",
    "o": "Fulham FC",
@@ -7986,7 +7986,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Niels Nkounkou",
    "o": "OGC Nizza",
@@ -7994,7 +7994,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arthur Theate",
    "o": "FC Bologna",
@@ -8002,7 +8002,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Michael Zetterer",
    "o": "Leeds United",
@@ -8010,7 +8010,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Elye Wahi",
    "o": "OGC Nizza",
@@ -8018,7 +8018,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ellyes Skhiri",
    "o": "1. FC Köln",
@@ -8026,7 +8026,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Michy Batshuayi",
    "o": "Abha Club",
@@ -8034,7 +8034,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noel Futkeu",
    "o": "SV Elversberg",
@@ -8042,7 +8042,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Junior Dina Ebimbe",
    "o": "FC Schalke 04",
@@ -8050,7 +8050,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Simon Simoni",
    "o": "FC Luzern",
@@ -8058,7 +8058,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Aurèle Amenda",
    "o": "Coventry City Football Club",
@@ -8066,7 +8066,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nathaniel Brown",
    "o": "FC Bayern München",
@@ -8074,7 +8074,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Hrvoje Smolčić",
    "o": "Çorum FK",
@@ -8082,7 +8082,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Rasmus Kristensen",
    "o": "FC Midtjylland",
@@ -8090,7 +8090,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Krisztián Lisztes",
    "o": "Ferencváros",
@@ -8098,7 +8098,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Fenyö",
    "o": "Újpest FC",
@@ -8106,7 +8106,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Fousseny Doumbia",
    "o": "FC Energie Cottbus",
@@ -8114,7 +8114,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mahmoud Dahoud",
    "o": "Vertragsende",
@@ -8122,7 +8122,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kaan İnanoğlu",
    "o": "SG Dynamo Dresden",
@@ -8130,7 +8130,7 @@
   },
   {
    "c": "Eintracht Frankfurt",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arnaud Kalimuendo",
    "o": "Nottingham Forest",
@@ -8138,7 +8138,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Juma Bah",
    "o": "Manchester City",
@@ -8146,7 +8146,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Arijon Ibrahimović",
    "o": "FC Bayern München",
@@ -8154,7 +8154,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Youngwoo Seol",
    "o": "Roter Stern Belgrad",
@@ -8162,7 +8162,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Hennes Behrens",
    "o": "TSG Hoffenheim",
@@ -8170,7 +8170,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Rodrigo Ribeiro",
    "o": "Sporting Lissabon",
@@ -8178,7 +8178,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Sima Suso",
    "o": "Fortuna Düsseldorf",
@@ -8186,7 +8186,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Yannik Keitel",
    "o": "VfB Stuttgart",
@@ -8194,7 +8194,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Michael Gregoritsch",
    "o": "Bröndby IF",
@@ -8202,7 +8202,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Calvin Brackelmann",
    "o": "SC Paderborn 07",
@@ -8210,7 +8210,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Faik Sakar",
    "o": "RB Leipzig U19",
@@ -8218,7 +8218,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tim Breithaupt",
    "o": "Fortuna Düsseldorf",
@@ -8226,7 +8226,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Steve Mounié",
    "o": "Alanyaspor",
@@ -8234,7 +8234,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tom Wisbereit",
    "o": "1. FC Union Berlin U19",
@@ -8242,7 +8242,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kristijan Jakić",
    "o": "PAOK Thessaloniki",
@@ -8250,7 +8250,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nathanaël Mbuku",
    "o": "VV St. Truiden",
@@ -8258,7 +8258,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Thomas Kastanaras",
    "o": "Würzburger Kickers",
@@ -8266,7 +8266,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Keven Schlotterbeck",
    "o": "FC Southampton",
@@ -8274,7 +8274,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mads Pedersen",
    "o": "Hertha BSC",
@@ -8282,7 +8282,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yusuf Kabadayı",
    "o": "HNK Rijeka",
@@ -8290,7 +8290,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Dimitris Giannoulis",
    "o": "PAOK Thessaloniki",
@@ -8298,7 +8298,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Elias Saad",
    "o": "Nashville SC",
@@ -8306,7 +8306,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Felix Meiser",
    "o": "Fortuna Düsseldorf",
@@ -8314,7 +8314,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kyliane Dong",
    "o": "Bolton Wanderers",
@@ -8322,7 +8322,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Oliver Sorg",
    "o": "SV Ried",
@@ -8330,7 +8330,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "David Čolina",
    "o": "Zagłębie Lubin",
@@ -8338,7 +8338,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Cedric Zesiger",
    "o": "Young Boys Bern",
@@ -8346,7 +8346,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Aiman Dardari",
    "o": "Rot-Weiss Essen",
@@ -8354,7 +8354,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Henri Koudossou",
    "o": "DSC Arminia Bielefeld",
@@ -8362,7 +8362,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Marcel Lubik",
    "o": "Wisła Krakau",
@@ -8370,7 +8370,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maximilian Bauer",
    "o": "Arminia Bielefeld",
@@ -8378,7 +8378,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Elvis Rexhbecaj",
    "o": "VfL Wolfsburg",
@@ -8386,7 +8386,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Klein",
    "o": "Vertragsende",
@@ -8394,7 +8394,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arthur Chaves",
    "o": "TSG Hoffenheim",
@@ -8402,7 +8402,7 @@
   },
   {
    "c": "FC Augsburg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ismaël Gharbi",
    "o": "Sporting Braga",
@@ -8410,7 +8410,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Stefan Posch",
    "o": "Como 1907",
@@ -8418,7 +8418,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Alexander Schwolow",
    "o": "Heart of Midlothian",
@@ -8426,7 +8426,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Maximilian Kinzig",
    "o": "eigener Nachwuchs",
@@ -8434,7 +8434,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Fabio Gruber",
    "o": "1. FC Nürnberg",
@@ -8442,7 +8442,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ransford Königsdörffer",
    "o": "Hamburger SV",
@@ -8450,7 +8450,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Eric Martel",
    "o": "1. FC Köln",
@@ -8458,7 +8458,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Alynho Haidara",
    "o": "Academy Mainz 05",
@@ -8466,7 +8466,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Sota Kawasaki",
    "o": "Kyoto Sanga",
@@ -8474,7 +8474,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Sheraldo Becker",
    "o": "CA Osasuna",
@@ -8482,7 +8482,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Hyun-seok Hong",
    "o": "FC Midtjylland",
@@ -8490,7 +8490,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Marco Richter",
    "o": "Vertrag aufgelöst",
@@ -8498,7 +8498,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Andreas Hanche-Olsen",
    "o": "Chicago Fire FC",
@@ -8506,7 +8506,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "William Bøving",
    "o": "1. FC Nürnberg",
@@ -8514,7 +8514,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nelson Weiper",
    "o": "SK Sturm Graz",
@@ -8522,7 +8522,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ben Bobzien",
    "o": "SG Dynamo Dresden",
@@ -8530,7 +8530,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maxim Dal",
    "o": "SpVgg Greuther Fürth",
@@ -8538,7 +8538,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Lasse Rieß",
    "o": "Fortuna Düsseldorf",
@@ -8546,7 +8546,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Gleiber",
    "o": "1. FC Saarbrücken",
@@ -8554,7 +8554,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Konstantin Schopp",
    "o": "TSV Hartberg",
@@ -8562,7 +8562,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nikolas Veratschnig",
    "o": "RB Salzburg",
@@ -8570,7 +8570,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kasey Bos",
    "o": "Excelsior Rotterdam",
@@ -8578,7 +8578,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Tom Krauß",
    "o": "1. FC Köln",
@@ -8586,7 +8586,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Batz",
    "o": "Borussia Mönchengladbach",
@@ -8594,7 +8594,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maxim Leitsch",
    "o": "Vertragsende",
@@ -8602,7 +8602,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Niklas Tauer",
    "o": "TSV Havelse",
@@ -8610,7 +8610,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Armindo Sieb",
    "o": "FC Bayern München",
@@ -8618,7 +8618,7 @@
   },
   {
    "c": "1. FSV Mainz 05",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Arnaud Nordin",
    "o": "Stade Rennes",
@@ -8626,7 +8626,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Kastriot Imeri",
    "o": "BSC Young Boys",
@@ -8634,7 +8634,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Felix Uduokhai",
    "o": "Beşiktaş",
@@ -8642,7 +8642,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Michel Aebischer",
    "o": "Pisa SC",
@@ -8650,7 +8650,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Emmanuel Latte Lath",
    "o": "Atlanta United",
@@ -8658,7 +8658,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Stanley Nsoki",
    "o": "TSG Hoffenheim",
@@ -8666,7 +8666,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Zeno Van Den Bosch",
    "o": "Royal Antwerpen",
@@ -8674,7 +8674,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Marvin Friedrich",
    "o": "Borussia Mönchengladbach",
@@ -8682,7 +8682,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Marin Ljubičić",
    "o": "Fortuna Düsseldorf",
@@ -8690,7 +8690,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Linus Güther",
    "o": "",
@@ -8698,7 +8698,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mekhi Gray",
    "o": "",
@@ -8706,7 +8706,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tim Blaszczak",
    "o": "alle eigene Jugend",
@@ -8714,7 +8714,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Oluwaseun Ogbemudia",
    "o": "Waldhof Mannheim",
@@ -8722,7 +8722,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ilyas Ansah",
    "o": "Hull City",
@@ -8730,7 +8730,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Tim Blaszczak",
    "o": "FSV Luckenwalde",
@@ -8738,7 +8738,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Dmytro Bogdanov",
    "o": "FC Energie Cottbus",
@@ -8746,7 +8746,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Chris Bedia",
    "o": "al-Nasr Sports Club",
@@ -8754,7 +8754,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "David Preu",
    "o": "VfB Stuttgart U21",
@@ -8762,7 +8762,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "László Bénes",
    "o": "KAA Gent",
@@ -8770,7 +8770,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yannic Stein",
    "o": "FC Hansa Rostock",
@@ -8778,7 +8778,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Danilo Doekhi",
    "o": "Lazio Rom",
@@ -8786,7 +8786,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alex Král",
    "o": "FC Kopenhagen",
@@ -8794,7 +8794,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Diogo Leite",
    "o": "Vertragsende",
@@ -8802,7 +8802,7 @@
   },
   {
    "c": "1. FC Union Berlin",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Leon Prosche",
    "o": "Erzgebirge Aue",
@@ -8810,7 +8810,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Nicolas Kühn",
    "o": "Como 1907",
@@ -8818,7 +8818,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ko Itakura",
    "o": "Ajax Amsterdam",
@@ -8826,7 +8826,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Daiki Hashioka",
    "o": "Slavia Prag",
@@ -8834,7 +8834,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Jan Leszczyński",
    "o": "Legia Warschau",
@@ -8842,7 +8842,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Zento Uno",
    "o": "Shimizu S-Pulse",
@@ -8850,7 +8850,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Isac Lidberg",
    "o": "SV Darmstadt 98",
@@ -8858,7 +8858,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Yukhym Konoplia",
    "o": "Shakhtar Donetsk",
@@ -8866,7 +8866,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Enzo Leopold",
    "o": "Hannover 96",
@@ -8874,7 +8874,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "David Herold",
    "o": "Karlsruher SC",
@@ -8882,7 +8882,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Daniel Batz",
    "o": "1. FSV Mainz 05",
@@ -8890,7 +8890,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Hugo Bolin",
    "o": "Malmö FF",
@@ -8898,7 +8898,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tomáš Čvančara",
    "o": "Celtic Glasgow",
@@ -8906,7 +8906,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Niko Horvat",
    "o": "SV Zulte Waregem",
@@ -8914,7 +8914,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nico Elvedi",
    "o": "Leeds United",
@@ -8922,7 +8922,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nathan Ngoumou",
    "o": "OGC Nizza",
@@ -8930,7 +8930,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Giovanni Reyna",
    "o": "RC Straßburg",
@@ -8938,7 +8938,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Grant-Leon Ranos",
    "o": "CD Teneriffa",
@@ -8946,7 +8946,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Noah Pesch",
    "o": "Rot-Weiss Essen",
@@ -8954,7 +8954,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Tiago Pereira Cardoso",
    "o": "RAAL La Louvière",
@@ -8962,7 +8962,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Niklas Swider",
    "o": "Viktoria Köln",
@@ -8970,7 +8970,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jan Urbich",
    "o": "Eintracht Braunschweig",
@@ -8978,7 +8978,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Shio Fukuda",
    "o": "Karlsruher SC",
@@ -8986,7 +8986,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Rocco Reitz",
    "o": "RB Leipzig",
@@ -8994,7 +8994,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Marvin Friedrich",
    "o": "1. FC Union Berlin",
@@ -9002,7 +9002,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yannik Engelhardt",
    "o": "Como 1907",
@@ -9010,7 +9010,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Alejo Sarco",
    "o": "Bayer 04 Leverkusen",
@@ -9018,7 +9018,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Haris Tabaković",
    "o": "TSG Hoffenheim",
@@ -9026,7 +9026,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Koto Takai",
    "o": "Tottenham Hotspurs",
@@ -9034,7 +9034,7 @@
   },
   {
    "c": "Borussia Mönchengladbach",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jonas Omlin",
    "o": "FC Basel",
@@ -9042,7 +9042,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Finn Barkowsky",
    "o": "eigene Jugend",
@@ -9050,7 +9050,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Shafiq Nandja",
    "o": "eigene Jugend",
@@ -9058,7 +9058,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mads Bröcker",
    "o": "RB Leipzig U19",
@@ -9066,7 +9066,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Fabio Baldé",
    "o": "Racing Straßburg",
@@ -9074,7 +9074,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Aboubaka Soumahoro",
    "o": "RCD Mallorca",
@@ -9082,7 +9082,7 @@
   },
   {
    "c": "Hamburger SV",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Hannes Hermann",
    "o": "SSV Jahn Regensburg",
@@ -9090,7 +9090,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Borna Sosa",
    "o": "Crystal Palace",
@@ -9098,7 +9098,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Mikey Moore",
    "o": "Tottenham Hotspur",
@@ -9106,7 +9106,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Ellyes Skhiri",
    "o": "Eintracht Frankfurt",
@@ -9114,7 +9114,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Thijs Dallinga",
    "o": "FC Bologna",
@@ -9122,7 +9122,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Gil Neves",
    "o": "Benfica Lissabon",
@@ -9130,7 +9130,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Martin James",
    "o": "Paris Saint-Germain",
@@ -9138,7 +9138,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Paul Okon-Engstler",
    "o": "Sydney FC",
@@ -9146,7 +9146,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Reigan Heskey",
    "o": "Manchester City",
@@ -9154,7 +9154,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "David Fürst",
    "o": "eigene Jugend",
@@ -9162,7 +9162,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Gideon Mensah",
    "o": "AJ Auxerre",
@@ -9170,7 +9170,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Luka Lochoshvili",
    "o": "1. FC Nürnberg",
@@ -9178,7 +9178,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Jahmai Simpson-Pusey",
    "o": "Manchester City",
@@ -9186,7 +9186,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Tom Krauß",
    "o": "1. FSV Mainz 05",
@@ -9194,7 +9194,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "in",
    "p": "Imad Rondić",
    "o": "Preußen Münster",
@@ -9202,7 +9202,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Emin Kujović",
    "o": "Zalaegerszegi TE FC",
@@ -9210,7 +9210,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Julian Pauli",
    "o": "Odense BK",
@@ -9218,7 +9218,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Elias Bakatukanda",
    "o": "1. FC Köln",
@@ -9226,7 +9226,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Patrik Kristal",
    "o": "FC Thun",
@@ -9234,7 +9234,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Youssoupha Niang",
    "o": "FC St. Pauli",
@@ -9242,7 +9242,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Mansour Ouro-Tagba",
    "o": "VfL Bochum",
@@ -9250,7 +9250,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Fynn Schenten",
    "o": "Roda JC Kerkrade",
@@ -9258,7 +9258,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Jusuf Gazibegović",
    "o": "Widzew Lodz",
@@ -9266,7 +9266,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Jakub Kamiński",
    "o": "Benfica Lissabon",
@@ -9274,7 +9274,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Jaka Cuber Potocnik",
    "o": "Rot-Weiss Essen",
@@ -9282,7 +9282,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Denis Huseinbašić",
    "o": "Sporting Braga",
@@ -9290,7 +9290,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Cenk Özkacar",
    "o": "FC Valencia",
@@ -9298,7 +9298,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Eric Martel",
    "o": "1. FSV Mainz 05",
@@ -9306,7 +9306,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Dominique Heintz",
    "o": "Fortuna Düsseldorf",
@@ -9314,7 +9314,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Luca Kilian",
    "o": "Vertragsende",
@@ -9322,7 +9322,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Florian Kainz",
    "o": "Karriereende",
@@ -9330,7 +9330,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Felipe Chávez",
    "o": "FC Bayern München II",
@@ -9338,7 +9338,7 @@
   },
   {
    "c": "1. FC Köln",
-   "l": "2. Bundesliga",
+   "l": "3. Liga",
    "d": "out",
    "p": "Kristoffer Lund",
    "o": "Palermo",
@@ -9346,7 +9346,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Arthur",
    "o": "Bayer 04 Leverkusen",
@@ -9354,7 +9354,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Moussa Ndiaye",
    "o": "RSC Anderlecht",
@@ -9362,7 +9362,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Youri Regeer",
    "o": "Ajax Amsterdam",
@@ -9370,7 +9370,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Niclas Füllkrug",
    "o": "West Ham",
@@ -9378,7 +9378,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Eren Dinkçi",
    "o": "SC Freiburg",
@@ -9386,7 +9386,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Ludovit Reis",
    "o": "Club Brügge",
@@ -9394,7 +9394,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Alexander Schlager",
    "o": "FC Red Bull Salzburg",
@@ -9402,7 +9402,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Oskar Wójcik",
    "o": "KS Cracovia",
@@ -9410,7 +9410,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Dariusz Stalmach",
    "o": "1. FC Magdeburg",
@@ -9418,7 +9418,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Cedric Itten",
    "o": "Fortuna Düsseldorf",
@@ -9426,7 +9426,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Chuki",
    "o": "Real Valladolid",
@@ -9434,7 +9434,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Karl Hein",
    "o": "FC Arsenal",
@@ -9442,7 +9442,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Darwin Soylu",
    "o": "VfL Wolfsburg U19",
@@ -9450,7 +9450,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Kenny Quetant",
    "o": "Le Havre AC",
@@ -9458,7 +9458,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Skelly Alvero",
    "o": "Amiens SV",
@@ -9466,7 +9466,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Dawid Kownacki",
    "o": "Hertha BSC",
@@ -9474,7 +9474,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Luca Höcker",
    "o": "",
@@ -9482,7 +9482,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Paul Erevbenagie",
    "o": "",
@@ -9490,7 +9490,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Mats Heitmann",
    "o": "alle eigene Jugend",
@@ -9498,7 +9498,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Julián Malatini",
    "o": "FC Cincinnati",
@@ -9506,7 +9506,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Samuel Mbangula",
    "o": "FC Bologna",
@@ -9514,7 +9514,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Karim Coulibaly",
    "o": "Racing Straßburg",
@@ -9522,7 +9522,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Romano Schmid",
    "o": "Frosinone Calcio",
@@ -9530,7 +9530,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Wesley Adeh",
    "o": "SC Preußen Münster",
@@ -9538,7 +9538,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Leon Opitz",
    "o": "VfL Osnabrück",
@@ -9546,7 +9546,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mio Backhaus",
    "o": "SC Freiburg",
@@ -9554,7 +9554,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Leonardo Bittencourt",
    "o": "FC Energie Cottbus",
@@ -9562,7 +9562,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Victor Boniface",
    "o": "Bayer 04 Leverkusen",
@@ -9570,7 +9570,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jovan Milošević",
    "o": "VfB Stuttgart",
@@ -9578,7 +9578,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Cameron Puertas",
    "o": "Al-Qadsiah",
@@ -9586,7 +9586,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Isaac Schmidt",
    "o": "Leeds United",
@@ -9594,7 +9594,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Yukinari Sugawara",
    "o": "FC Southampton",
@@ -9602,7 +9602,7 @@
   },
   {
    "c": "SV Werder Bremen",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Maximilian Wöber",
    "o": "Leeds United",
@@ -9610,7 +9610,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Hee Chan Hwang",
    "o": "Wolverhampton Wanderers",
@@ -9618,7 +9618,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Junior Dina Ebimbe",
    "o": "Eintracht Frankfurt",
@@ -9626,7 +9626,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Edin Džeko",
    "o": "vereinslos",
@@ -9634,7 +9634,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Maximilian Wöber",
    "o": "Leeds United",
@@ -9642,7 +9642,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Robin Gosens",
    "o": "AC Florenz",
@@ -9650,7 +9650,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Luca Vozar",
    "o": "eigene Jugend",
@@ -9658,7 +9658,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Kevin Müller",
    "o": "1. FC Heidenheim",
@@ -9666,7 +9666,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Junior Adamu",
    "o": "SC Freiburg",
@@ -9674,7 +9674,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Satoshi Tanaka",
    "o": "Fortuna Düsseldorf",
@@ -9682,7 +9682,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Steve Noode",
    "o": "Titus Petingen",
@@ -9690,7 +9690,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Christian Gomis",
    "o": "CD Teneriffa",
@@ -9698,7 +9698,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Aris Bayindir",
    "o": "Vertrag aufgelöst",
@@ -9706,7 +9706,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Dylan Leonard",
    "o": "Alemannia Aachen",
@@ -9714,7 +9714,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Martin Wasinski",
    "o": "Almere City",
@@ -9722,7 +9722,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mauro Zalazar",
    "o": "NK Kustošija Zagreb",
@@ -9730,7 +9730,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mika Wallentowitz",
    "o": "SpVgg Greuther Fürth",
@@ -9738,7 +9738,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Luca Podlech",
    "o": "Aalesunds FK",
@@ -9746,7 +9746,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Felipe Sánchez",
    "o": "Santos Laguna",
@@ -9754,7 +9754,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Peter Remmert",
    "o": "MSV Duisburg",
@@ -9762,7 +9762,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Ilyes Hamache",
    "o": "SC Cambuur",
@@ -9770,7 +9770,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Christopher Antwi-Adjei",
    "o": "",
@@ -9778,7 +9778,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Henning Matriciani",
    "o": "beide Vertragsende",
@@ -9786,7 +9786,7 @@
   },
   {
    "c": "FC Schalke 04",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Moussa Ndiaye",
    "o": "RSC Anderlecht",
@@ -9794,7 +9794,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Noel Futkeu",
    "o": "Eintracht Frankfurt",
@@ -9802,7 +9802,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Luca Sirch",
    "o": "1. FC Kaiserslautern",
@@ -9810,7 +9810,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Cole Campbell",
    "o": "Borussia Dortmund",
@@ -9818,7 +9818,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Noah Darvich",
    "o": "VfB Stuttgart",
@@ -9826,7 +9826,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Francis Onyeka",
    "o": "Bayer 04 Leverkusen",
@@ -9834,7 +9834,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Maurice Krattenmacher",
    "o": "FC Bayern München",
@@ -9842,7 +9842,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Elias Etringer",
    "o": "SC Freiburg U19",
@@ -9850,7 +9850,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Łukasz Poręba",
    "o": "Hamburger SV",
@@ -9858,7 +9858,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Jason Ceka",
    "o": "SG Dynamo Dresden",
@@ -9866,7 +9866,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Filimon Gerezgiher",
    "o": "FC Emmen",
@@ -9874,7 +9874,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jason Ceka",
    "o": "Cambuur Leeuwarden",
@@ -9882,7 +9882,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Filimon Gerezgiher",
    "o": "Fortuna Düsseldorf",
@@ -9890,7 +9890,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Carlo Sickinger",
    "o": "SV Darmstadt 98",
@@ -9898,7 +9898,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mohammad Mahmoud",
    "o": "Austria Salzburg",
@@ -9906,7 +9906,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Bambasé Conté",
    "o": "TSG Hoffenheim",
@@ -9914,7 +9914,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Jarzinho Malanga",
    "o": "VfB Stuttgart II",
@@ -9922,7 +9922,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Immanuël Pherai",
    "o": "Hamburger SV",
@@ -9930,7 +9930,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Manuel Feil",
    "o": "",
@@ -9938,7 +9938,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Daniel Pantschenko",
    "o": "beide Vertragsende",
@@ -9946,7 +9946,7 @@
   },
   {
    "c": "SV Elversberg",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Patryk Dragon",
    "o": "Karriereende",
@@ -9954,7 +9954,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Rayan Philippe",
    "o": "Hamburger SV",
@@ -9962,7 +9962,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Marvin Pieringer",
    "o": "1. FC Heidenheim",
@@ -9970,7 +9970,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Gabriel Vidović",
    "o": "Dinamo Zagreb",
@@ -9978,7 +9978,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Deniz Zeitler",
    "o": "TSG Hoffenheim",
@@ -9986,7 +9986,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Nahuel Noll",
    "o": "TSG Hoffenheim",
@@ -9994,7 +9994,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Oliver Batista Meier",
    "o": "SC Preußen Münster",
@@ -10002,7 +10002,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Jano ter Horst",
    "o": "SC Preußen Münster",
@@ -10010,7 +10010,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Nyamekye Awortwie-Grant",
    "o": "FC Energie Cottbus",
@@ -10018,7 +10018,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Clemens Lippmann",
    "o": "TSV 1860 München",
@@ -10026,7 +10026,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Luka Đurić",
    "o": "TSG Hoffenheim",
@@ -10034,7 +10034,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tom Baack",
    "o": "1. FC Nürnberg",
@@ -10042,7 +10042,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Lasse Eickel",
    "o": "SC Paderborn II",
@@ -10050,7 +10050,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Timur Gayret",
    "o": "SC Verl",
@@ -10058,7 +10058,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Albert Millgramm",
    "o": "1. FC Magdeburg II",
@@ -10066,7 +10066,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Tristan Zobel",
    "o": "Erzgebirge Aue",
@@ -10074,7 +10074,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "in",
    "p": "Laurin Ulrich",
    "o": "VfB Stuttgart",
@@ -10082,7 +10082,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kennedy Okpala",
    "o": "Dynamo Dresden",
@@ -10090,7 +10090,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Nick Bätzner",
    "o": "Rot Weiss Essen",
@@ -10098,7 +10098,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Mika Baur",
    "o": "Celtic Glasgow",
@@ -10106,7 +10106,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "David Kinsombi",
    "o": "Würzburger Kickers",
@@ -10114,7 +10114,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Martin Ens",
    "o": "MSV Duisburg",
@@ -10122,7 +10122,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Marco Wörner",
    "o": "SSV Jahn Regensburg",
@@ -10130,7 +10130,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Kevin Krumme",
    "o": "Fortuna Köln",
@@ -10138,7 +10138,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Bennit Bröger",
    "o": "Fortuna Köln",
@@ -10146,7 +10146,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Lucas Copado",
    "o": "FC Energie Cottbus",
@@ -10154,7 +10154,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Anton Bäuerle",
    "o": "1. FC Saarbrücken",
@@ -10162,7 +10162,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Filip Bilbija",
    "o": "",
@@ -10170,7 +10170,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "",
    "o": "Vertragsende",
@@ -10178,7 +10178,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Calvin Brackelmann",
    "o": "FC Augsburg",
@@ -10186,7 +10186,7 @@
   },
   {
    "c": "SC Paderborn 07",
-   "l": "2. Bundesliga",
+   "l": "Bundesliga",
    "d": "out",
    "p": "Dennis Seimen",
    "o": "VfB Stuttgart",
