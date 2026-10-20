@@ -486,6 +486,48 @@ def merge_tx(lists):
     return out
 
 
+def league_map(tables, meta):
+    m = {}
+    for lg in ("Bundesliga", "2. Bundesliga", "3. Liga"):
+        for r in tables.get(lg, []):
+            m[nk(r["team"])] = lg
+    for n in meta.get("reg_nord", []):
+        m.setdefault(nk(n), "Regionalliga Nord")
+    return m
+
+
+def find_league(name, m):
+    k = nk(name)
+    if k in m:
+        return m[k]
+    cand = [kk for kk in m if k in kk.split() or kk in k.split() or (len(k) >= 6 and " " not in k and k in kk)]
+    if len(cand) == 1:
+        return m[cand[0]]
+    best = max(m, key=lambda kk: difflib.SequenceMatcher(None, k, kk).ratio(), default=None)
+    if best and difflib.SequenceMatcher(None, k, best).ratio() >= 0.72:
+        return m[best]
+    return None
+
+
+def relabel(entries, tables, meta):
+    """Ordnet jeden Verein anhand der Ligatabellen der richtigen Liga zu; unbekannte Vereine fallen heraus."""
+    m = league_map(tables, meta)
+    if not m:
+        return entries
+    out, dropped = [], set()
+    for e in entries:
+        lg = find_league(e["c"], m)
+        if lg:
+            out.append({**e, "l": lg})
+        else:
+            dropped.add(e["c"])
+    counts = {}
+    for e in out:
+        counts[e["l"]] = counts.get(e["l"], 0) + 1
+    print("Transfers je Liga:", counts, "- ohne Liga verworfen:", sorted(dropped)[:12])
+    return out
+
+
 def yt_items(handle, club):
     html = "channel_id=" + handle if handle.startswith("UC") else get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
     m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
@@ -599,7 +641,7 @@ if USE_TM_API and due("tm", 12):
         print("OK  Transfermarkt-API", len(TMX))
     except Exception as ex:
         print("FEHLER Transfermarkt-API", type(ex).__name__, ex)
-ALLTX = sorted(merge_tx([AFX, TMX, TRANSFERS]), key=lambda e: e.get("t", ""), reverse=True)
+ALLTX = sorted(relabel(merge_tx([AFX, TMX, TRANSFERS]), TAB, META), key=lambda e: e.get("t", ""), reverse=True)
 
 seen, final = {}, []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
