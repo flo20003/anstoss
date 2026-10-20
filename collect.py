@@ -26,13 +26,10 @@ FEEDS = [
 PAGES = [
     ("https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34942", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", None),
     ("https://sport.sky.de/transfer-news", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", "TG"),
-    ("https://sport.sky.de/fixe-transfers", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", "Transfer"),
     ("https://www.bvb.de/de/de/aktuelles/news.html", "BVB.de", "BVB", r"/aktuelles/news/", None),
     ("https://www.hsv.de/uebersicht", "HSV.de", "HSV", None, None),
     ("https://www.fcn.de/home/", "FCN.de", "FCN", r"/news/artikel/", None),
     ("https://weiche-liga.de/", "SC Weiche", "SCW", None, None),
-    # Transfermarkt: nur Überschrift und Link der Nachrichten, ohne Garantie (Seite kann den Abruf blockieren)
-    ("https://www.transfermarkt.de/", "Transfermarkt", None, r"/news/\d+", None),
 ]
 # YouTube-Kanäle (Handle wie @bvb oder Kanalnummer wie UCxxxx, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
 YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
@@ -186,6 +183,60 @@ def page_items(url, source, club, hint, tag):
     return (men_only(out) if club else out)[:40]
 
 
+STOPLINE = re.compile(r"^(Mehr|Direkt|Erlebe|Zum |Hol dir|Alle |Auf Sky|Sportfan|Image|Die Zu)", re.I)
+
+
+def split_top(txt):
+    parts, depth, cur = [], 0, ""
+    for ch in txt:
+        depth += (ch == "(") - (ch == ")" and depth > 0)
+        if ch in ",;" and depth == 0:
+            parts.append(cur)
+            cur = ""
+        else:
+            cur += ch
+    parts.append(cur)
+    return [x.strip(" .\u00a0") for x in parts if x.strip(" .\u00a0")]
+
+
+def sky_transfers(url):
+    """Liest die Sky-Übersicht 'Fixe Transfers' (Zu- und Abgänge je Verein, Bundesliga und 2. Bundesliga)."""
+    html = get(url).decode("utf-8", "ignore")
+    club_a = r'https?://sport\.sky\.de/[a-z0-9-]+/?'
+    html = re.sub(r'<a[^>]+href=["\']' + club_a + r'["\'][^>]*>\s*<(?:strong|b)[^>]*>(.*?)</(?:strong|b)>', r"\n##CLUB##\1\n", html, flags=re.S | re.I)
+    html = re.sub(r'<(?:strong|b)[^>]*>\s*<a[^>]+href=["\']' + club_a + r'["\'][^>]*>(.*?)</a>\s*</(?:strong|b)>', r"\n##CLUB##\1\n", html, flags=re.S | re.I)
+    html = re.sub(r"</(?:p|li|h[1-6]|div|ul|ol|section|article|tr)>|<br\s*/?>", "\n", html, flags=re.I)
+    lines = [re.sub(r"\s+", " ", x).strip() for x in unescape(re.sub(r"<[^>]+>", "", html)).split("\n")]
+    league, club, last, marked, out = "Bundesliga", None, None, False, []
+    for line in lines:
+        if not line:
+            continue
+        if "Zweitligisten" in line:
+            league = "2. Bundesliga"
+        elif "Bundesligisten" in line:
+            league = "Bundesliga"
+        if line.startswith("##CLUB##"):
+            club, marked = line[8:].strip(), True
+            continue
+        m = re.match(r"^(Zugänge|Abgänge)\s*:?\s*(.*)$", line)
+        if m:
+            if not marked and last:
+                club = last
+            if not club:
+                continue
+            for e in split_top(m.group(2).lstrip(": ")):
+                mm = re.match(r"^(.*?)\s*\((.*)\)\s*$", e)
+                name, info = (mm.group(1).strip(), mm.group(2)) if mm else (e, "")
+                other, _, note = info.partition(",")
+                out.append({"c": club, "l": league, "d": "in" if m.group(1) == "Zugänge" else "out",
+                            "p": name, "o": other.strip(), "n": note.strip()})
+        elif len(line) <= 40 and ":" not in line and not STOPLINE.match(line):
+            last = line
+    if len(out) < 50:
+        raise Exception("nur %d Transfers gefunden, Seitenaufbau geändert?" % len(out))
+    return out
+
+
 def yt_items(handle, club):
     html = "channel_id=" + handle if handle.startswith("UC") else get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
     m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
@@ -214,8 +265,8 @@ def league(short, name, season, out):
             continue
         ts = datetime.fromisoformat(m["matchDateTimeUTC"].replace("Z", "+00:00"))
         done = m.get("matchIsFinished")
-        if not done and ts > NOW - timedelta(hours=2):
-            NEXTALL.setdefault(c, []).append({"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat(),
+        if not done and ts > NOW - timedelta(hours=3):
+            NEXTALL.setdefault(c, []).append({"club": c, "id": m.get("matchID"), "league": name, "home": t1, "away": t2, "ts": ts.isoformat(),
                                               "hi": m["team1"].get("teamIconUrl") or "", "ai": m["team2"].get("teamIconUrl") or ""})
         res = [r for r in m.get("matchResults", []) if r.get("resultTypeID") == 2]
         if done and res and NOW - ts < timedelta(days=4):
@@ -246,6 +297,13 @@ for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items,
     except Exception as ex:
         print("FEHLER", args[0] if args else "OpenLigaDB", type(ex).__name__, ex)
 
+TRANSFERS = []
+try:
+    TRANSFERS = sky_transfers("https://sport.sky.de/fixe-transfers")
+    print("OK  Sky Fixe Transfers", len(TRANSFERS))
+except Exception as ex:
+    print("FEHLER Sky Fixe Transfers", type(ex).__name__, ex)
+
 OLD = {}
 try:
     with open("news.json", encoding="utf-8") as f:
@@ -273,4 +331,5 @@ if final:
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": NOW.isoformat(), "items": out,
                    "next": NEXT3 or OLD.get("next", []),
-                   "tables": {**OLD.get("tables", {}), **TABLES}}, f, ensure_ascii=False, indent=1)
+                   "tables": {**OLD.get("tables", {}), **TABLES},
+                   "transfers": TRANSFERS or OLD.get("transfers", [])}, f, ensure_ascii=False, indent=1)

@@ -62,6 +62,18 @@ th:nth-child(2),td:nth-child(2){text-align:left}
 tr.hl td{font-weight:700;background:color-mix(in srgb,var(--accent) 16%,transparent)}
 caption{padding:16px;color:var(--muted)}
 .cr{width:20px;height:20px;object-fit:contain;vertical-align:middle;margin-right:6px}
+details{background:var(--surface);border:1px solid var(--line);border-radius:10px;margin:0 0 8px;padding:10px 14px}
+details.sel{border-left:4px solid var(--accent)}
+summary{cursor:pointer;font-weight:700}
+summary small{font-weight:400;color:var(--muted);margin-left:6px}
+.trl h4{margin:12px 0 4px;font-size:13px;color:var(--muted)}
+.trl ul{margin:0;padding-left:18px}
+.trl li{margin:3px 0}
+.trl li span{color:var(--muted);font-size:13px}
+.live{background:var(--surface);border:2px solid var(--accent);border-radius:10px;padding:12px 14px;margin:0 0 12px}
+.lb{background:#d9480f;color:#fff;font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px}
+.sc{font-size:34px;font-weight:800;margin:4px 0}
+.gl{font-size:14px;margin:2px 0}
 </style>
 </head>
 <body>
@@ -75,9 +87,11 @@ caption{padding:16px;color:var(--muted)}
 </aside>
 <div class="wrap">
 <header><h1>Anstoß</h1><p class="sub" id="upd">Lade Meldungen …</p></header>
+<section id="lv" hidden></section>
 <section id="nx" hidden></section>
-<nav class="tabs"><button class="chip" id="t1" aria-pressed="true">Meldungen</button><button class="chip" id="t2" aria-pressed="false">Tabellen</button></nav>
+<nav class="tabs"><button class="chip" id="t1" aria-pressed="true">Meldungen</button><button class="chip" id="t2" aria-pressed="false">Tabellen</button><button class="chip" id="t3" aria-pressed="false">Transfers</button></nav>
 <div id="v1"><input id="q" type="search" placeholder="Suche, z. B. Spielername" aria-label="Suche"><main id="feed"></main></div>
+<div id="v3" hidden><div class="row" id="trl"></div><div id="tr"></div><p class="sub">Quelle: Sky Sport, Fixe Transfers (Bundesliga und 2. Bundesliga).</p><h2 class="sub">Meldungen und Gerüchte</h2><div id="tn"></div></div>
 <div id="v2" hidden><div class="row" id="tl"></div><div class="tw"><table id="tb"></table></div></div>
 <p class="sub">Spieldaten: OpenLigaDB (ODbL). Wappen und Logos gehören den jeweiligen Vereinen.</p>
 </div>
@@ -91,7 +105,8 @@ const SHOW_CRESTS=true; /* auf false setzen, um Wappen auszublenden */
 const SOURCES=["Kicker","Sportschau","Sky Sport","Transfermarkt","BVB.de","HSV.de","FCN.de","SC Weiche","YouTube","OpenLigaDB"];
 const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 const KW={BVB:["dortmund"],HSV:["hamburger sv","hsv"],FCN:["nürnberg"]};
-let ITEMS=[],NEXT=[],TABLES={},LIM=40,Q="",TL="Bundesliga",PREV=0;
+const KSL={"Bundesliga":"bundesliga","2. Bundesliga":"2-bundesliga","3. Liga":"3-liga","DFB-Pokal":"dfb-pokal"};
+let ITEMS=[],NEXT=[],TABLES={},TRANS=[],LIVE={},TRL="Bundesliga",LIM=40,Q="",TL="Bundesliga",PREV=0;
 let selC=new Set(),selL=new Set(),selT=new Set(),selS=new Set();
 const $=id=>document.getElementById(id);
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
@@ -113,7 +128,8 @@ const t=el("div"),s=el("strong"),a=crest(g.hi),b=crest(g.ai);if(a)s.appendChild(
 t.append(s,el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChild(d)})});
 n.hidden=!any}
 function render(){
-renderNext();renderTable();
+renderLive();renderNext();renderTable();renderTrans();
+if(liveWin().some(g=>!LIVE[g.id]))poll();
 fill("clubs",CLUBS,selC);fill("leagues",LEAGUES,selL);fill("types",TYPES,selT);fill("sources",[...new Set([...SOURCES,...ITEMS.map(i=>i[5])])],selS);
 const none=!selC.size&&!selL.size,cnt=selC.size+selL.size+selT.size+selS.size;
 $("tg").textContent="Filter"+(cnt?" ("+cnt+")":"");
@@ -136,17 +152,45 @@ if(!rows.length){t.createCaption().textContent="Noch keine Tabelle verfügbar.";
 const hd=t.insertRow();["#","Verein","Sp","Diff","Pkt"].forEach(x=>{const c=document.createElement("th");c.textContent=x;hd.appendChild(c)});
 rows.forEach((x,i)=>{const tr=t.insertRow(),n=x.team.toLowerCase();if([...selC].some(c=>(KW[c]||[]).some(k=>n.includes(k))))tr.className="hl";
 [i+1,x.team,x.played,(x.gd>0?"+":"")+x.gd,x.pts].forEach((v,j)=>{const c=tr.insertCell();if(j===1){const k=crest(x.icon);if(k)c.appendChild(k);c.appendChild(document.createTextNode(v))}else c.textContent=v})})}
-function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2)}
-$("t1").onclick=()=>show(1);$("t2").onclick=()=>show(2);
+function mini(i){const a=el("article"),m=el("div","meta");m.appendChild(el("span","tag t-"+i[2],i[2]));m.appendChild(el("span","",i[5]+" · "+ago(i[6])));const h=el("h3");if(i[7]){const k=el("a","",i[3]);k.href=i[7];k.target="_blank";k.rel="noopener";k.style.color="inherit";h.appendChild(k)}else h.textContent=i[3];a.append(m,h);return a}
+function renderNews(){const n=$("tn");n.textContent="";const l=ITEMS.filter(i=>(i[2]==="Transfer"||i[2]==="Gerücht")&&(!selC.size||selC.has(i[0]))).slice(0,30);
+if(!l.length)n.appendChild(el("p","empty",selC.size?"Keine Transfermeldungen für die gewählten Vereine.":"Keine Transfermeldungen gefunden."));l.forEach(i=>n.appendChild(mini(i)))}
+function ko(g){return Date.parse(g.ts)}
+function liveWin(){const n=Date.now();return NEXT.filter(g=>selC.has(g.club)&&g.id&&n>=ko(g)-3e5&&n<=ko(g)+99e5)}
+async function poll(){const l=liveWin().filter(g=>!(LIVE[g.id]&&LIVE[g.id].fin));
+await Promise.all(l.map(async g=>{try{const r=await fetch("https://api.openligadb.de/getmatchdata/"+g.id);if(!r.ok)throw 0;const m=await r.json(),old=LIVE[g.id]&&LIVE[g.id].m;
+if(old&&(m.goals||[]).length>(old.goals||[]).length&&navigator.vibrate)navigator.vibrate(200);
+LIVE[g.id]={m,t:Date.now(),fin:!!m.matchIsFinished}}catch(e){LIVE[g.id]={...(LIVE[g.id]||{}),err:true,t:Date.now()}}}));renderLive()}
+function renderLive(){const s=$("lv");s.textContent="";const l=liveWin();s.hidden=!l.length;
+l.forEach(g=>{const L=LIVE[g.id],m=L&&L.m,c=el("div","live"),top=el("div","meta"),fin=m&&m.matchIsFinished;
+top.append(el("span",fin?"tag":"lb",fin?"Beendet":"LIVE"),el("span","",g.league));c.append(top,el("strong","",g.home+" – "+g.away));
+const gs=m?(m.goals||[]).slice().sort((a,b)=>(a.matchMinute||0)-(b.matchMinute||0)):[],last=gs[gs.length-1];
+c.appendChild(el("div","sc",m?(last?last.scoreTeam1+":"+last.scoreTeam2:"0:0"):"–:–"));
+gs.forEach(x=>c.appendChild(el("div","gl",(x.matchMinute!=null?x.matchMinute+"′ ":"")+(x.goalGetterName||"Tor")+(x.isPenalty?" (Elfmeter)":"")+(x.isOwnGoal?" (Eigentor)":"")+" · "+x.scoreTeam1+":"+x.scoreTeam2)));
+c.appendChild(el("div","m",L?(L.err&&!m?"Live-Daten konnten nicht geladen werden. ":"Aktualisiert "+new Date(L.t).toLocaleTimeString("de-DE")+". ")+"Tore können einige Minuten verzögert erscheinen.":"Lade Live-Daten …"));
+const a=el("a","","Live bei Kicker");a.href="https://www.kicker.de/"+(KSL[g.league]?KSL[g.league]+"/spieltag":"");a.target="_blank";a.rel="noopener";a.style.cssText="display:inline-block;margin-top:6px;color:var(--accent);font-weight:700";c.appendChild(a);s.appendChild(c)})}
+function renderTrans(){renderNews();const r=$("trl");[...r.querySelectorAll("button")].forEach(n=>n.remove());
+["Bundesliga","2. Bundesliga"].forEach(l=>r.appendChild(chip(l,TRL===l,()=>{TRL=l;renderTrans()})));
+const box=$("tr");box.textContent="";const g={};TRANS.filter(t=>t.l===TRL).forEach(t=>{(g[t.c]=g[t.c]||{in:[],out:[]})[t.d].push(t)});
+const names=Object.keys(g),mine=n=>[...selC].some(c=>(KW[c]||[]).some(k=>n.toLowerCase().includes(k)));
+if(!names.length){box.appendChild(el("p","empty","Noch keine Transfers geladen."));return}
+names.sort((a,b)=>mine(b)-mine(a)||a.localeCompare(b,"de")).forEach(n=>{const d=document.createElement("details"),m=mine(n);if(m){d.className="sel";d.open=true}
+const s=el("summary","",n);s.appendChild(el("small","","Zugänge "+g[n].in.length+" · Abgänge "+g[n].out.length));d.appendChild(s);
+[["Zugänge","in"],["Abgänge","out"]].forEach(([t,k])=>{if(!g[n][k].length)return;const w=el("div","trl");w.appendChild(el("h4","",t));const u=document.createElement("ul");
+g[n][k].forEach(x=>{const li=el("li","",x.p);const i=[x.o,x.n].filter(Boolean).join(" · ");if(i)li.appendChild(el("span",""," – "+i));u.appendChild(li)});w.appendChild(u);d.appendChild(w)});box.appendChild(d)})}
+function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("v3").hidden=v!==3;$("t3").setAttribute("aria-pressed",v===3);$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2)}
+$("t1").onclick=()=>show(1);$("t2").onclick=()=>show(2);$("t3").onclick=()=>show(3);
 $("q").oninput=e=>{Q=e.target.value;LIM=40;render()};
 const mq=matchMedia("(min-width:820px)"),tg=$("tg");
 function setOpen(o){document.body.classList.toggle("open",o);tg.setAttribute("aria-expanded",o)}
 tg.onclick=()=>setOpen(!document.body.classList.contains("open"));
 $("cl").onclick=()=>setOpen(false);$("bd").onclick=()=>setOpen(false);
 setOpen(mq.matches);
+setInterval(()=>{if(document.visibilityState==="visible"&&liveWin().some(g=>!(LIVE[g.id]&&LIVE[g.id].fin)))poll()},45000);
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&liveWin().length)poll()});
 fetch("news.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
 ITEMS=d.items.filter(i=>!(i.tag==="Spiel"&&Date.parse(i.ts)>Date.now())&&!["Premier League","LaLiga"].includes(i.league)).map(i=>[i.club,i.league||"Fußball",i.tag,i.title,i.summary,i.source,Math.round((Date.now()-Date.parse(i.ts))/60000),i.url,i.img||"",Date.parse(i.ts)]);
-NEXT=(d.next||[]).sort((a,b)=>a.ts<b.ts?-1:1);TABLES=d.tables||{};
+NEXT=(d.next||[]).sort((a,b)=>a.ts<b.ts?-1:1);TABLES=d.tables||{};TRANS=d.transfers||[];
 $("upd").textContent=d.items.length?"Stand: "+new Date(d.updated).toLocaleString("de-DE"):"Noch keine Meldungen. Der erste Abruf läuft bald.";
 render()}).catch(()=>{$("upd").textContent="Meldungen konnten nicht geladen werden.";render()});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
