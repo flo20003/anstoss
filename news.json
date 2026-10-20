@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T05:38:23.021136+00:00",
+ "updated": "2026-10-20T09:15:30.973781+00:00",
  "items": [
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Live hören: Sabah FK gegen Borussia Dortmund - Champions League",
+   "summary": "Ligaphase: Anpfiff des Spiels ist am 20.10.2026 um 18:45 Uhr. Borussia Dortmund spielt in Baku.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/championsleague/sabah-fk-gegen-borussia-dortmund,audiostream-sabah-fk-gegen-borussia-dortmund-100.html",
+   "img": "",
+   "ts": "2026-10-20T16:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "20.10.2026 Neue Besetzung im Zentrum: Nadir, Adeline und Muheim im Fokus Männer",
+   "summary": "",
+   "source": "HSV.de",
+   "url": "https://www.hsv.de/news/neue-besetzung-im-zentrum-nadir-adeline-und-muheim-im-fokus",
+   "img": "",
+   "ts": "2026-10-20T09:15:30.973781+00:00"
+  },
+  {
+   "club": null,
+   "league": "DFB-Pokal",
+   "tag": "News",
+   "title": "Eine Woche vor DFB-Pokal gegen Hertha: Jeddeloh II präsentiert Bahar als Arambasic-Nachfolger",
+   "summary": "Der SSV Jeddeloh II hat die Nachfolge von Kristian Arambasic geregelt. Burak Bahar kommt vom SV Meppen an den Küstenkanal.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/eine-woche-vor-dfb-pokal-gegen-hertha-jeddeloh-ii-praesentiert-bahar-als-arambasic-nachfolger-1263215/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-20T08:22:21+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Unter Druck in Baku - BVB sucht die Angriffslust",
+   "summary": "Die letzte Etappe einer intensiven Woche steht an: Borussia Dortmund reist zum Champions-League-Spiel nach Baku - und steht dort unter Druck.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-unter-druck-in-baku-bvb-sucht-die-angriffslust-100.html",
+   "img": "",
+   "ts": "2026-10-20T07:22:34+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Nach Verletzungsschock - Wer kann Zoma beim FCN ersetzen?",
+   "summary": "Nach der schweren Verletzung von Mohamed Ali Zoma und dem monatelangen Ausfall startet beim 1. FC Nürnberg die Suche nach einem Ersatz. Wer könnte an seiner Stelle spielen und was bedeutet das für die Nürnberger Aufstieg",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-nach-verletzungsschock-wer-kann-zoma-beim-fcn-ersetzen-102.html",
+   "img": "",
+   "ts": "2026-10-20T05:47:24+00:00"
+  },
   {
    "club": "FCN",
    "league": null,
