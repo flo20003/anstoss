@@ -1,4 +1,4 @@
-import json, os, re, time, urllib.request
+import difflib, json, os, re, time, unicodedata, urllib.request
 from urllib.parse import urljoin, urlparse, quote, urlencode
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -298,38 +298,136 @@ def af_get(path, **q):
     return d["response"]
 
 
-def af_transfers(ids, tables):
-    out = []
-    for code, term in AF_SEARCH.items():
-        if code not in ids:
-            for r in af_get("teams", search=term):
-                t = r["team"]
-                if club_of(t["name"]) == code and not YOUTH.search(t["name"]) and not t.get("national") and t.get("country") in (None, "Germany"):
-                    ids[code] = t["id"]
-                    break
-        if code not in ids:
-            print("API-Football: Verein nicht gefunden", code)
+def ascii_(x):
+    return unicodedata.normalize("NFKD", x).encode("ascii", "ignore").decode().lower()
+
+
+AF_STOP = {"fc", "sv", "sc", "vfl", "vfb", "tsg", "fsv", "tsv", "ev", "borussia", "eintracht", "fortuna", "spvgg", "vfr", "sg", "tus", "rb"}
+
+
+def nk(name):
+    return " ".join(t for t in re.findall(r"[a-z0-9]+", ascii_(name)) if t not in AF_STOP and not t.isdigit())
+
+
+def af_term(name):
+    toks = [t for t in re.findall(r"[a-z]+", ascii_(name)) if t not in AF_STOP and len(t) >= 3]
+    return max(toks, key=len) if toks else ascii_(name)[:10]
+
+
+def af_best(name, teams):
+    n, best, score = " ".join(re.findall(r"[a-z0-9]+", ascii_(name))), None, 0
+    for t in teams:
+        if t.get("national") or YOUTH.search(t["name"]) or t.get("country") not in (None, "Germany"):
             continue
-        tid, lg = ids[code], league_for(code, tables)
-        for pl in af_get("transfers", team=tid):
-            for tr in pl.get("transfers", []):
-                dt = any_date(tr.get("date"))
-                tin, tout = tr["teams"]["in"], tr["teams"]["out"]
-                if not dt or NOW - dt > WINDOW or dt > NOW + timedelta(days=120):
-                    continue
-                if tin.get("id") == tid:
-                    d, other = "in", tout.get("name") or ""
-                elif tout.get("id") == tid:
-                    d, other = "out", tin.get("name") or ""
-                else:
-                    continue
-                if club_of(other) == code:
-                    continue
-                typ = (tr.get("type") or "").strip()
-                typ = {"Loan": "Leihe", "Free": "ablösefrei", "N/A": "", "-": ""}.get(typ, typ)
-                out.append({"c": CANON[code], "l": lg, "d": d, "p": pl["player"]["name"], "o": other,
-                            "n": ", ".join(x for x in (typ, dt.strftime("%d.%m.%Y")) if x), "s": "API-Football", "t": dt.isoformat()})
-    return out
+        sc = difflib.SequenceMatcher(None, n, " ".join(re.findall(r"[a-z0-9]+", ascii_(t["name"])))).ratio()
+        if sc > score:
+            best, score = t, sc
+    return best if score >= 0.55 else None
+
+
+class Budget(Exception):
+    pass
+
+
+AF_LEAGUES = [("Bundesliga", 78), ("2. Bundesliga", 79), ("3. Liga", 80)]
+AF_CAP, AF_PER_RUN = 85, 30  # Anfragen pro Tag bzw. pro Lauf (Gratis-Tarif: 100 pro Tag)
+
+
+def club_list(tables, meta):
+    lst = [(lg, r["team"]) for lg, _ in AF_LEAGUES for r in tables.get(lg, [])]
+    if not lst:
+        lst = [("Bundesliga", "Borussia Dortmund"), ("Bundesliga", "Hamburger SV"), ("2. Bundesliga", "1. FC Nürnberg")]
+    return lst + [("Regionalliga Nord", n) for n in meta.get("reg_nord", [])]
+
+
+def af_run(tables, meta, old, covered=()):
+    day = NOW.strftime("%Y-%m-%d")
+    used = meta.get("af_used") or {}
+    if used.get("d") != day:
+        used = {"d": day, "n": 0}
+    meta["af_used"] = used
+    ids, season, run = dict(meta.get("af_ids", {})), NOW.year if NOW.month >= 7 else NOW.year - 1, [0]
+    by_club = {}
+    for e in old:
+        by_club.setdefault(e["c"], []).append(e)
+
+    def call(path, **q):
+        if used["n"] >= AF_CAP or run[0] >= AF_PER_RUN:
+            raise Budget()
+        used["n"] += 1
+        run[0] += 1
+        return af_get(path, **q)
+
+    try:
+        clubs = club_list(tables, meta)
+        if not meta.get("af_bulk"):  # eine Anfrage pro Liga liefert alle Vereinsnummern, falls der Tarif es erlaubt
+            meta["af_bulk"] = True
+            for lg, lid in AF_LEAGUES:
+                try:
+                    teams = [r["team"] for r in call("teams", league=lid, season=season)]
+                    for l2, name in clubs:
+                        t = af_best(name, teams) if l2 == lg else None
+                        if t:
+                            ids[name] = t["id"]
+                except Budget:
+                    raise
+                except Exception as ex:
+                    print("API-Football Liste", lg, "nicht verfügbar:", str(ex)[:120])
+        if not meta.get("reg_nord") and (not meta.get("reg_try") or NOW - datetime.fromisoformat(meta["reg_try"]) > timedelta(days=7)):
+            meta["reg_try"] = NOW.isoformat()
+            names = []
+            try:
+                for r in call("leagues", search="Regionalliga"):
+                    toks = re.findall(r"[a-z]+", ascii_(r["league"]["name"]))
+                    if (r.get("country") or {}).get("name") == "Germany" and "nord" in toks:
+                        for t in call("teams", league=r["league"]["id"], season=season):
+                            names.append(t["team"]["name"])
+                            ids[t["team"]["name"]] = t["team"]["id"]
+                        break
+            except Budget:
+                raise
+            except Exception as ex:
+                print("API-Football Regionalliga Nord nicht verfügbar:", str(ex)[:120])
+            meta["reg_nord"] = names or ["SC Weiche Flensburg"]
+            clubs = club_list(tables, meta)
+        pos = meta.get("af_pos", 0) % max(1, len(clubs))
+        for step in range(len(clubs)):
+            lg, name = clubs[(pos + step) % len(clubs)]
+            if nk(name) in covered and club_of(name) not in CANON:  # schon über die Liga-Übersicht abgedeckt, spart Anfragen
+                meta["af_pos"] = (pos + step + 1) % len(clubs)
+                continue
+            if ids.get(name, 0) == 0 and name not in ids:
+                res = call("teams", search=af_term(name))
+                t = af_best(name, [r["team"] for r in res])
+                ids[name] = t["id"] if t else -1
+            tid = ids.get(name, -1)
+            if tid > 0:
+                entries = []
+                for pl in call("transfers", team=tid):
+                    for tr in pl.get("transfers", []):
+                        dt = any_date(tr.get("date"))
+                        tin, tout = tr["teams"]["in"], tr["teams"]["out"]
+                        if not dt or NOW - dt > WINDOW or dt > NOW + timedelta(days=120):
+                            continue
+                        if tin.get("id") == tid:
+                            d, other = "in", tout.get("name") or ""
+                        elif tout.get("id") == tid:
+                            d, other = "out", tin.get("name") or ""
+                        else:
+                            continue
+                        if difflib.SequenceMatcher(None, ascii_(other), ascii_(name)).ratio() >= 0.8:
+                            continue
+                        typ = (tr.get("type") or "").strip()
+                        typ = {"Loan": "Leihe", "Free": "ablösefrei", "N/A": "", "-": ""}.get(typ, typ)
+                        entries.append({"c": name, "l": lg, "d": d, "p": pl["player"]["name"], "o": other,
+                                        "n": ", ".join(x for x in (typ, dt.strftime("%d.%m.%Y")) if x),
+                                        "s": "API-Football", "t": dt.isoformat()})
+                by_club[name] = entries
+            meta["af_pos"] = (pos + step + 1) % len(clubs)
+    except Budget:
+        print("API-Football: Anfragegrenze für diesen Lauf oder Tag erreicht, es geht beim nächsten Lauf weiter")
+    meta["af_ids"] = ids
+    return [e for lst in by_club.values() for e in lst]
 
 
 def tm_get(path):
@@ -381,7 +479,7 @@ def merge_tx(lists):
         if code in CANON and not YOUTH.search(e["c"]):
             e = {**e, "c": CANON[code]}
         words = e["p"].split()
-        k = (e["c"].lower(), e["d"], words[-1].lower() if words else "")
+        k = (nk(e["c"]), e["d"], ascii_(words[-1]) if words else "")
         if k not in seen:
             seen.add(k)
             out.append(e)
@@ -478,9 +576,8 @@ def due(k, hours):
     return not META.get(k) or NOW - datetime.fromisoformat(META[k]) > timedelta(hours=hours)
 
 
-if AF_KEY and due("af", 6):
+if AF_KEY and due("af", 3):
     try:
-        ids = dict(META.get("af_ids", {}))
         try:
             st = af_get("status")
             if isinstance(st, dict):
@@ -488,9 +585,9 @@ if AF_KEY and due("af", 6):
                       (st.get("requests") or {}).get("current"), "von", (st.get("requests") or {}).get("limit_day"))
         except Exception as ex:
             print("API-Football Status nicht lesbar", ex)
-        AFX = af_transfers(ids, TAB)
-        META["af"], META["af_ids"] = NOW.isoformat(), ids
-        print("OK  API-Football Transfers", len(AFX))
+        AFX = af_run(TAB, META, AFX, {nk(e["c"]) for e in TRANSFERS})
+        META["af"] = NOW.isoformat()
+        print("OK  API-Football Transfers", len(AFX), "Einträge, Anfragen heute:", META["af_used"]["n"])
     except Exception as ex:
         print("FEHLER API-Football", type(ex).__name__, ex)
 elif not AF_KEY:

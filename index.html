@@ -91,7 +91,7 @@ summary small{font-weight:400;color:var(--muted);margin-left:6px}
 <section id="nx" hidden></section>
 <nav class="tabs"><button class="chip" id="t1" aria-pressed="true">Meldungen</button><button class="chip" id="t2" aria-pressed="false">Tabellen</button><button class="chip" id="t3" aria-pressed="false">Transfers</button></nav>
 <div id="v1"><input id="q" type="search" placeholder="Suche, z. B. Spielername" aria-label="Suche"><main id="feed"></main></div>
-<div id="v3" hidden><div class="row" id="trl"></div><div id="tr"></div><p class="sub">Quellen: API-Football und Transfermarkt-API (nur Dortmund, HSV, Nürnberg), dazu die Liga-Übersicht von Sky Sport oder bundesliga.com.</p><h2 class="sub">Meldungen und Gerüchte</h2><div id="tn"></div></div>
+<div id="v3" hidden><div class="row" id="trl"></div><div id="tr"></div><p class="sub">Quellen: API-Football (alle Vereine der Ligen, nach und nach geladen), Transfermarkt-API (nur Dortmund, HSV, Nürnberg), dazu die Liga-Übersicht von Sky Sport oder bundesliga.com.</p><h2 class="sub">Meldungen und Gerüchte</h2><div id="tn"></div></div>
 <div id="v2" hidden><div class="row" id="tl"></div><div class="tw"><table id="tb"></table></div></div>
 <p class="sub">Spieldaten: OpenLigaDB (ODbL). Wappen und Logos gehören den jeweiligen Vereinen.</p>
 </div>
@@ -170,7 +170,7 @@ gs.forEach(x=>c.appendChild(el("div","gl",(x.matchMinute!=null?x.matchMinute+"�
 c.appendChild(el("div","m",L?(L.err&&!m?"Live-Daten konnten nicht geladen werden. ":"Aktualisiert "+new Date(L.t).toLocaleTimeString("de-DE")+". ")+"Tore können einige Minuten verzögert erscheinen.":"Lade Live-Daten …"));
 const a=el("a","","Live bei Kicker");a.href="https://www.kicker.de/"+(KSL[g.league]?KSL[g.league]+"/spieltag":"");a.target="_blank";a.rel="noopener";a.style.cssText="display:inline-block;margin-top:6px;color:var(--accent);font-weight:700";c.appendChild(a);s.appendChild(c)})}
 function renderTrans(){renderNews();const r=$("trl");[...r.querySelectorAll("button")].forEach(n=>n.remove());
-["Bundesliga","2. Bundesliga"].forEach(l=>r.appendChild(chip(l,TRL===l,()=>{TRL=l;renderTrans()})));
+["Bundesliga","2. Bundesliga","3. Liga","Regionalliga Nord"].forEach(l=>r.appendChild(chip(l+" ("+TRANS.filter(t=>t.l===l).length+")",TRL===l,()=>{TRL=l;renderTrans()})));
 const box=$("tr");box.textContent="";const g={};TRANS.filter(t=>t.l===TRL).forEach(t=>{(g[t.c]=g[t.c]||{in:[],out:[]})[t.d].push(t)});
 const names=Object.keys(g),mine=n=>[...selC].some(c=>(KW[c]||[]).some(k=>n.toLowerCase().includes(k)));
 if(!names.length){box.appendChild(el("p","empty","Für diese Liga liegen noch keine bestätigten Wechsel vor."));return}
