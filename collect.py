@@ -116,9 +116,14 @@ def feed_items(url, source, league, club, tag=None, keep=False):
         if not (keep or c or l) or NOW - ts > timedelta(days=14):
             continue
         out.append({"club": c, "league": l, "tag": tg_of(full) if tag == "TG" else (tag or tag_of(full)),
-                    "title": title, "summary": summ, "source": source, "url": child(e, "link"), "img": img_of(e),
+                    "title": title, "summary": summ, "source": source, "url": fixurl(source, child(e, "link")), "img": img_of(e),
                     "ts": ts.isoformat()})
     return men_only(out) if source in CLUBSITES else out
+
+
+def fixurl(source, link):
+    # FCN.de verlinkt Artikel relativ zur Basisadresse; richtig ist /news/artikel/..., nicht /home/news/artikel/...
+    return link.replace("/home/news/", "/news/") if source == "FCN.de" else link
 
 
 def tg_of(s):
@@ -153,7 +158,7 @@ def men_only(items):
 
 def page_items(url, source, club, hint, tag):
     html = get(url).decode("utf-8", "ignore")
-    bm = re.search(r'<base[^>]+href=["\']([^"\']+)', html, re.I)
+    bm = re.search(r'<base[^>]+href=["\']?([^"\'\s>]+)', html, re.I)
     base = urljoin(url, bm.group(1)) if bm else url
     m = re.search(r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*href=["\']([^"\']+)["\']', html, re.I) or \
         re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]*type=["\']application/(?:rss|atom)\+xml', html, re.I)
@@ -166,7 +171,7 @@ def page_items(url, source, club, hint, tag):
             print("Kein Feed nutzbar bei", url, ex)
     host, ts_map, out, seen = urlparse(url).netloc, old_ts(), [], set()
     for href, inner in re.findall(r'<a\s[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', html, re.S | re.I):
-        link = urljoin(base, unescape(href))
+        link = fixurl(source, urljoin(base, unescape(href)))
         text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", inner))).strip()
         text = re.sub(r"^Nächster Artikel\s*", "", text)
         if link in seen or urlparse(link).netloc != host or not 28 <= len(text) <= 200 or len(text.split()) < 4:
@@ -245,10 +250,9 @@ OLD = {}
 try:
     with open("news.json", encoding="utf-8") as f:
         OLD = json.load(f)
-        items += [i for i in OLD["items"] if i["tag"] != "Spiel" and i.get("league") not in ("Premier League", "LaLiga")
+        items += [{**i, "url": fixurl(i["source"], i.get("url", ""))} for i in OLD["items"] if i["tag"] != "Spiel" and i.get("league") not in ("Premier League", "LaLiga")
                   and i["source"] not in ("BBC Sport", "The Guardian", "Marca", "AS", "Sky Sports")
                   and not (i["source"] in CLUBSITES and YOUTH.search(i["title"] + " " + i.get("url", "")))
-                  and not (i["source"] == "FCN.de" and "/home/news/" in i.get("url", ""))
                   and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
 except Exception as ex:
     print("Alte news.json nicht lesbar:", ex)
