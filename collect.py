@@ -302,9 +302,9 @@ def af_transfers(ids, tables):
     out = []
     for code, term in AF_SEARCH.items():
         if code not in ids:
-            for r in af_get("teams", search=term, country="Germany"):
+            for r in af_get("teams", search=term):
                 t = r["team"]
-                if club_of(t["name"]) == code and not YOUTH.search(t["name"]) and not t.get("national"):
+                if club_of(t["name"]) == code and not YOUTH.search(t["name"]) and not t.get("national") and t.get("country") in (None, "Germany"):
                     ids[code] = t["id"]
                     break
         if code not in ids:
