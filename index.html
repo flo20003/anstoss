@@ -86,7 +86,7 @@ caption{padding:16px;color:var(--muted)}
 <button id="tg" aria-expanded="false" aria-controls="side">Filter</button>
 <script>
 const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
-const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","DFB-Pokal","Regionalliga Nord","SH-Liga","LaLiga","Premier League"];
+const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","DFB-Pokal","Regionalliga Nord","SH-Liga"];
 const SHOW_CRESTS=true; /* auf false setzen, um Wappen auszublenden */
 const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 const KW={BVB:["dortmund"],HSV:["hamburger sv","hsv"],FCN:["nürnberg"]};
@@ -104,11 +104,15 @@ function ago(m){if(m<0){m=-m;return m<1440?"in "+Math.round(m/60)+" Std.":"in "+
 function fmt(ts){return new Date(ts).toLocaleString("de-DE",{weekday:"short",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}
 function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e}
 function crest(u){if(!SHOW_CRESTS||!u||!u.startsWith("http"))return null;const i=el("img","cr");i.loading="lazy";i.referrerPolicy="no-referrer";i.alt="";i.src=u.replace(/^http:/,"https:");i.onerror=()=>i.remove();return i}
-function renderNext(){const n=$("nx");n.textContent="";const l=NEXT.filter(g=>Date.parse(g.ts)>Date.now()-72e5);n.hidden=!l.length;if(!l.length)return;
-n.appendChild(el("h2","","Nächste Spiele"));
-l.forEach((g,i)=>{const c=CLUBS.find(x=>x[0]===g.club),d=el("div","ng"+(i?"":" f")),dot=el("span","dot");dot.style.background=c?c[2]:"#999";
-const t=el("div");const s=el("strong"),a=crest(g.hi),b=crest(g.ai);if(a)s.appendChild(a);s.appendChild(document.createTextNode(g.home+" – "+g.away));if(b){b.style.margin="0 0 0 6px";s.appendChild(b)}t.append(s,el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChild(d)})}
+function renderNext(){const n=$("nx");n.textContent="";let any=false;
+CLUBS.filter(c=>selC.has(c[0])).forEach(c=>{const l=NEXT.filter(g=>g.club===c[0]&&Date.parse(g.ts)>Date.now()-72e5).slice(0,3);if(!l.length)return;any=true;
+n.appendChild(el("h2","","Nächste Spiele · "+c[1]));
+l.forEach((g,i)=>{const d=el("div","ng"+(i?"":" f")),dot=el("span","dot");dot.style.background=c[2];
+const t=el("div"),s=el("strong"),a=crest(g.hi),b=crest(g.ai);if(a)s.appendChild(a);s.appendChild(document.createTextNode(g.home+" – "+g.away));if(b){b.style.margin="0 0 0 6px";s.appendChild(b)}
+t.append(s,el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChild(d)})});
+n.hidden=!any}
 function render(){
+renderNext();renderTable();
 fill("clubs",CLUBS,selC);fill("leagues",LEAGUES,selL);fill("types",TYPES,selT);fill("sources",[...new Set(ITEMS.map(i=>i[5]))].sort(),selS);
 const none=!selC.size&&!selL.size,cnt=selC.size+selL.size+selT.size+selS.size;
 $("tg").textContent="Filter"+(cnt?" ("+cnt+")":"");
@@ -129,9 +133,9 @@ function renderTable(){const r=$("tl");[...r.querySelectorAll("button")].forEach
 const t=$("tb");t.textContent="";const rows=TABLES[TL]||[];
 if(!rows.length){t.createCaption().textContent="Noch keine Tabelle verfügbar.";return}
 const hd=t.insertRow();["#","Verein","Sp","Diff","Pkt"].forEach(x=>{const c=document.createElement("th");c.textContent=x;hd.appendChild(c)});
-rows.forEach((x,i)=>{const tr=t.insertRow(),n=x.team.toLowerCase();if(Object.values(KW).some(w=>w.some(k=>n.includes(k))))tr.className="hl";
+rows.forEach((x,i)=>{const tr=t.insertRow(),n=x.team.toLowerCase();if([...selC].some(c=>(KW[c]||[]).some(k=>n.includes(k))))tr.className="hl";
 [i+1,x.team,x.played,(x.gd>0?"+":"")+x.gd,x.pts].forEach((v,j)=>{const c=tr.insertCell();if(j===1){const k=crest(x.icon);if(k)c.appendChild(k);c.appendChild(document.createTextNode(v))}else c.textContent=v})})}
-function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2);$("tg").hidden=v!==1}
+function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2)}
 $("t1").onclick=()=>show(1);$("t2").onclick=()=>show(2);
 $("q").oninput=e=>{Q=e.target.value;LIM=40;render()};
 const mq=matchMedia("(min-width:820px)"),tg=$("tg");
@@ -140,10 +144,10 @@ tg.onclick=()=>setOpen(!document.body.classList.contains("open"));
 $("cl").onclick=()=>setOpen(false);$("bd").onclick=()=>setOpen(false);
 setOpen(mq.matches);
 fetch("news.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
-ITEMS=d.items.map(i=>[i.club,i.league||"Fußball",i.tag,i.title,i.summary,i.source,Math.round((Date.now()-Date.parse(i.ts))/60000),i.url,i.img||"",Date.parse(i.ts)]);
+ITEMS=d.items.filter(i=>!(i.tag==="Spiel"&&Date.parse(i.ts)>Date.now())&&!["Premier League","LaLiga"].includes(i.league)).map(i=>[i.club,i.league||"Fußball",i.tag,i.title,i.summary,i.source,Math.round((Date.now()-Date.parse(i.ts))/60000),i.url,i.img||"",Date.parse(i.ts)]);
 NEXT=(d.next||[]).sort((a,b)=>a.ts<b.ts?-1:1);TABLES=d.tables||{};
 $("upd").textContent=d.items.length?"Stand: "+new Date(d.updated).toLocaleString("de-DE"):"Noch keine Meldungen. Der erste Abruf läuft bald.";
-renderNext();render();renderTable()}).catch(()=>{$("upd").textContent="Meldungen konnten nicht geladen werden.";render();renderTable()});
+render()}).catch(()=>{$("upd").textContent="Meldungen konnten nicht geladen werden.";render()});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>

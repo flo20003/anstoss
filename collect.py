@@ -1,4 +1,5 @@
 import json, re, urllib.request
+from urllib.parse import urljoin, urlparse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -12,17 +13,22 @@ FEEDS = [
     ("https://newsfeed.kicker.de/team/borussia-dortmund", "Kicker", None, "BVB"),
     ("https://newsfeed.kicker.de/team/hamburger-sv", "Kicker", None, "HSV"),
     ("https://newsfeed.kicker.de/team/1-fc-nuernberg", "Kicker", None, "FCN"),
+    # Liga-Feeds von Kicker (Adressen ungeprüft, im Protokoll nachsehen)
+    ("https://newsfeed.kicker.de/league/2-bundesliga", "Kicker", "2. Bundesliga", None),
+    ("https://newsfeed.kicker.de/league/3-liga", "Kicker", "3. Liga", None),
+    ("https://newsfeed.kicker.de/league/regionalliga-nord", "Kicker", "Regionalliga Nord", None),
     ("https://www.sportschau.de/fussball/index~rss2.xml", "Sportschau", None, None),
     ("https://www.sportschau.de/fussball/bundesliga/index~rss2.xml", "Sportschau", "Bundesliga", None),
-    # Premier League (geprüfte Adressen)
-    ("https://feeds.bbci.co.uk/sport/football/rss.xml", "BBC Sport", None, None),
-    ("https://www.theguardian.com/football/premierleague/rss", "The Guardian", "Premier League", None),
-    ("https://www.skysports.com/rss/11095", "Sky Sports", None, None),
-    # LaLiga (Adressen noch ungeprüft, im Protokoll nachsehen)
-    ("https://www.theguardian.com/football/laligafootball/rss", "The Guardian", "LaLiga", None),
-    ("https://e00-marca.uecdn.es/rss/futbol/primera-division.xml", "Marca", "LaLiga", None),
-    ("https://as.com/rss/futbol/primera.xml", "AS", "LaLiga", None),
-    # Regionalzeitungen und Vereinsseiten: weitere Feeds hier als neue Zeile eintragen
+]
+# Webseiten ohne bekannten Feed: (URL, Quelle, Verein, Pflicht-Muster im Link, Art). Der Sammler sucht zuerst
+# einen Feed im Seitenkopf und liest sonst die Überschriften samt Links von der Seite.
+PAGES = [
+    ("https://sport.sky.de/transfer-news", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", "TG"),
+    ("https://sport.sky.de/fixe-transfers", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", "Transfer"),
+    ("https://www.bvb.de/de/de/aktuelles/news.html", "BVB.de", "BVB", r"/aktuelles/news/", None),
+    ("https://www.hsv.de/uebersicht", "HSV.de", "HSV", None, None),
+    ("https://www.fcn.de/home/", "FCN.de", "FCN", None, None),
+    ("https://weiche-liga.de/", "SC Weiche", "SCW", None, None),
 ]
 # YouTube-Kanäle (Handle wie @bvb oder Kanalnummer wie UCxxxx, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
 YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
@@ -30,7 +36,7 @@ CLUBS = {"BVB": ["dortmund", "bvb"], "HSV": ["hsv", "hamburger sv"],
          "FCN": ["nürnberg", "nuernberg"], "SCW": ["weiche flensburg", "sc weiche"]}
 LEAGUES = [("DFB-Pokal", "DFB-Pokal"), ("2. Bundesliga", "2. Bundesliga"), ("3. Liga", "3. Liga"), ("Regionalliga", "Regionalliga Nord"),
            ("Schleswig-Holstein-Liga", "SH-Liga"), ("Bundesliga", "Bundesliga"),
-           ("LaLiga", "LaLiga"), ("La Liga", "LaLiga"), ("Premier League", "Premier League")]
+          ]
 OPENLIGA = [("bl1", "Bundesliga"), ("bl2", "2. Bundesliga"), ("bl3", "3. Liga"), ("dfb", "DFB-Pokal")]
 NOW = datetime.now(timezone.utc)
 
@@ -92,7 +98,7 @@ def img_of(e):
     return m.group(1) if m else ""
 
 
-def feed_items(url, source, league, club, tag=None):
+def feed_items(url, source, league, club, tag=None, keep=False):
     root = ET.fromstring(get(url))
     out = []
     for e in root.iter():
@@ -103,12 +109,61 @@ def feed_items(url, source, league, club, tag=None):
         ts = parse_date(child(e, "pubDate") or child(e, "published") or child(e, "updated"))
         full = title + " " + summ
         c, l = club or club_of(full), league or league_of(full)
-        if not (c or l) or NOW - ts > timedelta(days=14):
+        if not (keep or c or l) or NOW - ts > timedelta(days=14):
             continue
-        out.append({"club": c, "league": l, "tag": tag or tag_of(full),
+        out.append({"club": c, "league": l, "tag": tg_of(full) if tag == "TG" else (tag or tag_of(full)),
                     "title": title, "summary": summ, "source": source, "url": child(e, "link"), "img": img_of(e),
                     "ts": ts.isoformat()})
     return out
+
+
+def tg_of(s):
+    return "Gerücht" if tag_of(s) == "Gerücht" or "?" in s else "Transfer"
+
+
+_TS = None
+
+
+def old_ts():
+    global _TS
+    if _TS is None:
+        try:
+            with open("news.json", encoding="utf-8") as f:
+                _TS = {i["url"]: i["ts"] for i in json.load(f)["items"] if i.get("url")}
+        except Exception:
+            _TS = {}
+    return _TS
+
+
+BAD = re.compile(r"shop|ticket|login|impressum|datenschutz|cookie|kontakt|partner|karriere|newsletter|mailto|javascript|\.(jpg|png|svg|pdf)", re.I)
+
+
+def page_items(url, source, club, hint, tag):
+    html = get(url).decode("utf-8", "ignore")
+    m = re.search(r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*href=["\']([^"\']+)["\']', html, re.I) or \
+        re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]*type=["\']application/(?:rss|atom)\+xml', html, re.I)
+    if m:
+        try:
+            got = feed_items(urljoin(url, m.group(1)), source, None, club, tag, True)
+            if got:
+                return got
+        except Exception as ex:
+            print("Kein Feed nutzbar bei", url, ex)
+    host, ts_map, out, seen = urlparse(url).netloc, old_ts(), [], set()
+    for href, inner in re.findall(r'<a\s[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', html, re.S | re.I):
+        link = urljoin(url, unescape(href))
+        text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", inner))).strip()
+        text = re.sub(r"^Nächster Artikel\s*", "", text)
+        if link in seen or urlparse(link).netloc != host or not 28 <= len(text) <= 200 or len(text.split()) < 4:
+            continue
+        if (hint and not re.search(hint, link)) or (not hint and BAD.search(link)):
+            continue
+        seen.add(link)
+        out.append({"club": club or club_of(text), "league": league_of(text),
+                    "tag": tg_of(text) if tag == "TG" else (tag or tag_of(text)),
+                    "title": text, "summary": "", "source": source, "url": link, "img": "",
+                    "ts": ts_map.get(link, NOW.isoformat())})
+    return out[:40]
 
 
 def yt_items(handle, club):
@@ -121,7 +176,7 @@ def yt_items(handle, club):
     return feed_items(url, "YouTube", None, club, "Video")
 
 
-NEXT, TABLES = {}, {}
+NEXTALL, TABLES = {}, {}
 
 
 def league(short, name, season, out):
@@ -139,14 +194,12 @@ def league(short, name, season, out):
             continue
         ts = datetime.fromisoformat(m["matchDateTimeUTC"].replace("Z", "+00:00"))
         done = m.get("matchIsFinished")
-        if not done and ts > NOW - timedelta(hours=2) and (c not in NEXT or ts.isoformat() < NEXT[c]["ts"]):
-            NEXT[c] = {"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat(),
-                          "hi": m["team1"].get("teamIconUrl") or "", "ai": m["team2"].get("teamIconUrl") or ""}
+        if not done and ts > NOW - timedelta(hours=2):
+            NEXTALL.setdefault(c, []).append({"club": c, "league": name, "home": t1, "away": t2, "ts": ts.isoformat(),
+                                              "hi": m["team1"].get("teamIconUrl") or "", "ai": m["team2"].get("teamIconUrl") or ""})
         res = [r for r in m.get("matchResults", []) if r.get("resultTypeID") == 2]
         if done and res and NOW - ts < timedelta(days=4):
             title, summ = f"{t1} {res[0]['pointsTeam1']}:{res[0]['pointsTeam2']} {t2}", "Endergebnis"
-        elif not done and timedelta(0) < ts - NOW < timedelta(days=8):
-            title, summ = f"{t1} gegen {t2}", "Anstoß " + ts.strftime("%d.%m. %H:%M UTC")
         else:
             continue
         out.append({"club": c, "league": name, "tag": "Spiel", "title": title, "summary": summ,
@@ -165,7 +218,7 @@ def matches():
 
 
 items = []
-for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items, y) for y in YOUTUBE]:
+for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items, y) for y in YOUTUBE] + [(page_items, p) for p in PAGES]:
     try:
         got = fn(*args)
         print("OK ", args[0] if args else "OpenLigaDB", len(got))
@@ -177,7 +230,8 @@ OLD = {}
 try:
     with open("news.json", encoding="utf-8") as f:
         OLD = json.load(f)
-        items += [i for i in OLD["items"] if i["tag"] != "Spiel"
+        items += [i for i in OLD["items"] if i["tag"] != "Spiel" and i.get("league") not in ("Premier League", "LaLiga")
+                  and i["source"] not in ("BBC Sport", "The Guardian", "Marca", "AS", "Sky Sports")
                   and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
 except Exception as ex:
     print("Alte news.json nicht lesbar:", ex)
@@ -188,10 +242,11 @@ for i in sorted(items, key=lambda x: x["ts"], reverse=True):
     if k not in seen:
         seen.add(k)
         final.append(i)
+NEXT3 = [g for c in NEXTALL for g in sorted(NEXTALL[c], key=lambda g: g["ts"])[:3]]
 if final:
     vids = [i for i in final if i["tag"] == "Video"][:60]
     out = sorted(vids + [i for i in final if i["tag"] != "Video"][:400], key=lambda x: x["ts"], reverse=True)
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump({"updated": NOW.isoformat(), "items": out,
-                   "next": sorted(NEXT.values(), key=lambda g: g["ts"]) or OLD.get("next", []),
+                   "next": NEXT3 or OLD.get("next", []),
                    "tables": {**OLD.get("tables", {}), **TABLES}}, f, ensure_ascii=False, indent=1)
