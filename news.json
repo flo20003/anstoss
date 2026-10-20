@@ -1,16 +1,115 @@
 {
- "updated": "2026-10-20T10:23:32.551345+00:00",
+ "updated": "2026-10-20T15:21:23.401067+00:00",
  "items": [
   {
    "club": "BVB",
    "league": null,
    "tag": "News",
-   "title": "Live hören: Sabah FK gegen Borussia Dortmund - Champions League",
+   "title": "Sabah FK gegen Borussia Dortmund Live im Audiostream hören",
    "summary": "Ligaphase: Anpfiff des Spiels ist am 20.10.2026 um 18:45 Uhr. Borussia Dortmund spielt in Baku.",
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/championsleague/sabah-fk-gegen-borussia-dortmund,audiostream-sabah-fk-gegen-borussia-dortmund-100.html",
    "img": "",
    "ts": "2026-10-20T16:30:00+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der Club / Die ClubWoche Start in die Topspielvorbereitung!",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/start-in-die-topspielvorbereitung/",
+   "img": "",
+   "ts": "2026-10-20T15:21:23.401067+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Phillip Tietz und Niclas Füllkrug - Die Renaissance der \"echten Neuner\"",
+   "summary": "Der klassische Mittelstürmer galt in den vergangenen Jahren fast schon als ausgestorben. Phillip Tietz und Niclas Füllkrug beweisen, wie wichtig eine zentrale Spitze sein kann.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/swr/swr-phillip-tietz-und-niclas-fuellkrug-die-renaissance-der-echten-neuner-100.html",
+   "img": "",
+   "ts": "2026-10-20T14:56:14+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "BVB trifft spät: Joker Najdi macht den Deckel drauf",
+   "summary": "Borussia Dortmund hat sein Punktkonto aufgestockt: Der BVB siegte in seinem dritten Youth-League-Spiel bei Sabah FK nach Toren in der Schlussphase mit 2:0.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/sabah-gegen-dortmund-2026-uefa-youth-league-5264935/spielbericht#omrss",
+   "img": "",
+   "ts": "2026-10-20T12:51:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Gosens verteidigt Schalkes Stürmer: Wir spielen \"Slow-Motion-Pässe\"",
+   "summary": "Schalke 04 muss sich nach der Heimniederlage gegen Mainz 05 erneut beweisen. Bei kicker-Reporter Toni Lieto spricht Robin Gosens über die Stürmer-Thematik und den Umgang mit der Niederlage.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/gosens-verteidigt-schalkes-stuermer-wir-spielen-slow-motion-paesse-1263310/video#omrss",
+   "img": "",
+   "ts": "2026-10-20T12:33:52+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen",
+   "summary": "Borussia Dortmund muss am dritten Spieltag der Champions League in Aserbaidschan beim Sabah FK ran. Der kicker fasst zusammen, was den BVB erwartet, wie er es angeht und auf welche Duelle es ankommt.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wie-der-bvb-auflaufen-koennte-und-wo-die-entscheidenden-duelle-liegen-1263031/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-20T12:28:22+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hellmann erklärt Strategiewandel - Krösche-Nachfolger soll abgeworben werden",
+   "summary": "Der Nachfolger des ausgeschiedenen Frankfurter Sportvorstands Markus Krösche wird sich mit großen Herausforderungen konfrontiert sehen. Auf der Mitgliederversammlung erklären die Bosse den Strategiewandel der Eintracht.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/hellmann-erklaert-strategiewandel-kroesche-nachfolger-soll-abgeworben-werden-1263250/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-20T12:23:34+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Ab 18.45 Uhr live - Sabah FK gegen Borussia Dortmund",
+   "summary": "Gegen Champions-League-Neuling Sabah FK aus Aserbaidschan will der BVB nach der Pleite bei Bodo/Glimt wieder etwas gutmachen. Ab 18.45 Uhr im Liveticker und Audiostream.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517860/sabah-fk_borussia-dortmund/liveticker",
+   "img": "",
+   "ts": "2026-10-20T11:42:07+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "BVB-Gegner Sabah: Der Underdog mit den vielen Feel-Good-Storys",
+   "summary": "FK Sabah ist kein großer Name im europäischen Fußball, dennoch will der BVB-Gegner aus Aserbaidschan alles tun, um sein persönliches Fußballmärchen weiterzuschreiben.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/bvb-gegner-sabah-der-underdog-mit-den-vielen-feel-good-storys-1263296/video#omrss",
+   "img": "",
+   "ts": "2026-10-20T11:25:50+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?",
+   "summary": "Dass die Bremer dreimal in Serie nach einem 0:2 zurückkamen, hängt auch mit Mitchell Weiser zusammen - der allmählich in die Werder-Startelf drängen dürfte.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ein-protagonist-der-werder-comebacks-wer-weicht-fuer-weiser-1263258/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-20T10:30:00+00:00"
   },
   {
    "club": "HSV",
@@ -46,6 +145,17 @@
    "ts": "2026-10-20T07:22:34+00:00"
   },
   {
+   "club": "BVB",
+   "league": null,
+   "tag": "Video",
+   "title": "Live: Pressekonferenz mit Niko Kovac | Sabah - BVB | UEFA Champions League",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/watch?v=kb_wh9Au7zs",
+   "img": "https://i4.ytimg.com/vi/kb_wh9Au7zs/hqdefault.jpg",
+   "ts": "2026-10-20T07:03:02+00:00"
+  },
+  {
    "club": "FCN",
    "league": null,
    "tag": "News",
@@ -64,17 +174,6 @@
    "summary": "",
    "source": "FCN.de",
    "url": "https://www.fcn.de/news/artikel/clubwoche-topspiel-im-heimbereich-ausverkauft/",
-   "img": "",
-   "ts": "2026-10-20T05:32:21.732022+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "ClubMänner / Personal Zoma muss an der Schulter operiert werden",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/mohamed-ali-zoma-muss-an-der-schulter-operiert-werden/",
    "img": "",
    "ts": "2026-10-20T05:32:21.732022+00:00"
   },
@@ -119,6 +218,17 @@
    "summary": "",
    "source": "FCN.de",
    "url": "https://www.fcn.de/news/artikel/tickets-fuer-auswaertsspiele-des-1-fcn-hier-laeuft-der-vorverkauf/",
+   "img": "",
+   "ts": "2026-10-20T05:32:21.732022+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "ClubMänner / Personal Zoma muss an der Schulter operiert werden",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/mohamed-ali-zoma-muss-an-der-schulter-operiert-werden/",
    "img": "",
    "ts": "2026-10-20T05:32:21.732022+00:00"
   },
@@ -423,7 +533,7 @@
    "club": "BVB",
    "league": null,
    "tag": "News",
-   "title": "Sabah FK - der bunte Novize vom Kaspischen Meer",
+   "title": "BVB-Gegner Sabah FK: Der bunte Novize der Champions League",
    "summary": "Borussia Dortmund bestreitet bereits sein drittes Europapokalspiel in Baku. Mit Sabah FK wartet in der Champions League ein besonders facettenreicher Gegner.",
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/championsleague/sabah-fk-der-bunte-novize-vom-kaspischen-meer,sabah-fk-als-champions-league-neuling-mit-vielen-facetten-100.html",
