@@ -88,6 +88,7 @@ caption{padding:16px;color:var(--muted)}
 const CLUBS=[["BVB","Borussia Dortmund","#fde100"],["HSV","HSV","#1f5fa8"],["FCN","1. FC Nürnberg","#b3202a"],["SCW","SC Weiche Flensburg","#2a8c8c"]];
 const LEAGUES=["Bundesliga","2. Bundesliga","3. Liga","DFB-Pokal","Regionalliga Nord","SH-Liga"];
 const SHOW_CRESTS=true; /* auf false setzen, um Wappen auszublenden */
+const SOURCES=["Kicker","Sportschau","Sky Sport","Transfermarkt","BVB.de","HSV.de","FCN.de","SC Weiche","YouTube","OpenLigaDB"];
 const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 const KW={BVB:["dortmund"],HSV:["hamburger sv","hsv"],FCN:["nürnberg"]};
 let ITEMS=[],NEXT=[],TABLES={},LIM=40,Q="",TL="Bundesliga",PREV=0;
@@ -113,7 +114,7 @@ t.append(s,el("div","m",g.league+" · "+fmt(g.ts)));d.append(dot,t);n.appendChil
 n.hidden=!any}
 function render(){
 renderNext();renderTable();
-fill("clubs",CLUBS,selC);fill("leagues",LEAGUES,selL);fill("types",TYPES,selT);fill("sources",[...new Set(ITEMS.map(i=>i[5]))].sort(),selS);
+fill("clubs",CLUBS,selC);fill("leagues",LEAGUES,selL);fill("types",TYPES,selT);fill("sources",[...new Set([...SOURCES,...ITEMS.map(i=>i[5])])],selS);
 const none=!selC.size&&!selL.size,cnt=selC.size+selL.size+selT.size+selS.size;
 $("tg").textContent="Filter"+(cnt?" ("+cnt+")":"");
 const q=Q.trim().toLowerCase();
