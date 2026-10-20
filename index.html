@@ -91,7 +91,7 @@ summary small{font-weight:400;color:var(--muted);margin-left:6px}
 <section id="nx" hidden></section>
 <nav class="tabs"><button class="chip" id="t1" aria-pressed="true">Meldungen</button><button class="chip" id="t2" aria-pressed="false">Tabellen</button><button class="chip" id="t3" aria-pressed="false">Transfers</button></nav>
 <div id="v1"><input id="q" type="search" placeholder="Suche, z. B. Spielername" aria-label="Suche"><main id="feed"></main></div>
-<div id="v3" hidden><div class="row" id="trl"></div><div id="tr"></div><p class="sub">Quelle: Sky Sport, Fixe Transfers (Bundesliga und 2. Bundesliga).</p><h2 class="sub">Meldungen und Gerüchte</h2><div id="tn"></div></div>
+<div id="v3" hidden><div class="row" id="trl"></div><div id="tr"></div><p class="sub">Quellen: API-Football und Transfermarkt-API (nur Dortmund, HSV, Nürnberg), dazu die Liga-Übersicht von Sky Sport oder bundesliga.com.</p><h2 class="sub">Meldungen und Gerüchte</h2><div id="tn"></div></div>
 <div id="v2" hidden><div class="row" id="tl"></div><div class="tw"><table id="tb"></table></div></div>
 <p class="sub">Spieldaten: OpenLigaDB (ODbL). Wappen und Logos gehören den jeweiligen Vereinen.</p>
 </div>
@@ -173,11 +173,11 @@ function renderTrans(){renderNews();const r=$("trl");[...r.querySelectorAll("but
 ["Bundesliga","2. Bundesliga"].forEach(l=>r.appendChild(chip(l,TRL===l,()=>{TRL=l;renderTrans()})));
 const box=$("tr");box.textContent="";const g={};TRANS.filter(t=>t.l===TRL).forEach(t=>{(g[t.c]=g[t.c]||{in:[],out:[]})[t.d].push(t)});
 const names=Object.keys(g),mine=n=>[...selC].some(c=>(KW[c]||[]).some(k=>n.toLowerCase().includes(k)));
-if(!names.length){box.appendChild(el("p","empty","Noch keine Transfers geladen."));return}
+if(!names.length){box.appendChild(el("p","empty","Für diese Liga liegen noch keine bestätigten Wechsel vor."));return}
 names.sort((a,b)=>mine(b)-mine(a)||a.localeCompare(b,"de")).forEach(n=>{const d=document.createElement("details"),m=mine(n);if(m){d.className="sel";d.open=true}
 const s=el("summary","",n);s.appendChild(el("small","","Zugänge "+g[n].in.length+" · Abgänge "+g[n].out.length));d.appendChild(s);
 [["Zugänge","in"],["Abgänge","out"]].forEach(([t,k])=>{if(!g[n][k].length)return;const w=el("div","trl");w.appendChild(el("h4","",t));const u=document.createElement("ul");
-g[n][k].forEach(x=>{const li=el("li","",x.p);const i=[x.o,x.n].filter(Boolean).join(" · ");if(i)li.appendChild(el("span",""," – "+i));u.appendChild(li)});w.appendChild(u);d.appendChild(w)});box.appendChild(d)})}
+g[n][k].forEach(x=>{const li=el("li","",x.p);const i=[x.o,x.n,x.s].filter(Boolean).join(" · ");if(i)li.appendChild(el("span",""," – "+i));u.appendChild(li)});w.appendChild(u);d.appendChild(w)});box.appendChild(d)})}
 function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("v3").hidden=v!==3;$("t3").setAttribute("aria-pressed",v===3);$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2)}
 $("t1").onclick=()=>show(1);$("t2").onclick=()=>show(2);$("t3").onclick=()=>show(3);
 $("q").oninput=e=>{Q=e.target.value;LIM=40;render()};

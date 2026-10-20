@@ -1,11 +1,19 @@
-import json, re, urllib.request
-from urllib.parse import urljoin, urlparse
+import json, os, re, time, urllib.request
+from urllib.parse import urljoin, urlparse, quote, urlencode
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 
 # (URL, Quelle, Liga oder None, Verein oder None). Eigene Feeds einfach als neue Zeile ergänzen.
+def gn(q):
+    return "https://news.google.com/rss/search?q=" + quote(q) + "&hl=de&gl=DE&ceid=DE:de"
+
+
+GN_NAMES = {"kicker": "Kicker", "sky sport": "Sky Sport", "transfermarkt": "Transfermarkt",
+            "transfermarkt.de": "Transfermarkt", "sportschau": "Sportschau"}
+TW = "(Transfer OR Wechsel OR Gerücht OR verpflichtet OR Leihe OR Vertrag)"
+
 FEEDS = [
     ("https://newsfeed.kicker.de/news/aktuell", "Kicker", None, None),
     ("https://newsfeed.kicker.de/news/bundesliga", "Kicker", "Bundesliga", None),
@@ -20,6 +28,16 @@ FEEDS = [
     ("https://newsfeed.kicker.de/league/regionalliga-nord", "Kicker", "Regionalliga Nord", None),
     ("https://www.sportschau.de/fussball/index~rss2.xml", "Sportschau", None, None),
     ("https://www.sportschau.de/fussball/bundesliga/index~rss2.xml", "Sportschau", "Bundesliga", None),
+    # Google-News-Suchfeeds: Transfers und Gerüchte aus vielen Medien, auch Sky, Kicker und Transfermarkt
+    (gn('"Borussia Dortmund" ' + TW + " when:14d"), "Google News", None, "BVB", "TG"),
+    (gn('"Hamburger SV" ' + TW + " when:14d"), "Google News", None, "HSV", "TG"),
+    (gn('"1. FC Nürnberg" ' + TW + " when:14d"), "Google News", None, "FCN", "TG"),
+    (gn('"Weiche Flensburg" ' + TW + " when:30d"), "Google News", None, "SCW", "TG"),
+    (gn("Bundesliga Transfer Gerücht when:7d"), "Google News", "Bundesliga", None, "TG", True),
+    (gn("2. Bundesliga Transfer when:7d"), "Google News", "2. Bundesliga", None, "TG", True),
+    (gn("3. Liga Transfer when:7d"), "Google News", "3. Liga", None, "TG", True),
+    (gn("site:sport.sky.de Transfer when:14d"), "Google News", None, None, "TG", True),
+    (gn("site:transfermarkt.de when:14d"), "Google News", None, None, "TG", True),
 ]
 # Webseiten ohne bekannten Feed: (URL, Quelle, Verein, Pflicht-Muster im Link, Art). Der Sammler sucht zuerst
 # einen Feed im Seitenkopf und liest sonst die Überschriften samt Links von der Seite.
@@ -34,7 +52,7 @@ PAGES = [
 # YouTube-Kanäle (Handle wie @bvb oder Kanalnummer wie UCxxxx, Verein). Handles sind ungeprüft, bei FEHLER im Protokoll korrigieren.
 YOUTUBE = [("@bvb", "BVB"), ("@hsv", "HSV"), ("@fcnuernberg", "FCN")]
 CLUBS = {"BVB": ["dortmund", "bvb"], "HSV": ["hsv", "hamburger sv"],
-         "FCN": ["nürnberg", "nuernberg"], "SCW": ["weiche flensburg", "sc weiche"]}
+         "FCN": ["nürnberg", "nuernberg", "nurnberg", "nuremberg"], "SCW": ["weiche flensburg", "sc weiche"]}
 LEAGUES = [("DFB-Pokal", "DFB-Pokal"), ("2. Bundesliga", "2. Bundesliga"), ("3. Liga", "3. Liga"), ("Regionalliga", "Regionalliga Nord"),
            ("Schleswig-Holstein-Liga", "SH-Liga"), ("Bundesliga", "Bundesliga"),
           ]
@@ -42,8 +60,8 @@ OPENLIGA = [("bl1", "Bundesliga"), ("bl2", "2. Bundesliga"), ("bl3", "3. Liga"),
 NOW = datetime.now(timezone.utc)
 
 
-def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 anstoss-feed"})
+def get(url, extra=None):
+    req = urllib.request.Request(url, headers={**(extra or {}), "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", "Accept-Language": "de-DE,de;q=0.9"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return r.read()
 
@@ -107,13 +125,20 @@ def feed_items(url, source, league, club, tag=None, keep=False):
             continue
         title = unescape(child(e, "title"))
         summ = re.sub(r"<[^>]+>", "", unescape(child(e, "description") or child(e, "summary")))[:220].strip()
+        src = source
+        if "news.google.com" in url:
+            pub = child(e, "source")
+            if pub and title.endswith(" - " + pub):
+                title = title[: -len(pub) - 3]
+            src = GN_NAMES.get(pub.lower(), "Weitere Medien")
+            summ = "Gemeldet von " + pub if pub else ""
         ts = parse_date(child(e, "pubDate") or child(e, "published") or child(e, "updated"))
         full = title + " " + summ
         c, l = club or club_of(full), league or league_of(full)
         if not (keep or c or l) or NOW - ts > timedelta(days=14):
             continue
         out.append({"club": c, "league": l, "tag": tg_of(full) if tag == "TG" else (tag or tag_of(full)),
-                    "title": title, "summary": summ, "source": source, "url": fixurl(source, child(e, "link")), "img": img_of(e),
+                    "title": title, "summary": summ, "source": src, "url": fixurl(source, child(e, "link")), "img": img_of(e),
                     "ts": ts.isoformat()})
     return men_only(out) if source in CLUBSITES else out
 
@@ -237,6 +262,132 @@ def sky_transfers(url):
     return out
 
 
+AF_KEY = os.environ.get("APIFOOTBALL_KEY", "")
+USE_TM_API = True  # auf False setzen, um die Transfermarkt-API (Testinstanz) nicht zu nutzen
+TM_BASES = ["https://transfermarkt-api.fly.dev", "https://transfermarkt-api.vercel.app"]
+TM_OK = None
+TM_CLUBS = {"BVB": "16", "HSV": "41", "FCN": "4"}  # Transfermarkt-Vereinsnummern (ungeprüft)
+AF_SEARCH = {"BVB": "Dortmund", "HSV": "Hamburger", "FCN": "Nurnberg"}
+CANON = {"BVB": "Borussia Dortmund", "HSV": "Hamburger SV", "FCN": "1. FC Nürnberg"}
+WINDOW = timedelta(days=300)
+
+
+def any_date(x):
+    for f in ("%Y-%m-%d", "%b %d, %Y", "%d.%m.%Y", "%d/%m/%Y"):
+        try:
+            return datetime.strptime(str(x)[:12].strip(), f).replace(tzinfo=timezone.utc)
+        except ValueError:
+            pass
+    try:
+        return datetime.fromisoformat(str(x).replace("Z", "+00:00")).astimezone(timezone.utc)
+    except ValueError:
+        return None
+
+
+def league_for(code, tables):
+    for name, rows in tables.items():
+        if any(club_of(r["team"]) == code for r in rows):
+            return name
+    return "2. Bundesliga" if code == "FCN" else "Bundesliga"
+
+
+def af_get(path, **q):
+    d = json.loads(get("https://v3.football.api-sports.io/" + path + "?" + urlencode(q), {"x-apisports-key": AF_KEY}))
+    if d.get("errors"):
+        raise Exception(str(d["errors"]))
+    return d["response"]
+
+
+def af_transfers(ids, tables):
+    out = []
+    for code, term in AF_SEARCH.items():
+        if code not in ids:
+            for r in af_get("teams", search=term, country="Germany"):
+                t = r["team"]
+                if club_of(t["name"]) == code and not YOUTH.search(t["name"]) and not t.get("national"):
+                    ids[code] = t["id"]
+                    break
+        if code not in ids:
+            print("API-Football: Verein nicht gefunden", code)
+            continue
+        tid, lg = ids[code], league_for(code, tables)
+        for pl in af_get("transfers", team=tid):
+            for tr in pl.get("transfers", []):
+                dt = any_date(tr.get("date"))
+                tin, tout = tr["teams"]["in"], tr["teams"]["out"]
+                if not dt or NOW - dt > WINDOW or dt > NOW + timedelta(days=120):
+                    continue
+                if tin.get("id") == tid:
+                    d, other = "in", tout.get("name") or ""
+                elif tout.get("id") == tid:
+                    d, other = "out", tin.get("name") or ""
+                else:
+                    continue
+                if club_of(other) == code:
+                    continue
+                typ = (tr.get("type") or "").strip()
+                typ = {"Loan": "Leihe", "Free": "ablösefrei", "N/A": "", "-": ""}.get(typ, typ)
+                out.append({"c": CANON[code], "l": lg, "d": d, "p": pl["player"]["name"], "o": other,
+                            "n": ", ".join(x for x in (typ, dt.strftime("%d.%m.%Y")) if x), "s": "API-Football", "t": dt.isoformat()})
+    return out
+
+
+def tm_get(path):
+    global TM_OK
+    last = None
+    for base in ([TM_OK] if TM_OK else TM_BASES):
+        time.sleep(2)  # Testinstanz erlaubt etwa 2 Anfragen pro 3 Sekunden
+        try:
+            d = json.loads(get(base + path))
+            TM_OK = base
+            return d
+        except Exception as ex:
+            last = ex
+            print("Transfermarkt-API", base, type(ex).__name__, ex)
+    raise last
+
+
+def tm_transfers(old_squads, tables):
+    out, squads = [], {}
+    for code, cid in TM_CLUBS.items():
+        lg = league_for(code, tables)
+        players = tm_get("/clubs/%s/players" % cid).get("players", [])
+        print("Transfermarkt-API", code, len(players), "Spieler gelesen")
+        squads[code] = [{"id": str(p["id"]), "name": p.get("name", "")} for p in players if p.get("id")]
+        for p in players:
+            dt = any_date(p.get("joinedOn"))
+            if dt and NOW - dt < WINDOW and p.get("signedFrom") and club_of(p["signedFrom"]) != code:
+                out.append({"c": CANON[code], "l": lg, "d": "in", "p": p.get("name", ""), "o": p["signedFrom"],
+                            "n": dt.strftime("%d.%m.%Y"), "s": "Transfermarkt-API", "t": dt.isoformat()})
+        now_ids = {x["id"] for x in squads[code]}
+        for gone in [x for x in old_squads.get(code, []) if x["id"] not in now_ids][:8]:
+            try:
+                for t in tm_get("/players/%s/transfers" % gone["id"]).get("transfers", []):
+                    dt = any_date(t.get("date"))
+                    if str((t.get("from") or {}).get("clubID")) == cid and dt and NOW - dt < WINDOW:
+                        out.append({"c": CANON[code], "l": lg, "d": "out", "p": gone["name"],
+                                    "o": (t.get("to") or {}).get("clubName", ""), "n": dt.strftime("%d.%m.%Y"),
+                                    "s": "Transfermarkt-API", "t": dt.isoformat()})
+                        break
+            except Exception as ex:
+                print("Transfermarkt-API Abgang", gone["name"], ex)
+    return out, squads
+
+
+def merge_tx(lists):
+    out, seen = [], set()
+    for e in (x for l in lists for x in l):
+        code = club_of(e["c"])
+        if code in CANON and not YOUTH.search(e["c"]):
+            e = {**e, "c": CANON[code]}
+        words = e["p"].split()
+        k = (e["c"].lower(), e["d"], words[-1].lower() if words else "")
+        if k not in seen:
+            seen.add(k)
+            out.append(e)
+    return out
+
+
 def yt_items(handle, club):
     html = "channel_id=" + handle if handle.startswith("UC") else get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
     m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
@@ -298,11 +449,14 @@ for fn, args in [(matches, ())] + [(feed_items, f) for f in FEEDS] + [(yt_items,
         print("FEHLER", args[0] if args else "OpenLigaDB", type(ex).__name__, ex)
 
 TRANSFERS = []
-try:
-    TRANSFERS = sky_transfers("https://sport.sky.de/fixe-transfers")
-    print("OK  Sky Fixe Transfers", len(TRANSFERS))
-except Exception as ex:
-    print("FEHLER Sky Fixe Transfers", type(ex).__name__, ex)
+for turl in ("https://sport.sky.de/fixe-transfers",
+             "https://www.bundesliga.com/de/bundesliga/news/offizieller-transfermarkt-alle-wechsel-transfers-ubersicht-11850"):
+    try:
+        TRANSFERS = sky_transfers(turl)
+        print("OK ", turl, len(TRANSFERS), "Wechsel")
+        break
+    except Exception as ex:
+        print("FEHLER", turl, type(ex).__name__, ex)
 
 OLD = {}
 try:
@@ -314,6 +468,41 @@ try:
                   and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
 except Exception as ex:
     print("Alte news.json nicht lesbar:", ex)
+
+META = dict(OLD.get("meta", {}))
+AFX, TMX, SQUADS = OLD.get("tx_af", []), OLD.get("tx_tm", []), OLD.get("tm_squads", {})
+TAB = {**OLD.get("tables", {}), **TABLES}
+
+
+def due(k, hours):
+    return not META.get(k) or NOW - datetime.fromisoformat(META[k]) > timedelta(hours=hours)
+
+
+if AF_KEY and due("af", 6):
+    try:
+        ids = dict(META.get("af_ids", {}))
+        try:
+            st = af_get("status")
+            if isinstance(st, dict):
+                print("API-Football Tarif:", (st.get("subscription") or {}).get("plan"), "- Anfragen heute:",
+                      (st.get("requests") or {}).get("current"), "von", (st.get("requests") or {}).get("limit_day"))
+        except Exception as ex:
+            print("API-Football Status nicht lesbar", ex)
+        AFX = af_transfers(ids, TAB)
+        META["af"], META["af_ids"] = NOW.isoformat(), ids
+        print("OK  API-Football Transfers", len(AFX))
+    except Exception as ex:
+        print("FEHLER API-Football", type(ex).__name__, ex)
+elif not AF_KEY:
+    print("Hinweis: Kein APIFOOTBALL_KEY gesetzt, API-Football wird übersprungen")
+if USE_TM_API and due("tm", 12):
+    try:
+        TMX, SQUADS = tm_transfers(SQUADS, TAB)
+        META["tm"] = NOW.isoformat()
+        print("OK  Transfermarkt-API", len(TMX))
+    except Exception as ex:
+        print("FEHLER Transfermarkt-API", type(ex).__name__, ex)
+ALLTX = sorted(merge_tx([AFX, TMX, TRANSFERS]), key=lambda e: e.get("t", ""), reverse=True)
 
 seen, final = {}, []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
@@ -332,4 +521,5 @@ if final:
         json.dump({"updated": NOW.isoformat(), "items": out,
                    "next": NEXT3 or OLD.get("next", []),
                    "tables": {**OLD.get("tables", {}), **TABLES},
-                   "transfers": TRANSFERS or OLD.get("transfers", [])}, f, ensure_ascii=False, indent=1)
+                   "transfers": ALLTX or OLD.get("transfers", []),
+                   "tx_af": AFX, "tx_tm": TMX, "tm_squads": SQUADS, "meta": META}, f, ensure_ascii=False, indent=1)
