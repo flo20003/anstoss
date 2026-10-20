@@ -1,17 +1,6 @@
 {
- "updated": "2026-10-20T05:13:07.916329+00:00",
+ "updated": "2026-10-20T05:25:23.209626+00:00",
  "items": [
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "19.10.2026 U19 siegt im Stadtderby, U21 belohnt sich nicht Nachwuchs",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/u19-siegt-im-stadtderby-u21-belohnt-sich-nicht",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
   {
    "club": "HSV",
    "league": null,
@@ -20,28 +9,6 @@
    "summary": "",
    "source": "HSV.de",
    "url": "https://www.hsv.de/news/gedenken-an-adrian-maleika-44-jahre-danach",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "17.10.2026 „Das Ergebnis spricht eine klare Sprache“ Nach der 1:3-Niederlage beim 1. FC Köln zeigten sich die HSV-Frauen sichtlich enttäuscht über das Ergebnis. Die Stimmen zum Spiel.",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/das-ergebnis-spricht-eine-klare-sprache-",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "15.10.2026 HSV-Frauen gehen in Köln auf Punktejagd Nach der Länderspielpause sind die Rothosen im Rahmen des 7. Spieltags zu Gast beim 1. FC Köln. Alles Wissenswerte zum Duell mit den Domstädterinnen.",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/hsv-frauen-gehen-in-koeln-auf-punktejagd",
    "img": "",
    "ts": "2026-10-20T04:58:54.470200+00:00"
   },
@@ -86,39 +53,6 @@
    "summary": "",
    "source": "FCN.de",
    "url": "https://www.fcn.de/home/news/artikel/mohamed-ali-zoma-muss-an-der-schulter-operiert-werden/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "ClubNachwuchs / NLZ am Wochenende Big Points und Kantersiege",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/nlz-am-wochenende-big-points-und-kantersiege/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "ClubFrauen / Spielbericht Keine Punkte in Berlin",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/keine-punkte-in-berlin/",
-   "img": "",
-   "ts": "2026-10-20T04:58:54.470200+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "ClubFrauen / Juniorinnen am Wochenende Sieg, Niederlagen und wichtige Erkenntnisse",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/home/news/artikel/juniorinnen-sieg-niederlagen-und-wichtige-erkenntnisse/",
    "img": "",
    "ts": "2026-10-20T04:58:54.470200+00:00"
   },
