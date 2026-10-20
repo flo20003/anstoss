@@ -13,6 +13,7 @@ FEEDS = [
     ("https://newsfeed.kicker.de/team/borussia-dortmund", "Kicker", None, "BVB"),
     ("https://newsfeed.kicker.de/team/hamburger-sv", "Kicker", None, "HSV"),
     ("https://newsfeed.kicker.de/team/1-fc-nuernberg", "Kicker", None, "FCN"),
+    ("https://www.fcn.de/rss-feed/", "FCN.de", None, "FCN"),
     # Liga-Feeds von Kicker (Adressen ungeprüft, im Protokoll nachsehen)
     ("https://newsfeed.kicker.de/league/2-bundesliga", "Kicker", "2. Bundesliga", None),
     ("https://newsfeed.kicker.de/league/3-liga", "Kicker", "3. Liga", None),
@@ -28,7 +29,7 @@ PAGES = [
     ("https://sport.sky.de/fixe-transfers", "Sky Sport", None, r"/(fussball/artikel|transfer/news)/", "Transfer"),
     ("https://www.bvb.de/de/de/aktuelles/news.html", "BVB.de", "BVB", r"/aktuelles/news/", None),
     ("https://www.hsv.de/uebersicht", "HSV.de", "HSV", None, None),
-    ("https://www.fcn.de/home/", "FCN.de", "FCN", None, None),
+    ("https://www.fcn.de/home/", "FCN.de", "FCN", r"/news/artikel/", None),
     ("https://weiche-liga.de/", "SC Weiche", "SCW", None, None),
     # Transfermarkt: nur Überschrift und Link der Nachrichten, ohne Garantie (Seite kann den Abruf blockieren)
     ("https://www.transfermarkt.de/", "Transfermarkt", None, r"/news/\d+", None),
@@ -117,7 +118,7 @@ def feed_items(url, source, league, club, tag=None, keep=False):
         out.append({"club": c, "league": l, "tag": tg_of(full) if tag == "TG" else (tag or tag_of(full)),
                     "title": title, "summary": summ, "source": source, "url": child(e, "link"), "img": img_of(e),
                     "ts": ts.isoformat()})
-    return out
+    return men_only(out) if source in CLUBSITES else out
 
 
 def tg_of(s):
@@ -152,18 +153,20 @@ def men_only(items):
 
 def page_items(url, source, club, hint, tag):
     html = get(url).decode("utf-8", "ignore")
+    bm = re.search(r'<base[^>]+href=["\']([^"\']+)', html, re.I)
+    base = urljoin(url, bm.group(1)) if bm else url
     m = re.search(r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*href=["\']([^"\']+)["\']', html, re.I) or \
         re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]*type=["\']application/(?:rss|atom)\+xml', html, re.I)
     if m:
         try:
-            got = feed_items(urljoin(url, m.group(1)), source, None, club, tag, True)
+            got = feed_items(urljoin(base, m.group(1)), source, None, club, tag, True)
             if got:
                 return men_only(got) if club else got
         except Exception as ex:
             print("Kein Feed nutzbar bei", url, ex)
     host, ts_map, out, seen = urlparse(url).netloc, old_ts(), [], set()
     for href, inner in re.findall(r'<a\s[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', html, re.S | re.I):
-        link = urljoin(url, unescape(href))
+        link = urljoin(base, unescape(href))
         text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", inner))).strip()
         text = re.sub(r"^Nächster Artikel\s*", "", text)
         if link in seen or urlparse(link).netloc != host or not 28 <= len(text) <= 200 or len(text.split()) < 4:
@@ -245,16 +248,20 @@ try:
         items += [i for i in OLD["items"] if i["tag"] != "Spiel" and i.get("league") not in ("Premier League", "LaLiga")
                   and i["source"] not in ("BBC Sport", "The Guardian", "Marca", "AS", "Sky Sports")
                   and not (i["source"] in CLUBSITES and YOUTH.search(i["title"] + " " + i.get("url", "")))
+                  and not (i["source"] == "FCN.de" and "/home/news/" in i.get("url", ""))
                   and NOW - datetime.fromisoformat(i["ts"]) < timedelta(days=30)]
 except Exception as ex:
     print("Alte news.json nicht lesbar:", ex)
 
-seen, final = set(), []
+seen, final = {}, []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
     k = i["url"] or i["title"]
     if k not in seen:
-        seen.add(k)
+        seen[k] = i
         final.append(i)
+    elif (i["summary"] or i.get("img")) and not (seen[k]["summary"] or seen[k].get("img")):
+        final[final.index(seen[k])] = i
+        seen[k] = i
 NEXT3 = [g for c in NEXTALL for g in sorted(NEXTALL[c], key=lambda g: g["ts"])[:3]]
 if final:
     vids = [i for i in final if i["tag"] == "Video"][:60]
