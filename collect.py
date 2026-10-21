@@ -332,7 +332,7 @@ class Budget(Exception):
 
 
 AF_LEAGUES = [("Bundesliga", 78), ("2. Bundesliga", 79), ("3. Liga", 80)]
-AF_CAP, AF_PER_RUN = 85, 30  # Anfragen pro Tag bzw. pro Lauf (Gratis-Tarif: 100 pro Tag)
+AF_CAP, AF_PER_RUN = 85, 40  # Anfragen pro Tag bzw. pro Lauf (Gratis-Tarif: 100 pro Tag)
 
 
 def club_list(tables, meta):
@@ -365,16 +365,20 @@ def af_run(tables, meta, old, covered=()):
         if not meta.get("af_bulk"):  # eine Anfrage pro Liga liefert alle Vereinsnummern, falls der Tarif es erlaubt
             meta["af_bulk"] = True
             for lg, lid in AF_LEAGUES:
-                try:
-                    teams = [r["team"] for r in call("teams", league=lid, season=season)]
+                for sea in (season, season - 1):
+                    try:
+                        teams = [r["team"] for r in call("teams", league=lid, season=sea)]
+                    except Budget:
+                        raise
+                    except Exception as ex:
+                        print("API-Football Liste", lg, sea, "nicht verfügbar:", str(ex)[:100])
+                        continue
                     for l2, name in clubs:
-                        t = af_best(name, teams) if l2 == lg else None
-                        if t:
-                            ids[name] = t["id"]
-                except Budget:
-                    raise
-                except Exception as ex:
-                    print("API-Football Liste", lg, "nicht verfügbar:", str(ex)[:120])
+                        if l2 == lg and name not in ids:
+                            t = af_best(name, teams)
+                            if t:
+                                ids[name] = t["id"]
+                    break
         if not meta.get("reg_nord") and (not meta.get("reg_try") or NOW - datetime.fromisoformat(meta["reg_try"]) > timedelta(days=7)):
             meta["reg_try"] = NOW.isoformat()
             names = []
@@ -392,11 +396,12 @@ def af_run(tables, meta, old, covered=()):
                 print("API-Football Regionalliga Nord nicht verfügbar:", str(ex)[:120])
             meta["reg_nord"] = names or ["SC Weiche Flensburg"]
             clubs = club_list(tables, meta)
-        pos = meta.get("af_pos", 0) % max(1, len(clubs))
-        for step in range(len(clubs)):
-            lg, name = clubs[(pos + step) % len(clubs)]
+        done = dict(meta.get("af_done", {}))
+        meta["af_done"] = done
+        for lg, name in sorted(clubs, key=lambda c: done.get(c[1], "")):
             if nk(name) in covered and club_of(name) not in CANON:  # schon über die Liga-Übersicht abgedeckt, spart Anfragen
-                meta["af_pos"] = (pos + step + 1) % len(clubs)
+                continue
+            if done.get(name) and NOW - datetime.fromisoformat(done[name]) < timedelta(hours=20):
                 continue
             if ids.get(name, 0) == 0 and name not in ids:
                 res = call("teams", search=af_term(name))
@@ -425,7 +430,7 @@ def af_run(tables, meta, old, covered=()):
                                         "n": ", ".join(x for x in (typ, dt.strftime("%d.%m.%Y")) if x),
                                         "s": "API-Football", "t": dt.isoformat()})
                 by_club[name] = entries
-            meta["af_pos"] = (pos + step + 1) % len(clubs)
+            done[name] = NOW.isoformat()
     except Budget:
         print("API-Football: Anfragegrenze für diesen Lauf oder Tag erreicht, es geht beim nächsten Lauf weiter")
     meta["af_ids"] = ids
@@ -492,9 +497,9 @@ def league_map(tables, meta):
     m = {}
     for lg in ("Bundesliga", "2. Bundesliga", "3. Liga"):
         for r in tables.get(lg, []):
-            m[nk(r["team"])] = lg
+            m[nk(r["team"])] = (lg, r["team"])
     for n in meta.get("reg_nord", []):
-        m.setdefault(nk(n), "Regionalliga Nord")
+        m.setdefault(nk(n), ("Regionalliga Nord", n))
     return m
 
 
@@ -519,9 +524,9 @@ def relabel(entries, tables, meta):
         return [e for e in entries if e.get("s")]
     out, dropped = [], set()
     for e in entries:
-        lg = find_league(e["c"], m)
-        if lg:
-            out.append({**e, "l": lg})
+        hit = find_league(e["c"], m)
+        if hit:
+            out.append({**e, "l": hit[0], "c": hit[1]})
         else:
             dropped.add(e["c"])
     counts = {}
@@ -674,6 +679,10 @@ for i in sorted(items, key=lambda x: x["ts"], reverse=True):
     elif (i["summary"] or i.get("img")) and not (seen[k]["summary"] or seen[k].get("img")):
         final[final.index(seen[k])] = i
         seen[k] = i
+TEAMS_OUT = {lg: [r["team"] for r in rows] for lg, rows in MEM.items()}
+TEAMS_OUT["Regionalliga Nord"] = META.get("reg_nord", [])
+COVERED = {nk(e["c"]) for e in TRANSFERS}
+LOADED = sorted(n for names in TEAMS_OUT.values() for n in names if n in META.get("af_done", {}) or nk(n) in COVERED)
 NEXT3 = [g for c in NEXTALL for g in sorted(NEXTALL[c], key=lambda g: g["ts"])[:3]]
 if final:
     vids = [i for i in final if i["tag"] == "Video"][:60]
@@ -683,4 +692,4 @@ if final:
                    "next": NEXT3 or OLD.get("next", []),
                    "tables": {**OLD.get("tables", {}), **TABLES},
                    "transfers": ALLTX or OLD.get("transfers", []),
-                   "teams": TEAMS, "tx_af": AFX, "tx_tm": TMX, "tm_squads": SQUADS, "meta": META}, f, ensure_ascii=False, indent=1)
+                   "teams": TEAMS_OUT, "loaded": LOADED, "tx_af": AFX, "tx_tm": TMX, "tm_squads": SQUADS, "meta": META}, f, ensure_ascii=False, indent=1)

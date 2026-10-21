@@ -106,7 +106,7 @@ const SOURCES=["Kicker","Sportschau","Sky Sport","Transfermarkt","BVB.de","HSV.d
 const TYPES=["Transfer","Gerücht","News","Spiel","Video"];
 const KW={BVB:["dortmund"],HSV:["hamburger sv","hsv"],FCN:["nürnberg"]};
 const KSL={"Bundesliga":"bundesliga","2. Bundesliga":"2-bundesliga","3. Liga":"3-liga","DFB-Pokal":"dfb-pokal"};
-let ITEMS=[],NEXT=[],TABLES={},TRANS=[],LIVE={},TRL="Bundesliga",LIM=40,Q="",TL="Bundesliga",PREV=0;
+let ITEMS=[],NEXT=[],TABLES={},TRANS=[],TEAMSJ={},LOADED=[],LIVE={},TRL="Bundesliga",LIM=40,Q="",TL="Bundesliga",PREV=0;
 let selC=new Set(),selL=new Set(),selT=new Set(),selS=new Set();
 const $=id=>document.getElementById(id);
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
@@ -172,10 +172,13 @@ const a=el("a","","Live bei Kicker");a.href="https://www.kicker.de/"+(KSL[g.leag
 function renderTrans(){renderNews();const r=$("trl");[...r.querySelectorAll("button")].forEach(n=>n.remove());
 ["Bundesliga","2. Bundesliga","3. Liga","Regionalliga Nord"].forEach(l=>r.appendChild(chip(l+" ("+TRANS.filter(t=>t.l===l).length+")",TRL===l,()=>{TRL=l;renderTrans()})));
 const box=$("tr");box.textContent="";const g={};TRANS.filter(t=>t.l===TRL).forEach(t=>{(g[t.c]=g[t.c]||{in:[],out:[]})[t.d].push(t)});
+(TEAMSJ[TRL]||[]).forEach(n=>{if(!g[n])g[n]={in:[],out:[]}});
+const tot=(TEAMSJ[TRL]||[]).length,ld=(TEAMSJ[TRL]||[]).filter(n=>LOADED.includes(n)||g[n].in.length+g[n].out.length).length;
+if(tot)box.appendChild(el("p","sub",ld+" von "+tot+" Vereinen geladen"));
 const names=Object.keys(g),mine=n=>[...selC].some(c=>(KW[c]||[]).some(k=>n.toLowerCase().includes(k)));
 if(!names.length){box.appendChild(el("p","empty","Für diese Liga liegen noch keine bestätigten Wechsel vor."));return}
 names.sort((a,b)=>mine(b)-mine(a)||a.localeCompare(b,"de")).forEach(n=>{const d=document.createElement("details"),m=mine(n);if(m){d.className="sel";d.open=true}
-const s=el("summary","",n);s.appendChild(el("small","","Zugänge "+g[n].in.length+" · Abgänge "+g[n].out.length));d.appendChild(s);
+const s=el("summary","",n);s.appendChild(el("small","",g[n].in.length+g[n].out.length?"Zugänge "+g[n].in.length+" · Abgänge "+g[n].out.length:(LOADED.includes(n)?"keine Wechsel im Zeitraum":"noch nicht geladen")));d.appendChild(s);
 [["Zugänge","in"],["Abgänge","out"]].forEach(([t,k])=>{if(!g[n][k].length)return;const w=el("div","trl");w.appendChild(el("h4","",t));const u=document.createElement("ul");
 g[n][k].forEach(x=>{const li=el("li","",x.p);const i=[x.o,x.n,x.s].filter(Boolean).join(" · ");if(i)li.appendChild(el("span",""," – "+i));u.appendChild(li)});w.appendChild(u);d.appendChild(w)});box.appendChild(d)})}
 function show(v){$("v1").hidden=v!==1;$("v2").hidden=v!==2;$("v3").hidden=v!==3;$("t3").setAttribute("aria-pressed",v===3);$("t1").setAttribute("aria-pressed",v===1);$("t2").setAttribute("aria-pressed",v===2)}
@@ -190,7 +193,7 @@ setInterval(()=>{if(document.visibilityState==="visible"&&liveWin().some(g=>!(LI
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&liveWin().length)poll()});
 fetch("news.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
 ITEMS=d.items.filter(i=>!(i.tag==="Spiel"&&Date.parse(i.ts)>Date.now())&&!["Premier League","LaLiga"].includes(i.league)).map(i=>[i.club,i.league||"Fußball",i.tag,i.title,i.summary,i.source,Math.round((Date.now()-Date.parse(i.ts))/60000),i.url,i.img||"",Date.parse(i.ts)]);
-NEXT=(d.next||[]).sort((a,b)=>a.ts<b.ts?-1:1);TABLES=d.tables||{};TRANS=d.transfers||[];
+NEXT=(d.next||[]).sort((a,b)=>a.ts<b.ts?-1:1);TABLES=d.tables||{};TRANS=d.transfers||[];TEAMSJ=d.teams||{};LOADED=d.loaded||[];
 $("upd").textContent=d.items.length?"Stand: "+new Date(d.updated).toLocaleString("de-DE"):"Noch keine Meldungen. Der erste Abruf läuft bald.";
 render()}).catch(()=>{$("upd").textContent="Meldungen konnten nicht geladen werden.";render()});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
