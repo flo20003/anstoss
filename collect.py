@@ -37,7 +37,7 @@ FEEDS = [
     (gn("2. Bundesliga Transfer when:7d"), "Google News", "2. Bundesliga", None, "TG", True),
     (gn("3. Liga Transfer when:7d"), "Google News", "3. Liga", None, "TG", True),
     (gn("site:sport.sky.de Transfer when:14d"), "Google News", None, None, "TG", True),
-    (gn("site:transfermarkt.de when:14d"), "Google News", None, None, "TG", True),
+    (gn('site:transfermarkt.de (Bundesliga OR Dortmund OR "Hamburger SV" OR Nürnberg OR BVB OR HSV) when:14d'), "Google News", None, None, "TG", True),
 ]
 # Webseiten ohne bekannten Feed: (URL, Quelle, Verein, Pflicht-Muster im Link, Art). Der Sammler sucht zuerst
 # einen Feed im Seitenkopf und liest sonst die Überschriften samt Links von der Seite.
@@ -236,7 +236,9 @@ def sky_transfers(url):
     for line in lines:
         if not line:
             continue
-        if "Zweitligisten" in line:
+        if len(line) > 70:
+            pass
+        elif "Zweitligisten" in line:
             league = "2. Bundesliga"
         elif "Bundesligisten" in line:
             league = "Bundesliga"
@@ -513,7 +515,8 @@ def relabel(entries, tables, meta):
     """Ordnet jeden Verein anhand der Ligatabellen der richtigen Liga zu; unbekannte Vereine fallen heraus."""
     m = league_map(tables, meta)
     if not m:
-        return entries
+        print("Keine Ligazuordnung möglich (Tabellen und Spiele von OpenLigaDB fehlen), Einträge ohne Liga entfallen")
+        return [e for e in entries if e.get("s")]
     out, dropped = [], set()
     for e in entries:
         lg = find_league(e["c"], m)
@@ -528,6 +531,19 @@ def relabel(entries, tables, meta):
     return out
 
 
+def tm_relevant(i, tables):
+    """Transfermarkt-Meldungen nur zu BVB, HSV, FCN und den Vereinen der 1. und 2. Bundesliga behalten."""
+    if i.get("club") in CANON or i.get("league") in ("Bundesliga", "2. Bundesliga"):
+        return True
+    text = ascii_(i["title"] + " " + i["summary"])
+    for lg in ("Bundesliga", "2. Bundesliga"):
+        for r in tables.get(lg, []):
+            for key in {nk(r["team"]), af_term(r["team"])}:
+                if key and re.search(r"\b" + re.escape(key) + r"\b", text):
+                    return True
+    return False
+
+
 def yt_items(handle, club):
     html = "channel_id=" + handle if handle.startswith("UC") else get("https://www.youtube.com/" + handle).decode("utf-8", "ignore")
     m = re.search(r'"channelId":"(UC[\w-]{22})"', html) or re.search(r'channel_id=(UC[\w-]{22})', html)
@@ -538,7 +554,7 @@ def yt_items(handle, club):
     return feed_items(url, "YouTube", None, club, "Video")
 
 
-NEXTALL, TABLES = {}, {}
+NEXTALL, TABLES, TEAMSET = {}, {}, {}
 
 
 def league(short, name, season, out):
@@ -551,6 +567,8 @@ def league(short, name, season, out):
             print("Tabelle fehlt", name, ex)
     for m in json.loads(get(f"https://api.openligadb.de/getmatchdata/{short}/{season}")):
         t1, t2 = m["team1"]["teamName"], m["team2"]["teamName"]
+        if short != "dfb":
+            TEAMSET.setdefault(name, set()).update((t1, t2))
         c = club_of(t1) or club_of(t2)
         if not c:
             continue
@@ -611,7 +629,11 @@ except Exception as ex:
 
 META = dict(OLD.get("meta", {}))
 AFX, TMX, SQUADS = OLD.get("tx_af", []), OLD.get("tx_tm", []), OLD.get("tm_squads", {})
+TEAMS = {**OLD.get("teams", {}), **{k: sorted(v) for k, v in TEAMSET.items() if v}}
 TAB = {**OLD.get("tables", {}), **TABLES}
+MEM = {lg: (TAB.get(lg) or [{"team": n} for n in TEAMS.get(lg, [])]) for lg in ("Bundesliga", "2. Bundesliga", "3. Liga")}
+print("Ligazuordnung (Vereine je Liga):", {k: len(v) for k, v in MEM.items()})
+items = [i for i in items if i["source"] != "Transfermarkt" or tm_relevant(i, MEM)]
 
 
 def due(k, hours):
@@ -627,7 +649,7 @@ if AF_KEY and due("af", 3):
                       (st.get("requests") or {}).get("current"), "von", (st.get("requests") or {}).get("limit_day"))
         except Exception as ex:
             print("API-Football Status nicht lesbar", ex)
-        AFX = af_run(TAB, META, AFX, {nk(e["c"]) for e in TRANSFERS})
+        AFX = af_run(MEM, META, AFX, {nk(e["c"]) for e in TRANSFERS})
         META["af"] = NOW.isoformat()
         print("OK  API-Football Transfers", len(AFX), "Einträge, Anfragen heute:", META["af_used"]["n"])
     except Exception as ex:
@@ -636,12 +658,12 @@ elif not AF_KEY:
     print("Hinweis: Kein APIFOOTBALL_KEY gesetzt, API-Football wird übersprungen")
 if USE_TM_API and due("tm", 12):
     try:
-        TMX, SQUADS = tm_transfers(SQUADS, TAB)
+        TMX, SQUADS = tm_transfers(SQUADS, MEM)
         META["tm"] = NOW.isoformat()
         print("OK  Transfermarkt-API", len(TMX))
     except Exception as ex:
         print("FEHLER Transfermarkt-API", type(ex).__name__, ex)
-ALLTX = sorted(relabel(merge_tx([AFX, TMX, TRANSFERS]), TAB, META), key=lambda e: e.get("t", ""), reverse=True)
+ALLTX = sorted(relabel(merge_tx([AFX, TMX, TRANSFERS]), MEM, META), key=lambda e: e.get("t", ""), reverse=True)
 
 seen, final = {}, []
 for i in sorted(items, key=lambda x: x["ts"], reverse=True):
@@ -661,4 +683,4 @@ if final:
                    "next": NEXT3 or OLD.get("next", []),
                    "tables": {**OLD.get("tables", {}), **TABLES},
                    "transfers": ALLTX or OLD.get("transfers", []),
-                   "tx_af": AFX, "tx_tm": TMX, "tm_squads": SQUADS, "meta": META}, f, ensure_ascii=False, indent=1)
+                   "teams": TEAMS, "tx_af": AFX, "tx_tm": TMX, "tm_squads": SQUADS, "meta": META}, f, ensure_ascii=False, indent=1)
