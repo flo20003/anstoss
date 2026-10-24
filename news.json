@@ -1,27 +1,357 @@
 {
- "updated": "2026-10-24T13:17:43.939976+00:00",
+ "updated": "2026-10-24T16:55:04.399180+00:00",
  "items": [
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "24.10.2026 0:1 – HSV unterliegt spät beim SC Paderborn Männer Spielbericht",
+   "summary": "",
+   "source": "HSV.de",
+   "url": "https://www.hsv.de/news/0-1-hsv-unterliegt-spaet-beim-sc-paderborn",
+   "img": "",
+   "ts": "2026-10-24T16:55:04.399180+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Berlin holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "summary": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "img": "",
+   "ts": "2026-10-24T16:46:07+00:00"
+  },
+  {
+   "club": null,
+   "league": "Regionalliga Nord",
+   "tag": "News",
+   "title": "Nach Chemnitz-Ausrutscher: Erfurt dreht 0:2 in Greifswald und erobert Platz 1 zurück",
+   "summary": "Rot-Weiß Erfurt ist zurück an der Tabellenspitze der Regionalliga Nordost. Am späten Samstagnachmittag setzte sich RWE in einer intensiven Partie spektakulär nach 0:2-Rückstand beim Greifswalder FC zu.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/greifswald-gegen-erfurt-2026-regionalliga-nordost-5233711/spielbericht#omrss",
+   "img": "",
+   "ts": "2026-10-24T16:14:26+00:00"
+  },
   {
    "club": null,
    "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Last-Minute-Elfer: Hertha trifft spät gegen Bielefeld",
-   "summary": "Hertha BSC hat in der 2. Bundesliga einen Sieg gegen Arminia Bielefeld eingefahren und seine Tabellenführung ausgebaut. Der Treffer fiel in der Nachspielzeit per Handelfmeter.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/hertha-trifft-spaet-gegen-bielefeld,spielbericht-hertha-bsc-arminia-bielefeld-104.html",
+   "tag": "Transfer",
+   "title": "So will Klose Superstar Mohamed Ali Zoma ersetzen",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dktGdHJXMzNXRGU5dmlvSnJpSnZsZmVGZDNjeUc2Z0VLZDZqSGhsVU5CRmFxTEdPOENWZFMtRG9kR2dYZzRYSDhIS09OWkVwS01yOXlqeHM3REZ1eXdrYnNHcWswWmk4THZQT3p4WExzSjZhdlUxRkpQWE1FOXM?oc=5",
    "img": "",
-   "ts": "2026-10-24T13:11:16+00:00"
+   "ts": "2026-10-24T16:00:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Sorgen um Gosens und El-Faouzi - El Mala entschuldigt sich",
+   "summary": "Schalke sorgt sich um Robin Gosens und Soufiane El-Faouzi. Die Königsblauen verloren die beiden Akteure beim Gastspiel beim 1. FC Köln, als sie in der Luft mit den Köpfen zusammenprallten.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/sorgen-um-gosens-und-el-faouzi-el-mala-entschuldigt-sich-1264663/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-24T15:59:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Füllkrug trifft für Werder Bremen, wie er will",
+   "summary": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "img": "",
+   "ts": "2026-10-24T15:51:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "News",
+   "title": "Trotz Roter Karte: FC Ingolstadt knackt Tabellenführer Duisburg",
+   "summary": "Am 11. Spieltag der 3. Liga hat der FC Ingolstadt Tabellenführer MSV Duisburg mit 2:1 besiegt. Trotz früherem Rückstand und einer Roten Karte kurz vor der Pause zeigte der FCI Kampfgeist und rang den Spitzenreiter nieder",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-trotz-roter-karte-fc-ingolstadt-knackt-tabellenfuehrer-duisburg-102.html",
+   "img": "",
+   "ts": "2026-10-24T15:49:55+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "LIVE! Der BVB schiebt an: Guirassy scheitert zweimal an Atubolu",
+   "summary": "Die letzten fünf Heimspiele gegen Frankfurt gewann Dortmund allesamt. Legt der BVB den sechsten Sieg in Serie nach?",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/live-der-bvb-schiebt-an-guirassy-scheitert-zweimal-an-atubolu-1264002/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-24T15:41:26+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
+   "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "img": "",
+   "ts": "2026-10-24T15:39:52+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9299",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanIzWGFzNUxEZ0wxdEJuVmRLZ05rS2dUem1hMXlZY25fWVJtTXBlSmFXTkh4N2ZqSkdaNVlibzJRVTVRdUlrYU5oUXhzTlhyR1N0TXRKNk04V2I0dWFGQ1gwR254NTNCQTFsTzV5NVhsMkdsQlBtYUthLTFDQnhXR0JpZHF2VkZBckxyR1UwclMwOHdzTkE?oc=5",
+   "img": "",
+   "ts": "2026-10-24T15:36:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "FSV-Aufbäumen kommt zu spät: Eintracht II gewinnt das Frankfurter Stadtderby",
+   "summary": "Eintracht Frankfurt II ist Derbysieger. Am Samstagnachmittag feierte der Bundesliga-Unterbau einen verdienten 2:1-Erfolg beim Lokalrivalen FSV Frankfurt.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/fsv-frankfurt-gegen-e-frankfurt-ii-2026-regionalliga-suedwest-5238862/spielbericht#omrss",
+   "img": "",
+   "ts": "2026-10-24T15:33:19+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "SC Paderborn 07 vs. Hamburger SV: Philippe trifft spät und sichert Paderborn den Sieg gegen HSV",
+   "summary": "Gemeldet von News.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVkYtc2RwT2lXSk8xcmw2cjhKTlRoUktKQ2VhU1dJa1hIdXlLVDlVckhLTFJzdFctZFR2b0U0eVNtUDZ6WmUwNmdrUzRYZ2tZb2hLM3pHb2xGYVBOUlhNQWc3UGdiNGY1YlVCTGRKQzE3eGN6emhRZThDWGl0TV9JRFI0S2xnTkRINjZJNEZJZ2tWM2dVeHhaSW1lZ0J4Mjk0cWdBeUp3WjNjd0pIVGxCSlRPSFFwYXpLWnFqR3UzSmZubEpna1E0WDRHa2VrRDNkS01pUklpSElxUGNUNGUwN2J5VGVDcGxqVkVWUG5GUDlkeldnQks1QnJYVEVUdFFuYl9fbDU5SQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T15:30:02+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Füllkrug trifft gegen Mainz im 6. Spiel in Serie – HSV unterliegt Paderborn wegen Philippe",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUThpaU16U3ZEVDlYQ3oxYlZRTHljY0tvWFBRbXVBX3J1RDQ5MDJQNmlpZ1ozdHhsam5SbnNYc0hqS19ndHR6Y0ViRTJlNkJGZ3doelhIeE1iN005MnVrWUdsbEw2Njhtc1ZEenZxUFRNWlRUTVlGNjJjZWpTNXFvU0NyZVVmZFBROHdKN3hHVHFkaW44MDFJSFZGeV9Rb3h4djRRLXgyS3N1VzU3NFZmT3dSdkZsSkFBb2VNRDhkVGt5VEdLNEN4bkZlR3pmZw?oc=5",
+   "img": "",
+   "ts": "2026-10-24T15:27:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
+   "summary": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "img": "",
+   "ts": "2026-10-24T15:26:21+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "1. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 746",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjl3SVZaRlFLaHRPUFlaOFF6MXVNZmdwRDdnVTlnS2RDOGhqMUl2eU93RlRlOVZLT2dSWVR6Q3dwMVdlWDZyR1l6TG1qd0xVTFpzdUZnTXdsOGF4NjBzbXgzTGppYmNWdlNjblBwR3F6RzBHaWh6Ql9XQ1dCR1ZkZHBmd0dmSG15VC13?oc=5",
+   "img": "",
+   "ts": "2026-10-24T15:05:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kompany-Rückkehr auf die Bank noch Wochen entfernt",
+   "summary": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausf",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+   "img": "",
+   "ts": "2026-10-24T14:59:18+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "BVB-News heute: Kovac überrascht mit Entscheidung ++ Ex-Talent Brunner überragt",
+   "summary": "Gemeldet von DerWesten",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjJXdGo3LXR6NktYcGkzT1hZY3BEOERNWHdjcS0zT3lNd3pnYm1ISEVuc2tyejdESzY3NXVCUG1fSW1TQjhTdmRFRGM5X09wNzYyY3c4SFZVVXlmSWlQNUFFeHE5WnFIaXdnZ3ZMM2ZrVmVPUXY3RkpBLTltNTFNV0hOVEEtWnFqZW9tdHNrOXlKU1BRajNORmlLMmRvYmFLYWViTHBZdU8?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:51:18+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Wanitzek mit drastischen Worten: \"Hat wenig mit 2. Fußball-Bundesliga zu tun\"",
+   "summary": "Mit 1:6 ging der Karlsruher SC beim 1. FC Magdeburg unter und hängt damit weiter im Tabellenkeller fest. Kapitän Marvin Wanitzek wählte im Anschluss an die Partie drastische Worte.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/wanitzek-mit-drastischen-worten-hat-wenig-mit-2-fussball-bundesliga-zu-tun-1264638/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-24T14:34:06+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Liverpool-Trainer Andoni Iraola stärkt Florian Wirtz den Rücken",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZENRV1pIUmdSQjlCZmFXX3BIa3Y0QkdvNGxqUFMxMWpFTVEwZFZGRkEzTVo1eEhTdlJ6UU5nN1lZOHVJMmxrMmQ3VnhGdjk4U21RYzZWS1B6RUFoUnQwR2NDQmtHYS16Si1rVlpsdGlrTlZFZ0VYTGJncmNTaFdpM0FJYm0wb0JqZU9pZWxMRGFaNnlVZEpJWGVJWWFEdmZOdTVaR0V2REhOS0FTNnVkVXBuYm5RcThwVnc?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:31:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Bayern-Star Lennart Karl im Visier von 3 Premier-League-Giganten",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGxuT0J2UzlLVTFJRGlMcUozZHRQVjdLM0NOM2FnTVhmQkhGdXVSb2JJQU52Yl9JRW9nWVYza1VBWDViX0ViN3NtNXhyaTJhZ1lSVHNPY0ZQM3NZVmlIc1FsWHVucE13VHhiQ1RidTlKWXlNYUV5QUtfVjE0WDJHMHlpc1AyZXF1TGtPcXNyYWNjOTdQRWVz?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:30:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9298",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHJ4SmcyNldVZjc4VU9rQmo2WXJvYXhHdXY5QlNLTEtkengyUDhqWnZMM1JZdXdlZEVVTm9KWXFqblBfSFJYRkwwQzdmVWJ6VEs3bnltNFFGRWozcnNoQV9oejBURTRQbEhyZUY4UXVTeXl2Mll1WHZBbFg3bDd2YkFwdDh3dmI3QnZERmtBeEZvUEtYN0E?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:22:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ehemalige Borussen - Borussia Dortmund - Forum | Seite 3147",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFA5UnBVaTRGdWgyM3FUVEJCeE5TaUgwUzBDblpLRGE3RlJEZ2VFY3ZtRkJKNzJJRXhLQmQ2b0FpaEV6bUh5NWJieC1WSDROTGVkNk00Qm5VWVI2a0JLZVh0cXM3cXVka052WFp0VzZqXzBVb1pZeTFLallwWGRzMDB2X2ZJaUQyb1J2cXZiSkhlalVL?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:13:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Manuel Neuer fehlt in Freiburg - Bayern muss erneut umstellen",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXpZVlJ5cmp4M0FHckYtRENteG5KTEd5ZFJhLVpWdFFkNEplMmo1ekJObDRsWndtM3pJR1dsc1BNWGxjT0ZWeUpuaWNGdkJoOTBxcnZESUV2elpDanNWdXJhR3lMcmhuNUdtWm9QSjg5U1RwX2ZsNFZrWlVzUEx2RjBKcEJaY0lPU1ZrOEdvQkRKa0kydDgzYTlnbnh6alFMUWJFRFFPd01CV1ozWk1rZFRB?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Sky Sport Info: Auch Neuer fehlt in Freiburg - Bayern muss erneut umstellen",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVY2bk52bkh6M3pzaXdiQi1JaVNzYkFrbVFTTXhGQTJDUFQzVG1FVDg1OUZra2Y2NzhQLWNxZXVXTVhQWGd0Nml3UlpsaE5pTE1XdFd0d01YclpQdVBZMGl4bEI4dWxOb2Jobl9HU3hZblBKLTlIbWZabkVHaVRGOUFxYktKR2pGVlotS1hXRUxjWVA1bmJFOE9KT2l6eFM1b3lvcGI0d2luV0FXQ1YxMC1IS1pXRmluOVJoLXo0d0JtWHc?oc=5",
+   "img": "",
+   "ts": "2026-10-24T14:06:00+00:00"
   },
   {
    "club": null,
    "league": "DFB-Pokal",
    "tag": "News",
-   "title": "Żukowskis Elfmeter ebnen Weg zu Magdeburger Kantersieg",
-   "summary": "Der 1. FC Magdeburg feiert gegen den Karlsruher SC den nächsten klaren Heimsieg in der 2. Fußball-Bundesliga und ist bereit für die Bayern im DFB-Pokal. Mateusz Żukowski ebnete mit zwei verwandelten Foulelfmetern den Weg",
+   "title": "Zukowskis Elfmeter ebnen gegen KSC Weg zu Magdeburger Kantersieg",
+   "summary": "Der 1. FC Magdeburg feiert gegen den Karlsruher SC den nächsten klaren Heimsieg in der 2. Fußball-Bundesliga und ist bereit für die Bayern im DFB-Pokal. Mateusz Zukowski ebnete mit zwei verwandelten Foulelfmetern den Weg",
    "source": "Sportschau",
    "url": "https://www.sportschau.de/fussball/bundesliga2/ukowskis-elfmeter-ebnen-weg-zu-magdeburger-kantersieg,spielbericht-magdeburg-karlsruher-sc-100.html",
    "img": "",
-   "ts": "2026-10-24T13:04:44+00:00"
+   "ts": "2026-10-24T14:04:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "News",
+   "title": "SVWW schießt Großaspach aus dem Stadion",
+   "summary": "Der SV Wehen Wiesbaden hat in der 3. Liga ein Schützenfest gefeiert und die SG Sonnenhof Großaspach mit 7:1 besiegt. Für ein besonderes Schmankerl sorgte Raul Paula.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/hr/hr-dritte-liga-svww-schiesst-grossaspach-aus-dem-stadion-100.html",
+   "img": "",
+   "ts": "2026-10-24T14:03:24+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Neuer fehlt den Bayern in Freiburg",
+   "summary": "Der FC Bayern tritt ohne seinen angeschlagenen Torhüter Manuel Neuer beim SC Freiburg an. Darüber informierten die Münchner am Samstagnachmittag.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/neuer-fehlt-den-bayern-in-freiburg-1264642/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-24T14:03:06+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9297",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1lyeDFNaVNYUUVkSm9pV0JYZmo5YVFsWllFNml6OFBPT0dEcnRMeWZ0V0V3WGZwVGl1aWFjMmV5RTNJeklyT2ZzdUpwMTlUSVBtc00wUzhxSXdoZzB2b3NWWjFlQXBmczBxUlNja1JvX2JqVXJXRFl5LXYxd1VqRERhZUkwY2dxbXdvWER3?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:56:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Bundesliga",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR3NGa1FxV09MNWU5ZW00T2VnWGY1emN1dVVHU1dDdlFVQ3hPZjM4TTA5RHBpTllEMk1lRG4zaldSZ05nNUkzNGdGNUZCcG9TS2NIM3ZhS3NzR2E2bXdUSjdqQmxFUzdXeFcydWdJbGx4QXZVMlAxVkFER2ZvVkRaNThBSHdVTTE4enVienp5YnFYMGV5Tk1IYzRPSW5nYVFjMy1rZUpxU1lpclZlU2NVUzZ4MWlYcGpqcVNEM0RwY2VxakJIR3JWNHNsOFdKNmc3Zmc?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:55:58+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Transfer von Ex-BVB-Star Jadon Sancho auf der Zielgerade",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUF5SG1aak84OTMzdFBjQ1dNUmladTJnR19rMlBIMWMwUG5tOEdtVlZYdzZUMko4SS10OFFNb3dWSlFwUndGLUtValcyRmxtZE5tWlpXZDZsemN1RWY4Q0lPbmQxZzQ3aWtZOTFIM2pMZ1dQUzFPUTZpRWY3a0M2WkNmYkxydw?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:54:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Last-Minute-Elfer: Hertha trifft spät gegen Bielefeld",
+   "summary": "Hertha BSC hat in der 2. Fußball-Bundesliga einen Sieg gegen Arminia Bielefeld eingefahren und die Tabellenführung ausgebaut. Der Treffer fiel in der Nachspielzeit per Handelfmeter.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/hertha-trifft-spaet-gegen-bielefeld,spielbericht-hertha-bsc-arminia-bielefeld-104.html",
+   "img": "",
+   "ts": "2026-10-24T13:51:45+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 1967",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDVIb3JHRmJFNzRZaWlvUDFrSlNhS1NZVW1vTXBobTRyVzVrdVBTZ3ZlbFE2bXREU2hlMDFWOUlZYzZITlh1dGZkRWlSMnNBb2FHSWhrWDh0UTU4RXJYU3F2NGktdnNnMkFKX1RBaUhlLS1tSkR3NXlQU1gzb3B0cE9ZaHdvVmJ4dWRyOA?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:50:00+00:00"
   },
   {
    "club": null,
@@ -32,7 +362,95 @@
    "source": "Sportschau",
    "url": "https://www.sportschau.de/regional/ndr/peddemors-wieder-mit-doppelpack-wolfsburgs-frauen-besiegen-koeln,vfl-wolfsburg-frauen-212.html",
    "img": "",
-   "ts": "2026-10-24T12:58:11+00:00"
+   "ts": "2026-10-24T13:46:30+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Niko Kovac [Trainer] - Borussia Dortmund - Forum | Seite 802",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZU5HX0JscVRtVWs1UXp5VU0yWHZ2ajdtY0JxTFJ5ZDRncVJFekh6MzFmTEs4cGRaanRZNTIyZFpsX1ZfdzRXZGk0S0JwZXZOYnJkUTQwb3BwOFJNVm42c2FLVkhXT3o5ajhOWTNXZUlnemNVTU1NSjhaWTFYYWVQYVdZaDJWSHBDOGVkQktiSFhqYVQ4?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:46:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Liveticker",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdktQMzllZjU2aU5XX3ZobV8xWUdKWmJ6ZS1mTjhxRlhzbUtBUTk1NDVrTEljUlhaZVF0Ty1HakoxRWJ4WF9XQ2FvQjdFRGFuOFZ1QnZRQkxJZVpkbnVoZ2FTOEFzbmlDVUE?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:45:41+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Doppelpack von Jackson beschert Manchester City erste Saisonniederlage",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHI1T21wZkZMblk5ZFVjdnBSUUl5OVBackVVSGdqNlZjSFFUZFZMVmNkc3ZjNU1sT2VyU2pWVTVKa1pFWUY5SzEybkpWSlNCVHktSU8yaV9LY18zQm5UOUh0WUFzNFJ3RmtXTmF2bE9IQkd2NjJ3NkNHdlFabnNkN3JYM0dPSXVVdEY1WFZ5aUc2bjZyNDBkcU95NHVlVloyRkRLejhPY1J5Y2hkS3J6dTR5dmZLbXFnOXpqbDFBd1U?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:44:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "‍‍‍[TV/Übertragung!]@! SC Paderborn 07 gegen Hamburger SV heute im live",
+   "summary": "Gemeldet von FC東京オフィシャルホームページ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNGZTZXJsWng5b2FnX05mMjNHR1NPN2xaWnRvd1dEY3QydEN4R3gtak5ERnRPdk83M2l4dndFX1U3bFhta1BzcnVxakVfNkZCTVlTZTJCWDBvVHhXOGJ5TzFkQm1jMjAxZ3dBbE44TWVtdHptMEFSMTJoX3FhQW9acW85TW1mbUM4TWx5dF90REJLaDV0bEVBb0V6eU44dU5nN3JGdVBac2h3Rjh3OWphbURvQVVPT3pwc2VvczIweFU5Z204bUpoTG1xQmljYjAwYTdsWTdaa1VyWFdqLXBHVG9mZEhEdUhacmJoRm45b0o2Z2xadDZ5SDZNS2d1T1ZtNmtoeGpJVDRzZFJGVWR1MXpSTmJocExuelJIVVQySGJZVE1UcXZDanF1a0MwYk80ajhsWnV5S0Y?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:41:36+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "‍‍‍~[IM TV**] SC Paderborn 07 gegen Hamburger SV live im",
+   "summary": "Gemeldet von FC東京オフィシャルホームページ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSFZsTHZtODROZ3pIYUFBZzJqS2ttclBqaGNaYnZIWmMwMnNoUTZRelFkMldJVkVjQzhqYmJ0anIyWktKandMZE1DNWY2QWIxTXlPNmhSZVpZR0pRTERjb3R2QXFncUVQazRybzEzRWdCaDdwV2htaE9iQmxXcTN6LTJRR0otRHkzLV90QXBwM2NtZjUxUDREQzVOOUVESXpiMGYzUDBnMl9Id2VrOFd5OGZiT1l4UGVhUWVKQjhwOVdBTUpkdDg5Nmx6VWV4Skh3U3Uwa1lya1FTSG9iZ1hEWXFybHprdHItTjNYTUluZTdGSkdTVDc1WVd5OGxlaGN2SDFEZG95MndURjZzTFVva3lGUlJxTkw3UnF6UnRXdXhSWF9GOERz?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:39:49+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "‍‍‍+![IM LIVE] SC Paderborn 07 gegen Hamburger SV live im TV",
+   "summary": "Gemeldet von 小豆島町",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQanIxMGR6QUdZM3hzZlpROUZMaFhpdU40RC1yci1XYjZIa01wQkFiaXJySGpzTDBFUEVTVm9Vd1N0RHZMVlpRcmhPOEN5aDBGYWtCdGZhanZzVXZzN0ctQUMzdmpjSXRUTk5PMlE2YlozQ3BlOVVtemhyUnFmbFV0WWFGdkoyWEFubDcyLWtjRmlKbmktSFlWOVFfQlJ0MFRVYmlEVmNadk9rcVk5TXRZUFJtVnpzVGhzTURraHMxamhMMFR0NnBPaGhITTBNcWh5azFkcGFQU3FpNFVhYkRFUkNoMVg2c19aeGpXanEwRnJCR2ZNSVZ0TGNIb2xsYlVfT0NXZmgyT1p6LXdwc1ZuS3hJLTNEOHQ5RThnSVppMl9EUUZCN2ZReXlWNGhMV3FCSzR3THF3SGdXckxBMmhKZi1GUlY0T2VGbUU0akcyZndZLUlYMzl4MQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:35:33+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Spiel",
+   "title": "SC Paderborn 07 1:0 Hamburger SV",
+   "summary": "Endergebnis",
+   "source": "OpenLigaDB",
+   "url": "",
+   "img": "",
+   "ts": "2026-10-24T13:30:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "HSV-Abgang rechnet mit Polzin ab: „Ich musste gehen“",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnJiYnhuTW9WNVloekoyQ1pITE1oZm1oRC01Y0hPOGp4d0tMVVBOMnhuN2Zuc2FJdnlXeGRIZjIzbXZrb3pJeWxUcENxeTlYYkk0dXRIQVpnRUFIT1A5cDQ4Zll1WDhWSUlhOG9YQUNKb3FLSUxPTXptNEpYSVhXM1A1cHZKWE1kdkJ6VQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:10:00+00:00"
   },
   {
    "club": null,
@@ -42,6 +460,17 @@
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMzBLcXFwQTdoam8xOTFFRHpjeFhod21QQ1h1eUVob0hyeE5halZlcnNHTU50UHpxYUEwN1pJRVRnRDByQUhNdWVrZHJvRVV2a0JoUWRqZExoSXJ4VjRpbjhrYndhZ2xWNjF2dHRNZERrTWROZk04djZWS1k4d3ZQR0FscEttVWlmZjFqXy1UaXpBLXZXUXRpUmZQek1BMG9zTzF1dkVzcm1FNmUzeU04YmlVVF9fblQzYWtxUkx5TXBZdmo0WWtaeDBGRXpuU00?oc=5",
+   "img": "",
+   "ts": "2026-10-24T12:58:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 1966",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjFiRFVOVW5vWXZMZ2V2WC1mUk5PYmJlT1pidFl4ZzB2MzlXb3p6bjVVa0VneGlucnl4RlNaREE5Z3pkd1Fjd1Z6NHoxVHp5X0lUejQzR0R4LTFvdEtwTFhoaHpVX0tHME5SXzhZWTJJZ19KaUhKLVZRV1l2SUd6Mk5POENkcEZMS05SNw?oc=5",
    "img": "",
    "ts": "2026-10-24T12:58:00+00:00"
   },
@@ -66,6 +495,28 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3dIbUdaRHRDRi1MdDBBLXlmVmc2NFY4VEZzalZFUE1SMWNuY1NCQWlkVXdmRU1YR0lmeUJmRTgwREZ6c2VWZXk0dF9VLU9Vcm1wSHZNaDRCb2dHNmZMcGN6Wk5uLWNGaTVqSWpXanphSVJ5RWNXaTdHUGFfTVZON2d3NEVuUGJpOGxQQUZmNERTdXdMY2VfSA?oc=5",
    "img": "",
    "ts": "2026-10-24T12:55:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Live! Dortmund gegen Frankfurt: BVB mit einem Startelf-Wechsel",
+   "summary": "Gemeldet von WAZ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1c3YkgtcTJwTUhfR1VPYmt6QjV2ZE9fNm9QYV8xVWtlQ1NQQTJySWRBVnlfdWxJZkN1YS10QXBQQzZqeGNLV0xpbm5QS05MT09Cd0xfdi1GQnNJZTBvYUU4Wk1WbmVfYjFsV0ZPMFI4d3V6REU1bTUtT192ZGNNNllHTHVFRXMzeTBFUElBbmlncDVZRzczQmNfYUpQcGlWckdkNVVxbTVZUl9nTE5aX2hEek5pbnptTkFoT2g3Y0R3T2d3VlFkT0FkUTZ0RTRwaEFoWURFWTFUUQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T12:52:59+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 1965",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0d5bDk2dTh1OUVkUVZiSHFPbEVGRFFCZTlPb3pPMzh1anN6SjEzeU5leGhtRzA3S0tfTlRkcG9jTUMzdEFGNGdGdHJPbExseHg2eHV0eGVfTmxFNHhHeDhxU28xYmtaczZIWTFsdVBKV29lMV9xbEp1dkVkMERmUk5uM2RZbWx3aUI5YQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T12:36:00+00:00"
   },
   {
    "club": null,
@@ -103,6 +554,28 @@
   {
    "club": null,
    "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "Aufatmen in Gladbach: Die Stimmen zum Sieg gegen VfB Stuttgart",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGk5M1hfNDlWampldXZfenRkZ0tuTHJKaFQ3MFQ3QlFHWXd6TDJnQXVEWl9zX1VzTno5ZTZadHJsUW91ZEFJTGh5Qi01dmJ6TFRDakJYY3J6UWxSRmlfVjJaTEw2ek5GQU02OUVaMjN2UXdBUVhkYzNzWm9JZVlqajF6OTVneFhkRUJTaFNB?oc=5",
+   "img": "",
+   "ts": "2026-10-24T12:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Gerücht",
+   "title": "Was macht die Konkurrenz? 1. Bundesliga 2026/27 - Eintracht Frankfurt - Forum | Seite 26",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHlJUV81TS04NlpvRXlsRi1xZ2hrREI1dFY3cjd3ZXBtMnVWRkFaRjZ4R1VrYVBtVjcxSkR5WS1UbXEzX0ZFeHo3TUE4R2pfLURpNUx2UTQyYXVlMm5DcG5zQ2xpWUpiTXluRUlQNmhXQzhhb21MbXMwVml6cW0xX3R5amozbnZIVy1LZnJ0cThWN3JieGtqSTctOGVDd2dyczFYcklaVDJ2S3BJQXlPV1FvOENrYnVMLVRUUi13?oc=5",
+   "img": "",
+   "ts": "2026-10-24T12:09:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
    "tag": "News",
    "title": "Hansa Rostock gegen Fortuna Düsseldorf",
    "summary": "Am 11. Spieltag der 3. Liga empfängt Hansa Rostock Fortuna Düsseldorf. Der NDR überträgt die Partie live ab 14 Uhr.",
@@ -129,7 +602,7 @@
    "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 90",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmFzV2dBTVc3U1llNGVIMWtKcXduNFZxblE5ZV9MTG9MekFNV2xadE9JYXhvenRMV1VMblVVX1VLQjFwRFZva0NlN0hYV0R2YVZKZjZ3LVduYXByaVJVajgwZ01BNDZ2Qk9EYkpJQkpyNDFVSDRxQWphTk05YU1EOG9lT0R1dHN1YnBmeVlETERlNHdpNEZHNXNGNmctSlpqMWFLeHBweWdtUE11c2Q3SGEzbjdZaG53UVJzZ0wycjRKRGFrMlA4U09GaHVxYTNvNHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGNBbC1BY0JfTFZFdWpKb0I3NmctRTExWHg0REFmRkI1aXBna1FkRk5EUHJPdFdFcjVhQlhoYWt6QVdjTnNUR0RoMmpYT3NmMzBrdlJ3R3FiZ05uOEdLWWJVVFQzMkRhOHhXdm9tTUNRdzlrX1g5TTk5NVFwZHJDVVJXNjNuZUpHTTdYZ0NDWTY0UkZCNWE0YXB4LVMwVEt1dlNNR3pQc00tRi1oelpzYlhSOTVpWWNDVjlGSm9nMHE5ejk1OWtr?oc=5",
    "img": "",
    "ts": "2026-10-24T12:00:00+00:00"
   },
@@ -137,12 +610,12 @@
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
-   "title": "BVB-News heute: Kovac enthüllt Handy-Regeln für Dortmund-Profis ++ Brunner überragt gegen Freiburg",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjJXdGo3LXR6NktYcGkzT1hZY3BEOERNWHdjcS0zT3lNd3pnYm1ISEVuc2tyejdESzY3NXVCUG1fSW1TQjhTdmRFRGM5X09wNzYyY3c4SFZVVXlmSWlQNUFFeHE5WnFIaXdnZ3ZMM2ZrVmVPUXY3RkpBLTltNTFNV0hOVEEtWnFqZW9tdHNrOXlKU1BRajNORmlLMmRvYmFLYWViTHBZdU8?oc=5",
+   "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 90",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmFzV2dBTVc3U1llNGVIMWtKcXduNFZxblE5ZV9MTG9MekFNV2xadE9JYXhvenRMV1VMblVVX1VLQjFwRFZva0NlN0hYV0R2YVZKZjZ3LVduYXByaVJVajgwZ01BNDZ2Qk9EYkpJQkpyNDFVSDRxQWphTk05YU1EOG9lT0R1dHN1YnBmeVlETERlNHdpNEZHNXNGNmctSlpqMWFLeHBweWdtUE11c2Q3SGEzbjdZaG53UVJzZ0wycjRKRGFrMlA4U09GaHVxYTNvNHc?oc=5",
    "img": "",
-   "ts": "2026-10-24T11:58:54+00:00"
+   "ts": "2026-10-24T12:00:00+00:00"
   },
   {
    "club": null,
@@ -190,6 +663,17 @@
   },
   {
    "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "\"Würde bei uns besser spielen\": Hoeneß kritisiert Transfer von DFB-Star",
+   "summary": "Gemeldet von 90min.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3RFeERMWFNmVXFQcHEtOWFXYVdQTWh4ajhjMG5wYms0TFNSTGF0aHUtZjdRaUpVTGtvRUVpbzlSRV9KZDVxYWdic01za1J1bEdsRkVHTUtaNGg2LUJTSEdkUEY1WGdPbnBmUkVjMm9GUHZKSkVtQWVuVzczN2FhMGVJbXlZZ0p6VUJTS3hIaHhjX2xL?oc=5",
+   "img": "",
+   "ts": "2026-10-24T11:42:08+00:00"
+  },
+  {
+   "club": null,
    "league": "3. Liga",
    "tag": "News",
    "title": "LIVE! Dezimierter FCI dreht das Spiel - Fortuna antwortet prompt - SVWW weiter in Torlaune",
@@ -209,6 +693,17 @@
    "url": "https://www.kicker.de/live-svww-weiter-in-torlaune-duesseldorf-antwortet-prompt-fci-nur-noch-zu-zehnt-1264606/artikel#omrss",
    "img": "",
    "ts": "2026-10-24T11:19:53+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "BVB-Transfer von Marcel Regula: Ex-Dortmunder bietet Hilfe an",
+   "summary": "Gemeldet von BVBWLD.de - Aktuelle BVB News",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalo0elNmQ3Izcl9PWVJkcmh0dW94Q0ZnWThnX1VTWDR6Y09lUHpNa1BkV2RDN0hDM3pFZkVpV3RWY2tMSW5ta25tbG80bFVUZy1tZ21aem55cUtLbXY1S19oaC1FdHozQTZ6ZXFyeDlSSWtfTTlJaEltZmdsbG92UDc4MFlTMlc5WUNtblZVeHo5VEZ1?oc=5",
+   "img": "",
+   "ts": "2026-10-24T11:11:41+00:00"
   },
   {
    "club": null,
@@ -253,17 +748,6 @@
    "url": "https://www.kicker.de/live-siegen-reist-selbstbewusst-nach-lotte-stoppt-roedinghausen-die-gegentor-flut-1257801/artikel#omrss",
    "img": "",
    "ts": "2026-10-24T10:49:47+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Kompany-Rückkehr auf der Bank erst in Wochen",
-   "summary": "Vincent Kompany befindet sich nach seinem Zusammenbruch in stabilem Zustand, muss aber weiter im Krankenhaus bleiben. Beim FC Bayern denkt niemand an eine schnelle Rückkehr: Sportvorstand Max Eberl rechnet mit einer Ausf",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-   "img": "",
-   "ts": "2026-10-24T10:47:31+00:00"
   },
   {
    "club": null,
@@ -445,17 +929,6 @@
    "club": null,
    "league": "3. Liga",
    "tag": "Transfer",
-   "title": "Uli Hoeneß: Florian Wirtz würde beim FC Bayern \"viel besser spielen\"",
-   "summary": "Gemeldet von sport.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU4zbDU0QVhHMUQ3dDl6TG9XMTdYdmdMYTVNWEpTdVNYR0lXdEQwYXB1bDBMSFpDNjdfeGtBb1hLNk5UanU0NmNjVGxzTDRtdnpkQ012YXQ2OU44Z3ZoZXZuZFFqYkVYYUNaaUpoXzE2S2lpOENrVGwtZWh4dnhJa0NidWZUd1ZLaWFNVzRsMU5tR0dqQjhoYk1yQ3VpOWhxdzNUeWdtZUI?oc=5",
-   "img": "",
-   "ts": "2026-10-24T06:40:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Transfer",
    "title": "FC Bayern begräbt Transfer-Thema Wirtz endgültig",
    "summary": "Gemeldet von sport.de",
    "source": "Weitere Medien",
@@ -464,8 +937,19 @@
    "ts": "2026-10-24T06:40:00+00:00"
   },
   {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "Uli Hoeneß: Florian Wirtz würde beim FC Bayern \"viel besser spielen\"",
+   "summary": "Gemeldet von sport.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU4zbDU0QVhHMUQ3dDl6TG9XMTdYdmdMYTVNWEpTdVNYR0lXdEQwYXB1bDBMSFpDNjdfeGtBb1hLNk5UanU0NmNjVGxzTDRtdnpkQ012YXQ2OU44Z3ZoZXZuZFFqYkVYYUNaaUpoXzE2S2lpOENrVGwtZWh4dnhJa0NidWZUd1ZLaWFNVzRsMU5tR0dqQjhoYk1yQ3VpOWhxdzNUeWdtZUI?oc=5",
+   "img": "",
+   "ts": "2026-10-24T06:40:00+00:00"
+  },
+  {
    "club": "HSV",
-   "league": null,
+   "league": "Bundesliga",
    "tag": "Transfer",
    "title": "Transfer-Ticker: FC Bayern in Pole Position bei Ex-HSV-Verteidiger Vuskovic",
    "summary": "Gemeldet von sport.de",
@@ -504,6 +988,17 @@
    "summary": "Im Topspiel der 2. Bundesliga trifft Nürnberg auf den 1. FC Kaiserslautern. Wo ihr die Partie live im TV und Stream verfolgen könnt, erfahrt ihr hier.",
    "source": "Kicker",
    "url": "https://www.kicker.de/wer-uebertraegt-nuernberg-gegen-kaiserslautern-heute-live-im-tv-stream-1263261/artikel#omrss",
+   "img": "",
+   "ts": "2026-10-24T05:00:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "2. Bundesliga",
+   "tag": "Gerücht",
+   "title": "Nächster Rückschritt für BVB-Talente? Niko Kovac setzt fatales Signal",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXNPLTJGdm83SmVFV1VVVjE1T1pfZHlvWkdQUC1oZ0YyNEExMXFRLUZ0OFlSZGxDTVR0NWREUUIyZmpEUlNaSlNVTDUtYlBxYnkyVGdBdnNKNUxLaWh2Q2I2N04xSEtNMG84dHA1b3lkMWtwOE91clhCOEhrWkNGRFJiSkxRSTNlVXh4NmJSRW5ybHE4cDhXMENGaUpwTm9sVE9B?oc=5",
    "img": "",
    "ts": "2026-10-24T05:00:00+00:00"
   },
@@ -561,6 +1056,17 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTd0ZURneS14OG1Ub2hiMjE2US1mVGFfbkFmMGpyVEtCclRaZHI3MGh4TTFFVHFUSHQ3bzFibVlSWUtjOHRUdWx0WHZId3NoeUN1Vk9mSjFJcjJXb055OGZfUFZFWGc3R0ViWFV6T2JocHRZRl9KS21mamRuWXhwZU9TTHFUZTQ1czI1VHVBWnFQYnphLUExX2pCd1JqZjF6emF0MElKWnpQcmZFWUl1YQ?oc=5",
    "img": "",
    "ts": "2026-10-24T01:32:21+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "1.FC Nürnberg U19",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVE1hM1p6THBiYWJ2bllfcS1sMVdzdVRwOVo1bTZIT0ZoUE01cWFSYXlFT2hhenJRb19wQy1VcFdEU2xVaHNycUwxTVU5dWlSZDNxeVlIUFRKelJITkc2YVJuVW5FMG5XNDFaSWlOWDAzWkYxMnNlYjhRMGhMRmZNendnYnZQX1QzQlNJSEFxOGpWUFBLUnhTNGxaX2hzQ2VwbDYyUEtBUVdEVmFjb3ZlekI5QUhrZ1A3QnE2RkpJZlpCTG9xZ3cxSHJYd2xTUW1zX01aSHlpbnBkNTNab3hfZG5XbnBlc214YXpBdFVvNVpmWlE?oc=5",
+   "img": "",
+   "ts": "2026-10-24T00:44:27+00:00"
   },
   {
    "club": null,
@@ -731,10 +1237,21 @@
    "club": "HSV",
    "league": "Bundesliga",
    "tag": "Transfer",
-   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 481",
+   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 480",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTndDWWRyMHl6VEdNRnAwcUcwU0tfVnRtWkpQWk1YUk8ycGs2b2tUUVBtVW1RcWFTQkxjTGJ4NTY1bmQxSERBRlRpNzdESjN1bk9TOXJ6ZUJ3aGNZZGJ4VGUzbEQ0eHI1Z1FCUy1jcm5BWWtURzJLSnJmTzBfMTZEYW5HdENVYS1abngtNEpSeThpZ2hyOXF2djBob0kwTnhO?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlRZVy1BZVYwYUQwblUzS25oTnhrRjJTWmtmdkxEbTZxZ01JRmxoaGk1bWU2TXB4RGh5ZHpKY3lwMVJ2TUlmbkx6anB6S25ocmplYkR0cGJ3RTNJTEtvbVBxRHJoZ2hjei15OUdIS1ljaGtmY0ZQNkYzZjM1STJpLWp6VUtVRkMyQU1QUDN2OVNkaWVGQ0ZNY0liT01Kd0Nh?oc=5",
+   "img": "",
+   "ts": "2026-10-23T20:35:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9296",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU05fS2xBRDFBNUl4eWhDOGVJVC11NGVobmE3N2dac3hNOHBXV3BSNmFzU2xlbmZtZ25qb2xrRW1LQUZFMjZQN1lCd0JoQ3R2RVFzb1BlTC0ydkItcEd1T3pOYVQtR3p5cEk0U2xMRGx1YVFnOWxWNXRfUkt4eVMzU0xzTUV2X3pqU21JYjVlTEc4SHdkUlE?oc=5",
    "img": "",
    "ts": "2026-10-23T20:35:00+00:00"
   },
@@ -742,10 +1259,10 @@
    "club": "HSV",
    "league": "Bundesliga",
    "tag": "Transfer",
-   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 480",
+   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 481",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlRZVy1BZVYwYUQwblUzS25oTnhrRjJTWmtmdkxEbTZxZ01JRmxoaGk1bWU2TXB4RGh5ZHpKY3lwMVJ2TUlmbkx6anB6S25ocmplYkR0cGJ3RTNJTEtvbVBxRHJoZ2hjei15OUdIS1ljaGtmY0ZQNkYzZjM1STJpLWp6VUtVRkMyQU1QUDN2OVNkaWVGQ0ZNY0liT01Kd0Nh?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTndDWWRyMHl6VEdNRnAwcUcwU0tfVnRtWkpQWk1YUk8ycGs2b2tUUVBtVW1RcWFTQkxjTGJ4NTY1bmQxSERBRlRpNzdESjN1bk9TOXJ6ZUJ3aGNZZGJ4VGUzbEQ0eHI1Z1FCUy1jcm5BWWtURzJLSnJmTzBfMTZEYW5HdENVYS1abngtNEpSeThpZ2hyOXF2djBob0kwTnhO?oc=5",
    "img": "",
    "ts": "2026-10-23T20:35:00+00:00"
   },
@@ -976,7 +1493,7 @@
    "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 89",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1NkS21DYTRFOVhTNThPTHdQbXRwOHVfYm8tMWNZMnZPTEtuX1ktUjNZRE5nd1F2NF94UnlDV29oLWxHUWFHLTNQX3N4MXV3YnEyek5oM2lCWGdHQ3FnX29mS3NCbFB6NDRoWUgtV1BUNUFPTjlnSVhFM2h2Wmk5RTFxSTF4d2ZrV05LMmlHSTFETFE3akpkVzctcThoa2x2SWxpTGY0WWJCaXkwWnVTQlVzTUVEZEJMbXl3azFmbGpENVlmTzFfUDFsM0J6bDl3N1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2FMa0tHRkRJUmNqZE5YdkgxMlk2ck5xT050Y1RiTkwyWGFxN29zcWt4YjFIODQ3ZVowZmEtTWp6S3VGZTViSXc5OHdMMzltNGtMSEk0WU1DTl9pakRmUDhfYjlfUzBMUjlGZFlxbWJKSUItQXlvQy0tVEhtTUc3NTBzWThyU1N0VjBlYTN5cDhjUF9YTERfWXJCaVZnbDRpd3RTRW90aEU2T3AzQ0U1VnYyZVMwNnBLM2s5cUs1eU1lRmdpdVAw?oc=5",
    "img": "",
    "ts": "2026-10-23T19:19:00+00:00"
   },
@@ -987,7 +1504,7 @@
    "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 89",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2FMa0tHRkRJUmNqZE5YdkgxMlk2ck5xT050Y1RiTkwyWGFxN29zcWt4YjFIODQ3ZVowZmEtTWp6S3VGZTViSXc5OHdMMzltNGtMSEk0WU1DTl9pakRmUDhfYjlfUzBMUjlGZFlxbWJKSUItQXlvQy0tVEhtTUc3NTBzWThyU1N0VjBlYTN5cDhjUF9YTERfWXJCaVZnbDRpd3RTRW90aEU2T3AzQ0U1VnYyZVMwNnBLM2s5cUs1eU1lRmdpdVAw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1NkS21DYTRFOVhTNThPTHdQbXRwOHVfYm8tMWNZMnZPTEtuX1ktUjNZRE5nd1F2NF94UnlDV29oLWxHUWFHLTNQX3N4MXV3YnEyek5oM2lCWGdHQ3FnX29mS3NCbFB6NDRoWUgtV1BUNUFPTjlnSVhFM2h2Wmk5RTFxSTF4d2ZrV05LMmlHSTFETFE3akpkVzctcThoa2x2SWxpTGY0WWJCaXkwWnVTQlVzTUVEZEJMbXl3azFmbGpENVlmTzFfUDFsM0J6bDl3N1E?oc=5",
    "img": "",
    "ts": "2026-10-23T19:19:00+00:00"
   },
@@ -1114,7 +1631,7 @@
   },
   {
    "club": null,
-   "league": "2. Bundesliga",
+   "league": "Bundesliga",
    "tag": "Transfer",
    "title": "Hochprozentiges, Verbotenes, Kultiges: Kurze Geschichte der Trikot-Werbung in der Bundesliga",
    "summary": "Gemeldet von Transfermarkt",
@@ -1243,6 +1760,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1VFTXhuelRoYUxQOHJUMTB5OVh4THNOb0xxUkZlSnI0cHpKRzVqVGhzNHJWM1huTVBWNkpFeGlXdm5HTUJnRENGWVBQWjN2SHNoUlJCWlN2NVlpalVNbGVOM0NxSGZqTW5RVTQ5TTJLdFlXbXd4dF9xMVJYNHY2UDVvdHA1X1dYSkZfSExPYUs0eUNyYTI4cktYUzJ5Zw?oc=5",
    "img": "",
    "ts": "2026-10-23T16:51:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "HSV DUNO Den Haag",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQU5tSXFKVk41VHQ0QzQxbEZSV3YxVmJBM1RFTGlWeDFSbXF3YjJaRlQ5QzJCcHNxcTZrY0l4Q3ktVXhBUUNRU2JPcmhJRVJOcXJvTFcwRUduNk9sek5RVGJWMm80S0tyMHYwYzVFU2FuU0t5RkE?oc=5",
+   "img": "",
+   "ts": "2026-10-23T16:40:42+00:00"
   },
   {
    "club": null,
@@ -1419,6 +1947,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXdESWJoQl9oVnZueXZzbEhHaTFiQU15Y3ljZkZVa0tHWmpJY29SdWhXeThzWklCR1dKcFJTbXRHWTFOcmtVZXBOUk5qVUhiZ0pLNVp1ZXhBUzFtQ2VQWHVqcEsyV0NmazFfRzU4N3FLR3J6cmdlUURRbkVqa2tPUjIwX01KSV93YkpDQkp4YnZpNkZSOWhVN0pESkdPUQ?oc=5",
    "img": "",
    "ts": "2026-10-23T15:49:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Vincent Kompany im Krankenhaus: Bayern-Trainer nach Training zusammengebrochen",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWg3bUtEQllkMTd5Mk9seDM2TGQwcXprek9sSnVSbWRPMy1nanFsQkM5Y2FRTTdkUXp2MWRyNmdMcmJ5amdXX1FpOFZhU0ZQYUVnR1BWYUl2Y1EzSTREQnZ5X1J2SGlrOU1xVDQxU0hiSVp5N1JWWDM1elNaVENBWlVJaW82ZjBMcWE0U3luWEZOLWFXQ0xkTjVWU2xNX3JMcHNHN3lUYzRnR0RVUndxSU5kRXZrUms0MHo1Zi1GZHg1U2JlUl9xbTN3?oc=5",
+   "img": "",
+   "ts": "2026-10-23T15:47:00+00:00"
   },
   {
    "club": null,
@@ -1850,7 +2389,7 @@
    "ts": "2026-10-23T11:56:51+00:00"
   },
   {
-   "club": null,
+   "club": "BVB",
    "league": "Bundesliga",
    "tag": "News",
    "title": "Kovac vor Duell mit dem Ex-Klub: \"Wo ich arbeite, lasse ich mein Herz\"",
@@ -1892,6 +2431,28 @@
    "url": "https://www.kicker.de/die-mutter-aller-handspiele-als-held-fuer-den-groessten-aufreger-der-saison-97-98-sorgte-1264331/video#omrss",
    "img": "",
    "ts": "2026-10-23T11:14:28+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Niko Kovac über Entwicklung der Offensive nach dem Sabah-Spiel",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY2RpVjRSdThKM2JqZGJvaXBmbDFXMG16UkFlMDh2MHlWUlNiUjl2UkFoSFR6UjhfdE5fOVZqVVBNNEhzRUdXc3JocjhJbVAyQVRuYmZMRUtJS2pwRC1HZ3hucWtmVGxJTkZxNVN2V2JWN1lwYkktVmpkMzZ1czJQMHVDWnZ6S0VZN3oyZm1idnhpazIzWU5SOTgzYkx0Zlotb21NVE1lU29zLVVpa0dZYlc0ZTRrbXc?oc=5",
+   "img": "",
+   "ts": "2026-10-23T11:11:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Gerücht",
+   "title": "La Liga – News · Transfergerüchte · Transfers · Spielplan · Tabelle",
+   "summary": "Gemeldet von Fussball Europa",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbXVqNEFFTFliY05KdEhybnNyOGZtY0w1VlZRenVBYm96S3BvWnJVMk5WVHhWUWpBX3oxWFgzdHZhd1lKaldoQjZSWDE3UUloRlBMT1lB?oc=5",
+   "img": "",
+   "ts": "2026-10-23T11:09:54+00:00"
   },
   {
    "club": null,
@@ -2444,6 +3005,17 @@
    "ts": "2026-10-23T05:37:00+00:00"
   },
   {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "HSV De Zuidvogels Huizen",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW9NcWNVTHZqbVpUczZjdnlIUV9BVXlTYllXMmdra0N5QURybzlULUUzV1A0OHR1bS1PeDhNLWJfbzJCczlUakpzMFZLU3FlM2FFSUtGV3g4MXJCLXdQM1U0ZzcxbnhkYjlwRzNTSjNRMzZaanZGOW1fV3RGRmNFMzZ3OU1QWEE1eld4c0FyTVBCdVVGQ01oekc5elN0X2s?oc=5",
+   "img": "",
+   "ts": "2026-10-23T05:13:04+00:00"
+  },
+  {
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
@@ -2609,6 +3181,17 @@
    "ts": "2026-10-23T00:47:38+00:00"
   },
   {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Bundesliga Konkurrenz - Borussia Dortmund - Forum | Seite 5842",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlFmeWZZeldCdnczQ1AtSGoyUXU5RmcwY3lmNno0X2RPRDZQb3ZvWjA5cXI1R1FEb25QME9XWklNdFJwbHpmRzdqc3hHYjZEV05yQ2o0aHkzdEpTTFhlejh5Y2h3VVJETnd5amtZOGJBT2xET1dmTkZrcU5OS2QwdEN4QkxfdzAwdG9jQ3NXTU5FZngwenNTNURITVUxdmdP?oc=5",
+   "img": "",
+   "ts": "2026-10-23T00:44:00+00:00"
+  },
+  {
    "club": "HSV",
    "league": null,
    "tag": "News",
@@ -2627,6 +3210,17 @@
    "summary": "",
    "source": "HSV.de",
    "url": "https://www.hsv.de/news/fahrtangebot-zum-auswaertsspiel-in-bremen",
+   "img": "",
+   "ts": "2026-10-22T23:16:53.554425+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "News",
+   "title": "Der Club / Am 25.10. \"Fit & Friends\"-Spendenlauf zugunsten bedürftiger Menschen",
+   "summary": "",
+   "source": "FCN.de",
+   "url": "https://www.fcn.de/news/artikel/am-2510-fit-friends-spendenlauf-zugunsten-beduerftiger-menschen/",
    "img": "",
    "ts": "2026-10-22T23:16:53.554425+00:00"
   },
@@ -2682,17 +3276,6 @@
    "summary": "",
    "source": "SC Weiche",
    "url": "https://weiche-liga.de/klarer-sieg-beim-landesmeister/",
-   "img": "",
-   "ts": "2026-10-22T23:16:53.554425+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der Club / Am 25.10. \"Fit & Friends\"-Spendenlauf zugunsten bedürftiger Menschen",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/am-2510-fit-friends-spendenlauf-zugunsten-beduerftiger-menschen/",
    "img": "",
    "ts": "2026-10-22T23:16:53.554425+00:00"
   },
@@ -2876,17 +3459,6 @@
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
-   "title": "Ehemalige Borussen - Borussia Dortmund - Forum | Seite 3147",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFA5UnBVaTRGdWgyM3FUVEJCeE5TaUgwUzBDblpLRGE3RlJEZ2VFY3ZtRkJKNzJJRXhLQmQ2b0FpaEV6bUh5NWJieC1WSDROTGVkNk00Qm5VWVI2a0JLZVh0cXM3cXVka052WFp0VzZqXzBVb1pZeTFLallwWGRzMDB2X2ZJaUQyb1J2cXZiSkhlalVL?oc=5",
-   "img": "",
-   "ts": "2026-10-22T20:07:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
    "title": "Ehemalige Borussen - Borussia Dortmund - Forum | Seite 3146",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -2984,7 +3556,7 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "2. Bundesliga",
    "tag": "Gerücht",
    "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
    "summary": "Gemeldet von Sky.de",
@@ -3039,23 +3611,23 @@
   },
   {
    "club": null,
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "Schneller Doppelpack: Nachrücker Hofmann lässt Bayer Leverkusen auf Kreta jubeln",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2ZHUEJIWGVUMk9OSUc2UkFRQkZEMkE2UnA2UHRnaU9ya1RfYmxvenVQdXkzYmdtR0hpdEptaDhhN3poZ3pVa2NMaFNzS29wN1NMT2k5NXAxUWpLVjhuRmZxYTItb2hJanRYNG1VV2RhcVhFcDBnRmlaZG50WUxkTUFjaWJFNk5oYS0wMmpvMEd6anh1TEtJQ3I5djFoNHBMaVB2eWY3QVoxNlJYMUpoRlFRaDVoU3NLNlZRemlVczZ6NW8?oc=5",
-   "img": "",
-   "ts": "2026-10-22T18:43:00+00:00"
-  },
-  {
-   "club": null,
    "league": null,
    "tag": "Transfer",
    "title": "Weidenfeller: ''Könnte im Ausland einen starken Markt haben''",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3VLQVhINjhGa2RGMlFZV1dDZHhUbnpWenNfNE9UdEJoVGhZb0Rvc3NhU2h6T3lPUW1MY3NuZkhnaWU3VzRYRGtMdVJtb1JyZ1RaS05YdVRabXU4WmZqdndjTTY5YjRUNVhwaHhpaEFlTjI1X0h4SDZ2c1RyY2VMRnlyU0c3aDBUS1ljM0ptRVZsR1ZkWGhGb29xNDdPb3M5NGZjODNiZ1NSNFBVbmhv?oc=5",
+   "img": "",
+   "ts": "2026-10-22T18:43:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "Schneller Doppelpack: Nachrücker Hofmann lässt Bayer Leverkusen auf Kreta jubeln",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2ZHUEJIWGVUMk9OSUc2UkFRQkZEMkE2UnA2UHRnaU9ya1RfYmxvenVQdXkzYmdtR0hpdEptaDhhN3poZ3pVa2NMaFNzS29wN1NMT2k5NXAxUWpLVjhuRmZxYTItb2hJanRYNG1VV2RhcVhFcDBnRmlaZG50WUxkTUFjaWJFNk5oYS0wMmpvMEd6anh1TEtJQ3I5djFoNHBMaVB2eWY3QVoxNlJYMUpoRlFRaDVoU3NLNlZRemlVczZ6NW8?oc=5",
    "img": "",
    "ts": "2026-10-22T18:43:00+00:00"
   },
@@ -3171,7 +3743,7 @@
   },
   {
    "club": null,
-   "league": "2. Bundesliga",
+   "league": "3. Liga",
    "tag": "Gerücht",
    "title": "Stuttgart-Stürmer outet sich als Fan von Atlético Madrid - Transfer in spe?",
    "summary": "Gemeldet von fussballdaten.de",
@@ -3885,39 +4457,6 @@
    "ts": "2026-10-22T12:59:00+00:00"
   },
   {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "9. Spieltag: Hertha BSC - Arminia Bielefeld - Hertha BSC - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2VTck9ha2xicFVRblpjc2lUT2VxNW5MdExFTUU1Tm4wRFV3c3VfNWlyRG1zYmp6dC1LNGJlNUdwVWgteXBBRmZqckFnV0ZLdGk0TTFaQzhmd3NWVUhRNHpwVmFKaV8yalNKSGJaZHJoOWhBMTlMeDdiYkNQVkJCN2tIV2RZR2w4S2dScGFRaFVVRGhDazJ5NG9YUERaaFlkN3JxalZ5MnFKX19wY2NNWXUzLXVtVnMx?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:34:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "9. Spieltag: Hertha BSC - Arminia Bielefeld - Hertha BSC - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHR4LTJEMzVSS01tNnltMXZ0a0doemtvak1fTG40cUlUZnBNVHJLUU01TXhXT05PQTBsQlRKaHhkMHcydjVnWTFadUoza3BLc3VLUXRLNjM0RnQtMGNMVjl3S3UxaEFXMHY4UmZpSV9McGpMTHhDOTVLMEFxWFU0QzlKZEdiOGpUUGx4bWRiejZ5WlhWcW9kOFNQNllDU1VneWFpaEg1bS05aEZZ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:34:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Ismael Saibari [34] - FC Bayern München - Forum | Seite 82",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjQyYnZ4NnNSci1uU1ZTcnY4ckUyZVp3YkdrMHpReTBudnBWTXAxcGdrdnJDbDUwNkZWb0E4dTlUT2FPRUt3NTYtbXFxNmhqWnNTYTVUN245eTA0ZjNqY0V5Qjh3dTdRckNLTDJYbU5PaFBKWnh5eDh3b1lYbEtLdkVFeDFXcl83Y1N1NlZjUzY1ZGdYaWF1NmFhNGFhREk?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:31:00+00:00"
-  },
-  {
    "club": "BVB",
    "league": null,
    "tag": "Video",
@@ -3927,545 +4466,6 @@
    "url": "https://www.youtube.com/watch?v=BhzMLrIkGcg",
    "img": "https://i3.ytimg.com/vi/BhzMLrIkGcg/hqdefault.jpg",
    "ts": "2026-10-22T12:30:33+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Eintracht Frankfurt sucht Krösche-Nachfolger: Hellmann kündigt schnelle Entscheidung an",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjl2Y2wtQVRlVjhXbHo5TTU5Z3JqajdveW1jZS1LZFZ0OUhkOW4xX255ZTlsOHhURDRzZ05CMzFIcC14Qk95X3pGMWU5ckVHOTNRZ2F2U2NSSzVZYWlrZ1NHZmdsMjdPN2NVTy04aUcxNFRxZnJ2VU1mNEY5Q3JmSXVrUWxEZ0s2cFdPNlVTblA3WVpDaFNzUUZET1ZRcm12aTBaUHl2aDk4UHhZdkZZTFc5bEZEYUIwVUVyOFowTVdzU3pmSUpPbWFubS13a1k0RWlGZVdfN1k?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:27:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "News",
-   "title": "Handynutzung im Stadion: Wie der BVB seine Fans ans Spiel fesseln möchte",
-   "summary": "Der ein oder andere Fan, der Fußballspiele im Stadion verfolgt, neigt zu regelmäßigen Abschweifungen in Richtung des eigenen Smartphones. Borussia Dortmund hat eine Idee, wie sich das ändern könnte.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/handynutzung-im-stadion-wie-der-bvb-seine-fans-ans-spiel-fesseln-moechte-1264083/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T12:26:44+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Müller-Wohlfahrt - Der Arzt der Champions",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFZHTVZmWEJ1bDBzS3d6bDU3UFFFRnh0M2pKYUZFZExlcDdqZnVwV0RaYWRKcWJlTzFhTy16a25lVUstQkZCRVZaYmo4QWhTc1JnQWZGY1BFNkhlVUMwbmpBNzc5UWdJQy12eW9pTUNVR2JLZzhRWDFnX1lnS2xpOHBqdWFXRTdpaWZIaHNaQlBkR2xqQ0VaSA?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:25:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Reicht Bayerns Form für Freiburg?",
-   "summary": "Der SC Freiburg steht vor dem nächsten Spitzenspiel in der Fußball-Bundesliga. Nach Leverkusen ist jetzt der FC Bayern zu Gast im Breisgau. Können die Freiburger den Tabellenführer ärgern?",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/reicht-bayerns-form-fuer-freiburg,bundesliga-update-vorschau-spieltag-sieben-106.html",
-   "img": "",
-   "ts": "2026-10-22T12:24:52+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB-News heute: ZDF überträgt im Free-TV ++ Bürki im Krankenhaus",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVFJcUg0azRHNXU4aXNZY2F5NUR3SHZqalU1bzdRZF80U0prbWZwUmkyOFh2OEdTUWNMSmxPNlVuWDFfeUJSc3laVm9iUzFXQkVJaXBFNFZacGxXUXBiODBmOUpodWJQUnctMGZTOGZZN2NIc3JIakozVE1sVjBIQlhxN04wcmoxckZLTUxEekhRY25zQ0RjYkRMcDBvUUJmY0RWOWdwcWU?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:12:40+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Axel Hellmann über die Nachfolgersuche von Markus Krösche bei Eintracht Frankfurt",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1VnWmtaT09QVElrdFo5Mm02RlprM2wwTW5kOHlvYU9FZHpleWpEWXNsMmpuWUlGUFBOOUlWS2JuaGlQZGdtdnJXVGt0SVA1TUMzdU9fczJpMWx1aVJfQ1dzdFNRMEY3cVRhUks5ZjFOZFBobTJYVlpYM0dHZS0wSnppcmVLdFV2TDhOZkt1SFRNYmVRVEN4cjhFV1RqX3V1U3h3MXBfa0NpbjNUTHFpZkhjQ2N6LWNxeGx3aDVrVlVpeTBmdnV5ZzlfX2ZQM2FpcHc?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:12:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Beim HSV macht derzeit Muheim den Unterschied",
-   "summary": "Gemeldet von Westfalen-Blatt",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEpGTHZKZlZLT0NLM0piTk5namhZTmFMX2otME12VF91eVc0NEg1OUhDT05PQmg5M1JWMWJWVXpSeTc2UHNRaUVaY1NEWGlvMXZnVURkY2hHWDlRQTdsNWxFU0ZnWHJqSzRCdlBhSFd2UlZOMGV2SWNrY2dTdGxRcXhWdWZLNm50WDRMVw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T12:00:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Gegen Atletico ausgewechselt: Vagnoman fehlt Stuttgart vorerst",
-   "summary": "Nach seiner Auswechslung gegen Atletico Madrid steht fest, dass Josha Vagnoman dem VfB Stuttgart mehrere Wochen fehlen wird. In der bisherigen Saison war er absolute Stammkraft - und obendrein bester VfB-Torjäger in der",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/gegen-atletico-ausgewechselt-vagnoman-fehlt-stuttgart-vorerst-1264057/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T11:47:16+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Axel Hellmann über die Nachfolgersuche für Markus Krösche als Sportvorstand von Eintracht Franfurt",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM1F3SmJxV2Jja3Y5bnl2YVlqRzZRVWlIaThTT2NXUXZaYjh0Um96SmFkS1FsZ2ExSEltV0stNXN5V19PMXpSWmZsNmw4ZjFjeDVzT05KOTg4VWhENmh1NEppNXVRdzJZUFZNdURuWHdrN0tJcTRKb3BsSkNXY0JlekpSc2E0dUFnd1hFV1g4WFUwTXZ3TXNuLW5ueC1JaEpndkFmUmM0bkJ5WWVtcFFKazJRdmN2b01oVXNEV1JyY05xSjVCbF9zd0hxVGVTenRDWkdhWTFPNmZPM2lNSnQ4QkFNa3BrNjZ2OVE?oc=5",
-   "img": "",
-   "ts": "2026-10-22T11:34:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Carney Chukwuemeka [17] - Borussia Dortmund - Forum | Seite 190",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEktX2ZyN1c2Skp6ZXp2a2JSWjFseU9YUEszbnlnaEdNVUhaYWpicTRkWnBuaU5hYTZoQW9UcEtmb25vXzF1SS16bTdLY2Ezd3JuSXY0Y294QlIzUk9ERmpvOV9sX3NJejgtZ3hVTFR1SzBoR3VKcV9ST3BTTnF4QmFqTTZiaW5WS3F6MUJYRm13LXFZRlhSaFY3aG04Z3J6Mnc?oc=5",
-   "img": "",
-   "ts": "2026-10-22T11:34:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Carney Chukwuemeka [17] - Borussia Dortmund - Forum | Seite 191",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1cwNkRRX3I5ZkMwOWdteGJvRGNDTUxubWlvRUxzX3FCb0V0bE1CbXlWczFaZlEtYy1kX0VXMlFsT2hxY3hJSm1QQjE0QjF0M1hFQXZ6YUZvb2ZUN2lSeUZVdGhFVEJsYWRoSGVuTjluRkRrejREZ1RhaXdHX1pYUW95UnJpSjE5ajBUWW5XNy1LRVNGMWhrTQ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T11:34:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Carney Chukwuemeka [17] - Borussia Dortmund - Forum | Seite 190",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDNVMkFURWlGQ21YQ2Z0UDM1RmRmV2NMWmZWaWtyaFprQ2tOQmJoMXowVWRXOVJtSnRqSlZUX25SSHRwdnRpemdTRmNaZlZUQ09CMXA4cUY5SDktX2N3eVZRZndlZnhjTjRHQmtNOEk4N3ZhTFBocExwVHZRSUhJZVR5TTZiNW1NSzJoOWgzVm1fbjlvOHVTSEFhOFJDcS1WZ1E?oc=5",
-   "img": "",
-   "ts": "2026-10-22T11:34:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Stuttgart gegen Gladbach",
-   "summary": "Am 7. Spieltag empfängt der VfB Stuttgart die noch punktlosen Gäste von Borussia Mönchengladbach. Die Highlights in der Sportschau am Freitag. Dazu: die 2. Bundesliga.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-hsv-gegen-gladbach,livestream-sportschau-am-freitag-178.html",
-   "img": "",
-   "ts": "2026-10-22T10:58:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Adidas-Boom, El-Mala-Effekt, Eigenvermarktung: Der FC erwartet ein Rekordergebnis",
-   "summary": "Der 1. FC Köln setzt in der Vermarktung auf Eigenregie. Geschäftsführer Philipp Liesenfeld zieht eine positive Zwischenbilanz - und will bei der Mitgliederversammlung 2027 ein Rekordergebnis vorlegen.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/adidas-boom-el-mala-effekt-eigenvermarktung-der-fc-erwartet-ein-rekordergebnis-1264025/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T10:53:22+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Mitgliedschaft Mitgliederspieltag beim Darmstadt-Heimspiel",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/mitgliederspieltag-beim-darmstadt-heimspiel/",
-   "img": "",
-   "ts": "2026-10-22T10:36:11.579222+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "22.10.2026 #SCPHSV: Der Faktencheck zum Auswärtsspiel an der Pader Männer Spieltags-Fakten",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/-scphsv-der-faktencheck-zum-auswaertsspiel-an-der-pader",
-   "img": "",
-   "ts": "2026-10-22T10:36:11.579222+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 478",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1BFRS1XYXBTQ2h1WVY1ckxfa19UV3pNcVk3aWliZVVSQy1vc3dBbTdURHhLS3hTN0p2eXk2MTlqSkJKTmpHMHRPZ0hBTHR2TVRUMFh0Q2lVOEQzckRDb3hzUEFtSXpScy05d08ycTBYNEJlNlNFMGJoX0RQanV5M21tRjNWa2hnV01mNWZQRXgxbGhHVzNpV3Jfb3pITmVSSnhtaDB4YjhHdw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T10:17:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 478",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFNnYmpvT3kwTXNzSlZ4RGxFX05XVDNTWW1rejJMa1IxdVhsRjJ1VHNWc1F4bFlnNzhWRUpDblBVbHJRQVdPY0xjaG51cF9nREluTE1RUy1EUTJMTEItemgzcFpTMFNBM3JZX3c1N1NTR1Bic0phb2t4UGZLSjFNNW0yM2Nyclp3SjBCZTJBRk9ycHJHTWtnREhaYkVNaG95MnJISVpSZGlaZw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T10:17:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 478",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWFsb0Fna3pCaHM1UmlqYW02OTV3YmNCN3hDUGg1LVc1bVJMNWZISnVwSG9HVnMwV0V6ZWxESkZVd0hzNEVaYjg4ZmFYT1BOVk9ydEJmb3ROdEp4cml3VDFzVzB1d1RhRVlSZWN2WjN1R0ZjTXVraWswSWVBVzFGQXp2MlU3Q1E3V3RDeUtrMFlIcmVOY0NrR1AzV3hjTl8ydy0xcnRFd3daZw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T10:17:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Eintracht Frankfurt News-Ticker: \"Fifty-Fifty-Entscheid\" bei Spycher",
-   "summary": "Gemeldet von hessenschau.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmJKSWJETnBKRDFsb2VPN1NGTEpPTzEyaWluMFpjdHlQd2dnU3NvTEhTckdUbXRIbi12UlFFZzJoeGJ1SlcyZ21uYUpPYjJadlQ1VGg4Y2M3SWdXTGw4dExUYjlkV0RSU3hURFhadGVkQnpjbU44LW1LajR3Mi03UjY5aVlxZDBVb21hWGE1cF9vWFhmeWdsQVpZLThwTno5NjRFb1J6SklYQmhkQTZyQmZCRTBtWWdTUDNOU0o0VDN0RURNd2h2TWIxYWxrSS15dE5LZzh2MlB1OFc0LWJ5X0xVLUFRdmhyYWc?oc=5",
-   "img": "",
-   "ts": "2026-10-22T10:11:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Eintracht Frankfurt News-Ticker: Hütters Meinung hat jetzt mehr Gewicht",
-   "summary": "Gemeldet von hessenschau.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRzV0bmtMMzlTZjZHQjZBM05BMnBlYVI1c1VrSGVpSnQ0UzVWNDNJTEVzTm52bmxMNFdaU1R2Qm5kRkhIRlU5eV9QbnAzZ2NwenlsNzAyMFpZeFhiTjVJTTZUUDNNeWZSUUl2aTd0c3pqQ0o3dm5YemZSaUNrNjdoRTIydFg3WmYwOHQzZ18zMWMwcDJ5akxRMi05ZGVpSnl4eXp3bmVoaFlRY2FUbXRTeTN6ZWFWcGRsdlMzcGNIemFmR2VwdjFZVmtNWkotbnNHbVN0NGcydWx5OW02R1BEZHRPUWI0SHZOZnN4LTR1SlhqQQ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T10:00:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Borussia Dortmund – Transfer-News: Portugal-Juwel im Visier ++ Sancho nach Spanien?",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVnNDY3NpMFYzaFJuZEpEdGQtT19YTWpYZVJCcldtN1Z2X2YxTl9XMlpiMEttS3U2X1lWVGtNbDlndGtqVHJUenpfTXNtb09ybm5Db2JXRzNUVGwybENGaFFyZVc1QnJCLUJoRzlvQnAwLTF1Z2xQZ0wzRDhQQlhQdkZ1M05Yd0R1aU9nUU4xUDU5YlRLN1dOYk5ZWEUzNHVFbWtWeQ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:52:09+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "Achtung BVB: 3 Top-Klubs wollen Mathis Albert",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1BudkpwQnRGSGR2UzhlcUgtdTBYX3VmeEVndnY5SWJVc3lLbTk3djNFZWlkT1dGWHg1OEtuLUpkUklSaDlfekZTZDQtcXpVTmpYbkpPXzVIY2dBNHRFQnRGQ0licUxva2FwdHRmMVdlNXNpd2xHckl4MmdHQ01DeG1vbUVfZw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:50:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "7. Spieltag Bundesliga : SC Paderborn 07 - HSV - Hamburger SV - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmJIY0NLSllDZ3NHZ0Y0R0dJdE9PUnpQYUtyTW1uYjV3NHE2VEx0MnpyTFJqVkJHV2xOMkZYWlAzMDRidW10dFZsTm56MlVpSHdvQmxOX2VoVTZhVFZlbFhrVFh6Zjd0d2pTbEdOWXBjQk9RWWkyZlM5STVMUENoNUZRMTF4VGVjNTFkeTZuNU5iV21OQ2VCcWhFVjFKM0pGU1lmQ0hIbGFScmZTdnBBTVFPcTI5bXJQQTdz?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:42:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "7. Spieltag Bundesliga : SC Paderborn 07 - HSV - Hamburger SV - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNkZHhCWVFRcUV4WnZyS3NXR2o5QmFud1BINjVsUkxtamkwN0xJR3NnQWNNUDFOYWxMenFrLWM1SmloMmpYNHYzYkhnVFJmMkNjUmQ0VlAyRkhvMVV4ekgtd1IxbnJ1eUdkTGQxZmxWWDQ2RzlnSFF2WnpKcHVXT1JOYnBOQWd5QTM3SS1tQ1lld3ZzTVhXZ1o4NEVCZzA2UGdQSzJqYm1KSjZmMEww?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:42:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Gerücht",
-   "title": "Real-Madrid-Star zum FC Bayern? Ex-Profi spricht über spektakulären Transfer",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1NWbW53UC1uTVNsODZ5UVJmU2NfdmFiT1U2eXlZenlzTmNsTDN5b1lkNTJJVGdmdUszbUpyZDJvWHRUTlMxVE5vTWRNd0ZMNElySFFNRHExdWFQeGhKZW5fQ1lYNFNvLTNsRnFKdV9mbHZrWFVZb3F0QjNmU1l6MkJJLVBZaWNtb0ozT2tTbWlsQmczUTE0RmNBdHRyc2JC?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:30:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Trio um Man City beobachtet BVB-Talent Albert – Nur zwei U18-Flügelspieler wertvoller - News-Forum - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNlk5QnBWR0pnT0RoWmZpOG1qemg4NGFOR0lKM0tKWHRMOEhCNlJMRFZuV3JrcGF5SGZmc0ZiN2ctNm1wZWI0bWh5UEE5YWRDeE9GOXJORXRXSWhLc3hYV3NfYzFUT0dkUU1ORXhNei1RaWZiU1Vub0xrSEJjT0lremJRSDgzT1E5UjlqOW1UY1RfZUVEeENmTzVYeDdiR21KVEFfcC1Ib3dqd0xicVNCOFlnSFlOdkNKM2V6VC13cDFzNDh1a3dKQktwWVhqVktLVmc0VV9WQWhZN2hrWmw1V294bVdXQndiRWF0SVUzYktZYVFn?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:22:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Trio um Man City beobachtet BVB-Talent Albert – Nur zwei U18-Flügelspieler wertvoller - News-Forum - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjd6QjdZazlyZloyamZBLVV1YjRzcktQQ29zVEl2dm9oUDNhQjA3ajJpZkNPRXR5eHN1VnhITHJTZUlPWmk4NlluMEFVak5DVW9jNHBtS2NCNEY0Tmc5NEh6anZETlVMTmhrYnN5OHhTMEQzY1Z0Z09Bc0MtNGV0TV93ZFpRZ3l0dXAxNzItX3YxeTNFX29wdDlPZjE1SU5UUWVNYTF1SXpvaWFoQXFTMUgweEJzSFplclo4SGk4U2pBX0dqUGJzN1FIVkZGcW03ejUtN3NTNzYyM25LbkNZ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:22:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Gerücht",
-   "title": "Schalke 04 News heute: Wöber-Ausfall bestätigt ++ Blitz-Rückkehr in Köln?",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVBET25tVUliWm9WaTJ4NjhDSkphOVI4NjFib2puajlXY1puZDJwVVNzaGRMbkRfOGxvcTJuNlM0TXhSV1J1c01KaUUtcWVPTEJ4VjB0R3ZuZ2hXMUNFdGxSMjJ2QkZ6VDNGbW5rS01ZVE03ckhnUTlPUE84ZUtUTEtIeWNYeXJLYmFwZEJrQnVCbUp3cVVxYjdBaHNoRWtWUzYtelNpdl8zQ2Fkc1JxTTJ4LTA?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:21:38+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Trio um Man City beobachtet BVB-Talent Albert – Nur zwei U18-Flügelspieler wertvoller",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnRnbUN6VWs3U1poQS16T2MtNTljLTFLSVlZUEZKT0kxMTRlaWFjMmlDVlcyLUs1d1ktMFdwaHlidWZQZHl1Z1hpYlJGdEd5Nk9Vem1KVVEtTmtidW82U1FoNU8tc2gySVhESDFtSUxDemxtdWp2bGpHTFJQR1pVeW02VDhKOVR5d05BUHBqTGZjTjhfdUthUFU0Qlh0QzhITlJLeVV2NXpVN05kNjVBeWEzZTZGQXBKa1M3VGdtMkF2dDdxRE40MQ?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:21:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 3",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFFJeGVkNDJKT2ZYd3l5QVd2OW91YzBMOExud25ZR3ZCeDlaSk9EWGpLVTY5T18tQ0ZZUFBTaWJXRDN6R0Npd0NiR1dZSnNnbEM1NXRMUmpzaGZIaWVkTlhFQktlc3BUXzdBTnd0VktWMTVKbUlvVGVVLWZNSkpEU0hkemtLTkN5bkxzME90V29WY2EwZkIxQ3c5bHdjNUlsZEVFUUFYZ2JBVlVOeHprV2QyTENVakk4Nkx3a3BQV1RRWDJ1?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzVxZjlLaVpIeHZGM2thNnFCZ2kyVU9tVzQ0VXBBcUNwcUx0X29QOUcycHNNOU1IS2RraGF2QlNTTi1vX2ZHRkltWlRkUlRucmMxVVRGZTU5Sy1EZ1h6bzhCNTdJWUZTeE8yU0VlcjZYbElPOUV0UWwyRUR5N0dOYlZDNDVQeU9ta29HTzlWeUxXRmtfUUljQVFwOG11Uks4OE02OW9iQ0czUTk4ZWs5V3dGTzNNQjMyTG1id3ZBTDJreW1H?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 1 | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGwyR0ROU1JoMUhlV0JQUmZnaEdJcDJodnNoMHlzbFY3X25RQzJpRk1CWjkxa0daV29ZNEswRlI5TlI5U3hpeHR4X2Y4dWpFemtuWUNXYnBwRzBxOEtJbFQ3QTdlUmxjVTJlWWV4N3hma2xjNjB2SEJzZjNMRmFWS2pBRW9pRUNxcmttR3NLR0xISzRTRm55RXBFOXZSRzBXSE1WSXlCQ3Zid1dxbUtPOGRwakI1b2Nh?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1paYW5Nc2c5cG0tX0w1cW5EVzZfSGVnbE9odDQ0ejBUQW1FX0FYQUprNjVwSk9wb3JmQm8wT19DSmQ5bjhLaVA0Nm9RazFLUEZfMWZ2VTV6d1R4aU1Oam00OF9ybGl3OFI4dmJGYTVWd2RFUkZGcWZDLXB2eGtUNzdKTVdYUG43N3Q3dTVET0UxcnZfV0NrVERRbjZFcVE2X2dhUVVjNHRDRGMxRU9n?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Foro | Página 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDhyMEFEQm1aMk9QMmdRaHo4S3B1ZDAtRTZEa3Q4eFFDaFNDRUt5RmFPdWpCRlFXLW53R3FDNGd1SURYaTBMdXFhOVBhT1MxcmV3QzN6X2FPWDBjYWg2SFpkTlRESWxtY0VaR2tyVUh2R044allQQ09rUFNlOE95QlY3RC1wZE44OUhkTXpXU25lRjR3VTIxS1NXUTQ2d2VnSERZdVpGTUdLb3VOaEo4?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWx3YmZjQmp5TmM0UGl0dHlLTDF1bTZOU3BabWlsSHJFLWhCcG85Q1A0MWUwa3NWS1ZzM2Y2ODgwS0NkdHZ6OS0wV1VFY3lETmxKZ1VmMFE1OEhYd3ZScnlHSFZmd2p3WXlnb1RrTVE4bVRqYTI0aUVHSDZYVm9GeXBsTHp4Y1ZIRGtQWTU1VnMyOGFabndyOTVzV21nY1lURmxzMXRFNWxCWkQtcVdSQTJPLS0zQktm?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: Borussia Dortmund - Eintracht Frankfurt - Borussia Dortmund - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3hRNW8tZkN6Vmhhb2dPc1lXV21fLWQzZTh0elkwazlpMEZUcWxtN3l5NDA2QmlDblBfTjVmWWQxVm9BT0dVaHBkYzdvd3pqNVRtOTFGQzB6ME56SlNwVmJHM3JHVGROYVV5Y2VaOXI3QjllTVRzeDMtaE5NUUlrcjZ2cHBiSWZId3JHcnAwV2FYaEVUVnZXcU5ucC1HcmNMSW1Fby04T01tT25uSXdIQTRhNmpKOFpYZHJBaUdzQ3d1V3Rt?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:16:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "Transfer",
-   "title": "SG Viktoria Nürnberg-Fürth 1883 U17",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGZfRm1na2IzWlJaYWZQUG9uY2REUlpGQ0x0UUVRMDMtR3FvSFdOSS01VDdpcS1jYXlSUzBxa3lNT05VaWR5d3FDQTBSaVR0UzlhWVRCRnU3c2VaaHdKeGFucVZhQlQzQS1nMmFQcVN1QnVzbjBJTWY1SGZjaW1BcUI4ZzdBR0QwTEFLeVN0UlNuOV9DYkdnTXhYMUk?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:15:21+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "TSG-Sportchef Schicker im Frankfurter Fokus – Größtes Kaderwert-Plus in Bundesliga - News-Forum - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1BCbGJZTkF5aHlZVjRIN3hDSHQyUlZxNzFOSXhxc2hyOE5KWHMtN2NSRG1UUHhnX3ZXRE84UV9HVTJKM2Ywb3BFN1B4M1B3VllCcFAyNEtJNnZXc0NHd1NkQks5OVY5b2ZnQWdfWVd2dlJwd3FWWmZQdWJlNFpvRlBwaWJhMzVlOEFhbkVRdU5QZTNuTjhBQzVYNHVGdnB1Nnc0Sjg4b0w3M0VMYzAxTkJkMjNPbnpXUXpuaV9RaVp2QllTWjZoZ1hvTmhYTFhUTGFSTWR1T1lnX1JW?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:10:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Regionalliga Nord",
-   "tag": "Transfer",
-   "title": "SüperLig-Erfahrung: Gütersloh verpflichtet Ex-Erfurter Uzun",
-   "summary": "Ömer Uzun wechselt in die Regionalliga West zum FC Gütersloh. Der 26-jährige Stürmer, der in der Vergangenheit im türkischen Profifußball unterwegs war, war zuletzt vereinslos.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/sueperlig-erfahrung-guetersloh-verpflichtet-ex-erfurter-uzun-1263984/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T09:09:10+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "TSG-Sportchef Schicker im Frankfurter Fokus – Größtes Kaderwert-Plus in Bundesliga",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXVKUzBqNEFZNDVjMG83ZFcwWWh3Tk4xMXVfNHFaTG9rRnBzeXlLdkRfbmtId21MU2xkUm1qMXltbUxtdjZQOEExYXB1RlVWcjZDdnV2S1RmX3ZaMGtxc29OQVRpeEVKdDlEOXN0dERUX3I2a3h0XzlJODlfZ3dCSEJFRmU1a25EVkc2TTFHYkpHX1pRRmFFS0N6MW9xdjNLc2pYOWJfTTV3YV9URDkzbU91eWVIVktoTTFFQTNWX3VQUWxEY2c?oc=5",
-   "img": "",
-   "ts": "2026-10-22T09:08:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "FC Gütersloh: Erster Winter-Transfer bereits perfekt – neuer Stürmer kommt aus der Türkei",
-   "summary": "Gemeldet von RevierSport online",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2ZfckNyM291YUJKSS1sakdVSXpUaTR5YlBSVS03QjRqZUhxdjE5cGE0dnZjc3BpMXQweENYYmZMQjczTVhBSUtNYUhHUGk3b3lPbWppdXMtUnFDemZlcV9veW4xVWxEYWhxUGdoS2dHLTZPUHJzZklEMTllc2xyVUZuUWo1RUZodER5ZGo3aDhEdTdkMXJ4MHJGMUR2T0Y1T3FPWmRrN21OTjBVanVvYVNZRUpCeTA0S3dUNjVGTnVBSW9makFqSUUxNnRsRjJKb0NYSmsxbEZuSWlkOGMwZzlydw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T08:49:30+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Stögers Fehlstart-Hattrick: Warum Gladbach daraus Hoffnung schöpfen kann",
-   "summary": "Gladbach ist das vierte Team der Liga-Geschichte, das mit sechs Niederlagen in eine Saison startet. Warum für die Borussia damit noch nichts verloren ist, weiß niemand besser als Kevin Stöger.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/stoegers-fehlstart-hattrick-warum-gladbach-daraus-hoffnung-schoepfen-kann-1263579/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T08:34:10+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Nürnbergs Startschuss für die Mission \"Wir alle ersetzen Zoma\"",
-   "summary": "Der 1. FC Nürnberg übt sich mit Blick auf seinen Kader trotz der Schwächung in großer Zuversicht - auch, weil Rafael Lubach aus seinem Tief geklettert ist. Der Mittelfeld-Motor dürfte zum ersten Mal in dieser Saison begi",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nuernbergs-startschuss-fuer-die-mission-wir-alle-ersetzen-zoma-1263741/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T08:31:29+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Bundesliga Report: Der Klassiker - Kompany vs. Kovac",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEJYdnVNOFZwMHc4WmtfU1U2cVRvNjRXaGhXNGlfbjJ5d2NFTEZ3SjBDYkF2WDBocGN3Uks4TkpaUlIwczVqeU9PU3dWNTJaRkZGSUQybXIxTEE2c3N5aFRPT01XNTVleGVOYU44c0Q2SUhFWXJaX3dYclpWdEEyV1RYVjN1dzlsQUhyd1ppWGlpM1FGYzkyZlJFVTM2Tm1GVzVr?oc=5",
-   "img": "",
-   "ts": "2026-10-22T08:26:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Bundesliga Weekly - Episode 9",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcm5ldUFtclpIYlpBb3pMN05RY01WaVc2c2x6Mm41TVdKR0MzMjZiZ2V4ZUZHRGwwa0Q4RWJGTW9kc1YteGZ1VUJKYXZoc3Fheld1elJYcURkQzEzRkZvc0I0MWR2dFNfeXZaU3hZaTlHNEdSWE82OFNEUGVmNWxrZlhpZlpEdms?oc=5",
-   "img": "",
-   "ts": "2026-10-22T08:24:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB informiert: Transfer Druck bei Mathis Albert",
-   "summary": "Gemeldet von FussballTransfers.com",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTRXSk5zX014YllLMzFXSVVzQ1pDczA4NDFxT1pRdFRaRlg3YmdyaFdfc2tCSGw1UUpaSHYzZjNPZVhWNGxyTndMd2U2QTdMWkE1elBvaHU5d1V2bDFBdjF0cnFzNlVtUXl6bmhqanU0WjhUeDA1SnJmRGFrTVU0bG15MjlYbDg2cnNoeXNiWkRiNEJfTVFzRkFLYw?oc=5",
-   "img": "",
-   "ts": "2026-10-22T08:22:26+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Nagelsmann wird bei ManUnited gehandelt - Argentinien vor Scaloni-Deal",
-   "summary": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T08:20:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
-   "summary": "Das letzte verfügbare Anteilspaket ist verkauft: Die Viessmann Generations Group wird Gesellschafter der FC Bayern München AG. Der Aufsichtsrat wächst damit auch.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-22T08:19:21+00:00"
   },
   {
    "club": "HSV",
@@ -4909,36 +4909,6 @@
  ],
  "next": [
   {
-   "club": "HSV",
-   "id": 83218,
-   "league": "Bundesliga",
-   "home": "SC Paderborn 07",
-   "away": "Hamburger SV",
-   "ts": "2026-10-24T13:30:00+00:00",
-   "hi": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
-   "ai": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-  },
-  {
-   "club": "HSV",
-   "id": 87625,
-   "league": "DFB-Pokal",
-   "home": "Hamburger SV",
-   "away": "Eintracht Frankfurt",
-   "ts": "2026-10-27T17:00:00+00:00",
-   "hi": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
-   "ai": "https://i.imgur.com/X8NFkOb.png"
-  },
-  {
-   "club": "HSV",
-   "id": 83221,
-   "league": "Bundesliga",
-   "home": "Eintracht Frankfurt",
-   "away": "Hamburger SV",
-   "ts": "2026-11-01T16:30:00+00:00",
-   "hi": "https://i.imgur.com/X8NFkOb.png",
-   "ai": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-  },
-  {
    "club": "BVB",
    "id": 83210,
    "league": "Bundesliga",
@@ -4967,6 +4937,36 @@
    "ts": "2026-10-31T17:30:00+00:00",
    "hi": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
    "ai": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+  },
+  {
+   "club": "HSV",
+   "id": 87625,
+   "league": "DFB-Pokal",
+   "home": "Hamburger SV",
+   "away": "Eintracht Frankfurt",
+   "ts": "2026-10-27T17:00:00+00:00",
+   "hi": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+   "ai": "https://i.imgur.com/X8NFkOb.png"
+  },
+  {
+   "club": "HSV",
+   "id": 83221,
+   "league": "Bundesliga",
+   "home": "Eintracht Frankfurt",
+   "away": "Hamburger SV",
+   "ts": "2026-11-01T16:30:00+00:00",
+   "hi": "https://i.imgur.com/X8NFkOb.png",
+   "ai": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+  },
+  {
+   "club": "HSV",
+   "id": 83234,
+   "league": "Bundesliga",
+   "home": "Hamburger SV",
+   "away": "Borussia Mönchengladbach",
+   "ts": "2026-11-06T19:30:00+00:00",
+   "hi": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+   "ai": "https://i.imgur.com/KSIk0Eu.png"
   },
   {
    "club": "FCN",
@@ -5002,18 +5002,18 @@
  "tables": {
   "Bundesliga": [
    {
+    "team": "Borussia Dortmund",
+    "played": 7,
+    "gd": 7,
+    "pts": 15,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
+   },
+   {
     "team": "FC Bayern München",
     "played": 6,
     "gd": 17,
     "pts": 14,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg"
-   },
-   {
-    "team": "Borussia Dortmund",
-    "played": 6,
-    "gd": 7,
-    "pts": 14,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png"
    },
    {
     "team": "SC Freiburg",
@@ -5030,60 +5030,67 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg"
    },
    {
+    "team": "RB Leipzig",
+    "played": 7,
+    "gd": 9,
+    "pts": 12,
+    "icon": "https://i.imgur.com/Rpwsjz1.png"
+   },
+   {
+    "team": "SV Werder Bremen",
+    "played": 7,
+    "gd": 1,
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
+   },
+   {
     "team": "1. FSV Mainz 05",
-    "played": 6,
-    "gd": 4,
+    "played": 7,
+    "gd": 3,
     "pts": 10,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg"
    },
    {
     "team": "SV 07 Elversberg",
-    "played": 6,
-    "gd": 1,
+    "played": 7,
+    "gd": -3,
     "pts": 10,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png"
    },
    {
-    "team": "RB Leipzig",
-    "played": 6,
-    "gd": 5,
-    "pts": 9,
-    "icon": "https://i.imgur.com/Rpwsjz1.png"
-   },
-   {
-    "team": "SV Werder Bremen",
-    "played": 6,
-    "gd": 0,
-    "pts": 9,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
-   },
-   {
-    "team": "Hamburger SV",
-    "played": 6,
-    "gd": -9,
-    "pts": 9,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
-   },
-   {
     "team": "FC Augsburg",
-    "played": 6,
+    "played": 7,
     "gd": 4,
-    "pts": 8,
+    "pts": 9,
     "icon": "https://i.imgur.com/sdE62e2.png"
    },
    {
     "team": "Eintracht Frankfurt",
-    "played": 6,
+    "played": 7,
     "gd": -6,
-    "pts": 8,
+    "pts": 9,
     "icon": "https://i.imgur.com/X8NFkOb.png"
    },
    {
+    "team": "Hamburger SV",
+    "played": 7,
+    "gd": -10,
+    "pts": 9,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg"
+   },
+   {
     "team": "1. FC Köln",
-    "played": 6,
+    "played": 7,
     "gd": -3,
-    "pts": 7,
+    "pts": 8,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg"
+   },
+   {
+    "team": "SC Paderborn 07",
+    "played": 7,
+    "gd": -3,
+    "pts": 8,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
    },
    {
     "team": "TSG Hoffenheim",
@@ -5101,23 +5108,16 @@
    },
    {
     "team": "FC Schalke 04",
-    "played": 6,
+    "played": 7,
     "gd": -3,
-    "pts": 5,
+    "pts": 6,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png"
    },
    {
-    "team": "SC Paderborn 07",
-    "played": 6,
-    "gd": -4,
-    "pts": 5,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg"
-   },
-   {
     "team": "1. FC Union Berlin",
-    "played": 6,
+    "played": 7,
     "gd": -12,
-    "pts": 5,
+    "pts": 6,
     "icon": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg"
    },
    {
@@ -5265,6 +5265,13 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg"
    },
    {
+    "team": "Viktoria Köln",
+    "played": 11,
+    "gd": 15,
+    "pts": 23,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/960px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png"
+   },
+   {
     "team": "Rot-Weiss Essen",
     "played": 11,
     "gd": 6,
@@ -5272,18 +5279,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png"
    },
    {
-    "team": "Viktoria Köln",
-    "played": 11,
-    "gd": 12,
-    "pts": 20,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/960px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png"
-   },
-   {
     "team": "1. FC Saarbrücken",
     "played": 10,
     "gd": 7,
     "pts": 17,
     "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/f/ff/1._FC_Saarbr%C3%BCcken.svg/960px-1._FC_Saarbr%C3%BCcken.svg.png"
+   },
+   {
+    "team": "Alemannia Aachen",
+    "played": 11,
+    "gd": 0,
+    "pts": 17,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alemannia_Aachen_2010.svg"
    },
    {
     "team": "FC Ingolstadt 04",
@@ -5300,6 +5307,13 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/960px-Logo_TSG_Hoffenheim.svg.png"
    },
    {
+    "team": "SV Meppen",
+    "played": 11,
+    "gd": 0,
+    "pts": 16,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SV_Meppen_Logo_2022.svg/250px-SV_Meppen_Logo_2022.svg.png"
+   },
+   {
     "team": "Hansa Rostock",
     "played": 11,
     "gd": -2,
@@ -5307,16 +5321,9 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
    },
    {
-    "team": "SV Meppen",
-    "played": 11,
-    "gd": -2,
-    "pts": 16,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SV_Meppen_Logo_2022.svg/250px-SV_Meppen_Logo_2022.svg.png"
-   },
-   {
     "team": "SV Wehen Wiesbaden",
     "played": 11,
-    "gd": 0,
+    "gd": 3,
     "pts": 15,
     "icon": "https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Logo_SV_Wehen_Wiesbaden.svg/250px-Logo_SV_Wehen_Wiesbaden.svg.png"
    },
@@ -5328,25 +5335,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/960px-Fortuna_D%C3%BCsseldorf.svg.png"
    },
    {
-    "team": "SC Verl",
-    "played": 11,
-    "gd": -3,
-    "pts": 15,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png"
-   },
-   {
     "team": "VfB Stuttgart II",
-    "played": 10,
-    "gd": -1,
+    "played": 11,
+    "gd": -2,
     "pts": 14,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png"
-   },
-   {
-    "team": "Alemannia Aachen",
-    "played": 10,
-    "gd": -1,
-    "pts": 14,
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alemannia_Aachen_2010.svg"
    },
    {
     "team": "SV Waldhof Mannheim",
@@ -5363,16 +5356,23 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/7/7e/SC_Preussen_Muenster_Logo_2018.svg"
    },
    {
+    "team": "SC Verl",
+    "played": 11,
+    "gd": -6,
+    "pts": 12,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png"
+   },
+   {
     "team": "SG Sonnenhof Großaspach",
     "played": 11,
-    "gd": -9,
+    "gd": -12,
     "pts": 12,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/8/86/SG_Sonnenhof_Gro%C3%9Faspach_logo.png"
    },
    {
     "team": "Würzburger Kickers",
     "played": 11,
-    "gd": -6,
+    "gd": -8,
     "pts": 11,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Würzburger_Kickers_Logo.svg/250px-Würzburger_Kickers_Logo.svg.png"
    },
@@ -10319,22 +10319,22 @@
  ],
  "teams": {
   "Bundesliga": [
-   "FC Bayern München",
    "Borussia Dortmund",
+   "FC Bayern München",
    "SC Freiburg",
    "Bayer 04 Leverkusen",
-   "1. FSV Mainz 05",
-   "SV 07 Elversberg",
    "RB Leipzig",
    "SV Werder Bremen",
-   "Hamburger SV",
+   "1. FSV Mainz 05",
+   "SV 07 Elversberg",
    "FC Augsburg",
    "Eintracht Frankfurt",
+   "Hamburger SV",
    "1. FC Köln",
+   "SC Paderborn 07",
    "TSG Hoffenheim",
    "VfB Stuttgart",
    "FC Schalke 04",
-   "SC Paderborn 07",
    "1. FC Union Berlin",
    "Borussia Mönchengladbach"
   ],
@@ -10360,20 +10360,20 @@
   ],
   "3. Liga": [
    "MSV Duisburg",
-   "Rot-Weiss Essen",
    "Viktoria Köln",
+   "Rot-Weiss Essen",
    "1. FC Saarbrücken",
+   "Alemannia Aachen",
    "FC Ingolstadt 04",
    "TSG 1899 Hoffenheim II",
-   "Hansa Rostock",
    "SV Meppen",
+   "Hansa Rostock",
    "SV Wehen Wiesbaden",
    "Fortuna Düsseldorf",
-   "SC Verl",
    "VfB Stuttgart II",
-   "Alemannia Aachen",
    "SV Waldhof Mannheim",
    "Preußen Münster",
+   "SC Verl",
    "SG Sonnenhof Großaspach",
    "Würzburger Kickers",
    "Jahn Regensburg",
@@ -12306,7 +12306,7 @@
   },
   "af_used": {
    "d": "2026-10-24",
-   "n": 3
+   "n": 4
   },
   "af_bulk": true,
   "reg_try": "2026-10-20T22:37:47.605065+00:00",
