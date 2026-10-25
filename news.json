@@ -1,6 +1,193 @@
 {
- "updated": "2026-10-25T20:45:23.856144+00:00",
+ "updated": "2026-10-25T23:11:06.721823+00:00",
  "items": [
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+   "summary": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:37+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
+   "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:37+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
+   "summary": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:36+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
+   "summary": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:36+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
+   "summary": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:36+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kiel schlägt Dresden und klettert nach oben",
+   "summary": "Holstein Kiel hat in der 2. Fußball-Bundesliga gegen Dynamo Dresden den ersten Sieg eingefahren und in der Tabelle einen ordentlichen Satz gemacht.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/kiel-schlaegt-dresden-und-klettert-nach-oben,spielbericht-holstein-kiel-dynamo-dresden-102.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:31+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hoffenheimer Arbeitssieg gegen Leverkusen",
+   "summary": "Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
+   "summary": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:22+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
+   "summary": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:11+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+   "summary": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
+   "img": "",
+   "ts": "2026-10-25T23:00:06+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Danks: \"Vielleicht waren ein, zwei Spieler ein wenig erschöpft\"",
+   "summary": "Nach dem Sieg in Freiburg hat Bayerns Co-Trainer Aaron Danks ein Sonderlob an Torhüter Jonas Urbig verteilt und ein Update zu Manuel Neuer gegeben. Trotz der Freiburger Druckphase zum Schluss zeigte er sich mit seiner Ma",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/danks-vielleicht-waren-ein-zwei-spieler-ein-wenig-erschoepft-1265249/video#omrss",
+   "img": "",
+   "ts": "2026-10-25T22:54:52+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Historischer EM-Abend für Schindler: Die Final-Niederlage im Video",
+   "summary": "Als erster deutscher Darts-Profi stand Martin Schindler im Finale eines Major-Turniers. Bei der EM in Dortmund verlor der 30-Jährige dann allerdings gegen Ross Smith.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/historischer-em-abend-fuer-schindler-die-final-niederlage-im-video-1265244/video#omrss",
+   "img": "",
+   "ts": "2026-10-25T22:33:23+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Schwer, an Fußball zu denken\": FCB trotzt seinen Sorgen",
+   "summary": "Beim FC Bayern rückte der Fußball in den vergangenen Tagen in den Hintergrund. Nach den Sorgen um Vincent Kompany und einem Trauerfall in Joshua Kimmichs Familie setzte die Mannschaft beim 3:1 in Freiburg ein Zeichen des",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/br/br-schwer-an-fussball-zu-denken-fcb-trotzt-seinen-sorgen-102.html",
+   "img": "",
+   "ts": "2026-10-25T22:09:50+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Natürlich kotzt mich das an\": Freiburgs Ernüchterung nach den Top-Spielen",
+   "summary": "Die Woche der drei Top-Spiele hat der SC Freiburg mit null Punkten abgeschlossen. Ernüchterung beim Sport-Club, der den Trend aber schnell wieder umdrehen kann, analysiert kicker-Reporter Carsten Schröter-Lorenz.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/natuerlich-kotzt-mich-das-an-freiburgs-ernuechterung-nach-den-top-spielen-1265229/video#omrss",
+   "img": "",
+   "ts": "2026-10-25T21:49:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Mehr wert als ein Sieg\": Bayern mit \"bester Medizin\" nach schwieriger Woche",
+   "summary": "An der Säbener Straße hatte man in der abgelaufenen Woche so einige Rückschläge verschiedenster Natur zu verzeichnen. Besonders im Gedächtnis blieb Vincent Kompanys Zusammenbruch, dem Sportvorstand Max Eberl mit dem 3:1-",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/mehr-wert-als-ein-sieg-bayern-mit-bester-medizin-nach-schwieriger-woche-1265224/video#omrss",
+   "img": "",
+   "ts": "2026-10-25T21:27:49+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Starke Torjäger, drei Münchner und eine Gladbacher Eins: Die kicker-Elf des 7. Spieltags",
+   "summary": "Eine Woche vor dem Kracher positionierten sich Meister Bayern München und Borussia Dortmund punktgleich an der Tabellenspitze. Ansonsten feierten Schlusslicht Gladbach und Hoffenheim wichtige Dreier. All das fand wie der",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/starke-torjaeger-drei-muenchner-und-eine-gladbacher-eins-die-kicker-elf-des-7-spieltags-1265200/slideshow#omrss",
+   "img": "",
+   "ts": "2026-10-25T21:10:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9306",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkF2b2h6UndIWHBzQkQ2VTFPcEo4TWE4LTBOeW1ZS1RUR2VGbUl3ZThEWTdxaDgwTkl2Wm1iQm1peHA3MkVjcjgySmRsN2x3THNUTXJEdUw4Zl9RNDdSYjdKMUpsdjZLOVVFVnJJWWs0MGFzYnU2SnpuSnlNSmlpQ0lJSGRNSWFUMEpNbUlR?oc=5",
+   "img": "",
+   "ts": "2026-10-25T21:06:00+00:00"
+  },
   {
    "club": "BVB",
    "league": null,
@@ -33,6 +220,39 @@
    "url": "https://www.kicker.de/kein-pfiff-nach-bades-schlimmem-zusammenprall-schiedsrichter-hartmann-erklaert-sich-1265175/artikel#omrss",
    "img": "",
    "ts": "2026-10-25T20:08:05+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ilzer: \"Heute dürfen wir uns auf die Schulter klopfen\"",
+   "summary": "Christian Ilzer ist froh, dass man sich von Leverkusens Siegesserie nicht einlullen ließ. Nach drei Siegen in einer Woche darf sich das Team selbst auf die Schulter klopfen, so der Hoffenheim-Coach.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/ilzer-heute-duerfen-wir-uns-auf-die-schulter-klopfen-1265195/video#omrss",
+   "img": "",
+   "ts": "2026-10-25T20:05:14+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Matthäus und Veh sprechen über die Schattenseiten des Trainerjobs und Deniz Undav",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbm14dnpQeWRIZkZGM1pVcDhCS1BvbDRJQzI2RXk5RnJFM2M3VVJhZzhiSjN3bGdramRqV0NlQTlxME1DLTU3cFJ0dkJVUm9YZ1l4R2hLTWNNSERRbm95Ml9IX0JacWc0NlllQ3lBb3daNGltSm1qM0c0c0RFdGJBcS13MWdyb0dTV1RRRnBJZDlISG5odndUS3NWNU42c2VEZHpPaGNiWVlLMTNOYk1fYXo2SnFVdzZ5VF9RWTBzWEVscTVvVWJBYXY2VE84M01kYVE?oc=5",
+   "img": "",
+   "ts": "2026-10-25T19:55:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Hannover verurteilt Derby-Eklat und kündigt Konsequenzen an",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckxSUFVoT3FBRkVoYlNLTzdRMkZWdm1JYzQ4bGZUTnBmd3owS2pSSk9aTU5EWkhOckNnc3JvbGZ6Q1ZrT0hvaHNfSzFUSWZGc0xnYldSSC15bmpjcjJIa1NUc1E1Wmo3TFhEQUNzV091YTdQcU55ZGxxR2NLN0RhWWhVaTZfLXMzWjV1c3JlY1Q1WDhRUEZMa0NYZGNBZC04SVBua184VWNDQVQxbHdnZXZPdw?oc=5",
+   "img": "",
+   "ts": "2026-10-25T19:53:00+00:00"
   },
   {
    "club": null,
@@ -93,17 +313,6 @@
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
-   "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
-   "summary": "Der FC Bayern hat sich nicht anmerken lassen, in welch schwieriger Personalsituation er aktuell steckt. 80 Minuten dominierte der amtierende Meister gegen den SC Freiburg. Am Ende wurde es nochmal brenzlig.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-   "img": "",
-   "ts": "2026-10-25T19:06:13+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
    "title": "Hoffenheims perfekte Woche: \"Das kann die Wende sein\"",
    "summary": "Der zweite 3:0-Sieg in Folge und der dritte Dreier in einer Woche: Für Hoffenheim könnte es zurzeit kaum besser laufen. kicker-Reporter Michael Pfeifer sieht darin die Wende in einer bislang komplizierten Saison für die",
    "source": "Kicker",
@@ -132,6 +341,17 @@
    "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12241435/waldhof-mannheim_tsg-hoffenheim-ii/liveticker",
    "img": "",
    "ts": "2026-10-25T18:31:04+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "1.FC Nürnberg - Kader im Detail 64/65 (Galerie) | Seite 14",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeV9oVGkxdVNaSVpob01fZ3FEdVFLN0tKeTR0WnB4TDJCcXBjLWlzd2ctVVNyMnRPWWpRSVVsVm9GQ3JoTWJhN3FueGx3TzFENTg2cXRua1pEVVdxYnU5d2M5dHNCcjNhalB1UTlwbXFDQklrLWJmWDAzYVJtdUR3OVZlUTQ3NHpCSW9tTjk5RTYxdDRK?oc=5",
+   "img": "",
+   "ts": "2026-10-25T18:30:19+00:00"
   },
   {
    "club": "HSV",
@@ -173,20 +393,20 @@
    "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9305",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtiUFRMRFpvNG12M2pCcnVrNDFVc3FZNWY3VUlxMVZxLVEzZFI0bldIc3Nuc2hIUkVNT0VHN0pxUkxlbzVMaEVDVk5IdnZDMTVBUmFMTjFrNl9xRkdiWWx3ZWZtN1pROHZpVW05Yk0wblNtSUdQQlpmNWlKS3Y1azVzWmU5aTJtN0dPTzFjNS1sM083VWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGZqM2FKMXk1UkJ3MHNpOWJnTnFMUWgxNVZ3eF9lczZKcEoySVl6QTQwdHQtVVB1M2hHcDVMaUVZV1lLNE9fTHFZcE9OWUY4enM4ZmVaWUxyLTlVUVAwTE9sN19KamEzZmhOUzJ2UENvb1NJcWExTExtaVhVOV9NNGk4Y1VpWTQ4cEVQOXlR?oc=5",
    "img": "",
    "ts": "2026-10-25T18:10:00+00:00"
   },
   {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Hoffenheimer Arbeitssieg gegen Leverkusen",
-   "summary": "Die TSG 1899 Hoffenheim hat das Duell mit Bayer 04 Leverkusen in der Fußball-Bundesliga für sich entschieden. Es war ein später Arbeitssieg der Kraichgauer in einer lange ausgeglichenen Partie.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9305",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtiUFRMRFpvNG12M2pCcnVrNDFVc3FZNWY3VUlxMVZxLVEzZFI0bldIc3Nuc2hIUkVNT0VHN0pxUkxlbzVMaEVDVk5IdnZDMTVBUmFMTjFrNl9xRkdiWWx3ZWZtN1pROHZpVW05Yk0wblNtSUdQQlpmNWlKS3Y1azVzWmU5aTJtN0dPTzFjNS1sM083VWc?oc=5",
    "img": "",
-   "ts": "2026-10-25T18:08:40+00:00"
+   "ts": "2026-10-25T18:10:00+00:00"
   },
   {
    "club": "HSV",
@@ -299,6 +519,17 @@
    "ts": "2026-10-25T17:27:00+00:00"
   },
   {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Niko Kovac [Trainer] - Borussia Dortmund - Forum | Seite 809",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelo1V1JUUkp0dUhxSXdJRlVQUVd6WmZKQ21aZ2NFcTlnWEVqVWlRalhhT3JtTV9fRGd6ZEVQVnFNZzBQQ3JocUpIX085QTVFQ2hqdUpNNkNVM3dCMDlkbDlpeW1lcC1ibFpEX1JjM0Vibld5eVEzRldhWlpGaTJpUmF0aWwzMUZ1akctY2FFQ0hDVnFz?oc=5",
+   "img": "",
+   "ts": "2026-10-25T17:18:00+00:00"
+  },
+  {
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
@@ -338,9 +569,31 @@
    "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9302",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGJKU1dpRTdLOGVmRHczdWVZclFZbkJiMnJoalUyZDJCSlc4c0VNTXRnenFHdnJFNnpza3N2VkxuSjZQZ0Jia0pmZFh2SEZyUjVJNF9xYzlhUGZmWTRkTUQzc2JnaFdsQWRhSHpGTE4wdzVyR3RZWlhFMzZYQ0h6cFRkZkI3WVpuRUNwU3h3?oc=5",
+   "img": "",
+   "ts": "2026-10-25T17:02:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9302",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUJpSzh5THlQU2hSdmN4Z3JveWppUFBWUElPS3Z3VkQxOEFoY1lsb2d2cE5QR1pka2FkeG5qel84b1NwSUozQkJHMVdwaGswYmxtODM1QWJTUFRxTWRMbjVJaU9DTnpmWGxjNmkzcGQwMlF3Q0J1ZlBNTTliek45UFQzVFZsZnFkYkRiQlQxdWdVc3Jma0E?oc=5",
    "img": "",
    "ts": "2026-10-25T17:02:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Struff verpasst Titel in Brüssel: Final-Niederlage nach starker Turnierwoche",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkhZMUZGUVMwS0s0bVBwMURsNnRydk1NWVZMSFdrT1RwOWpLZWZlUEtlVWJaRXM1VFdsSk9lRE9uU1VRWFExbmNMTXV2TnhVUDQzS0k0MFViNW1FUVduMVRjd2EwUlBwNzVZZElEZEtnbzJPOHpreXhQRHVLeVMtUUFGTFRnVjlZMzAyRXlYTWwzRFV6cEROZ0w5RUJUbnRWWEJybkRGeHpobDFsTHk1YmhoM2QxNWlXZ3NyeUZGTkd2bnZINlE?oc=5",
+   "img": "",
+   "ts": "2026-10-25T16:57:00+00:00"
   },
   {
    "club": "SCW",
@@ -558,9 +811,31 @@
    "title": "Die 2 Bundesliga 2026/2027 Was wird sie bringen? - Karlsruher SC - Forum | Seite 32",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTRxR0FUTWFHMFNqUW9QNW5KQVFzTUFnWG5oM3BZS3NQTWp1bC0tczFiTWk1QkpBUFRMMjVIYTZITHdhSXVraS1HNkZTVmR1cHcySVRJZXRad3RqMW9DZFh0SkNxTFhBcGc0NjZuclF1ajNjakZ5LWdVUHFyRDR3UHRPOHpqLUNkaFFlb0hEbzUzQ0JtTTlwbkVvRmlJaUloYThBWGhqY0pjc0lIbUlqNWs3TWxtMWZXZXc?oc=5",
+   "img": "",
+   "ts": "2026-10-25T15:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Gerücht",
+   "title": "Die 2 Bundesliga 2026/2027 Was wird sie bringen? - Karlsruher SC - Forum | Seite 32",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVBpUmFidmRYWmhqaE0zOGNNbDZkVzc3cTlON3kyaHpjc0V2akhTMEFSQ1l3MjVwc3lQa2ViLXg3Q3ZOTTRrQml1YllyTzA5a05kZHNhcnEyc2xLcTgyRlR1SGRQNkF5dXNiVnRkOENaWF94N2NLdXh6S0Vmak5ZMERKdldaYl90YWxMZnRYMUtBTmZpVjJ5VXV2WUFyQXZNWUxKdEVmc1ZFa3BDQlhCVUNHRnFCb2ZWQ3dmNThRbFAySW5W?oc=5",
    "img": "",
    "ts": "2026-10-25T15:10:00+00:00"
+  },
+  {
+   "club": "SCW",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Gebrauchter Tag: Primus Flensburg unterliegt St. Pauli II deutlich",
+   "summary": "Gemeldet von kicker.ch",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2lxUTFEZ0pMSmFCWVpPTERSSXU4bnRqLXRWLWxLSE96SjRoY3V6bWRvQVZtMXVlWmppQ0VpZ0l1eHVva3dvSXBkOU9XWGU4clZkSndDQUZYc2JpOVFfUDdTZF83Z1NzVVVhcmtIMjNURmRqZF9UdWFIckxPajlWVXVEQzg2T1YxMnh6RTB5eG4?oc=5",
+   "img": "",
+   "ts": "2026-10-25T15:04:27+00:00"
   },
   {
    "club": "SCW",
@@ -572,17 +847,6 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTZ5MEZndEp6Wjc1c1o2RWY3Ul85Tm9LcEpIU2p5dUpxODJMUHJxcVBFdk9NRDlpWG05blVEWlZpaTZmUTRubjh2LWJMUU1LdFhZVkYwdlBqeGY2R283YnBEdmNuZ2JqNGMxeFhnMW9JMjdHb0NuWGk4WGRfZHpKOTV4V2tOWDdPMXQ5VEhvcFE?oc=5",
    "img": "",
    "ts": "2026-10-25T15:02:36+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Kiel schlägt Dresden und klettert nach oben",
-   "summary": "Holstein Kiel hat in der 2. Fußball-Bundesliga gegen Dynamo Dresden den ersten Sieg eingefahren und in der Tabelle einen ordentlichen Satz gemacht.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/kiel-schlaegt-dresden-und-klettert-nach-oben,spielbericht-holstein-kiel-dynamo-dresden-102.html",
-   "img": "",
-   "ts": "2026-10-25T14:59:30+00:00"
   },
   {
    "club": null,
@@ -726,6 +990,17 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTVdjcWZBSkptdENBRTVnUU1ia09SMHN4a1FWYjFmaGN5YUVPdFBEcC14TTdfRHhvQW84NlFWeThVbGNvU0lFRXJVY3RnSUtSNmhXcDVRTE9lVUJRbU80THhld3pJQ2JkbEdqMG9JTktOekFiQXkzNGJVVy1pSFpiM3ZUM1FQWlBXUEcxX0pOY3d4dnJKUWc?oc=5",
    "img": "",
    "ts": "2026-10-25T13:53:00+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "FC Bayern Kickers Nürnberg Jugend",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObU1CcDVyQ3JJRV9wcUs2TkFhWWktV2V4c2c2ZlZaYXcyRW1PT1NUcTd3Nk5FWmJMV2wtSXJpU21hVWdTY3FCSFdZQ1oya1lKaXdBTENEeFM3VWw5bmpzQjNNZzV5bnQyVEVmWHIwaU9RTFN1Qy1pMWpRTElLb1Mzdl96dXEyOXJOTTlRcmdwVzZYdUVlTjlN?oc=5",
+   "img": "",
+   "ts": "2026-10-25T13:48:35+00:00"
   },
   {
    "club": null,
@@ -896,6 +1171,17 @@
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
+   "title": "BVB - Jugendmannschaften - Borussia Dortmund - Forum | Seite 2503",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREJ0aUp1VEh3Z3ExRVJ2enNSNGdTMHk2MEZUYW8wRzQteG5qakU1LW00b24xdUc1X0JoVldFTF9IMXJYd0lnNkdCQjZ6TzZ3eG5LMkFoSndJUEVLbDdCdm9EOFRBZzNqTHJRREctWTNHVXcySVdXMkRGbDZYSEtxOEZhLTR2ZnVueUVueEZkY3lIb2NJcTJ3WTdjSVJJUERNemc?oc=5",
+   "img": "",
+   "ts": "2026-10-25T12:43:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
    "title": "Nach BVB-Heimsieg gegen Frankfurt: Kovac setzt klaren Fokus",
    "summary": "Gemeldet von DerWesten",
    "source": "Weitere Medien",
@@ -962,12 +1248,45 @@
    "club": null,
    "league": "3. Liga",
    "tag": "Transfer",
+   "title": "[Live-Übertragung] Havelse gegen Saarbrücken Im Livestream 25.10.2026",
+   "summary": "Gemeldet von FC東京オフィシャルホームページ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNMDdQVzY2UTNWemhQNzBnV01ZRWp2b1BsZURneU9xcnRyWmViUl92amlTSTFjNll4Z051OGx3NXhlYU5EWjhxaXk3MEkxNnhsMjdxNG1sa1ZXSFZneTFNLWFTTzN6bndRTTB5VlE0LVVTWDBHM29EdUZxMG1JZGN5Mk9ORzdjeDhGeWl6U3JwU2tBYjNsQVNpRExpSGo4VDRLOU9TenZkQnMxUUhhZGdBMVpDc2N3Z0o0UEpQQ0ZDSHRZUk5iWk91SEhlYTR6M2tTMXBMT21uVllLeURWaUdhWmhDclV3YW93TTlUVVdURjgwSnQ5T1JodXJJRjd1cXJHbDBYNERZUUtMY25vWTRZcDF2MWpLREtyUFJGd1lnWi1mMjdGSjRzSHd6VzFSam54ZHdraDhQejZFR3lzTVRPakllcHZoWnRrX2RpR1Vn?oc=5",
+   "img": "",
+   "ts": "2026-10-25T12:03:06+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "&+%((üBertragung-TV)) Saarbrücken gegen TSV Havelse Im Livestream 25.10.2026",
+   "summary": "Gemeldet von FC東京オフィシャルホームページ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWVRCQlcwZWZGa2dJalNPdGkwZHg1eHJNYXVhdFYwNGZNR2g2Q01BRUEzeVdqaVVTcldPaWZpQXpUejAyeXBKdEV5THc0RXNpbnZWalowQ0xFVGFOVk1ORWhqMWZrQzZBSkctdVhfRFRLUV9wRlI5U1A5Rm1TM01UajN3OTNzeFozNWpVOTkzdjh6Y1NKS084dWNqRUVBODBKbHFJVXhhVjdtRWRTeVlHMnY0d0RjWWZxbzVNRlhQdFV4azdxOTVXdnduYS0wcFdJUlFhRmRzb2lkbEZyZTE4VUsteDZ5b003bENSeEdpT1hZZVNrNFBfQW4zOWdjNzdUM091dGVJRHVzNWxhNE5XcWJ0anZCS05XTTI1NG1oTGp4RS1QRVZ3dkZNYXFTQnhxYWNIY005Rl9PenkxNVFNcEotbUZQT1JNUE1OMmpDQTA5LVd6UkE?oc=5",
+   "img": "",
+   "ts": "2026-10-25T11:59:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
    "title": "%@~[¡LIVE+HEUTE] Havelse vs. Saarbrücken heute im TV und LIVE STREAM.",
    "summary": "Gemeldet von FC東京オフィシャルホームページ",
    "source": "Weitere Medien",
    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNVHNjanh2c2k4RExqQ3NJWDRxaFFhR0JXdDBCRHF1ekZxeUxVZzluWWljVFV3VG5rZkc1SmpVeVNvelRVMTZMYTNaUEtxY2pQbmM2STA0bkg0RVFmNGxpUDd5RnQwOGhQdFlGNGxNS2tFRml5TGtEM1JNTUl6VWY3MFM4blgzU3phWHNIZnVWem1hbktCcElzSWtwZ0pfWHoxY1VsZEN3SzUybmRLV3ZTSVFnVG9zSE9vZWdvRFZ1My1sSEhKSkhCS09CaFZMcmN0REJTMGxFeThGSV9PZW8wSW9YdjRXZFdlUUxaQmxtVmh0QVhUbDdPMlJpcUdzRjZUZ3A1VUxVczFjcm9JT09VSnItZ0lOMkRFZE16eE5NWnpWem1STVRSRENncTRLd2pneUI2d2dkckhjM0MtRUxWSXc4VkVROVlhM1lBbVBNM2RqSUUx?oc=5",
    "img": "",
    "ts": "2026-10-25T11:58:37+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "!$>[LIVE!#Ansehen]* Saarbrücken TSV Havelse heute übertragung 25.10.2026",
+   "summary": "Gemeldet von FC東京オフィシャルホームページ",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZG5objZfQnFjOElwcVFGb3FCd2tvT3JRZml0bFM2TlVvemo1UThybXVBczVDV2JhazdLODVmTXZ2c1NqeUVOaGhsNk5UcXVJMmI3UERSNlY1TE1rbVh3a1RhLWl5TTR4dmNMc0NpRDRpM05nSExsNFhQbkp0Szc2NkZfeGpaeGdDMTgwQ2dIMFdLN3JSY3VzRWhhSWx1MW5VejE3NFR0RjcxTEt1czl0N09RQml6Uno0REg4QkJPajBnRnZhZDd6MDdoV2V6MVctUUhQU2VIejZWdWhKM0oyMW5Va2RqM19aR2d4UVd0cmticmNCTFpUanh5aEYyNkxoZlBxNDl6OWVTMVBONmVXcEw5dC1rc1RsSHZpM3Rfbkk1cVctZnNyYkhtSmJNREplUnA4aFZGOTVGUWhGLUF4MGlWSU01UWU4Q05PdDdfTUs4UQ?oc=5",
+   "img": "",
+   "ts": "2026-10-25T11:57:34+00:00"
   },
   {
    "club": null,
@@ -1234,6 +1553,17 @@
    "ts": "2026-10-25T09:18:00+00:00"
   },
   {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Borussia Dortmund Jugend",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWZIaUlOTktTUTBab3lTelZpZXg4Vm1nRUFreWtGZC1GY1ZDSklkYTU3d3FoNEQ0c094eFlIZXh2RExvNmJFNUg3aEZCeHZEV2dZMVRUdF91RjZsV21lcDNZSnBaMkpuVXVZcWNFUFRGNE1UZHRlTUFTN3JTdjRqWml3RXRvWXBQN01HRlEtZ09pUG95VjBtTG1PaElTaWxOWG1qeFB0OWJzV1Rn?oc=5",
+   "img": "",
+   "ts": "2026-10-25T09:10:14+00:00"
+  },
+  {
    "club": null,
    "league": "2. Bundesliga",
    "tag": "Transfer",
@@ -1300,7 +1630,7 @@
    "ts": "2026-10-25T08:49:33+00:00"
   },
   {
-   "club": null,
+   "club": "BVB",
    "league": "Bundesliga",
    "tag": "News",
    "title": "Kuriosum an der Bundesliga-Tabellenspitze: Das hat es noch nicht gegeben",
@@ -1538,6 +1868,17 @@
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGhHWVZfTzEzMFF0U2xvRGtYQ2R4RC1BdlB6bGgwVloxUmZCZWpzODl3UEdYa1FmdGdGdy1CYWhVN0FNZXhnV3Bta2x1a1dPd3NWak1RNllldE1hLWYyYWUyYTVNby1GOWJrT0tPaTdTeE13a0RNbnN1WU9uOGVvTV96S0dmczY1aE54X3pyZjZxamcydE5YbVo3Rmx2em1RRXc?oc=5",
+   "img": "",
+   "ts": "2026-10-24T22:57:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Carney Chukwuemeka [17] - Borussia Dortmund - Forum | Seite 191",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUw0d01HSUs2Mnk0cUpjeXAxTDlNNXZhNEpaN3JPaHZJNWp0YzR6OTJCdkdqeFo3N21oVmZLcGpLcUVLMFIxUWFsbE9Hel80OVJDdEVlSXk1aWxlbEtDLWVBLWh1SkFHQi1GWks4TmJWX0FLZ0x1cFlfc2hkdXBTU3FXVnJZNGxhcXQyQWlIWXY4NE56VWNYNGxjSWk3R2FXMlE?oc=5",
    "img": "",
    "ts": "2026-10-24T22:57:00+00:00"
   },
@@ -1784,6 +2125,17 @@
    "ts": "2026-10-24T20:17:00+00:00"
   },
   {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Füllkrug blüht bei Werder wieder auf: Tor-Serie erinnert an Klublegende Völler",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXlJNkpwTlB6Y20xSFo3UlB1R0ZTOW9ZT2hnaGJRTV9VcmMteDFkQWpMRE9jQlA5RXV4WmFlUjN2TUdBYTRqakhscjRUOFZSR2ZNdk9hTkdfdEZBSmJZVWVMYkdmdDhxb0tQeEh2ZWViTko2bHA1cW9jVXRRTG1mUXI3ZENhSWpiRHBWbXBaMUhjMUF6Y3VjbkRIMW9BTS1lS1hQal8tR19uLTF6TUZZYTlzN3hsRk91LVNuZV9uS24tWnZEajAtaEl5RzhPQQ?oc=5",
+   "img": "",
+   "ts": "2026-10-24T20:16:00+00:00"
+  },
+  {
    "club": "BVB",
    "league": null,
    "tag": "News",
@@ -1928,14 +2280,14 @@
   },
   {
    "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-   "summary": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Highlights Kompakt: Beier lässt BVB jubeln: Sieg gegen den Lieblingsgegner",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQzM1Vk1pbktZWVZhWkQyQTYwZm4yZEFOT25RelJVLUQ5QUE3OWlXZWxheEthTXc3RkNHSVh6TTU0LTVNa1B4WFNvRzU2TE9LdWdfcmo4OHFzQTA0NWVlZWxkTWhqcS1RaE05N0ZhbGZ4dEZBdHJ0aEtOZGVHakdRRmc0VWJIVWZBREN3c215Q1FlRnlhN3lGcDZ0MHo5UUpORlpiNGljTjlsWDVJQU1yMTN2d3pwYkhCcXZGN2xuWVVselNI?oc=5",
    "img": "",
-   "ts": "2026-10-24T18:59:09+00:00"
+   "ts": "2026-10-24T19:02:00+00:00"
   },
   {
    "club": null,
@@ -2136,17 +2488,6 @@
    "ts": "2026-10-24T17:46:45+00:00"
   },
   {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Blutiger Zusammenprall bei Nullnummer in Köln",
-   "summary": "Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften Partie remis getrennt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-blutiger-zusammenprall-bei-nullnummer-in-koeln-100.html",
-   "img": "",
-   "ts": "2026-10-24T17:44:00+00:00"
-  },
-  {
    "club": "HSV",
    "league": null,
    "tag": "News",
@@ -2189,17 +2530,6 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpZeGY0Si1iaWlBa280aW9GQlBkcjdYVlRWNHJBZExXMWRuS0dXLTI0anBnZElRSU1jQXEzZGVYdWhaQi1JZk1lbHNfYzNPUGJnSmFCVlRvZlZHMUNyYkpZZFBuSjhNVU1jZ1RrSFFQRjZPLWI2eHJqc1duaEs2ZUhJcG1tak9FVVEyOVFxSEltOXhhWlpyd1p3Z3FVa3BQN1pCUTNHQQ?oc=5",
    "img": "",
    "ts": "2026-10-24T17:12:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Paderborns Joker trifft: Rayan Philippe schockt Ex-Klub HSV",
-   "summary": "Die Siegesserie des Hamburger SV endet beim SC Paderborn. Ausgerechnet der ehemalige Hamburger Rayan Philippe schoss das entscheidende Tor.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-stoppt-siegesserie-des-hsv,spielbericht-sc-paderborn-hamburger-sv-100.html",
-   "img": "",
-   "ts": "2026-10-24T17:11:10+00:00"
   },
   {
    "club": null,
@@ -2257,17 +2587,6 @@
    "ts": "2026-10-24T16:54:28+00:00"
   },
   {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
-   "summary": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
-   "img": "",
-   "ts": "2026-10-24T16:46:07+00:00"
-  },
-  {
    "club": "BVB",
    "league": "Bundesliga",
    "tag": "Spiel",
@@ -2277,6 +2596,28 @@
    "url": "",
    "img": "",
    "ts": "2026-10-24T16:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Highlights Kompakt: Harmlose Schalker holen Punkt in Köln",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5ZdTBmbnpWQ0IxYjhKdEFtbWc4ZHp6VWdjVm9sWm5aM3lSelYzaUpQT3AxSVQ5NkVoN0lGMlM2b2xsS1Z1Slc0T0kwdzNMR0NxRnRXOV9FbmJFSmxVdHhfZnRQUlh6X3NVejQwdFFkblQyRmpXSVRWTDN4cENMd1pCWjk3aGYzU3BRZWYzOTBhaldWNXpLMVVJZGc3NjhWdWNFNUg5Q3hoWkdvM0ow?oc=5",
+   "img": "",
+   "ts": "2026-10-24T16:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Schalke bangt um Gosens und El-Faouzi nach heftigem Zusammenprall in Köln",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFdmME1TaTAzVFhBMUllVnZJX1NILU1WOWdpdHpCTHF4SmV6ZXRSSUwwOVRRZnNrVTdyMVY5RzNVLTNfWXNHUm9KOHhlUDJCMUlnTTNZeHhobWNXNS12U3pEbS1VaXY4d2tUMlhHR0FnMjhOc3RfVFpxN1hINHJvaXRUajR3SGN2c3I1TklIZUJ4OXhfbnZvb2gtaXVreHNRZWNaaC03OXg5ZWJRUDktTWZpRjhFSzFQaEdOek0yU1N5N3FsWEE?oc=5",
+   "img": "",
+   "ts": "2026-10-24T16:28:00+00:00"
   },
   {
    "club": null,
@@ -2378,17 +2719,6 @@
    "ts": "2026-10-24T15:52:00+00:00"
   },
   {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
-   "summary": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
-   "img": "",
-   "ts": "2026-10-24T15:51:21+00:00"
-  },
-  {
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
@@ -2420,17 +2750,6 @@
    "url": "https://www.kicker.de/live-der-bvb-schiebt-an-guirassy-scheitert-zweimal-an-atubolu-1264002/artikel#omrss",
    "img": "",
    "ts": "2026-10-24T15:41:26+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
-   "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-   "img": "",
-   "ts": "2026-10-24T15:39:52+00:00"
   },
   {
    "club": "BVB",
@@ -2483,7 +2802,7 @@
    "title": "Schalke weiter ohne Befreiungsschlag: Köln und S04 trennen sich torlos",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV21PNElEclI1bnNvd1RVMTJBZjIwUDVZWGZOaEFkQXhzWjJBWVlJZWFKS0VJSXU0UE14UjkyazVEOWZ3b0xqNXhlMTFxZldwTEJMS3J1ZVlkckMtc0k4WmFzU2lnUVpWNEZMb1VQY0xyTWhqMW5EMDVGV3JKTThuNDJPcmY1bENOdFdsMC1ZeHdWTmEwYkRTUnZTVzNWZm5seDVzWTdqel92a05fT2ZwOVdndVk3U1pXbzBuWFJoTXQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tR21UTERoelVvNXktSXBIWXdhT21hNHBUUTZobTlzcnhJZFRRaU43YlExLURHMFNrY0tsZWVwZUlWVUFXSGVXZGpjTy1MM1R3NjdZYVFoS0Z3bE1PNEZUNVNnc1pmaWpvVEFjR2lFSUZZazZzdDFiQw?oc=5",
    "img": "",
    "ts": "2026-10-24T15:30:00+00:00"
   },
@@ -2494,7 +2813,7 @@
    "title": "Schalke weiter ohne Befreiungsschlag: Köln und S04 trennen sich torlos",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tR21UTERoelVvNXktSXBIWXdhT21hNHBUUTZobTlzcnhJZFRRaU43YlExLURHMFNrY0tsZWVwZUlWVUFXSGVXZGpjTy1MM1R3NjdZYVFoS0Z3bE1PNEZUNVNnc1pmaWpvVEFjR2lFSUZZazZzdDFiQw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV21PNElEclI1bnNvd1RVMTJBZjIwUDVZWGZOaEFkQXhzWjJBWVlJZWFKS0VJSXU0UE14UjkyazVEOWZ3b0xqNXhlMTFxZldwTEJMS3J1ZVlkckMtc0k4WmFzU2lnUVpWNEZMb1VQY0xyTWhqMW5EMDVGV3JKTThuNDJPcmY1bENOdFdsMC1ZeHdWTmEwYkRTUnZTVzNWZm5seDVzWTdqel92a05fT2ZwOVdndVk3U1pXbzBuWFJoTXQ?oc=5",
    "img": "",
    "ts": "2026-10-24T15:30:00+00:00"
   },
@@ -2794,6 +3113,17 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdktQMzllZjU2aU5XX3ZobV8xWUdKWmJ6ZS1mTjhxRlhzbUtBUTk1NDVrTEljUlhaZVF0Ty1HakoxRWJ4WF9XQ2FvQjdFRGFuOFZ1QnZRQkxJZVpkbnVoZ2FTOEFzbmlDVUE?oc=5",
    "img": "",
    "ts": "2026-10-24T13:45:41+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Heidenheim 1846 1-1 FC Energie Cottbus",
+   "summary": "Gemeldet von OneFootball",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUEzMWo0eHFQdEFSWnpDRl85bTlxV0dWaDFua2VneG90V19aT2J6S2oxWng3dm1GV1FLM1NqeXloWkl4RUI3Q29DX1VlOVNCTU1PN0Y4TTZGMmpSNmJMQm9xYnF6bzlxSUNzY1JCdFB4NHBWanplSDlLVnVoeGFHdFkydDBDak8tUURxWnVLV0U5OTFlcjFHRlk5QmpQTDA?oc=5",
+   "img": "",
+   "ts": "2026-10-24T13:44:18+00:00"
   },
   {
    "club": null,
@@ -3489,6 +3819,17 @@
    "ts": "2026-10-24T06:40:00+00:00"
   },
   {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Milwaukee Brewers gewinnen Spiel 1 der World Series: Favorit legt gegen Tampa Bay vor",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1hmbnkxbnROX3BDVzg2MzhvTjk0OXg5NV80ek1qN0d5bjhOOGwxTm9rektUYV9DbHRxWUlDZ1ZIQXJET3NnaWQ2MEFZSFBUR0tMR1J4dnZ6WTVUNlpySDNxOWVGTzFlZ0xZNWZ3b05OSnVHZG1pWkZKU0tQMWdpT2JJeVpCXzdhLWxGTEVxRmEtNG1XQ0Y3aUJCSFZaV1FpMFc3S1lFa2ZLb1RlZTU5UjhsOXhFVl9FRVV0X0lvY2JWMU5YcnJtdWhZeV8?oc=5",
+   "img": "",
+   "ts": "2026-10-24T06:26:00+00:00"
+  },
+  {
    "club": "HSV",
    "league": "Bundesliga",
    "tag": "Transfer",
@@ -3825,7 +4166,7 @@
    "title": "Befreiungsschlag für Gladbach: Borussia verhindert historischen Fehlstart in Stuttgart",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhWmtBd2hNQmVFR3Z2c1VUQ045aTd3aHlqS1pKWDhjcHRiT1ZpYVNXVGlpM0NmT1hWSHZzX21oNDdKVFNHNUJoTTRpb2ZoSEZzcnZldFpmcllXeUo3Sjl3X2prWm9vbHZ1UDJOSURvU1FSTGVDb054c05KZVE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UVpSM01nOWFwUEQtbmlUOFdHUmNPM2xWaDU1SzdvWE9KOWZRSTRKVHIzV0d4YjJ1RFN3T0RqOFl4d0hQWUQ0MEpqdmVDN3lueFRwcFZMaGhaYUNVWTVEY1dFUFF6Rkduc1kzeE9RaHJHcXltemFoVE52SlB6Zw?oc=5",
    "img": "",
    "ts": "2026-10-23T20:29:00+00:00"
   },
@@ -3836,7 +4177,7 @@
    "title": "Befreiungsschlag für Gladbach: Borussia verhindert historischen Fehlstart in Stuttgart",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UVpSM01nOWFwUEQtbmlUOFdHUmNPM2xWaDU1SzdvWE9KOWZRSTRKVHIzV0d4YjJ1RFN3T0RqOFl4d0hQWUQ0MEpqdmVDN3lueFRwcFZMaGhaYUNVWTVEY1dFUFF6Rkduc1kzeE9RaHJHcXltemFoVE52SlB6Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhWmtBd2hNQmVFR3Z2c1VUQ045aTd3aHlqS1pKWDhjcHRiT1ZpYVNXVGlpM0NmT1hWSHZzX21oNDdKVFNHNUJoTTRpb2ZoSEZzcnZldFpmcllXeUo3Sjl3X2prWm9vbHZ1UDJOSURvU1FSTGVDb054c05KZVE?oc=5",
    "img": "",
    "ts": "2026-10-23T20:29:00+00:00"
   },
@@ -3883,17 +4224,6 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEhiNjB1UUw3RzZIY1BPenJzT2pYZVJnMmNHbGJQaVpkTEdyUXZFNFZYV3ZoLXZYVzI2OGRtVE95eVFHUFYxLTdXdzdUOVk3eXhkSlRlckhBMXVQMEFUQnd1cHdJUFY0SXJrSUFQV3RVSEpoYi0tbEZMeVc3QXdEUWhPU05FcWRBc0l0R0puallEZw?oc=5",
    "img": "",
    "ts": "2026-10-23T20:26:30+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
-   "summary": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
-   "img": "",
-   "ts": "2026-10-23T20:25:49+00:00"
   },
   {
    "club": null,
@@ -4009,6 +4339,17 @@
    "club": "FCN",
    "league": null,
    "tag": "Transfer",
+   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 9",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlZ4dTdpdWJ1RXBTR0trSTU5RmgtOWlTbzdDcEE5NzUyNE9sbTlldzJFdmZxd1ByZVd6bU0zenVBN1VqYnNZZTV2bFpJT2FicjRGNmt4N3g4dGswVXM0bFJKSWxhSFd1QzNWT3NYNWdqT0F0czVCejBUdlpuTWNTWDY1RnVTNHJGV0dXVlVpNzVkMW95amdqSUVUbHdZVHJpODU2eXY2TVpJV28tQWZ2Q1RiRQ?oc=5",
+   "img": "",
+   "ts": "2026-10-23T19:45:00+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
    "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 6",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -4031,17 +4372,6 @@
    "club": "FCN",
    "league": null,
    "tag": "Transfer",
-   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 5",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVkwVVdSYUUtVy1BTW9NUVdsbWxHVHlNaFBkNVRnb2hDcDJZTXZ1TTZwdmNTZDRubDBLV2pRYTN4T1dnOG1FTFlaUmVTbFh5QWMxUFVmRXpsblpxdjFfSnVmcXdTdkVYZmFCRnkzTmRCU3NkVXFnamkzSThyZWxWVU81Q054NGhhMmJMWWloeEh0MXN4aWpiUE5ZLUMyc1JSMkx3UHdvSmM5cXR1bVI3aHJGZw?oc=5",
-   "img": "",
-   "ts": "2026-10-23T19:45:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "Transfer",
    "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 7",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -4053,10 +4383,10 @@
    "club": "FCN",
    "league": null,
    "tag": "Transfer",
-   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 8",
+   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 4",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWVuSzBsUk9sNEdkdnpONUJsaXJxelUwWFRfb2pNUzJENHppMnNEZ1poVmlQUm5fN2c4dnFwcnJMYXp3YTlVQ2FsRG5wWkt5bXQ1cG9lTHVjQVRRLXhNYmFyaDlKRXo5T3hTUmNpYWNFMWh5akk4R1IwcjlBRTA3VG5vNWNORFJrZk9CcHJKa3ZTSTdPZW42RjJuUkUtalJKNDJTdUhpcDIzV0t5MjBlc2l0b0o3d2ROWVVLUU5R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGczWWRjYkVXdkUyTTZBYVhGT1RvMTRCVTNxUGN1Q2xMcDVCd2RYWTNfQWNHWnlaM2sydFpHOXphc2s2eTM4RkdfbXNuZWRGX3BTU2tySnlQWnZJcVdJUzVZSE1fMWpSdURhU0x3RVk0QUlJSUszWTVSQVNuQi1TWUhFLWlBTEdvSWlBa0hXMUkzcFh6VHJEc0ZRZUYtT2xkTGdmNThCbVZQOUhrTVlLLTVCMA?oc=5",
    "img": "",
    "ts": "2026-10-23T19:45:00+00:00"
   },
@@ -4064,10 +4394,21 @@
    "club": "FCN",
    "league": null,
    "tag": "Transfer",
-   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 9",
+   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 5",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlZ4dTdpdWJ1RXBTR0trSTU5RmgtOWlTbzdDcEE5NzUyNE9sbTlldzJFdmZxd1ByZVd6bU0zenVBN1VqYnNZZTV2bFpJT2FicjRGNmt4N3g4dGswVXM0bFJKSWxhSFd1QzNWT3NYNWdqT0F0czVCejBUdlpuTWNTWDY1RnVTNHJGV0dXVlVpNzVkMW95amdqSUVUbHdZVHJpODU2eXY2TVpJV28tQWZ2Q1RiRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVkwVVdSYUUtVy1BTW9NUVdsbWxHVHlNaFBkNVRnb2hDcDJZTXZ1TTZwdmNTZDRubDBLV2pRYTN4T1dnOG1FTFlaUmVTbFh5QWMxUFVmRXpsblpxdjFfSnVmcXdTdkVYZmFCRnkzTmRCU3NkVXFnamkzSThyZWxWVU81Q054NGhhMmJMWWloeEh0MXN4aWpiUE5ZLUMyc1JSMkx3UHdvSmM5cXR1bVI3aHJGZw?oc=5",
+   "img": "",
+   "ts": "2026-10-23T19:45:00+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": null,
+   "tag": "Transfer",
+   "title": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Seite 8",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWVuSzBsUk9sNEdkdnpONUJsaXJxelUwWFRfb2pNUzJENHppMnNEZ1poVmlQUm5fN2c4dnFwcnJMYXp3YTlVQ2FsRG5wWkt5bXQ1cG9lTHVjQVRRLXhNYmFyaDlKRXo5T3hTUmNpYWNFMWh5akk4R1IwcjlBRTA3VG5vNWNORFJrZk9CcHJKa3ZTSTdPZW42RjJuUkUtalJKNDJTdUhpcDIzV0t5MjBlc2l0b0o3d2ROWVVLUU5R?oc=5",
    "img": "",
    "ts": "2026-10-23T19:45:00+00:00"
   },
@@ -4103,347 +4444,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjJHam5DcEtrcl8tR2oyS0lzZDZUTnFRQzhNMFlJS3AzNm5OVXJsQWxGT1p0aEtLOXEyVFdza3hJQmN3WVZvaDlOamo3eTI2VU4yOXRzQVhnbzJXRDdrMHIwaS1wcU9NLXpMMXFPbmRkZnNHanNRVzNtcklaZ2RVY1VYNjFYNFVpWFc2OWF6akRPT2M0bTBOQnZ3VVF5aUNwcE5HVHFoR0xKcGlMbXlCelh1SQ?oc=5",
    "img": "",
    "ts": "2026-10-23T19:45:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Stutzke-Rot, Lemgo-Serie: Spektakuläre TBV-Aufholjagd in Hannover",
-   "summary": "Fünfter Sieg in Folge für den TBV Lemgo Lippe: In der Handball-Bundesliga setzte sich das Team von Florian Kehrmann bei der TSV Hannover-Burgdorf mit 29:26 (12:15) durch.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/hannover-gegen-lemgo-2026-handball-bundesliga-5213830/spielbericht#omrss",
-   "img": "",
-   "ts": "2026-10-23T19:44:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Nach Kompanys Zusammenbruch: Spiel der Bayern-Amateure abgesagt",
-   "summary": "Wie der FC Bayern am Freitagabend bestätigte, wurde das für Samstag (14 Uhr) anberaumte Heimspiel der FC Bayern Amateure gegen die DJK Vilzing kurzfristig abgesagt.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nach-kompanys-zusammenbruch-spiel-der-bayern-amateure-abgesagt-1264475/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-23T19:38:25+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "News",
-   "title": "RWE hält Anschluss an die Tabellenspitze",
-   "summary": "Rot-Weiss Essen hat sich mit einem Heimsieg gegen Jahn Regensburg in der Spitzengruppe der 3. Liga festgesetzt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-3-liga-rwe-haelt-anschluss-an-die-tabellenspitze-100.html",
-   "img": "",
-   "ts": "2026-10-23T19:33:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 89",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1NkS21DYTRFOVhTNThPTHdQbXRwOHVfYm8tMWNZMnZPTEtuX1ktUjNZRE5nd1F2NF94UnlDV29oLWxHUWFHLTNQX3N4MXV3YnEyek5oM2lCWGdHQ3FnX29mS3NCbFB6NDRoWUgtV1BUNUFPTjlnSVhFM2h2Wmk5RTFxSTF4d2ZrV05LMmlHSTFETFE3akpkVzctcThoa2x2SWxpTGY0WWJCaXkwWnVTQlVzTUVEZEJMbXl3azFmbGpENVlmTzFfUDFsM0J6bDl3N1E?oc=5",
-   "img": "",
-   "ts": "2026-10-23T19:19:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Fußball ist das Spiel. Borussia seine Seele - Der Talkthread - Borussia Dortmund - Forum | Seite 89",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2FMa0tHRkRJUmNqZE5YdkgxMlk2ck5xT050Y1RiTkwyWGFxN29zcWt4YjFIODQ3ZVowZmEtTWp6S3VGZTViSXc5OHdMMzltNGtMSEk0WU1DTl9pakRmUDhfYjlfUzBMUjlGZFlxbWJKSUItQXlvQy0tVEhtTUc3NTBzWThyU1N0VjBlYTN5cDhjUF9YTERfWXJCaVZnbDRpd3RTRW90aEU2T3AzQ0U1VnYyZVMwNnBLM2s5cUs1eU1lRmdpdVAw?oc=5",
-   "img": "",
-   "ts": "2026-10-23T19:19:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Regionalliga Nord",
-   "tag": "News",
-   "title": "Nach starker Anfangsphase: Jena und BFC Dynamo lassen zu viele Chancen liegen",
-   "summary": "Am Freitag haben in der Regionalliga Nordost die Verfolger Carl Zeiss Jena und BFC Dynamo im direkten Duell die Chance verpasst, das Führungstrio stärker unter Druck zu setzen.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/jena-gegen-bfc-dynamo-2026-regionalliga-nordost-5233709/spielbericht#omrss",
-   "img": "",
-   "ts": "2026-10-23T19:17:23+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Schiller-Meilenstein: Göppingen zurück in der Erfolgsspur",
-   "summary": "Nachdem Frisch Auf Göppingen aus den vergangenen vier Bundesliga-Spielen keine Punkte mitnehmen konnte, war die Mannschaft von Ben Matschke gegen den ThSV Eisenach von Beginn an hochmotiviert. Mit viel Kampfgeist und ein",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/goeppingen-gegen-eisenach-2026-handball-bundesliga-5213831/spielbericht#omrss",
-   "img": "",
-   "ts": "2026-10-23T18:46:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mOXhyWDFFT0NWTlE0TDF1TmtLNWo2RkxUbEFIeUYtVU9JQXRmYTUwRFVITndTeThFZ09ZcGg4aHVhNWpZM0FNNjYzWEFUd1pCWkFlaUh2elp4TV9jcDdaSzRSMk5RRWdKWGplY3ZtcXhCLU1LZnB4VjdVMUZNdw?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:42:46+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Später Wolfsburger Treffer zählt nicht: Remis im Bochumer Regen – St. Pauli in Darmstadt torlos",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWU9MX2FkSmVrVXdNZVl2UzBBLUNXakMxQTZjeWllc0Jyc0RZRnNDQXQtMlQ4QURzaUZ3bDNpSkt5a09nUjJlbjd3TjZTcU5fMHJ1VElQNV9RejR0Ui1MRk5EenYzZnBKd0F6WENwV3Y2VEFLZmJaMVJmVGNidWxDa00xalZuUnh2cFdzaDFYaXJXOFBES0plbTJadnRiMkpMZlNSOUZkbnNvUTdBNEFZYUN1STRxaWp3R2NiWk0tYktQa3VzYW1VUFVuNkhrOVlFeDc4?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:39:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Gerücht",
-   "title": "Gladbach vor Transferoffensive im Winter? Sportchef äußert sich",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0FjcFBlQzE5RFhpTERZOVV2X0pHNHFyMWJuRUtmNDQxTlFxT1dCdHA4MzFXUjhxRWtjX2RzWmpUMEpXVGtVRUhINEtJdjZZaDYzRU5qUFpfR3c0WUVsR1BWQ3U0dFFCaWFHX0hqQ1k3UUxvVlM3LVFCaVRDMVRndkZSUTlUVXJybzduM19CTEt5M2lCX1E4?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:30:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Live hören: VfB Stuttgart gegen Borussia Mönchengladbach - Bundesliga",
-   "summary": "7. Spieltag: Anpfiff des Spiels ist am 23.10.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Stuttgart.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-borussia-moenchengladbach,audiostream-vfb-stuttgart-gegen-borussia-moenchengladbach-108.html",
-   "img": "",
-   "ts": "2026-10-23T18:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "7. Spieltag: SC Freiburg - FC Bayern München - FC Bayern München - Forum | Seite 1 | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnJkWFk1VGdyRkpnTVJ6aVYxRU1LeVM3eG9TMHFlMTU3QUczdDFfVXp4NmhoSHBHeklPSDRNSno5OUtqWFl6bnZkRGxJODVFV24yanR2V1A0UGt3WU9rX2pqaWg3dXh2aWx2bXRXblpFbkF6dWUydU0tRkc5aWtpZ29qWGU0eW8xVTBlekVQanFUdFg3MktDTnhCd01ZdjVGVEw4THB4OThSNVB3U3Jr?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:12:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Vincent Kompany [Trainer] - FC Bayern München - Forum | Seite 1181",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3k5cXhiX2lRLWVYRGNYb1lqY09OaVgxNmFfQXFibTNHLUdaaHQzNUNnem8yVmlZdGNWcVpoeWRkUjhZNXdOVVV0dklRQlJZZjUxTmhkVzJwZXpDZW9oc0VnLXUwNjJWLU1lWXh4NkpQNFdzbUVvM1YzN1paZVh4eG1ZUzlQb1c3bTNfZWYyT3g0WTA2M1BIZXNXMW5adw?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:04:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Bundesliga Konkurrenz - Borussia Dortmund - Forum | Seite 5843",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnktT0NGZEdHQlpNOTE1LWQzMkRlNEpxTnp4UFN2OE5rUWJ4aW01ZDVGMEdhVWxBcmNtVFNfYUUtWnhoWVpwQWIxSlhtQWR2dHZLdkVzeFN6Wm9kZThUUjBxNFltQWZreTlqLU1EUFZXcHJCMHdNeTNxbzNFYWdYdVFYYzhLaXE0REM5Q1B4Y3dmdlFINTl2NQ?oc=5",
-   "img": "",
-   "ts": "2026-10-23T18:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Connor Hellebuyck wechselt zu den New Jersey Devils: NHL-Blockbuster beendet Transferstreit",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTBpdGk4eWRDeHhfcklXaVRycTRGVWFVOEI3YVBqZ3p1VVg2d0FRWVhXekpLb3pVNTlUM18weDdKSk1PY20tdUU1Rm5oWWYwSlpWaDRkbHhrdDdyMGhrNkRDTlZGNEFRaUFUTlBPZlRBc1dtV284aWhiN1UwNWpPdnZmQldPTnhDTVZRVml2bV9QUXdhaXYyQVRyRHdoaWxmX2RaMkRZcVpyRG4zZXlnV3FrMUJBSDNGaVdfWHViMk1hN1FyS0xzTzFwTDRZQjAzemlqRg?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:55:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "23.10.2026 Damit die Heide nicht brennt: HSV vor kniffliger Auswärtsaufgabe Männer Vorbericht",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/hsv-beim-scp-damit-die-heide-nicht-brennt",
-   "img": "",
-   "ts": "2026-10-23T17:51:15.737847+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "News",
-   "title": "Jetzt live - Essen führt unter Flutlicht gegen Regensburg",
-   "summary": "In der 3. Liga empfängt Rot-Weiss Essen das Kellerkind Jahn Regensburg. Acht Punkte und 15 Plätze trennen die beiden Mannschaften.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12241297/rot-weiss-essen_jahn-regensburg/liveticker",
-   "img": "",
-   "ts": "2026-10-23T17:47:08+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "Hochprozentiges, Verbotenes, Kultiges: Kurze Geschichte der Trikot-Werbung in der Bundesliga",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX0ZKX0VBM3ZZMVRIM016TzhWajF4Wmd5ekdHMmVDRXFERGdaNkZkWWxSLUtZUHhsSzZTOHZiNFZfX1phS2RSMWJkaHNKVjNpZFhnUy02R2E0ZnJqVGtJVXJUSmZPN2RzZE1YZHRSdFhNTDhjQ2YtbjlJbXMzeldURmIyRUcxZTZQemR2bWc0emNoeHluT1AzY2ZxT3lsVjB2NFVZYXdNOFZLRlU1b3Zna2dVY2Zlc1F2OEladEJtSDF3U0N2SnFMY0NjTmZMT2E4?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:47:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Liveticker - Borussia Dortmund II : Bonner SC",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5QlBpb0lJX241UXdiQVQ5Vi05QUlPejdaSThjeHlzQzNLd21uZlJqYmdiNGRjS1NXa3JNYWFJa2NYeUkzM0V5NTFIUGVjX3d2QzBQSXNVaGh0X2NqMjg2YUxyX2R0UmRhamc?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:40:25+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "Liveticker HSC 2000 Coburg - TSV GWD Minden | 9. Spieltag, 2. Bundesliga 2026/2027",
-   "summary": "Gemeldet von sport.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0wwZmR1bVlDZ05KTlhudTlSa2RjYWRLaE9YQm1KQXRjcUdadm8yeGtsYW9FbDZiSV8xZTdrZG9IU281X2Fod2JFc3RuZWx1dE90UGtzVHNvM2tJamJRTVMwNzVTV3lSWTBRbDJnTUozbU1OcjljSlBGQ0xlb0ZNVkU2NEpPOXFEX3VXQ2JkTDQ2anVvZW40SXdtMHo2clJiYlhJ?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:39:28+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Wechselt Otávio zu Borussia Dortmund? - Gerüchteküche - Forum | Seite 1 | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXBQcjZEejVCLTRTMG5TZzZoMHBnZ0w1YmxMMG1ZbTZjUVo2VTY5RElPM25OeUh2WmdOMXU3emxETGk5WHhOa0YxbFdqUWozZ0F1b2FSUFEzbnZCTnFTc2RYLVhHd2dMcEJjZEFmWDVBSU1UeE1RaEx6TkhyWS1wV0R0dDJ5R3lkN0VyQ0dEdWU1QTVUdXpLQl8tQ3FXbVpYd2sySGhkY1EzQzhf?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:36:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Wechselt Otávio zu Borussia Dortmund? - Gerüchteküche - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONE1rNmpWa2hSQnhCVDF4MFl0eGZrUy1nRE1PSzZYUnBaQ3g4b2czeGFRUFB4T2xEQ3JkOVg3ZVozbnpGZUdKd3NtN1dEa2xUZ1dBUFVRMXhtVkZvNWxNRzRVUE9udExSMDhwbmU2emlwQjRQU1JjUkRhS216dmYxWm45YnVlbHA3amN3N2xfYW9FWkU4bkhCQk5TU0h5Z203RUdENXZNdnF4akhkalJlbVlR?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:36:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "LIVE! VfB mit Pejcinovic und Demirovic: Kassiert Gladbach die siebte Pleite?",
-   "summary": "Beim VfB Stuttgart läuft längst nicht alles rund, nichtsdestotrotz gehen die Schwaben gegen das punktlose Schlusslicht Gladbach als klarer Favorit ins Spiel.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/live-vfb-mit-pejcinovic-und-demirovic-kassiert-gladbach-die-siebte-pleite-1263985/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-23T17:31:28+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Vincent Kompany [Trainer] - FC Bayern München - Forum | Seite 1180",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2FMaG1yeVNQdUx5bThnLU1nX0ViUjhwVmxLRTY4VGxtVG4yYTR5UlFraDJwRkYxY29lLWxIUXFSdmRkUV90dHZEWVUzRHNhUnhodEdNYXZEREFyelQ2Z2E1S3oxa0tGWU5GdnQ4djFNb2RncmdjSFNFUkFLSm96SHBRUHdZRUNGS1JQVEVoVDYyRTRCdmQxVEhJSnk1UQ?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:30:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Regionalliga Nord",
-   "tag": "News",
-   "title": "LIVE! Krisenduelle in Buchbach und Schweinfurt - Primus Memmingen reist nach Erlangen",
-   "summary": "Mit drei Partien startet die Regionalliga Bayern am Freitag in den 16. Spieltag. Der TSV Buchbach und der 1. FC Schweinfurt wollen ihre Misere überwinden. Der FC Memmingen gastiert nach der Pleite gegen den 1. FC Nürnber",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/live-krisenduelle-in-buchbach-und-schweinfurt-primus-memmingen-reist-nach-erlangen-1238049/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-23T17:28:04+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "Trio um Barca beobachtet US-Juwel - Könnte Transferrekord bei seinem Klub brechen",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHZBeHRubjNfcGxyaHIydHV1VWdDRTA4YXJRY01EYW9CTWMwa0F1S1JEeGR0VUdxcmRDaE5aeHYyUW9wR0NDMEEySjJENlA0bUpxSUdfc2V0TXhxUjEwT0g4TUVfOXBoOWhzZV9UMnRIWWdITTdxUV9ZdnZEbTgxbktJWi1WelNrM1RRR3ZiWmpJeC15V3lxVWZMZlc2c2NQVGc?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:28:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Vincent Kompany nach Zusammenbruch zur Untersuchung im Krankenhaus",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzhaNEZiMmZKNk1RcmEzUzhSbHFjVnVHTFBlS3dlYVMteWI0MUVfZUVCM25nQmViZHotVUxtZElSRElVYTlid2YtdFAtWUhueGNNdUdzaUdDbkVJWFUwSVRxR1RESVBmNFh1ODF4Z3hYWk1EQmZ4U2ZZUDEteHo2WWExbUhmN1JmLXllVDdBeFpuazJjelhDSGtSUnA5WWFUdVNPSlJOem1Qem9sNXNDelZKZ1dUNTk0cmg0?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:27:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Kimmich fehlt dem FC Bayern wohl auch in Freiburg",
-   "summary": "Der FC Bayern muss aktuell auf Joshua Kimmich verzichten. Auch beim Auswärtsspiel in Freiburg wird der DFB-Kapitän nach einem Trauerfall wohl nicht dabei sein.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/kimmich-fehlt-dem-fc-bayern-wohl-auch-in-freiburg-1264439/artikel#omrss",
-   "img": "",
-   "ts": "2026-10-23T17:18:10+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Gerücht",
-   "title": "Spektakuläre Rückkehr? Ex-Werder-Star vor Winter-Wechsel",
-   "summary": "Gemeldet von 90min.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkdfNlppQ3c4Z3N0cTlZMW9vUXFmVkp1Q1g2UzJERmpicjlTQW5leklnRGN0eE9nTDFuamI5aTVjMmlOcW5Nd0pUdjl4bmNYTVMwb1hnNlRTeU1LZUREblJLMVFaNXo3eGZxUnVEQWhfaGhqbkRkQXNtc3Y1SExoZHZR?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:10:23+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Gesagt. Gemeint! vom 23.10.2026",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGRhZkd6YklkeGNYcWFaRU05d2F2QmtDYldkLXo2U1BVLWtOY0pjbjYzZnBrc0pzWkpZMjluTS1QSDU0Nzl6bHZvNW1RVGFLS2lLclZSdkdBT0FnWmcyZkRYLWtfLVNYNUxpdGlld2wzYVNyeXBFeS1jOG9uanhKMTNBRVZtN2l6Ymc?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "Liveticker TuS Ferndorf - HC Elbflorenz Dresden 28:35 | 9. Spieltag, 2. Bundesliga 2026/2027",
-   "summary": "Gemeldet von sport.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVZxOGY1SWk4dDN3Nmp3RjVGc3FrV1FicjcyeER4XzFFMlpEdTZLaUxfUFlfS2ZrSU92YlJBU280S19vZkVtT2x6ZmxkNGVuX2g1VlpabWh5N1NPa0VSVFEwRWlDaUVCTHZzUk1wLVI4c2J1MkRCWE5oeE1YakttOW1uYUxvZlBOVGdobHVENnllRklLYzlKVDZDMjNQT2Z4TXdBTmlVSHA?oc=5",
-   "img": "",
-   "ts": "2026-10-23T17:00:00+00:00"
   },
   {
    "club": "HSV",
@@ -12350,7 +12350,7 @@
   },
   "af_used": {
    "d": "2026-10-25",
-   "n": 6
+   "n": 7
   },
   "af_bulk": true,
   "reg_try": "2026-10-20T22:37:47.605065+00:00",
