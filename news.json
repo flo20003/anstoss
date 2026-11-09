@@ -1,6 +1,369 @@
 {
- "updated": "2026-11-08T22:26:27.199153+00:00",
+ "updated": "2026-11-09T01:55:54.027792+00:00",
  "items": [
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "VfB Stuttgart beendet Werders Ungeschlagen-Serie | Bundesliga Highlights von BILD",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSi1tcnEtZFBxdTdmekx4TE1TYkZVVkJjbnlvZy1OMWdEaUVLa0twQzFtSTNqeDhwc2ZzZXc4ZWNRcFNQUVJjbE0zNUdnYUY4VElYb2hBbEtwNW8?oc=5",
+   "img": "",
+   "ts": "2026-11-09T00:25:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Leverkusen stoppt Negativlauf mit Derbysieg in Köln | Bundesliga Highlights von BILD",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTG5pVkVjM1ZiODJYWjdYUE1EXzhnN3F4QVNQRXFudzN4YWZXRE1KbWtiTnVEQlJuczB2UTdEVUg3WkNxNEw3LWpfM1MweGhwaXNQejYxamxtR2c?oc=5",
+   "img": "",
+   "ts": "2026-11-09T00:25:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Khediras Eigentor leitet Union-Niederlage gegen Freiburg ein | Bundesliga Highlights von BILD",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVlNfQnBFMGRlc2QwT2RwQjFQa2E0QUJGcXRLSTA4T3g0a01vTWFPMEFRWGRUQ1pwZmM4V2NGbnNQbjJnUU9hdWFONVZxcWg3QWctblpVQnVGTk0?oc=5",
+   "img": "",
+   "ts": "2026-11-09T00:25:46+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Hoffenheim gewinnt 2:1 und verlängert Schalkes Negativserie | Bundesliga Highlights von BILD",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ydGhQUFREeW5HZTRlZEVYUXQxeUJJaXdTYzI2YlVrSDBucFVuU3NXWGVIMXdUbHVHQnRPSEVydlBUQ2RpcjZPcGZGdVZNODQtNEEtWEVVdjFLR0k?oc=5",
+   "img": "",
+   "ts": "2026-11-09T00:25:46+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "HSV: Extraklasse und neue Qualität",
+   "summary": "Der Hamburger SV profitierte beim 3:1 gegen Mönchengladbach von der Extraklasse seiner Ausnahmekönner Albert Grönbaek und Albert Sambi Lokonga. In den kommenden Tagen kommt beim HSV sogar noch mehr Qualität dazu.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/hsv-extraklasse-und-neue-qualitaet-1269806/artikel#omrss",
+   "img": "",
+   "ts": "2026-11-08T23:16:54+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Leverkusen behält im Rhein-Duell die Nerven",
+   "summary": "Bayer 04 Leverkusen hat das Rhein-Duell gegen den 1. FC Köln gewonnen. Eine Koproduktion der El-Mala-Brüder kam für die Kölner zu spät.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/leverkusen-behaelt-im-rhein-duell-die-nerven,video-bundesliga-1-fc-koeln-bayer-leverkusen-zusammenfassung-102.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:45+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Überlegene Freiburger siegen gegen Union",
+   "summary": "Eine Halbzeit lang setzt der 1. FC Union Berlin keinen Torschuss ab, kassiert aber auch keinen Treffer. Doch nach der Pause knackt der SC Freiburg die \"Eisernen\" und gewinnt verdient.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/ueberlegene-freiburger-siegen-gegen-union,video-bundesliga-sc-freiburg-1-fc-union-berlin-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:40+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hertha BSC gewinnt auch gegen Reese und den VfL Wolfsburg",
+   "summary": "Elftes Spiel, zehnter Sieg: Die Überflieger von Hertha BSC bezwingen in der 2. Fußball-Bundesliga auch Aufstiegsfavorit VfL Wolfsburg. Sie profitieren von einem Platzverweis und Reeses Schusspech.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/hertha-laesst-sich-auch-von-reeses-wolfsburgern-nicht-stoppen,spielbericht-hertha-bsc-vfl-wolfsburg-114.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:37+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "Auch Wolfsburg kann die Hertha nicht stoppen",
+   "summary": "Hertha BSC hat in der 2. Bundesliga den zehnten Sieg im elften Spiel gefeiert. Gegen den VfL Wolfsburg profitierten die Hauptstädter von einem frühen Platzverweis.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/auch-wolfsburg-kann-die-hertha-nicht-stoppen,video-zweite-bundesliga-hertha-bsc-berlin-fvl-wolfsburg-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:37+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Burkardt-Doppelpack rettet die Eintracht in Unterzahl",
+   "summary": "Dem SC Paderborn fehlen nur wenige Sekunden bis zum Heimsieg gegen Frankfurt. Doch dann trifft Jonathan Burkardt kurz vor Schluss und rettet einen Punkt.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/burkardt-doppelpack-rettet-die-eintracht-in-unterzahl,video-bundesliga-sc-paderborn-eintracht-frankfurt-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:30+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kämpferische Bayern geben sich in Mainz keine Blöße",
+   "summary": "Auch in Abwesenheit von Cheftrainer Vincent Kompany gewinnen die Bayern ihr Auswärtsspiel in Mainz. Für den Rekordmeister sind Joshua Kommich und Lennart Karl erfolgreich.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/kaempferische-bayern-geben-sich-in-mainz-keine-bloesse,video-bundesliga-fsv-mainz-05-fc-bayern-muenchen-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:29+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bayern schlägt Mainz  - Neuer verletzt sich im Rekordspiel",
+   "summary": "Der FC Bayern marschiert weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:28+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "RB antwortet mit Gala-Leistung auf frühen Kade-Schock",
+   "summary": "RB Leipzig ist die Heim-Macht der Bundesliga. Gegen den FC Augsburg ließen sich die Sachsen auch von einem frühen Rückstand nicht beirren und feierten schlussendlich einen Kantersieg.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/rb-antwortet-mit-gala-leistung-auf-fruehen-kade-schock,video-bundesliga-rb-leipzig-fc-augsburg-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:27+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "St. Pauli geht in Magdeburg unter",
+   "summary": "Der 1. FC Magdeburg untermauert weiter seine Heimstärke in der 2. Bundesliga. Gegen den FC St. Pauli gelingt bereits der fünfte Heimsieg in Folge.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/st-pauli-geht-in-magdeburg-unter,video-zweite-bundesliga-1-fc-magdeburg-fc-st-pauli-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:26+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Schalke verliert trotz Aufbäumen gegen Hoffenheim",
+   "summary": "Der FC Schalke 04 wartet weiter auf ein Erfolgserlebnis in der Bundesliga. Gegen die TSG Hoffenheim wachte das Team von Miron Muslic erst spät auf und muss eine weitere Niederlage verarbeiten.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/schalke-verliert-trotz-aufbaeumen-gegen-hoffenheim,video-bundesliga-tsg-1899-hoffenheim-fc-schalke-04-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:25+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Mittelstädt-Hammer beschert dem VfB drei Punkte",
+   "summary": "Stuttgarts Nationalspieler Maximilian Mittelstädt ist der Matchwinner für den VfB beim Heimspiel gegen Werder Bremen am Samstagabend.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-hammer-beschert-dem-vfb-drei-punkte,video-bundesliga-vfb-stuttgart-sv-werder-bremen-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:20+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Tazemeta-Tor reicht Lautern zum Sieg an der Bremer Brücke",
+   "summary": "Der 1. FC Kaiserslautern behauptet sich im Aufstiegsrennen in der 2. Fußball-Bundesliga. Das unangenehme Auswärtsspiel in Osnabrück gewinnen die Pfälzer knapp.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/tazemeta-tor-reicht-lautern-zum-sieg-an-der-bremer-bruecke,video-zweite-bundesliga-vfl-osnabrueck-1-fc-kaiserslautern-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:18+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Hamburger SV schießt Gladbach zurück in die Krise",
+   "summary": "Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:18+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Bundesliga: Leverkusen stoppt Negativlauf mit Derby-Sieg in Köln",
+   "summary": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden. Der 1. FC Köln rutscht hingegen tiefer in die Abstiegszone.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:17+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
+   "summary": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:17+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "Traumtore und Platzverweis beim Hamburger Heimsieg",
+   "summary": "Der Hamburger SV hat einen verdienten Sieg gegen Borussia Mönchengladbach eingefahren. In einer umkämpften Partie brachte Miro Muheim die Rothosen sehenswert in Führung.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/traumtore-und-platzverweis-beim-hamburger-heimsieg,video-bundesliga-hamburger-sv-borussia-moenchengladbach-zusammenfassung-104.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:14+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg",
+   "summary": "Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:14+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn",
+   "summary": "Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:14+00:00"
+  },
+  {
+   "club": "FCN",
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Kloses Nürnberg bleibt erster Hertha-Verfolger",
+   "summary": "Der 1. FC Nürnberg gewinnt im heimischen Stadion gegen den SV Darmstadt 98 und festigt dadurch den zweiten Platz in der Tabelle der 2. Fußball-Bundesliga.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/kloses-nuernberg-bleibt-erster-hertha-verfolger,video-zweite-bundesliga-1-fc-nuernberg-sv-darmstadt-98-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:11+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "News",
+   "title": "Borussia Dortmund zittert sich zu drei Punkten",
+   "summary": "Durch einen hart erkämpften Erfolg gegen den Aufsteiger aus Elversberg bleibt Borussia Dortmund punktgleich mit dem Spitzenreiter aus München.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/borussia-dortmund-zittert-sich-zu-drei-punkten,video-bundesliga-borussia-dortmund-sv-elversberg-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander",
+   "summary": "RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientier",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:09+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "Torreiches Remis zwischen Hannover und Heidenheim",
+   "summary": "Der 1. FC Heidenheim und Hannover 96 trennen sich in der 2. Bundesliga remis. Besonders in der zweiten Halbzeit spielten sich beide Mannschaften zahlreiche Chancen raus.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/torreiches-remis-zwischen-hannover-und-heidenheim,video-zweite-bundesliga-1-fc-heidenheim-hannover-96-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:08+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Schlusslicht Kiel verliert auch gegen Bielefeld",
+   "summary": "Holstein Kiel kann den letzten Tabellenplatz in der 2. Fußball-Bundesliga nicht verlassen. Auch das Heimspiel gegen Arminia Bielefeld verliert der KSV verdient.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/schlusslicht-kiel-verliert-auch-gegen-bielefeld,video-zweite-bundesliga-holstein-kiel-arminia-bielefeld-zusammenfassung-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:06+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "News",
+   "title": "Bochums Hofmann kontert 50-Meter-Traumtor",
+   "summary": "In der 2. Bundesliga trifft Karlsruhes Tim Civeja von der Mittellinie zur Führung. Doch der VfL Bochum kann die Partie noch drehen.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/bochums-hofmann-kontert-50-meter-traumtor,video-zweite-bundesliga-vfl-bochum-karlsruher-sc-zusammenfassung-102.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:01+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
+   "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Traumtor von Zukowski: Magdeburg bezwingt St. Pauli",
+   "summary": "Der 1. FC Magdeburg hat in der 2. Fußball-Bundesliga den fünften Heimsieg in Folge gefeiert und strebt weiter Richtung Spitze. Gegner St. Pauli dagegen kann nach der Niederlage seine Wiederaufstiegschancen fast schon abh",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga2/magdeburgs-neue-heimstaerke-erwischt-auch-st-pauli,spielbericht-magdeburg-st-pauli-100.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
+   "summary": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+   "img": "",
+   "ts": "2026-11-08T23:00:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Bundesliga Update: Wann läuft Manuel Neuers Zeit im Bayern-Trikot ab?",
+   "summary": "Manuel Neuer ist bei Bayerns 2:1 Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?",
+   "source": "Sportschau",
+   "url": "https://www.sportschau.de/wann-laeuft-manuel-neuers-zeit-im-bayern-trikot-ab,bundesliga-update-wael-mohya-102.html",
+   "img": "",
+   "ts": "2026-11-08T22:47:50+00:00"
+  },
   {
    "club": "BVB",
    "league": "Bundesliga",
@@ -14,6 +377,17 @@
   },
   {
    "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 1980",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOEpGVm1NYmd0TXE2UE93T1ZlQUJROHpTQ2p5VHdlYUktUm5CNXNkTW9pV2piajFUdHNibnpmUHJFQTRsNEQxamk4UWxDWmtLRHNUM0UyaFVma3hrMzJ3RzVNd0NhelBFWGdSQ202dm83YkVDemlabkhtV2VKNGU4cHdzcVRIQU9JenRYTw?oc=5",
+   "img": "",
+   "ts": "2026-11-08T21:52:00+00:00"
+  },
+  {
+   "club": null,
    "league": "Bundesliga",
    "tag": "News",
    "title": "\"Es schaut schlimm aus\": Schalke befürchtet schwere Gosens-Verletzung",
@@ -24,15 +398,15 @@
    "ts": "2026-11-08T21:30:00+00:00"
   },
   {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
-   "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Niko Kovac [Trainer] - Borussia Dortmund - Forum | Seite 834",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGtZNVkyWFZ5eGJnSHR1MmtfeGViVHpQN2ZYLWZGcTEwNlFpcUsxcUtVRjlHVmFrMmtHSTNXN0JoemdnRGNyVk8xUnEyX1lSc1ZrU1RzQmpSSXJaWFNsRTREOTgtODZJUDJEakoxOVFtZjNLUVg5WWg0akxSSHNOM3dubzQtc1MzWkFtc3Z5Q192bzhh?oc=5",
    "img": "",
-   "ts": "2026-11-08T21:26:08+00:00"
+   "ts": "2026-11-08T21:11:00+00:00"
   },
   {
    "club": "BVB",
@@ -55,6 +429,17 @@
    "url": "https://www.kicker.de/nach-der-pleite-von-freiburg-die-luft-in-koepenick-wird-duenner-1269936/artikel#omrss",
    "img": "",
    "ts": "2026-11-08T20:59:22+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Daniel Svensson [24] - Borussia Dortmund - Forum | Seite 70",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHprT01KUE1mbWFQS3F6YTZ4a2pvM1cxd2ZJQVZmZURSZldFWjVRSkVibjNDWU5RNVhoT2ZHUjFncUJnNGkyS0NCb29rMXozU1E1ODluWFMwQ0cxRmxmZ1JNR3pWNE1FV0JmZkk3d0ZQM1NVZzJOWDRTZk1udTM2THpkeTVQcXBGYTdqWkdZbFdWVVE?oc=5",
+   "img": "",
+   "ts": "2026-11-08T20:59:00+00:00"
   },
   {
    "club": null,
@@ -99,6 +484,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUVkeWtBbkpOY1d2d0tqbjdhb3Y4d204R1pxMWIzVjQ2MEV2TW9pX2g3LV9mUUtRNzBpNVRuUDhKQVE4aGE5STBtczRQeDJ3ZGV2QWU2eVNwYkNWeGQtbDAxT2M5Tzk3UzJnWjNBOU9LZzhkcmswOWxSaXFYZjFqUnNBLWxwV1dUeXMwZk91SDJnaWZzcWFWMklzOXNNTzZVc2Q3ZkdCMF9SSk9HU205aERWY1IzbGc?oc=5",
    "img": "",
    "ts": "2026-11-08T20:31:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Hoffenheim verlängert Schalkes Negativserie – Karius im Pech, Gosens schwer verletzt",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVW55Y18ySWx1MkpJUkRxWHNEa1dpRUlUeFVWb0JzVEVZaDdudU5fN09XSXJpNTNYNHBraWpTaUVyTkxRSTRjM2lyUDEtQnhjY3JkX2U3bHJtTmRaa0JUXzg3WHJqaUVlOFRiSXV0SmoxQjNReXhfYWU1akxKN1ZNQ3dtdUlDcnctbDJaMHA5VU5XWWFRRzdNMEVDVUJDWjB3RXM4d2tRWUdOVTd2XzdZWTQ3cndwWjVYSWNfSG92N3Q2dVZoUFE?oc=5",
+   "img": "",
+   "ts": "2026-11-08T20:29:00+00:00"
   },
   {
    "club": null,
@@ -200,6 +596,28 @@
    "ts": "2026-11-08T19:41:00+00:00"
   },
   {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Der Konkurrenzthread 2026/27 - Bor. Mönchengladbach - Forum | Seite 1671",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0U4bEg1UHNvbUpRYTExTGZ6ZlI1ZU4zenVKYXFxTEZ1RkRScFFNVU9CV2ptLW5uUXRrS21RcE4xeVBPZVJVSjNzaHRXMTgwR2F3R2V5UC0yVlBVTFEyc0ZQd09rQ2dOR1VCSm9BY2Q5OW52OHFQR3I1US16cjQ4T25RWlRyZ3lGaHBqVDF3MDlrbVdxeUFLeTc4WDdDTWEwOXc?oc=5",
+   "img": "",
+   "ts": "2026-11-08T19:41:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9331",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWhaWUV1N0QyNnh1U1hNLS1XSzU5UnNtWVNORkxfTTRWOG5fdDJnZl9PeHlmd0FERk9XV3VIbWd3dzBUWEtlbTV1SGF1dU0xZWNMVXpXWGVoMXdmSzdQSGZvVDdPR2VESTQ3NVVGZWk4OE8yMWxDYldSY3YtelBFTDBPcG5VamcyMnFrYnpn?oc=5",
+   "img": "",
+   "ts": "2026-11-08T19:37:00+00:00"
+  },
+  {
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
@@ -209,6 +627,17 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0I0d0VxZlBOODN2TzVsZ1JIdjhSY2FmSlZISERkSUZOazB0MVJVMUNzOV9hR3V0TUl3QzZRZ05DWnlQOUZhdTNGU3lsV1hpaVo2SDVKcEhkX1dmWFcyQTlER3ZxNE9aRWplV0c0S1otWmVBenk1QUJ2YkFuU0ZmRVJuazY0LTVWdUViYWVJcVhIWWpWN2c?oc=5",
    "img": "",
    "ts": "2026-11-08T19:37:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Unsere Bundesliga-Konkurrenz - Hamburger SV - Forum | Seite 490",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGZENUZVTjVKbXhkVXJjTHpMOUtDYmR2OXZkSkFUNzk4U0lVcHc0ZzNnZ3E1Zjc2c3ZyMWx0OUp3UHNuSmNSYU1BcDVvcVozUzdsUS1CNWctX2tUX0lNM196SFJtckc2dmxEWERMLTZnMEp0MnJzWUJtUy1kSzB0X2hrQmZRcVZmZUVkTV9xeTREZzhEN0g0ckhpaVBqRl9Q?oc=5",
+   "img": "",
+   "ts": "2026-11-08T19:33:00+00:00"
   },
   {
    "club": null,
@@ -264,17 +693,6 @@
    "url": "https://www.sportschau.de/regional/wdr/wdr-schiri-frust-beim-sc-verl-nach-naechster-niederlage-100.html",
    "img": "",
    "ts": "2026-11-08T18:40:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
-   "summary": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
-   "img": "",
-   "ts": "2026-11-08T18:36:46+00:00"
   },
   {
    "club": null,
@@ -465,17 +883,6 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bundesliga: Leverkusen stoppt Negativlauf mit Derby-Sieg in Köln",
-   "summary": "Bayer Leverkusen hat in einem hitzigen Nachbarschaftsduell beim 1. FC Köln zurück in die Erfolgsspur gefunden. Der 1. FC Köln rutscht hingegen tiefer in die Abstiegszone.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
-   "img": "",
-   "ts": "2026-11-08T16:44:00+00:00"
-  },
-  {
-   "club": null,
    "league": "3. Liga",
    "tag": "Transfer",
    "title": "Leverkusen stoppt Negativlauf mit Derbysieg in Köln – García trifft sehenswert",
@@ -550,6 +957,17 @@
    "url": "https://www.kicker.de/wenn-wir-meinen-fussballerisch-mithalten-zu-koennen-1269674/artikel#omrss",
    "img": "",
    "ts": "2026-11-08T15:48:54+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Maximilian Senft (Cheftrainer) - Karlsruher SC - Forum | Seite 120",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGVVYk8waVlHNFByZGV6S21Xd2h6TUtkTXpPM01IdS1VektndGZmWHJscGo4OFNBS0FtcGpQa1VIbHZiVVFFVHBXaFlmRHl5Z1otTy1KNURDdG9KZEdnb3NncEh5cjRWVjFKVlh2enJQNE5qaWFOWjlyYTBoTURYNU9TM2Mxb0xlNG9pUW1vQUxxWmN4V2Q2dkk2Mm1ZbFRNeGc?oc=5",
+   "img": "",
+   "ts": "2026-11-08T15:42:00+00:00"
   },
   {
    "club": null,
@@ -652,17 +1070,6 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Traumtor von Zukowski: Magdeburg bezwingt St. Pauli",
-   "summary": "Der 1. FC Magdeburg hat in der 2. Fußball-Bundesliga den fünften Heimsieg in Folge gefeiert und strebt weiter Richtung Spitze. Gegner St. Pauli dagegen kann nach der Niederlage seine Wiederaufstiegschancen fast schon abh",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/magdeburgs-neue-heimstaerke-erwischt-auch-st-pauli,spielbericht-magdeburg-st-pauli-100.html",
-   "img": "",
-   "ts": "2026-11-08T14:49:33+00:00"
-  },
-  {
-   "club": null,
    "league": "2. Bundesliga",
    "tag": "Transfer",
    "title": "Bayern will Spieler von RB Leipzig: \"Max Eberl liebt diesen Spieler“",
@@ -693,6 +1100,17 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnk2eHVPaFNfT19HNHNzRjNzV0RYaEw3VGZDUDYxUjF2clBXUzU5Z3hYVlN5QXdHRjFjZnMxVkVWT3o0bmdIOW5YSzgzUWQzRVJqOGtfdVlrSWRvc3kzNV90RjlDSmp1MGwwVDB2eUxlYm9TQUJTSTh1WGFEeG9NakJ2ZjAwU0FqWkg0VFBzS0FjYlVna3A1OHIydkZXU1NfNWoxQVc2cWdjVEtwZU5wTU9nQ1B4SnM4emc?oc=5",
    "img": "",
    "ts": "2026-11-08T14:32:05+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Zwei Traumtore, bitteres KSC-Spiel und ein weiterer Punkt für Hannover – die 2. Liga am Sonntag",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE5pSlJhejItamo2ZEl4Q0lwR2dTZHhIVlo1ck9xd1h4Y2RiVXhOOV9pOVBqWW53SEFqM3N3V0JKa1dJaFFxd1lSa19RUDFxdHpsZEZBX01EYmpRaHFVRnFqSjhuSi1XY29hRnlKTmJPQ2hWWUdNeWZEd1ZHemZ0VXZraDZxb001elZzN2VIbXJIUlZuUklNVFBBa3BrZDF2?oc=5",
+   "img": "",
+   "ts": "2026-11-08T14:30:00+00:00"
   },
   {
    "club": null,
@@ -1069,8 +1487,8 @@
    "ts": "2026-11-08T10:57:05+00:00"
   },
   {
-   "club": "BVB",
-   "league": null,
+   "club": null,
+   "league": "2. Bundesliga",
    "tag": "Gerücht",
    "title": "Joe Scally: Transfer oder Rettung vor dem Abstieg von Borussia Mönchengladbach?",
    "summary": "Gemeldet von fussballdaten.de",
@@ -1468,17 +1886,6 @@
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
-   "title": "Hertha BSC gewinnt auch gegen Reese und den VfL Wolfsburg",
-   "summary": "Elftes Spiel, zehnter Sieg: Die Überflieger von Hertha BSC bezwingen in der 2. Fußball-Bundesliga auch Aufstiegsfavorit VfL Wolfsburg. Sie profitieren von einem Platzverweis und Reeses Schusspech.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/hertha-laesst-sich-auch-von-reeses-wolfsburgern-nicht-stoppen,spielbericht-hertha-bsc-vfl-wolfsburg-114.html",
-   "img": "",
-   "ts": "2026-11-07T22:27:48+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
    "title": "\"Was für ein Spieler\": RB-Coach Demichelis von Gruda begeistert",
    "summary": "RB Leipzig bestätigt den starken Auftritt aus der Champions League gegen Manchester City auch gegen den FC Augsburg und gewinnt mit 5:2. Nach der Partie lobt Trainer Martin Demichelis sein Team.",
    "source": "Kicker",
@@ -1633,17 +2040,6 @@
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
-   "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
-   "summary": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-   "img": "",
-   "ts": "2026-11-07T20:54:52+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
    "title": "\"Ich musste sofort an ihn denken\": Kimmich über seinen emotionalen Jubel",
    "summary": "Joshua Kimmich hat persönlich eine sehr schwierige Zeit hinter sich. In Mainz war er es, der die Bayern auf die Siegerstraße führte - seine Gedanken drehten sich nach seinem Tor aber um etwas ganz anderes.",
    "source": "Kicker",
@@ -1661,6 +2057,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWtYeVFid3l6c1E1dm5LLXdOaTVjRE85VmpJb1UxVEhMZ3ZaZkhSS0pyelhwUlZTY1NVMGJPdUZ4Q3JrRkh4ZmlBU3dKZjRTeDNtOEpydFhrVUFTTGpVc1puUlBGWnZQZTExR3Y2SnUtY2lKZ1dkZ3VMamxwZmZxcU9sMkZWS3VERDNXMGxJc2pteE52?oc=5",
    "img": "",
    "ts": "2026-11-07T20:51:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "2. Bundesliga - 1. FC Kaiserslautern - Forum | Seite 1975",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekhncHZSZm5kMTRGc3hSM0lkT2xMWUdkQ1FNRnlHZmExS1FndDlNdkwzd1dJZzhOcDktUHltWHB6ZlVmY1JCUDNKS2J0QkFzTklBdFVfdHN5X1MxcTlPQXR3V0VtVm5GdDNOYmJmZXFfUXlGZFdoMXZqRTRVWDFxU2NHZzlpTDFVeDJEUmRoempKb3hS?oc=5",
+   "img": "",
+   "ts": "2026-11-07T20:24:00+00:00"
   },
   {
    "club": null,
@@ -1839,6 +2246,17 @@
    "ts": "2026-11-07T18:52:57+00:00"
   },
   {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Highlights Kompakt: 5:2! Leipzigs nächster Heimsieg",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWVkRUJxa21IZUUtV3JKTFdzUy1NM3FuaVZ4T2ROSktLNkt2Ykx0czcwaGVGSmNhVGRkZjJkbmRLTFVGU3Bia044SnRXLXp2WkVzWlp3QVNpSURlM1dlQ1ZZMWhDam82UHJxenNJUmpwM0lEWUFhSm5YdjhFMDNlQk1RTmpXYzdFNDA3Q05USlRuMGFrNExwajhKdTJ3eTVja2daSkNB?oc=5",
+   "img": "",
+   "ts": "2026-11-07T18:35:00+00:00"
+  },
+  {
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
@@ -1941,17 +2359,6 @@
    "club": null,
    "league": "Bundesliga",
    "tag": "News",
-   "title": "Burkardt rettet Frankfurt in letzter Minute Punkt in Paderborn",
-   "summary": "Eintracht Frankfurt hat dank eines Tores in der Nachspielzeit einen Punkt beim SC Paderborn gerettet. Überschattet wurde die Partie von einem medizinischen Notfall.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/medizinischer-notfall-ueberschattet-remis-zwischen-paderborn-und-frankfurt,spielbericht-sc-paderborn-eintracht-frankfurt-100.html",
-   "img": "",
-   "ts": "2026-11-07T18:05:41+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
    "title": "Trotz Bayern-Sieg: \"Spieler saßen diskutierend in der Kabine\"",
    "summary": "Gegen den vermeintlichen Angstgegner löste der FC Bayern die Aufgabe einigermaßen souverän. Das hielt die Spieler aber nicht davon ab, im Anschluss an das Spiel in der Kabine zu diskutieren.",
    "source": "Kicker",
@@ -2029,6 +2436,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "9. Spieltag: 1.FC Köln - Bayer 04 Leverkusen - Bayer 04 Leverkusen - Forum | Seite 1",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk9FWEsxem5zY0NhMVdkMlZzbzQ3amkwd0FLZWdQaFFXRHJ6SDJEWURuS2JsODVqek5DZ3NPemE2TnVYX2o1LUV6LXJoLS1iNi1jSDAwelpuQkl1Wm8zaURSSGFFc09HMlBJTmRLd1JjbWhpTnl4akZNajRqQzllNDZ1V0hQYVM4RDZrVXZRQ05YNmlJOXdmZ2JBb1JKd0dSWDVoMA?oc=5",
+   "img": "",
+   "ts": "2026-11-07T17:29:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "9. Spieltag: 1.FC Köln - Bayer 04 Leverkusen - Bayer 04 Leverkusen - Forum | Seite 14",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -2079,17 +2497,6 @@
    "url": "https://www.sportschau.de/fussball/bundesliga/vfb-stuttgart-gegen-werder-bremen,audiostream-vfb-stuttgart-gegen-werder-bremen-108.html",
    "img": "",
    "ts": "2026-11-07T17:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Bayern schlägt Mainz  - Neuer verletzt sich im Rekordspiel",
-   "summary": "Der FC Bayern marschiert weiter: Trotz eines unglücklichen Rekordspiels von Bayern-Torhüter Manuel Neuer haben die Münchner in Mainz die Tabellenführung behauptet.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-   "img": "",
-   "ts": "2026-11-07T17:11:07+00:00"
   },
   {
    "club": null,
@@ -2169,28 +2576,6 @@
    "ts": "2026-11-07T16:52:45+00:00"
   },
   {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Doppelpack Nmecha - Borussia Dortmund schlägt Elversberg",
-   "summary": "Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
-   "img": "",
-   "ts": "2026-11-07T16:41:57+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander",
-   "summary": "RB Leipzig spielt sich, angeführt von einem überragenden Brajan Gruda, gegen den FC Augsburg in einen kleinen Rausch. Die Augsburger geben erneut eine Führung aus der Hand und müssen sich erst einmal nach unten orientier",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
-   "img": "",
-   "ts": "2026-11-07T16:29:22+00:00"
-  },
-  {
    "club": null,
    "league": null,
    "tag": "Transfer",
@@ -2247,9 +2632,9 @@
   },
   {
    "club": "SCW",
-   "league": "Regionalliga Nord",
+   "league": null,
    "tag": "Transfer",
-   "title": "Spielschema | Hannover 96 II - SC Weiche Flensburg 08 3:2 | 17. Spieltag | Regionalliga Nord 2026/27",
+   "title": "Hannover II verdrängt Flensburg von der Tabellenspitze",
    "summary": "Gemeldet von Kicker",
    "source": "Kicker",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUE4WVpBc0NlVm5uQmV5UFpSZm5wR00yX202N0YxRjRTV2Z5SDRGUjJxWEhONFZoNXhySTJVM2hMMzd2ZEhQRi02T3pISGxtM01QUDExZFZpbmV0M0trSDk5eVBaS0FXdmppRFpMajAzM0lvWTBwWGdqN3JhR3ZOXzBqLWM5VHdyaHNhUVIzVi0?oc=5",
@@ -2321,6 +2706,17 @@
    "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242365/preussen-muenster_msv-duisburg/liveticker",
    "img": "",
    "ts": "2026-11-07T15:45:30+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "FC. Konkurrenz - 1. FC Köln - Forum | Seite 4505",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjJqX1BMRlV6UWc4TEVfengxdmN6MVJPNl9kaDItZmtZWWpRMHJ1ZXR2R1BoYkc3dFNVZDNhaDdtTmZ2ME8wRmRrOUtBWjBZOVZ2M0NxekdIb21uOTY2ZHJoVnU0Q29YLWkxS1dsMXlGRXhvZWUyMzJCbmNkOVVFSDgzcG9Ldk9uQlEtUzRxUDgwMjhf?oc=5",
+   "img": "",
+   "ts": "2026-11-07T15:39:00+00:00"
   },
   {
    "club": null,
@@ -2615,7 +3011,7 @@
    "title": "Neuer bricht Bayern-Rekord: Kein Spieler war älter für den FCB in der Bundesliga",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOWE9PWkZSRWdybnRsLWZzRHhubGpLOUZFX2ZlVUI4TldRTDRuQ3lZQXZjdGRrUjlkNEFReUFQME1aeTNwUWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEpBeENzVUFyRm9PSm5ZcUhhX3l1TW9LTmZqOFZSRWNwcnl2TEoyMU1mcVVhcjZRLUhXcUw1NEh5ejZYZzg3VktIWkc5Q1ZvMXVRVHgydHp4RUJhOXF0R0NfRDFXZEo4NVl4Vlh1SmVtTFFKZ3h3ZDgyaEg1V2RxcERnNUdfcmMydzVMSzh1OXNrU2pGSjhjSF9rbEZ0LWlWNHgwa195S0M4d2cybWlnSkhva3QydmluSWpWMW4yVzlZR1lFSnB1MWhmNTZ6ZkE?oc=5",
    "img": "",
    "ts": "2026-11-07T14:40:00+00:00"
   },
@@ -2626,7 +3022,7 @@
    "title": "Neuer bricht Bayern-Rekord: Kein Spieler war älter für den FCB in der Bundesliga",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEpBeENzVUFyRm9PSm5ZcUhhX3l1TW9LTmZqOFZSRWNwcnl2TEoyMU1mcVVhcjZRLUhXcUw1NEh5ejZYZzg3VktIWkc5Q1ZvMXVRVHgydHp4RUJhOXF0R0NfRDFXZEo4NVl4Vlh1SmVtTFFKZ3h3ZDgyaEg1V2RxcERnNUdfcmMydzVMSzh1OXNrU2pGSjhjSF9rbEZ0LWlWNHgwa195S0M4d2cybWlnSkhva3QydmluSWpWMW4yVzlZR1lFSnB1MWhmNTZ6ZkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOWE9PWkZSRWdybnRsLWZzRHhubGpLOUZFX2ZlVUI4TldRTDRuQ3lZQXZjdGRrUjlkNEFReUFQME1aeTNwUWc?oc=5",
    "img": "",
    "ts": "2026-11-07T14:40:00+00:00"
   },
@@ -2750,6 +3146,17 @@
    "url": "https://www.sportschau.de/fussball/bundesliga/9-spieltag-die-konferenz,audiostream-9-spieltag-die-konferenz-144.html",
    "img": "",
    "ts": "2026-11-07T14:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Gerücht",
+   "title": "Edin Dzeko: Schneller Schalke-Abschied möglich?",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XR29aUEc0M0NOUWdDeXNrNk9STlhoWGI2MnBRSEgzeUdDbFc5LUp3M05SdGxnUnhPWWJOMXVxNmJNVXp6V1BPeDVKT25WbUQwRUNGWVlsT3NUaDJUN2p1VEc5OWNBbmtDR3pzZWhqYkh1R3hYU2pMWjAtd3Y?oc=5",
+   "img": "",
+   "ts": "2026-11-07T14:06:00+00:00"
   },
   {
    "club": "FCN",
@@ -3091,6 +3498,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1hsUXdjSElpS0RqQUJQSFpnRFM3VFFBMWJ4VkxHOUNfRVdtb1hJMmxsMk0xMFdBNWZUTnlYR2NaWkRjRnoxWnlzT2pxdnA5eGNRc1RKTC1iTDNjOXFGZjZIeW55dmlwMVU1T3lPNGJsUEVhc3E3OENYcXFWdWU1TVNXMkRUZmVfUEc3ZUxQU0RHelU?oc=5",
    "img": "",
    "ts": "2026-11-07T10:48:33+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "Rashford kommentiert – „Er kann sieben Ballons d’Or gewinnen“",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFpyakNHaXlRUlI5cDVyTldXMjFQaGYzTGhjaTRYbTJmcmI3SlNBeXY1T0syWGpsYkZmMHZQejVhUXE3TGMyWHZTRklwcnVFT2JFS0tMZWtMVnMxV0pnUW1zZG5lNGNWaWN1SlJqclBzMHIyVW9WWTkyTklOWDBxa3BuaWlXMFhEZE9CWG00NGY2QzFfa2dn?oc=5",
+   "img": "",
+   "ts": "2026-11-07T10:31:00+00:00"
   },
   {
    "club": "HSV",
@@ -3489,6 +3907,17 @@
    "ts": "2026-11-07T00:33:24+00:00"
   },
   {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Jobe Bellingham [7] - Borussia Dortmund - Forum | Seite 118",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUlfbDB1bWdKeEhzTDYxanVSaFVVVDRRaXZxdlU3QXMwbkhRU0hVSVd6d1lBSWtzWUpmV0tFSUticndaYUZCWWVORlhIR2dzZmZ3NTdRQ1Z6SW90T2RTOXhqMlJlNVg2S0hjc0FHekZ0ZThYR1BoU01TZlRRWldEMEg4Y2k5NEN0cTg4UVpvamNQbVJJSmF5NHVEYW0?oc=5",
+   "img": "",
+   "ts": "2026-11-06T23:42:00+00:00"
+  },
+  {
    "club": null,
    "league": "3. Liga",
    "tag": "Transfer",
@@ -3630,17 +4059,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnhybmgxTlJrZHFlS0xmSXR5WS0wcFJGUXVwOFpuSTI0cmlZTlVSd1dQLWRNNVM2c2RjZ2lvenZqRWRLRU9pamx0X1BUeGpfS2lYbTd6RVU2UHVLTEkyNlZITDIwbkdYYW11TWVRMTF3Z1ByRGdkWTJ2ZGl5TzZyclNvd2N2RDFaTkk0?oc=5",
    "img": "",
    "ts": "2026-11-06T22:25:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Hamburger SV schießt Gladbach zurück in die Krise",
-   "summary": "Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-   "img": "",
-   "ts": "2026-11-06T22:24:16+00:00"
   },
   {
    "club": "FCN",
@@ -4059,424 +4477,6 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGNMc3FyUXZhRUszZEtLaEM0a2Y0VWxlSTBvUUNWdFp1d0FRaEJPeVNkakxwdVpxQzNQWlhqVThlazBSaE5yWkEzN0RQdFlvSjJiVkx1Wk41OG9EcFk4X2t0SnM2a281WndGalVUOVpiajYtQUpZaXNfYmNRaXNyNHlFU1UzZGR4QUZFU0FB?oc=5",
    "img": "",
    "ts": "2026-11-06T19:39:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Braunschweig und Cottbus liefern Fußball aus dem Keller",
-   "summary": "Keine Treffer und auch kaum Chancen: Eintracht Braunschweig und Energie Cottbus haben sich im Kellerduell der 2. Fußball-Bundesliga torlos getrennt und bleiben beide im Abstiegskampf.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/braunschweig-und-cottbus-liefern-fussball-aus-dem-keller,spielbericht-eintracht-braunschweig-energie-cottbus-100.html",
-   "img": "",
-   "ts": "2026-11-06T19:38:50+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "''Er macht einfach Spaß'' - Blessin über Mohya",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1Y1NExxRzBqWlpCT1JfZkJ5YXBDdktzQTcxWUZZaF9wcXFrTjE5SWpOVTB3OHVqTEczOGtBMTJFUEhJbUs0RUl5S0ZmYkVFNXFub2pDaEFxc0Y5QkIxVXhKYjFxdTRnZFd1dmxoVUhac1NvRmNoMDJtVnhPalZadTd1LXlBU3luNFB1bkpmVE5jdVlkTU9wb19nbw?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:31:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "Spiel",
-   "title": "Hamburger SV 3:1 Borussia Mönchengladbach",
-   "summary": "Endergebnis",
-   "source": "OpenLigaDB",
-   "url": "",
-   "img": "",
-   "ts": "2026-11-06T19:30:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Dynamo mit Befreiungsschlag gegen Fürth – Tabellennachbarn bleiben in Braunschweig torlos",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFJTZ2VLMGtwdmhNamxib2hhOW5mbVdmVnctcHBaWksydkJ6a1B0TGRJUEZuYnkzZFkyS2JmNEpveW9RaUtnazMtSTFZRUtYWjRlSkxpUEwwZVFwWnpCWUFVbjEzWGdjYlNPekNjdFMyUGJzeXdhaGQ5MDFLYUJ1UUdhSGRDLU9zeXZmbC1LOFp4Xy1MZ2N5RzlLVDFTYzRxUXp2Q2JhQlNTak13SE01MG5NN1ROUjlWZVR6WC11SjhaZ014TTc2RHNETnM0QQ?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:29:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Live hören: Hamburger SV gegen Borussia Mönchengladbach - Bundesliga",
-   "summary": "9. Spieltag: Anpfiff des Spiels ist am 06.11.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Hamburg.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-borussia-moenchengladbach,audiostream-hamburger-sv-gegen-borussia-moenchengladbach-104.html",
-   "img": "",
-   "ts": "2026-11-06T19:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 5",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDNrS01MSW5oTjl4MlJ5d05LUFd4SmZSamVmek9UbGFrNUxjRmIzR0t6enZxQkxXclNIOGpRdVBCRVZtQzlhNDMtZXF2LV9rd1I1MlV4QTRpRThqdG85OXlzV1drSkdPTTdBY0ozV244RjV4azhSUFZlOUIzVVVjUnZJRFVXT3VGOVh3T25BdkFFbFNxLWRuNG1Wd2Vtekd6?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRThncDVwSVZ4MVJkcWt3NHRUOXRqVVZJOFcxMmpTcjNBYlVzZ1dzWExfRkFUaGpKQmtLRkdQLUprOEJ0bmlqandnS0xPR0NSX3NBcWdkbTRwWXlBRTFNb3FheDBNbmhlZG1tVVZRdXBmN3A4Y2o4V292X00wcWtNSkQwNmlWYjhPejJ1TE9jUGZVSFE2TG1DUlNndmMzSTB0MHQtWjV1SU1uMUdV?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 4",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFBRRGlwd2RDcHM2LVdoU3c2TXprMml4QnhJRllIcnlwMXVHNXhjRVJ4cVZ6WV9wamVqT2VnQUR3a3g4a3FiRkJRX2l2cndKUjE3emdFWEhvNng3Y1ltT1VBd1VPd0ZONGg0bUxUdVhaZDdyTmJjR2thWVk1d04zalU4NG1LNEtXVmttSGRwQ3Z5YXBUUTFXdk9ndXdzVDZ6?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 2",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0NKOGJENF9PXzBvY3Y2d1J4MkhBZ2NWeUY1eWY5c0otZEE4Qld2SDJ6WWNaTWNtTEZpTUdpYjFkSjUwTWxYWkdkUFA4TzVieUFjQnhDZUxSLWdWTFBwODQ5QjN0QjJOQVQ5T2ZEV0dVbXIxY3JoSkZLaHMwRVkxTlRjd0trR1lGQ2RRR05UdUdpUHlhZ2VkcHRibzNYeDIt?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 1 | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ28wRUFWaEtKeVdnT29kS3hTdzN1M2ZaV29YTEstY2NtbkZreTVNbjJhOUpHU25WZFZRNE96MFUwX1I0bmhUUWxPVXNNWk9nYWF2SVluZnM0ZEtYVlF1UGNUUnMzZThNOVFDRXRaQXZVc3B2cUZDMk54MHdXa2hGbzcxb2hxOGNFOGdPMHIxRFVtVEQ4Rm5LQnRmM1N4a1Ji?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "9 / TSG Hoffenheim – FC Schalke 04 - FC Schalke 04 - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUtuTkNEN3RfRkZqT2tzdTNib2tqdHU4SVlicU42T1pqNDJQaTJNbUwyYk1iTUJSQ2pidlJHUWhhRnR2Y1MtZWxHbHByOFNKRlZHTzF6SjVrYk43R25nYzVqbzZyeDRncnlYdWtENS1jVnJSNGdlaUszdm9acElMdm5KZDJqQ0xLbXlkR0VwR3RaU1paSXJR?oc=5",
-   "img": "",
-   "ts": "2026-11-06T19:04:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "HSV-Flirt mit einem Weltstar",
-   "summary": "Gemeldet von sport.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FZzFrWDJrd1llNjJlWlk5OHhkMy1BTDR6SGVMWFhObnhWLUd0SklUSTRxUm5MNHZ4MlFWUEdqQm1RYlhsczd0Z3R0cHg4RGVMM1ZTWDdTcTNNZFJLX0g0elBVN3RiY1J1Q2J6X1FXa1plYUU?oc=5",
-   "img": "",
-   "ts": "2026-11-06T18:57:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Liveticker - Hamburger SV : Borussia Mönchengladbach",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRzdYUWtNLWNDRmV1dmY3VW4tNDExbXZuUlJFbWFqOHA1SldsaDR6TlpBU2tfMFYtNXZqQkZTS29uZ0R3ZlFTMTJ2M21wUXZTRF9ib0ZvMjhqdjFDSW1iRjZWTHFnYm0wUEE?oc=5",
-   "img": "",
-   "ts": "2026-11-06T18:38:16+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "2. Bundesliga",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXRNeXMyamZDNWtrX0N0c3ktdllOMlAzOU9BSnlpelBva3JPRFB5Qjh5LTRBbFdkRW1XQ3ltRHVfcmlDYzlESjJoNnR6TXVmSEFCdEgwRDg0c04yOFJoSmZMb19WREFNLXRkZDNSUDMzMlRCY1BNVlNQOVEzWXRhYXFzUzlpUQ?oc=5",
-   "img": "",
-   "ts": "2026-11-06T18:10:06+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Wilde Forderung! Ex-BVB-Star Jadon Sancho lehnt Angebot von Klub ab",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUNGSGM2SmZYdk04VGtWSS1ydzg1ZW4zNm5Ic2xDRXFTM3VoX3NMVkRNQVF3NDRIZXh3bG9fZ0NZZW1vQVR0UWdMMHZTNWd0SmYwX0xWb1pHci0yVkdYMEctLW5XdVowejYzNXQxRDd0d3JTNk9SakY3QlJUcmMzSzd5UnctV2dKcXgzcUtXZWdsc0wwOGVTRzloblp6dkg0Vnl2YXdXUE16U2c?oc=5",
-   "img": "",
-   "ts": "2026-11-06T18:07:37+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "\"Dann hätten wir etwas Neues für die Bingo-Karte\": Wagner über Rolle von El Mala",
-   "summary": "Wie schon im September hat es Said El Mala erneut in den Kader von Jürgen Klopp für die anstehenden Nations-League-Spiele geschafft. Köln-Trainer René Wagner erklärt El Malas veränderte Rolle und freut sich über die Nomi",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/dann-haetten-wir-etwas-neues-fuer-die-bingo-karte-wagner-ueber-rolle-von-el-mala-1269294/video#omrss",
-   "img": "",
-   "ts": "2026-11-06T17:51:57+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Jetzt live - Zweitliga-Keller unter Flutlicht",
-   "summary": "In der zweiten Bundesliga treffen am Freitagabend drei Mannschaften aus der unteren Tabellenhälfte aufeinander. Braunschweig empfängt Energie Cottbus, die Spielvereinigung Fürth ist in Dresden zu Gast.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3945/",
-   "img": "",
-   "ts": "2026-11-06T17:20:51+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Jetzt live - Bremen zu Gast beim FC Bayern",
-   "summary": "In der Bundesliga empfangen die Münchnerinnen am Freitagabend Werder Bremen. Zeitgleich sind mit Frankfurt und Wolfsburg Platz zwei und drei im Einsatz.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306283/bayern-muenchen_werder-bremen/liveticker",
-   "img": "",
-   "ts": "2026-11-06T17:20:37+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Jetzt live - Frankfurt empfängt Wolfsburg zum Topspiel",
-   "summary": "In der Bundesliga kommt es am Freitagabend zum Spitzenspiel zwischen Eintracht Frankfurt und Wolfsburg. Im Parallelspiel wollen die Münchnerinnen die Tabellenführung verteidigen.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306271/eintracht-frankfurt_vfl-wolfsburg/liveticker",
-   "img": "",
-   "ts": "2026-11-06T17:20:10+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Live hören: Dynamo Dresden gegen SpVgg Greuther Fürth - 2. Bundesliga",
-   "summary": "11. Spieltag: Anpfiff des Spiels ist am 06.11.2026 um 18:30 Uhr. SpVgg Greuther Fürth spielt in Dresden.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/dynamo-dresden-gegen-spvgg-greuther-fuerth,audiostream-dynamo-dresden-gegen-spvgg-greuther-fuerth-104.html",
-   "img": "",
-   "ts": "2026-11-06T17:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Live hören: Eintracht Braunschweig gegen Energie Cottbus - 2. Bundesliga",
-   "summary": "11. Spieltag: Anpfiff des Spiels ist am 06.11.2026 um 18:30 Uhr. Energie Cottbus spielt in Braunschweig.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/eintracht-braunschweig-gegen-energie-cottbus,audiostream-eintracht-braunschweig-gegen-energie-cottbus-100.html",
-   "img": "",
-   "ts": "2026-11-06T17:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Live hören: Die Konferenz - 11. Spieltag | Fußball 2. Bundesliga",
-   "summary": "2. Bundesliga live - alle Spiele am 06.11.2026 um 18:30 Uhr in der Konferenz.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/bundesliga2/11-spieltag-die-konferenz,audiostream-11-spieltag-die-konferenz-132.html",
-   "img": "",
-   "ts": "2026-11-06T17:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Fischer über Nicht-Nominierung von Amiri: \"Ich hoffe, er war enttäuscht\"",
-   "summary": "Der FSV Mainz 05 hat derzeit mit einer Ergebniskrise zu kämpfen: In den letzten fünf Pflichtspielen gab es vier Niederlagen. Am Wochenende ist nun der FC Bayern zu Gast. Kein Grund zur Sorge für Trainer Urs Fischer, der",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/fischer-ueber-nicht-nominierung-von-amiri-ich-hoffe-er-war-enttaeuscht-1269285/video#omrss",
-   "img": "",
-   "ts": "2026-11-06T17:06:47+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDV5TnFJckM5UHIzVGdCSlVlWnFSZVoyM29td3RpdFBza3E2U0dPb2hpYU1YZEphVnV1N21EQl9DX1NLYlpSbWprV1c0c0hlelA5VW9pbGxlLTE4Y0tVb0dmalZJWXRCTG93ajdBZlhMNkd5X1RFa3RBVEkxdlRVRS1wZnNwQVhmS21WY2xlZXdQZWM?oc=5",
-   "img": "",
-   "ts": "2026-11-06T17:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckRmUHZ3dlRHdEZqNk9CZFNhZFh0a0Z4WlZyVWV6X3BWU0ZMVlhUOTFXc3RydG1LMmFLMmFOUnFkUDNkdDhyLTc1TzVlNWhJNkNQQXlDY2xzNTgtWmpTZ2x3ZksyZEVaVUpkaTdNZGdpM0JDNlQyZkdhcU9SMFVhN2ZKRWNiZzA0cGs3ZGF5YUQxdjQ?oc=5",
-   "img": "",
-   "ts": "2026-11-06T17:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXdKdno4dm45aWMtUnl0enJSYjV6bVFUQ3ZzT01HMEJibWRWNUJ4NXluQzJSdzN3bnlQVkh1ZXZteFdGTGM5cEJqLTRoaG42b1pZaGJLanR3eDlQOWxvbHNVN0JJZ2tFcS0tMHRKdVpyN01PR2EyUGlYRlZpQnJTSXRsejNveWVWNjhvajFfTkpVVGc?oc=5",
-   "img": "",
-   "ts": "2026-11-06T17:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3A1RjVDVDB0djhpYjdoRFBaZ0tBaFBwMGlSbW5fMEhJUnBUZ2FnQm5pYmZWZV9rUHpMbExfOHM4Wmk1MmdTYlpaS1Z5S213cHJnSUp3SFhhN0h3QU1tN2ZEcEUwSjBrbFl0ZlhjWEtHaUg5b0tGV3lNMTJRWWRkcUVzVU40ZzRrOVRwcFk5Z0RBbHM?oc=5",
-   "img": "",
-   "ts": "2026-11-06T17:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "11. Spieltag: 1.FC Magdeburg - FC St. Pauli - 1.FC Magdeburg - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnZrRnFMNXVGVmJkWUs2TFJBc085NDlVZG8zSzB4NkhQWUprS0paa0RobUhXck5rZzVIQ3F6a1hUbUtnbkVJUmRrOS1fMmh1SjVqby1FeUFOT1h2YlJ5eXhraWl1OEpDYXNCLTZxSE1ncjFnRnNBbzExNjVSOVJINFkzWC1qbXlrVHAxbzlnVFRKRGMzMjlxVDRRM1MzOEk?oc=5",
-   "img": "",
-   "ts": "2026-11-06T17:02:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Gerücht",
-   "title": "Rayan Cherki: Tage des Künstlers bei City gezählt?",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXZ2Y0xocl9Na3JycHVyLUJuQmhwZ084d2JLTmtyZlNRRWt3MlJlcDdhZHd6UFFoWi1SYmI1WUlpWll4bHNMSVppTC1kQ2d0Zko4NEcyLUhxS1ZEWk9TUS1lX25za1BOejAySHpkM1VMSlRvc3dGWXVSWC1oQmctOFhmVklHQ2xG?oc=5",
-   "img": "",
-   "ts": "2026-11-06T16:49:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Die Wade: Fragezeichen hinter Nusa",
-   "summary": "Antonio Nusa ist in dieser Saison bislang einer der konstantesten Akteure bei RB Leipzig. Ob der 21 Jahre alte Linksaußen im Heimspiel gegen den FC Augsburg mitwirken kann, steht allerdings noch nicht fest.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/die-wade-fragezeichen-hinter-nusa-1269271/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-06T16:43:10+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Wael Mohya [36] - Bor. Mönchengladbach - Forum | Seite 103",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnpxSVNXd0huQms5UF9LcU1BZGVqWlRpX05RYkFfcGNzcXNic3ZSbGh6bDd0QTJMcWpkeWJXdlZsMFRnRUUwbUVRLXZwVWhjNWFpZmJUcGRjTDZPandrRzN5UGVMLUVWTkRkc1pZb3lQbllCZ3NvdDZFNGl6VHZVN1hYeUFFRlh2VGd5RUZR?oc=5",
-   "img": "",
-   "ts": "2026-11-06T16:36:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Fischer: \"Ich bin halt langweilig\"",
-   "summary": "Drei Niederlagen aus drei Spielen in der zurückliegenden englischen Woche. Dazu noch immer kein Heimsieg in dieser Saison und nun kommen die Bayern zu Besuch. 05-Trainer Urs Fischer setzt auf einen altbewährten Lösungsan",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/fischer-ich-bin-halt-langweilig-1269268/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-06T16:12:03+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "11. Spieltag: Holstein Kiel - Arminia Bielefeld - Holstein Kiel - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVdreU1nZHhFcVd4TjZ5eVNHR3ZSWHVDcm83SzZzVTVuc1NOak84M1BOM25rQ201eXdWSzl0T3RWYTRHNEZ3cHEzeWxkaTBIUnRBTFBMV3FDSDE3RXBXYmZzYnpHY3NOZHJoUTZlYXgwRUZRVnRXRExnQjVFWVVZSG40R3B5NkNmT0F4TzlsZXlyTGpRMExqeHdtTmNaVGdDQXRXS2NZcw?oc=5",
-   "img": "",
-   "ts": "2026-11-06T16:06:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "Offiziell: Schanzer-Eigengewächs Sekulovic bleibt bis 2029",
-   "summary": "Gemeldet von n-tv.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMmYyX2ZlT1IySU83VWthVHVNS2RsY3JLMHhIX05HT25fbkZKeHN3cldheFJLeHdKeGhWWFNFci1Dd2prQ3hqRE5MTnBYYTdxRTdLVGlMVV9XckNYMUVRVkdScHhPQ2xZS2YwN1RYeFhCZXRFSEk1SGJTZVZfTl9TS0ItOERhcVhuMldVNldZMGVobVdTZ183Z2FWVFhrQ1NqV3J3ZUhYNlVUMHVqblo3b1BTVXJXTTlKRFY5MDJYbzI5MlJvTm5oU0FlRWw2YUNvVzlvNDctVHRTUFNvRllacw?oc=5",
-   "img": "",
-   "ts": "2026-11-06T16:03:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Polzin macht Dampf: HSV-Negativserie soll gegen Mönchengladbach enden",
-   "summary": "Die Hamburger kassierten zuletzt drei Niederlagen. Gelingt gegen den wiedererstarkten Tabellenletzten heute ein Sieg? Die personelle Lage bleibt angespannt.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Borussia-Moenchengladbach-Vorbericht,hsv-2352.html",
-   "img": "",
-   "ts": "2026-11-06T16:00:56+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Mainz verlängert mit Nebel: Eigengewächs bleibt beim FSV",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVJOSm1JX2J6dm16MWpKaEJNTmduU3lyTWVMLVJ2anJnaWYzYzY2MXhWOXY1NFh5ZENjZ0QtZ19tZko2cTQzOWcwTGF1LXJsNDFUM0VxNjZDT1g0TWZMcUt2OW1SQXN6OHg3U1JPbHNxY1RmYTZ1WlpWbF9ldTR0RHlQWm5wZHBMcS1yb2pMWi1xN3Z1OXFGeDA2MDNKZUNkWTZZXzVqa0lNZ2JZYlY0?oc=5",
-   "img": "",
-   "ts": "2026-11-06T15:54:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Book: ''Können durchaus bis zum jetztigen Zeitpunkt zufrieden sein''",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFdEa1lpLWxZYmVQNzdNQ1IxZ2dtdE41dTgySjZnaTJ5RTlsRXZZYnU5aVVRdXB5RzVpa2pQTGlVNzVqZEx0TjZVcEVuRTRwSTBkLWRvWExFdjQ2eTllMDB1WUlwNFc3cTkxNEpsZW9qNHZxbUVUejlDS3dUajkyM0xrSTZENEEyaklmcncxWWpkcE5kWXhOcUlzRGUtYklTY0RWaktQSlBKNmtJZnVRN0l0WU5DYW9f?oc=5",
-   "img": "",
-   "ts": "2026-11-06T15:50:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Nachbarduell in Hamburg: Die Top 11 der ewigen Bundesliga-Tabelle",
-   "summary": "Wenn der HSV Gladbach empfängt, duellieren sich zwei Nachbarn aus den Top 10 der ewigen Bundesliga-Tabelle. Wer gehört dort noch dazu?",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/nachbarduell-in-hamburg-die-top-11-der-ewigen-bundesliga-tabelle-780646/slideshow#omrss",
-   "img": "",
-   "ts": "2026-11-06T15:44:26+00:00"
   },
   {
    "club": "BVB",
@@ -12460,8 +12460,8 @@
    "FCN": 171
   },
   "af_used": {
-   "d": "2026-11-08",
-   "n": 4
+   "d": "2026-11-09",
+   "n": 1
   },
   "af_bulk": true,
   "reg_try": "2026-10-20T22:37:47.605065+00:00",
