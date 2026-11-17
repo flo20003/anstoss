@@ -1,16 +1,522 @@
 {
- "updated": "2026-11-16T18:23:20.861786+00:00",
+ "updated": "2026-11-17T02:02:37.332623+00:00",
  "items": [
   {
    "club": "HSV",
    "league": null,
    "tag": "News",
-   "title": "16.11.2026 Fortschritt bei Remberg, Rückschritt bei Sambi Lokonga Männer",
+   "title": "17.11.2026 Gänsehaut im Kinosaal: Bewegende Premiere der Vuskovic-Doku Club Männer",
    "summary": "",
    "source": "HSV.de",
-   "url": "https://www.hsv.de/news/fortschritt-bei-remberg-rueckschritt-bei-sambi-lokonga",
+   "url": "https://www.hsv.de/news/gaensehaut-im-kinosaal-bewegende-premiere-der-vuskovic-doku",
    "img": "",
-   "ts": "2026-11-16T18:23:20.861786+00:00"
+   "ts": "2026-11-17T02:02:37.332623+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "12.11.2026 Neu: Seniors Club-Merchandise Ab sofort gibt es exklusives Merchandise für den HSV Seniors Club.",
+   "summary": "",
+   "source": "HSV.de",
+   "url": "https://www.hsv.de/news/neu-seniors-club-merchandise",
+   "img": "",
+   "ts": "2026-11-17T02:02:37.332623+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Bundesliga 26/27",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaUs2aXhYSHhTLW1mWmNIN3AyVHJvb0RWYmdPZTBlc3N3ME1iT19NWXZjT1JUWDI3SnlTWVE2V2dPdzNWZi1NX0JyZFBwdnZNeTlTaThidGZwQ0dSem0zYWExRzFVcm1Ta3YyRTFNeU9NeHhIQVFiUkVwSF9wSHpwWUJNVG9ldGlmbkFkVnFlako5ekVJUll2a042TzdqRnlNQ2dhV21EUUFSX1EwaXpvUzJlN0xwV0tBaFpOTkxrZ3VnTFk2bGxLMHJLeWdqcXJXM1dQNmw3c2x1UkNaRG9HQmRJMjUtNGJLaFFueGtVS2VyaGF6X0U1ZkQ5VEJwNjE2RnpEck5xbUlCcG54YVhXTWJjdHFfbUpVSTYzT21PVjB6bzg?oc=5",
+   "img": "",
+   "ts": "2026-11-17T01:08:29+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Borussia Dortmund",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaHptRDFDOEpydnRGNHJmTlFXbGhqY0o2bUhzS25WODFGeWpUZzFIRi1RaWEwSGdreUFDWGZ1a2ZYZVJsU2NsY3JfLXFiUW1ROWVKVDFPbTI3d3pBUFZ3NGYzQXBSTkZad1ZVaWVDTUhONDloZEFnYXJ1OUpoNzhhUjVKajdCWFJ4dzRvRWk3MHgyS0k3bHI5R29OcEZTYVV1eDlhcFd3QTZuZkQxbmk2M3VOdWRsNEExQXoxUFVoa2hFUVo2T0V5TzlVZ1FSY3JmWng5NGF5M0V2RzRqZTdkMTZoQVBmdk4ta1QtUVoxUGM0N3JsYUo5ajI4b3AybkpnUUFxa2tGazM1SHBGalA3NWRyeHBqTzlXd0Iya3lGMVM4ZWhNNVVmVg?oc=5",
+   "img": "",
+   "ts": "2026-11-17T00:30:28+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Deutschland gewinnt in der Nations League gegen die Niederlande",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFJWeUtyTGxRUUFlamljX1RWUkxfOEQwNjB0TGZUOGhUQU9CWFVLX0ZnWlVtc0M5ZUhQSXBWNzNHcWdscG50Ml9ZeDdjcHgtTXQ2Nms3alFvMXVXRGJGTi1lRU9KYkdiRVYwNXhGTDZhYlZUUUl4OXI1dlBvZjV1dWxVY3RXS3RqSm54NE83cVVCX2xlMDNqMUcwbTQ4WGYxMm95eFdWQXFabUpOdmJZQmZR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:58:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Klopp nach 5:0 gegen die Niederlande begeistert: \"Das hätte ich mir nicht getraut zu wünschen\"",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORFBEUVNLUHRmSktYV256M3RGbGkxdEZWYjRZODNRNmlEQ3J1YlpNcDAzTTM1RlpZdEo0WnBNWEMzRXlHR05yME1XQ2xRdDh0UHo3b0RKS25yZEk2UGtYZzVfSHQ1dlZHZTBNblpWSEhXRGlCT180Um1yUnRLZ3MzQzJlM25GNzdTN0tJZl9KanYxbUhJZXVVNUwyMER1eHhnbU9Sbnd6c2hIYVpjXy14d2tzYkpTaDhoeHBLX3U5NjZTamlfbDNkNi01S1lPQzF4TnVJOENUR3JRUEc0VFcw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:51:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Derry Scherhant im Interview nach Deutschland gegen Niederlande in der Nations League",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVXZwYkYtZ2FLbVBtT2xwcEQyT3RWM3JxOGNMdlVDb25XMHVwUk9zOWFaRVRvOEpFMjBtTGNtNWwwMm05ejJHUExsOWVlN3kwTlFEVVV5NFZaMER4Ym5WUkxYRzQtZ0VYS0JoUklFWDUxQU11S1NwM2p2Q0dPcjZNREhxZDZMSlpnT3ZYSHJucXhobHdYQWI3dk1Bck5rVi1CdGV6aVdJT2ZjUEVyeDNuejRaU3c2NUhid2REY2Z5cmpZR0tOcGUzMWlfMmNZMFcyMnN2VQ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:31:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Klopp küsst Deutschland wach! - Kommentar zum Gala-Sieg gegen die Niederlande",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR3B5T2FHZlItS0R5RDBya09talhsSmh0X0JlR3llSVdKa1MzZWdWc3BuRWNyX2tsUjhlVmxFMVRnM2NaakRqVFhsYjVOMmN0Sm1aQjR1Mk0wX196VFc4TmxpOFY5N3hCVUNzYkhTZ2VneHBvdWdwSnZvZHpRZ3pSSy1PU3B6bmNNYWdjajdfMW1uU05JZlYzcGFqampPVmxKYVpGYnlLNlFMZUEtWE1HeTZtNE5rMVloa1ZHSXZrUkQtMzllLXZtOTF1UlJzbGMyWHNOUnRBWmpwYWNMYWhXNHY4VzlHSjg3RnBTOVM0T0hWQ2s?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:20:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46139",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWNSVTF4T3RsdjVCYjFRNU5EcFczenY2WmhMNjY2X0IyT2JTUEJZREJEMG1CTnVySkZ3RDZtMW1ETHdVWENVUFVFZHVOTEQ1T1VZLVNzSmRSZ0pCS2FzMEtOLV9GWjBNU3VBOVFFQnZqOXdRaGlVYkhHaGZNbl9QOUxvOEdFMU5HRFlpdDl0ZVJId2ppSWtMdVhDeVE0NnJBSWxV?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:18:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46138",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUVaSjdFdl8xLS1sX2tubXRoTTlFMFptUUx5YVhrclZGRzhaR1VBU3BnbV9paUdvY0hUREszTWJPQUxyc2RlaDZpMXdNQjl5eEdSQl9rRFlMenRhNXRqYmNVc2xJdU5NQ2JKNi1iSm1WSWM2blAtUkp5RnJOUnJSdW5pM09DUFFVYVdIRmVic2xIa2kzOXJibjJLNnV6NXpGaktN?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:02:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Laufende Spiele ohne VfB Beteiligung - VfB Stuttgart - Forum | Seite 7028",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWVDZUIyWTJ3Z25Vd0lkUjNHMHVBdVdSbXdEdkxENlV4QkFqZllxcC04MTFUdzB4VUJBZnExa053dWZwaDZUYlpXYlU3VGpTVmlHeXlRdWtGTXoyc0JpOUFRUXJPWUhTVW44azFEQnNQV3YtTDVqYnc0dGNrQTBtZzRFd3RBVlNpZ2hWRTU4ZWVycVNpNFp4a3ZXY3dTS1lTb05QMGVHMi1Ya2RX?oc=5",
+   "img": "",
+   "ts": "2026-11-16T22:00:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2405",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajUzQ1Fhb2Jybko2UGJOeWtJNkpCYVhDUk82Vm10WEt5T0pCWDBCSmdncEZBSnBHbTdtU1RlMi1pQUE3YzBNeXY0VmRRLVkwLXVmMUY5U2t4cWVSRXJqbEtaN2lRR0t0N3BnQ1hnYmlZejRxWDZHZTVCX3M0MlViOHBwRVpXMHY1Tk11ajJNcEJjdHN2cV9WSEV3aXZmV1ducEE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:59:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Bundesliga Konkurrenz - Borussia Dortmund - Forum | Seite 5854",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWx3c1Vac2c0LUtlYk5aYkJjQ0Y1aDUtZDBaWU5xbXR0RFg3V1k3d0tGaFVaQmtkNzFnLVNKUjJxNzRaVzU2b3FhSFdaQW5UTVNwRmZ1Y1E4cm9DZFdZTGhheDhSWXl5MW5jV2ZwR0RjUVVxdGQteUZBUE1FUTFMNHBja1RzYWVWSU5lLXVEOGk1bnhTVU1HNg?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:57:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Gerücht",
+   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pOYWdFTUdzemxvaG04LWlLS2w4TF9xU29pOEdLMi1Mbm8yRW1KWl83bUZJMUlXeXA5MUFaVS1Gcnl4WE5WWjZsbDEwVVFtNEJPZVJFRXZEcmhScG9YR2V2SG83T2dTMFNGS1hzbkhtUU1LdGdRbFRyeGgwZVJUVkdfN0tJZ0pONDlVUG9oV0Yxb28?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:52:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46137",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2oyVExHR2xJSWxmM1VWazlJa3h3bXNxcXptOEk4MG5ETzZvc2t0TW9pTFJYaFlPWVNJOHNET2p4dnpWdnYycGFNcTR3d2tPbjJULWtRY2lmdGJRRlZFNXN2WmRNNFNLVnN5RE9pemRnMWNLMUhySnVGSWFZUlE5RDFrNk9iSVg3REc4ZG9zRU1Ia0R2NEtUVFhZX05RcFdwMENF?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:50:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46136",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmlUbkVVN2E0NmpPX21ZSVE0V3IzTklNdUk4NjZZWTNTdzZRUFdDRDk3VmVBMDY4UkluS19pRl9JM3hsSGlrSVdGY1k3T2FpUFVSTjVqRkJEY2l5VVhWa3hncDZHekt1ZnZ0VmRsOXJ4a1VOcnhPU1dfajhqbmV2RGQyOW5xd00tMzB2VjlXcXY2NWxMaDhBZ3B4LVU3YnhOQ1hJ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:45:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46135",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlh1WWZaX0hVd2JJSEpIc3lvRnZ6NzdZekh5eHRCLW13M1doWmdoeXlHNV9aNlBuUmpubHU4d2R2V19DdFlNVDVKQVd3cHoyN1ZvazJ6ZXE3Vzl6U1IxNFdwYzVDQTlnTzVncTRCQlN3TUVqbTBCS0dHTUdoZU9Lb29ubW5ZWGMxdXFMejNaUVpQdDIwV3NoWnBackNla3gwSUpF?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:40:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46134",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmpDODc4eHFCYXZWY0JEZTQxSmMzSGY3dnFBR1Voc2I5SG9ydTZzWGpZX2o1Vk4teHo2SVRuRFRyalF2RmNta2pzbHlTX1puV3hORlVPYlh2aFp0OXpQWG9QOG8xQVhtZzJsN1dyZEY5RVJoU2V2bS1KdUxRdTFyaXFfeTZTSml5WE9DTXY1TW1oT2JKaUVqem9YVFZsczh2WWlz?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:37:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Nations League 2026/27: Deutschlands mögliche Viertelfinal-Gegner, Auslosung und Termine",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHVPMVRiZTlpZm5YZzhhT2JFeVliX3pBczMyZ2dsVEE0MHZfQWhINzduSVI3VmpsRUR5amJDYzhhZTdFNmpDc2RCeXQ2SGtQRTVaQmxBUERZYVdWYlhqVXpBM1gyVWxsTzZWWkI2OUdLOG1sWkQwTUxnNnVpYk1zWW0tZUdlT21wTGlqV2pOaXBrVzlVVTlfT1R1U0d5QjF4UEdFWnpBMlN6OGxjOXRna2RFcm9MMnUzaXZRM29xai13a01mdU5kOXhIeEpGWEdSTXZublcwZw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:34:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Laufende Spiele ohne VfB Beteiligung - VfB Stuttgart - Forum | Seite 7027",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhFMWM0M3VoZFNaeGRVbU1Dei1Fa0JXd0hhTGZhOW5fN2RwQlJPTEp0aml4ck1KNEkwal8tQTJyU3ZsTnU5TVpLZ0o4ZlFtbVhKUmhMMkg3VVF0V0xLcU9CSm1nQ1NQdVFlWHdMOHJEMHhveGlxaXQwUFptcFJILUphMVFUZ3VyMFJRczB2S0pkWTdoNFdKR1R1MF9RZU5DZFRucnNVUXAtVzRS?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:32:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46133",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXVSOVJ1c3BYTF95NWlsMkxINWJWMkprYzNncXJFWkY2WHRPR2xBZGsxeWVrSDd0aTFYQmVNRWNEcEZfUGlMNWtsNFY4Z05Hd21Sc0xwVkptZEVROFNlYTBxRlRxeG1udWRIQmtWNWN3Y2xDcmFjNkdPSDhkZHRuTVRIeXhyc0RlQWV3WXhSLXA0dDRZa0Fod3E2T1VRWEFaal9B?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:32:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46132",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1RwVTNqcU9YZkloMXVHT0E2bGRTNDV2dWNkWEVnQTN5VFRZTTdHNUVCX1VERHlYQ2JNY3ByV3pIcVFuRHE0WUw1NGV0T1hzbHVKam9COXdrLXV1R1dJRTJZUnRjWFBKMUZRWUVYeXphRVRxdXdKbllNRWNOTjlQMlF4OWg0cEIyc1FaWmFfRGdnMnNHMU5ubFVvUjNyc0FGNEpZ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:28:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2404",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWt3bkY2WUpNLWRyWGdPRnFyM1N4RVhvUlVzRTBkdmxROGlhZ1FhZ0ZrZGY0ZUlNakRHU0tYdmV4aV8yS0pxN3BPZ2VkMWtkVnVZQzZKdzhwaVJVc2ZBSEJpSzF2T3hmeTFabF9zd1RPeC1kSkN4U2VPTERIaWwtM0dmZ255cjhNdnJlQmJ2dFVHZmJUYzMtMm9ZQmVLakVHVFE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:25:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46131",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzVxT1RxV0FrV0djR0hrMTBPOTZ1RFFkS0xrYzdqUnJ4V3pzcmFkQmtlalVEQVhzUmlaS3NmZTBqT1hSbmlFaXliamtncE1renY3LXRTSmFXTGxLbmo5T0oxUDZva2NLTWxXbUt3Z2ZjZFN0NXdwby1SaTE2UU90MlBDVHVyaHlRWHVZdzdPZmtBSGpTNnhOaGRCMFh1aVZfbHkw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:24:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Die deutsche Nationalmannschaft - SC Freiburg - Forum | Seite 213",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWx6OHlZOTlGMVJnUTFRYkJscVM1UXhER3R2dk9zck5EVFBiSUhkeVJyTEJiNUZ5S180VkVuQV9wZFcxSnRGY21rbFd3ZVdEN2hsVHk0MG9XdUlnb1dCNUJHdEhHc09FNy1xeW1XdDFZZkFLNFE1ZGF1ODZDQ251R1NpOVl6YTUzRjFRMVAxWHROMnFLVVQ1ckRyWWlsQnFrTmpz?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:23:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46128",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWdPWnhSUUt4WUczTTJjM0hUZXFiMkw3SUI5TEd0eVFxS0VUZF9SblpfMGUxejZXbmRuNEgxVzZoX2FaRHJzNnFBYVQtSno5UHlUa3gzNmhiNnZPeUVLbE5vWEk3WWNNVFJDbDNTdGN3ZTRWMl85eDNLdE1SNjV1R1VnQ3B0Wkd5WHlpS1M3b0Q3ZTlCX3V0Y3pBd3FQeUQ0dWxr?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:18:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2403",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnlWSXprazZZX1E5TkYxMkd6NFRuX3p1WVVGdjJ3c1VLeGE0d1ZwS3hSU0pOWEF6TnhyS0ZuVjVFTmxGMDNucUVSNVBnVXFuQllUYk1MZW9rYUJZRGYwTWZRTUZTZktKNHhQNV9SMERkWDZualNScGh1R2VDQWV6TEpQcEJ5SGhtLVNvU05NUVZtaWRZaUpzWERjUGY0c0hqT1E?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:16:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ticker Thread - Borussia Dortmund - Forum | Seite 9334",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmxZdVhLTjF6end3a2gwWDBIWFhBSVVySDdvSk5rMUFBRzA2clBfaXMxVFA2elRtb1pwNXRRNXRaRFZxSzZmSGZ0TTFqb3Fzblp3c3JZTFd0WkRaRkdTdUowRWFqcTBUTGV6OXRKeTUwLUJVQTA2cHNoVXlfR2RPcmVOemN6S21FWmFvckxXTU1yZElKWnc?oc=5",
+   "img": "",
+   "ts": "2026-11-16T21:09:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Allgemeine Transferdiskussion - FC Bayern München - Forum | Seite 12443",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlVudUhhbDctWmJoQVZRaGlYdGR3QTVaOG9GdnRydU1QYXRRSm5YYURxcjZrdGltWThnMldhV19HU2FvTEc2OUk0YnYxS0VjUE5vTEpLZUdjLTNSc0FMSGxtUmR6b0F4NEhiVWFTYjUxQzhVNEVQaGdYR3V0bnZiZXFzMkQxUGdUcnJSNXQzYVV3YUxRdXptVlFxUVRFQkFteFZWeU1B?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:38:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46118",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkowWXpLZTNxTWs0b3RWeGczT0ZUYnYtSlZmS2dNVkN3OVpxdnBvQUxJMDJ1dDZhdDBVS3BDcmcxanhZdUs3NDdPMS1aRVBkU0wzd1ZSN0hLdHVyaE0ybVRUd3dKUzZyRndvZnBoQUNYeGxxTlZKV2pkelo1X0JkcmFJbW16T1dwalpMT004b1R0VGJ0Wl9GUUIwbHJvbnBIZ2lF?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:32:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2402",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOci1XajZaZjM5WExob3oxOTR4UTIxMlFNa2pqcXR4ellqcTJUQkVGRlpXOHZaSWFxZVhSTlM4bmFvbDJUMmJZZVN1Z25fd0xDYVVoVjlzSFBsQ0x1ZndBWXpYUXdpRDMxTFIybFViZE9XT2VrR0xOd0RBWnZMQklZd1BHOFc5eFF2TjdUMGV2NUV5ZlN4bDZYb0FYcTdtalk4ZGc?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:30:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Die deutsche Nationalmannschaft - SC Freiburg - Forum | Seite 212",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDhGeVRpZHlQaFJFNl9fcmJkWWdaR1pvUzJ1N19tTFRWaURacm14YmR3SlRaSGJET2h2bHZlV3pTbWl1bU5KOUFEbk9qTGpfUlp5UlRyb1RRUEtRa0NEdkJ2dHlJWFhMdHhEejJwb2ljZ0NkenhGbGo3eVJLem5RRU01a0wteFFHYklFVlZMNjhiSzNPV3NLSG5xVDYyWlJpX0JF?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:28:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Alexander Zverev als Nummer eins der Welt ausgezeichnet: ATP ehrt Deutschen in Turin",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3F1TWsyalhfd0pPeXVrT2RPNkd1VGk0Qk1CVDMwUlZ0SVdXVWhBQW5CeFNQUHVqWmdXUlpLWktxRnhkelNUMkFDMnZMbmNsMVRiMVhONnZNYk1PQXhQWGt4LUs1TW1DYllVY2ZpYzJhd3NwTXNrVlZPSF9UWG1ESkxjdmVLX21SbXFWcTdYOVFtNWE4NVlYWG41SVJZN3BPcWpYeUEyU3JhNEduekVsbUdNZDYzM0VSRWdHT2h6ZkRhWldVbjhvNV9CNm5BeVk?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:16:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Gerücht",
+   "title": "Tresoldi & Gruda im Bayern-Blickfeld – Holt United Thiaw? | Transfer Update XXL",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUFQdlhqR2VzTG9IcDZtREp6OU5ZblhPRVd4cDFpQTk0S21UbUNyTVVlcUFIeHdsc2NBaVhHa04tQVdWRWtBZjVZT0dXYS04clQ2LXQ4VHlucENKcXlWMVRwSE9tVVJZaUVSTWtNdno5dDhpTjZfdHRud3dtemNqdkdDMTYySS1ZZUlBZGhaVWdHY1VFRVJTcy1HSHl6S1FSNXpDZGMtVnFvNGhZUlVKc29oZzJMaGVpSTAxZHVQM0NoWFE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T20:08:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Klinsmann über Klopp: \"Es fühlt sich wie ein richtiger Neuanfang an\"",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3ZNbi1QUVJxQm9tdVJtNHpMYy1YRGdZS3pfaGFyYU5DUUxDdlYtNUNBOVQyOWxWV3ZEWS1DWEdUdlhLblZJSk5lcTQtZmZEYW40czlLTWIwMW5JeWZEM0laUVc5M01oTjg0eGN3RkpaOVYzbTZjUjNVLVl1RzBpRUVqbGpCSnpCZnp5TzFPNWNxQmE5VUdtaVE1R3l1SkhBZDNJN1Y2cmFZLXFYZUNMenBLVlVBV05QYjQtUw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:48:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "LeBron James pausiert: Rückenprobleme bremsen NBA-Superstar bei den Sixers",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT25HdUhFbE5zZHJ1Tm9wUWlBd0ZMczdrSVlrYWJEQWZHeEhFZ2tYN2k1SGZWNzlNR0Y3T3E5RUNWN1dfdHBJWHIzTjZpcmN6Vk9DN0hYMFgzLVM0ZE42VEZiOUx1R2pJOFFQcWpMWTBzYWdkMnFDYi00NFRKUnpZX3p3ZFJaUUVCV0YzRGgxalhaMUxLUlBKOXFPTVdSdzRGaEdvWnBYRVJoVXBOVGNINGg5Z2Y1UW5uLWRZWnc2RQ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:38:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Wegen Schlotterbeck-Deal: BVB droht Gehalts-Explosion",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajB4Y2EwcVRSaWMxNVNrb2VocVVnZWd5Qk9UMWZ3U3dCUFY4Q0RpNDJqeEgtU2JsYnpfdC0wNXhWX29rb21BNWp3YkJnWDROUWpfSGR1MWEtU3BtNTFEQ21xNkM3aUFlaG5fblJCNmlqUUFWa2plOFdBamdWc19uMWZKVWk1ekZvdnpycjlTQnU?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:25:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Jürgen Klinsmann im Interview über die deutsche Nationalmannschaft und Pep Guardiola",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUU9JYzhoUWdTQkZwQUFFcXJKRHRDQXlYYjR4WjBNVTQxNmI4V3h2SmV5bjJ3d2NZNjEzZlVyejh6QzVVa2tzQTZDakNZb2Y2a1pSaVFVUVJyMXkzUzNNb3RzTHR6bThpemZLQUxaeDJVOFB6aWJ1eW9NMS1wZzFTaGRJR29mOWRKNWwwZWI0WGZyU3FXd0NmVXc2VkxtN21mb0hKdW04U2VJc1ZGTGFISmFhd25lTUFRQ1JMRkMyQXlDdTVFaEdpV1pkY1ZiaVNEWVJBNkFR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:17:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46112",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlRsTlplaTZ6eVN3bktIbk45aS1wcTA5a3NmMG5UeXlabWlrOHBOaTdPTENOa1M0UmRVcS1qdG91eDRZZjFlSUthQmpSOXd1OTNaSjNLbnpRUHROQVRUTGNKaVFreDJPYW8yamhmQWlDVjVUeHRiZUNLa2s3NnQ2THgwWFZDc0FPY0VZZlBsRlBkcVZiNUo0MTRIVVNhTXlFbDNR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:02:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "Video",
+   "title": "🥹 𝑷𝑶𝑽 your younger brother announces your 𝐜𝐨𝐦𝐞𝐛𝐚𝐜𝐤 𝐚𝐟𝐭𝐞𝐫 𝟒 𝐲𝐞𝐚𝐫𝐬! 💙🤍🖤",
+   "summary": "",
+   "source": "YouTube",
+   "url": "https://www.youtube.com/shorts/Sp012IYXy8Q",
+   "img": "https://i4.ytimg.com/vi/Sp012IYXy8Q/hqdefault.jpg",
+   "ts": "2026-11-16T19:00:34+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "„Bild“: BVB wegen Schlotterbeck-Gehalt in der Klemme – Anton fand erstes Angebot zu niedrig",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZEhYSFhiMk9Zb0ZsYU4wZ1pybW11dGszMVR1OFN2aDNUeHVrWHlCS2tEbVBFMmF2MXNRN2dOYTAtX3BpcVdKMk1La3VxUjJoVkNKSVJPdXB5M0FhTWoyTmtERDZFV2FCa2FZUWJHNGVfbG9YMFNXcnNaMWk0a21ReHYxTzV4NmhERVhCTE9DUjMtVk00d3VuTnp1T1BIZko3a3kzSjk1S3hnSFdNQVBRYkJWS09ZOXRyVzd2R2hVY0tfZE5rS0VOcDlMRWpSYVdPd2dBNQ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:00:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "„Bild“: BVB wegen Schlotterbeck-Gehalt in der Klemme – Anton fand erstes Angebot zu niedrig",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG1yYW9NclJ4WDRkOTZMV0p3dU5OSlV2M2xtQTJMbUZ3MGVMU3poV1hUaHhIWldPaktxb0Y0LXc0Mjc3YTN6M0VETkFMbi1IdkcwR3BtZU1FZXM1YlU2YXJ5T1lDdFd0V2ZYQW1jWWZPMndib3NBbWV5cUhoWTFYZlNLYU40T1Y2LWp3SHZoakp2U1JCLU1qT1ViX29ERUg0dnBPMWM5UENWU2x5bEdCbGtYTlNXTnRCUXd1UWJNX3lxdmFHZnRSMWlFRHdKcmt4WDZ5NGhlMldmdVRGSFdoM1JEdHc2NnJEWlJF?oc=5",
+   "img": "",
+   "ts": "2026-11-16T19:00:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "VfB Stuttgart - Frauenfußball - VfB Stuttgart - Forum | Seite 262",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDU3NFhQYXlmOVdnWEZhNW8tV0hFQy11N0dOUzJteC1mMmo0eHNXLTVHVlBoOVdZbDVOZzhpWmJkWkRjSUxxYjJwdC1WN3h6SmZ2RHpEU214dVlDczI3cC1FQkhHazR3c1dLNk5qVmNVN1lhY08yV19jemNVVXJvM0xTbkU5eW1wdWhTaTNrdVR4NXlhcW45cVZ0cmpoU2hn?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:50:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Premier-League-Schlusslicht reagiert: Crystal Palace holt Thomas Frank",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZm5rNmRQQmpTbElXaHRycWVnaVNxLW01TjI4UllkMV84UTg4dlV5dUpfaHNBYjJMeVhzVGdzUUJ5Q2VkVTlRbWpQbDV1cW5IQU41d0d3UlJ2dXpTYzk2Y1BHV2ttcjBYeWpWeU8wc1M0MldCYWNNOFowaW1reURTZ3hYcTJScWZKMWdVcHBWanUya2NYUmVmYl96OEVVaVBzdW1HSXQxMlRsWTZXN2Zhc2ltTFZXVy1rdVFFbXNSQQ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:42:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2401",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2ZIZVRnc0pBQ01WdmpnNE02NXdyX0VPVFBUNDFpSWRhSlNGc3dBUDNkc3NTMF9KSEZxczJPb2E0QnFQQWItMVpyNmpQMHNqM0VoT3E2d1JFT2pHZ3ZJUlBGTURMbGFwZ2ROVGhWT0VFNlFxdUdkT0VPcDlTUzJIbGpGX01panF6MWdBcU1XR2pmN1pHYnY0MGduSTg0eXBpNWc?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:40:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Gerücht",
+   "title": "Bayern-Interesse an Tresoldi enthüllt: Transfer hat einen Haken",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmg3YU16QmRaVkFDMEpSSDV4eDFlODROVW9YdGhyQVpWdmYtUHZ1OW1WSmNNd3RPU0tKM0FiNDF1LS1DY2Ftb2dpbnNIVW9ZQXBCU2w0bzh0aWhUWDk0VDFTUFUxXzFvRGJOSS1PUGgyMUNjNUFpUXRIVV9jSEk2ZUJoVmpCY2FFZDIzN0ZB?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:35:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Nach Transfer-Kritik: VfB-Boss Wehrle schießt gegen Uli Hoeneß zurück",
+   "summary": "Gemeldet von OneFootball",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVZfcm5wQVRsVmUxLVR1andvQ1kwb0RmUkY5S3pCSUJ2NlVXdS1LcmVSazRlS1VRMVA0MnU0UWNtME1nVlI1aXIzalNMZnBZbzE5YS15VWh1dVg3SVM2VnBfOGZSYVBBdXdVNWRFYnBNeGc4R3lmQVRnUTltcEZ6ZWltdHk4bWJxek9EQ2hDV0lJdl9sX3FlVjhCUzROYW9kTXA2MDYtcFpNbXVjWDBScDRxNA?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:26:19+00:00"
   },
   {
    "club": "FCN",
@@ -31,6 +537,17 @@
    "summary": "",
    "source": "FCN.de",
    "url": "https://www.fcn.de/news/artikel/clubwoche-spezielle-einheit-fuer-das-torwartteam/",
+   "img": "",
+   "ts": "2026-11-16T18:23:20.861786+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": null,
+   "tag": "News",
+   "title": "16.11.2026 Fortschritt bei Remberg, Rückschritt bei Sambi Lokonga Männer",
+   "summary": "",
+   "source": "HSV.de",
+   "url": "https://www.hsv.de/news/fortschritt-bei-remberg-rueckschritt-bei-sambi-lokonga",
    "img": "",
    "ts": "2026-11-16T18:23:20.861786+00:00"
   },
@@ -77,6 +594,17 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2d1Ymt6dTQxdml6Y3lCcElHanBTV3hNcGF1YWJGYnFOUkVhUEJSeXBvYzNzQ2JnMWxSNm1kNk0wNElSNmFsQjBiVHc4eE5IVUVScDY5SEhYZHNrdGtidzduZHhFMHgyaTBsNU1mTXQ1R0ZyTXgyYkdHTzhsTm5aM2dTMVZJOE15ZWkyU3dIVXlpY0hVSHBQV1ZvaURBZ2ZaR3c?oc=5",
    "img": "",
    "ts": "2026-11-16T18:01:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Knackpunkt Veltins-Arena: Diesen absurden Nachteil hat Schalke",
+   "summary": "Gemeldet von SchalkeTOTAL",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2QwZ29QRHUtMDdqY3A2YkFGZW44ZFhZa1B6WjU0MWxJdlh2Q3pRZzhGSGJjV2NxU2xkdUl0NEJPVzQ5ZExzX1ExWTllSTZiSEJ1Q3RkeDdWYnVSTnktYkc4cUZ1YW9tcy1JOGw0V2pnTG1BRy1ad2hKdjZjZjRBVVFaQlFhb3hpOFZOLTJNWlA3ZnBLakpHMUk1OXU4Zw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T18:00:35+00:00"
   },
   {
    "club": "HSV",
@@ -126,6 +654,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T17:47:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
@@ -146,7 +685,7 @@
   },
   {
    "club": null,
-   "league": null,
+   "league": "2. Bundesliga",
    "tag": "Transfer",
    "title": "Spielzeit für Eigengewächse: Hertha nutzt Gunst der Stunde – Werder profitiert von Rückkehrern",
    "summary": "Gemeldet von Transfermarkt",
@@ -158,17 +697,6 @@
   {
    "club": null,
    "league": null,
-   "tag": "Transfer",
-   "title": "Sommer-Wechsel von DFB-Star Malick Thiaw möglich! Mindestens 80 Millionen Euro aufgerufen",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGRlcEtXVU1wSVk1c09OSkxTRlp5QndNTlhtcnAzMWxmaUYtX3lsYXNyTHowdEFEbFdiN3NVd1g2OEJTRUpDQWlKWmstS0E2OWVUSGpjdU1YNWQ5R24yMXI4OTRYbkk4STltX05lVUtpdUIxbW10NXVOVDZaMHRUcDNiOHFNS2UxNEhtYzRuVXhWNzlVWWdjWFdBTmZCN3hzRThMdkJtNDhRal9nVXBDWGxGUEpqcVFIRDVveGU1Nk5xQ2t3SHg3ZWhwbXdDcUVSaVFiNkpR?oc=5",
-   "img": "",
-   "ts": "2026-11-16T17:35:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
    "tag": "Gerücht",
    "title": "Gala-Abschied? Jetzt spricht Gündogan Klartext!",
    "summary": "Gemeldet von Sky.de",
@@ -176,6 +704,17 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3gwRHdzWHZsaS1hY0pNbkRRRDJHQlVFSjQwUFJ2YmxxTGJxSkV6djBmN3VkSEJuVGZ3MmxveVYzWjQ2c2dlNEdtNERPYjdqQVhaMUxFbFlCdEwtVFBnRzR3TV9tZWxSS1IzZ1ZoVlBvNFozMk95bUZPNGl5YktMQ08wcFNRVjdvSnFONGlRal96Tlhvd2FiZjNsbnR3NmRZ?oc=5",
    "img": "",
    "ts": "2026-11-16T17:35:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "BVB - Jugendmannschaften - Borussia Dortmund - Forum | Seite 2510",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1E3SGgtY2EzQkV6Vm00T2VRUVluNGVYSGdReHp2T2gwU0pfZVlqNXZPdlFycC1mUnZpN3NyZE5TanRleU9nTzRleEhDQUhlT1ROc25XRUtzcVd6WmpQM3pMZ1hJUmdiaWZKTHEyTmJBcEZUVXJyekNZWFZxbzBmSDNfQk5wWERZcUNvX3dvbjNMTnZ1cXY5bkNR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T17:33:00+00:00"
   },
   {
    "club": null,
@@ -202,6 +741,17 @@
   {
    "club": null,
    "league": null,
+   "tag": "Gerücht",
+   "title": "Gala-Abschied? Jetzt spricht Ex-DFB-Kapitän Ilkay Gündogan Klartext",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3doU0g0Vkl1UjF2UERKeVJxQWxxdmV1ckhiSklNU1YwVjN1NzNrMGpPZ1hLY3hzYVlNSWw4UDNaWF83RkJZZGdoWHI1SmdHR2hrSmYxajlod0RyYXB5TFJxT2FxQW9CeklaWFNVSTk4UjdNb185WnJOb0FBY01Dck45T3UxdDk2RXpNYmhpem1vYklKUjB0QWV5MmJXaW9pZVN2NmpYQkpmNWJ3WjdodnBBcEM4dm1xbl9OUDV3?oc=5",
+   "img": "",
+   "ts": "2026-11-16T17:24:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
    "tag": "Transfer",
    "title": "Maza vor Leverkusen-Verlängerung: Doch PSG bleibt dran!",
    "summary": "Gemeldet von Sky.de",
@@ -211,10 +761,21 @@
    "ts": "2026-11-16T17:24:00+00:00"
   },
   {
+   "club": "BVB",
+   "league": null,
+   "tag": "Gerücht",
+   "title": "Schlotterbeck-Verlängerung für Dortmund doppelt teuer? Die Schattenseite des Deals",
+   "summary": "Gemeldet von 90min.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2R2ZE03OUJHRk5jd3VnTkplT2RtQ2ZlT3pQVHoyRVNFczBITzFrME0zaEhZLXROOElIclpIOUZFUm53VkhFaHN3UGE3WEloVjhMVS1iSVpFTjQ2V3FhbEQ3V3NhczhENXhSSl8teWt1Q0JlYjFnRTRkdHl2U1lnWXVtblBzWlI2alpCZ29CYXYyTEk0aWd0Ul9DczlOU0x3am02Yg?oc=5",
+   "img": "",
+   "ts": "2026-11-16T17:23:32+00:00"
+  },
+  {
    "club": null,
    "league": null,
    "tag": "Transfer",
-   "title": "Bayern hat ihn in Blick! So teuer wird Leipzigs Gruda",
+   "title": "Bayern hat ihn im Blick! So teuer wird Leipzigs Gruda",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEMtYnIwYnJPTlQ1Z01SanJpRzNoaGFTTXEzTWs5YVJYYWdRYVZXdjl5QXI5OHZxQXJ4VUtUbTVwdHJ3SkYtWEM0RzlyS3RqZVVXZUpmbi12aUJvLWJmczV4RHdiWGlVcjhOWHdZYWtyVWpONEVjV1U4MnU4andzU0NMV3ZEaDllRjdFRlkzY1RMN2poeUl3QUROdTlPTDIwU3hNdTlYZEI?oc=5",
@@ -233,8 +794,19 @@
    "ts": "2026-11-16T17:13:00+00:00"
   },
   {
-   "club": "HSV",
+   "club": null,
    "league": null,
+   "tag": "Transfer",
+   "title": "Finanzen - 1. FC Kaiserslautern - Forum | Seite 800",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNk9vNExXdFZIYldOdzdtUEU4ek9JTzY3STBOTk1vcnBJZTBxSUJ2UzQ5dU5mempvbzJBOTFscGhITkNWR0s0a0VKd2gyWWFHVExYdzVXNlp0VjFwSVVxWGZLU0dPNGN5Qld5VWtwNzJXQV9EWVJCRU9yQXllQzlfWkNHdkU4Zw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T17:07:00+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
    "tag": "News",
    "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus",
    "summary": "Das Verletzungspech klebt dem Hamburger SV weiter an den Hacken. Mit Albert Sambi Lokonga fällt nun der nächste Spieler aus - und Trainer Merlin Polzin gehen die Alternativen im Mittelfeld aus.",
@@ -253,6 +825,17 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWlNWC00ZWJENFJsUE5xcllXNTVQbWtudGJ2VTl5ajJsc3ZCSjc0aXV2bTlrWlBPNkF4b3JxZGNxbHJfZHVvT1lnSjcyNTF3S1ZHR3NLbVlfSWdrSmw2WUt5RGNWSDRQOEJrQ3dVUHpNV2tIXzVNbTRVeV8ySXByMVhJcWtmN1hIT0g4QVZtZF9QLVVTaVhvX3I4Z2JqcnFVdWc?oc=5",
    "img": "",
    "ts": "2026-11-16T16:57:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Allgemeine Transferdiskussion - FC Bayern München - Forum | Seite 12442",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFAyUW5BS2hUcWlNUm92R1pPWVZHZmZCMFZlTzZCbm1WeUtsYWJBbUY1dklFWDdiMHd1TnpuN1Boa1piUUV0N2FCeVNiYnNydWY5Z0V4bnJ5U3o2clFHR2l0TWZMeGs3WnNWYXU3WERfT1V1b0xFa2FJNjNXMm5vOXBjZGJQNm5Ec1lnTmFtX3lvVFBQODIzS2FOSlIybmdjejRzODB3?oc=5",
+   "img": "",
+   "ts": "2026-11-16T16:55:00+00:00"
   },
   {
    "club": "FCN",
@@ -324,12 +907,56 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Kaderschmiede - Bor. Mönchengladbach - Forum | Seite 1326",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG42cUlkdUZrM3AwbkxLWkkxYnJYM3NuUHpvQ2htSnVvODZYVG1kUlpDMTVZVkNEdzN1MzJjNW5NVXZQQmZNOG9SVEVpSk11U0h4Zmc0SlRaWUxfcDc3UzhsMENMZVJYR2dxaF9XdG11RnFGNXhrd0x2bVQtWGhpbzE4a25CZ3FxSnpNWlpR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T16:14:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "12. Spieltag: Karlsruher SC - VfL Osnabrück - Karlsruher SC - Forum | Seite 1",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15TkFhTy1IYnNUaXFIVDZmYUxKUG1wUVBiY1BLaThZdXNQOHBybWJ6RTJmQ1hjRjFoY0JGRklsQlBTSjhDdFFySlM2a0ZZNVZkWmVhbUd5cm9NakZ6VkVRVWYtTmhfWDVCTk0yaExuSE81RDNEQVE?oc=5",
    "img": "",
    "ts": "2026-11-16T16:07:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "12. Spieltag: Karlsruher SC - VfL Osnabrück - Karlsruher SC - Forum | Seite 1 | Seite 1",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZfcHBtVjRGRFQwOU9PLU9pVWQxZFJvSzhDRE0wbVRUdktGS29lQkR0aTNQeHozbXhlcTUzbXpoN3dSSUcxOVhHUUROQXI3LWt5THVYSmtTU2V6RE5HcUpJa0k4ZjJoN3pHTlc5QW0wRC1NSXc0TGZZMWd6bTJfZGduODNnajd0dU13c2dVMGVnZjRKcmo0SGZQWlZ0NlpyX2xfZ0VPT1pmajFC?oc=5",
+   "img": "",
+   "ts": "2026-11-16T16:07:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Der Ehemaligen Thread - Teil 6 - VfB Stuttgart - Forum | Seite 1337",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXpMS3pPUndFMDZuZ091NXZhUmhFZFEydC1lNUd4ZGVSX1ctVi00YWhnSThZUFc4bVJjMFk1VmJVNUpXMDgyeG12RG5Jc3BUU0Vabl9OdjJwNno2WGFGM2x6dm1sckhOWWxyN3RkckNKMnNwMi1uUlBSZDBtUG9QRG42ZlRUMmlOcEtEVFh5MnNtYzFiVnRmdXNYMGVEUjdkaVE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T15:59:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "\"TM.de-Ethikrat\" ☕ - FC Bayern München - Forum | Seite 23196",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNE9CajYydTVHMkNyRy1CR3k1NzRLZFloU2ZSc2l1LUd0UV9GTVNBWlRCam9RblZUTjE4UzJiSmQwajRaWUxFeEtoazVrMXc2ZXRSS1ZiNWpMam4wVHhYRkRRQzZwX2JPRjN6ZHU3NWZhaEx3b0d6VUJBUm9od0d1OEMwVkQwbktrMGtNMzlkYmVacVN4ZXFXWGJCb1JXckxMTlE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T15:59:00+00:00"
   },
   {
    "club": "FCN",
@@ -344,7 +971,7 @@
   },
   {
    "club": "HSV",
-   "league": null,
+   "league": "Bundesliga",
    "tag": "News",
    "title": "Rückkehr von Mario Vuskovic beim HSV: \"Vier Jahre davon geträumt\"",
    "summary": "Der Verteidiger der Hamburger bestritt am Sonntag gegen Hajduk Split das erste Spiel nach seiner Sperre. Unter Tränen bedankte er sich für die jahrelange Unterstützung.",
@@ -366,7 +993,7 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "2. Bundesliga",
    "tag": "Transfer",
    "title": "Transfer News: Vorzeitiger Wechsel: Neuer Frankfurt-Sportchef kommt früher",
    "summary": "Gemeldet von News.de",
@@ -443,7 +1070,7 @@
   },
   {
    "club": "FCN",
-   "league": null,
+   "league": "2. Bundesliga",
    "tag": "Transfer",
    "title": "Offiziell: Nürnberg lässt Chatzialexiou zwei Monate früher ziehen",
    "summary": "Gemeldet von n-tv.de",
@@ -465,7 +1092,7 @@
   },
   {
    "club": "FCN",
-   "league": null,
+   "league": "Bundesliga",
    "tag": "Transfer",
    "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
    "summary": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann.",
@@ -519,17 +1146,6 @@
    "ts": "2026-11-16T14:44:00+00:00"
   },
   {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Gala-Abschied? Jetzt spricht Ex-DFB-Kapitän Ilkay Gündogan Klartext",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3doU0g0Vkl1UjF2UERKeVJxQWxxdmV1ckhiSklNU1YwVjN1NzNrMGpPZ1hLY3hzYVlNSWw4UDNaWF83RkJZZGdoWHI1SmdHR2hrSmYxajlod0RyYXB5TFJxT2FxQW9CeklaWFNVSTk4UjdNb185WnJOb0FBY01Dck45T3UxdDk2RXpNYmhpem1vYklKUjB0QWV5MmJXaW9pZVN2NmpYQkpmNWJ3WjdodnBBcEM4dm1xbl9OUDV3?oc=5",
-   "img": "",
-   "ts": "2026-11-16T14:38:00+00:00"
-  },
-  {
    "club": "BVB",
    "league": null,
    "tag": "Transfer",
@@ -550,6 +1166,17 @@
    "url": "https://www.kicker.de/rekordkulisse-und-popp-dreierpack-warum-das-frauen-revierderby-ganz-anders-ist-1272130/video#omrss",
    "img": "",
    "ts": "2026-11-16T14:23:31+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ex-Formel-1-Boss Bernie Ecclestone bei RTL/Sky Sport über Ferrari, Hamilton und Antonelli",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTFKSkRNbEhjUUttZXJ4ZXpBZlZOMWlJZHlwWEFVeGxGVzVuaUR5OUV1c0QxSXo0Nmo3RjdUd1FsRWMxUXpIaEwtOWJpanZGUFQ5S1R4QVpnbmo5dzNtTTRyNVNmNy05dDYxTVhWaUMyM3RHT3FjN2gzTERRMUl5NElQQTAzeF9LZHBHN01waFp2VWxDVWpwZV9VZEo1SkwzXy1GWTNjQWx0bGxPbVl3NVFzemR6cDNnVmtEWENjcS1pb0tDQnVwRFhVREVqNU12NnZobzF4S2JLdw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T13:59:00+00:00"
   },
   {
    "club": null,
@@ -748,6 +1375,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVZHQTIyWGE0a0ljX3BySnBWWnczWmtFQ3Y0X0FKNGR0QjFZN1cyaEpUTll6cVBfS1VMaGxKZkQ5aTNmRGZfNnV4YnFRdXpoVGtiZTgtQ3B3eVVoam1BbmhDNFBDZ3g3WkdkTDhQUmdiWVBfRXZTSXpUQkktTTJBUUhmY25xSGhDcHpwU0U2cjdWMmRINFQzQ1lNMDFsVDlRbTNqUm5UZ3k5R2FPZWtHcm1LNFRFSUo4WlBTbkwtb2NTdGlRRjF2UVlzY0ZJVXZua2t6MC16ZzNpMnM?oc=5",
    "img": "",
    "ts": "2026-11-16T11:21:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "3. Liga",
+   "tag": "Transfer",
+   "title": "Lamine Yamal gibt Barça grünes Licht für großen Transfer",
+   "summary": "Gemeldet von fussballdaten.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzVITWFibnpCWWV2Z2FzYzU2dEpIQVpyNEV1SkFINk85WVhhUHlxcEVQa3dMU0xlZmllR2Jyc3VRM1dmU2dHZjhtMm5IZWFoZ3d6cURlWjI0ZTNoYklqVHNZT2xXSnJLLWRjSFZwbzBJWWNYMXdEU1gyVk93ay1CY0FfcU91Uk5JY0twT3cxQ0REZkU?oc=5",
+   "img": "",
+   "ts": "2026-11-16T11:14:00+00:00"
   },
   {
    "club": null,
@@ -995,6 +1633,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Kane & England entzaubern den Weltmeister",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHZoajZIaFJaeHd5LUVxM0x1T29iUDljdnhfME1Vd0xTdkdJRVNQMkwwLVNKRThaUXJoY1RZbll3QlkzdVBkZTdpcndGVzNhNUR1NXZvbkkzUURnN2FWYWs5ZmtGZThUYUVndDJ3T1lldDB3UldnSTdSeFhSRHkycGM0YlhMN29HRWJzQWNiaDZnQWZTdjlJ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T09:01:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "Finanzen - 1. FC Kaiserslautern - Forum | Seite 799",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -1028,6 +1677,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Frankreich müht sich zum Sieg gegen die Türkei",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlBtZUZqcnE3SDhuOGRWbTViUW1VVm1iUk5rR0R0WlRzWWRyQ1lBVkFNTWswVDdlYnJxbG0wU2NDWEhyYjNGaTFsall4eEFDT0xXaXYta3JqbjVkYkNSeFNfbkM1V2hKYWxEcmRvdnQ5dGw5LVBfWTE1Qjg0UlpiQkRzR3gtckZ6QTczTFRLcXo1X0hwSEhKbHp0SWd1dmExQ3pR?oc=5",
+   "img": "",
+   "ts": "2026-11-16T08:14:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "Jamal Musiala [10] - FC Bayern München - Forum | Seite 1077",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -1056,6 +1716,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0ljWFBocjg3czRZUjltUzNmc2UyaERJbU5ITEdkYzBQV09SUUxkdHpwUk5ZTG82VnRhYm4yX0RWcmlPcGpjVDNHUWctaHptaE9JODFQRFlxamhidGlJOVVzYWJBS05pdUt3UXFobVV1ZWdrV19TaDYydEFKTk9HT19ja0NHWWdmWFlIQnRfVURUWTZIZ0tzREVTMlE5SjBnVTFsRU1BU3g?oc=5",
    "img": "",
    "ts": "2026-11-16T08:05:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Hartenstein stoppt Negativserie mit OKC: LeBron James überholt NBA-Legende Kidd",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjJkTmt0eUxxZzdPM1lGNllOSzN2dDk2a2V1aF85TlJiRnZ0a1FJZXlZWFJoalpBQmEwc1dfQlZSSzFiX2F1ZUE5YW9WbllZWC1nLU15VDFQa1lZLXBIbWhDaTJwSTJBMnVGQ3RrSm81MVZxNWhDd0hIZFFjczlaV3A5czh3REhVU3EwNDJ4cjg5QnlkXzZGV1ZnZktuWnFNeU5QcUhSWC1SWi1MRTFwUkIzalp3ZkFjY2NQdHN3MHF0MUlBWFE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T07:57:00+00:00"
   },
   {
    "club": null,
@@ -1102,6 +1773,39 @@
    "ts": "2026-11-16T07:10:00+00:00"
   },
   {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Ex-Bundesliga-Legionäre schießen Kroatien zum Sieg",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2xhMlBKYjh6UkVuZVpxTWZtWUo4VWxObUp2R1lPYnBleDg1MFpaSHV0czd5RHgteDdidnlTTGlfNTY3RTNFbnFpemREc1poUU1iNXd1SUtjS3hnekdod045NldhOVRyR0ZLdWNyNmNXem5RYS04QS1TNVNrb1Zkek9qcnpjRmtyZWFJaUhNWmR6SUVCSFJXdEZheU8zZHB0d1lUYVloVmk?oc=5",
+   "img": "",
+   "ts": "2026-11-16T06:50:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Draisaitl knackt 20-Tore-Marke: Oilers-Star glänzt beim nächsten Edmonton-Sieg",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbF9GUzgyR21POGM4RVZHNmlhdDU5dWNaTnlEamRlYXhqdTd0Z3RBYzdyOGlCWUJySXEzZzRPVnRFd3ZRdlYzMk1pSGMzcmZXYnBnYmIwcGgwTTRGYnRmaGdXOFJoelBUVWIta0FxVnBzWVhlbG5VU0NSbnNmbmhFRzk0enVWejI5VVpnYzIyX19DM1Vpb19wcy1QdXpKWm5YTDJta2VxX3YzNHFiS0I3Q2Y4Rl80U25LQjJ3Y2tZSk1tclVvRUE?oc=5",
+   "img": "",
+   "ts": "2026-11-16T06:47:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "San Francisco 49ers gewinnen Offensiv-Spektakel in Dallas || Bengals zerlegen Steelers",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU1dCZDNTMDFzdGVSa0xqVk1qWFh5NzJ4OTBEWUFTLVhpVXk1MXVWZXZCaWNSZFhRWEhjQS1HaXNzU2Y2T3JWdWFQeW5zRERRUEtGd3Bzak5CLS1rbTlLQXFPVnlwODM5RFc3WmN6czZQVkwxdXRtNERTdkFVWmEtc2I1SUFMelJaeVVBYlp0NV9TTHVSRjZNa3FoMjN2ZVJHWHQxSks5OGk3dl9rUDluWExQOFdhMWlZc2dzajdnWlQwVVBqLTJ6dnRFaw?oc=5",
+   "img": "",
+   "ts": "2026-11-16T06:37:00+00:00"
+  },
+  {
    "club": "BVB",
    "league": "2. Bundesliga",
    "tag": "Transfer",
@@ -1133,6 +1837,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW9rZHRBNHJFV19vNlptRjltWENzZFpZNk9ZVkM0QTJzUDV6MllmYUUzazBMbTFnODhwOWFfenpiRlRwZmF6NUtQWHpQWnFUNUVmNE9wS1RPazBCeEU1Ty16R1FtdFJMam1PR0g5VGE2U19oZ2syZ01aSXNGX0trV2o1N3dHeGtkZzJVd1BWZHk3Ylk?oc=5",
    "img": "",
    "ts": "2026-11-16T06:04:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "2. Bundesliga",
+   "tag": "Transfer",
+   "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027",
+   "summary": "Gemeldet von ka-news",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1ZUenNvR1paQm1wbVk1ZmM3UHpnRWhudnh6eFRxdnc2YS1jSEVuLWZTLXl5a3Q1UXlub3BrTDhsZHo5LWJScW5EaWxBZ0FrSVZvTjBzSHI1NVhGaWNmVVJvVlNMYl8wVXFKNXZXcllKNVU4TDlsZ19EcVpqSGZyTTF3TmFJWHJtN2Fic1V6ZmNfVFBrQ1BCRXo1WExHT1ZhNU41SHVMeGQ5TEFheHMyQ1dSTndDbUw4aWVQbQ?oc=5",
+   "img": "",
+   "ts": "2026-11-16T05:03:46+00:00"
   },
   {
    "club": null,
@@ -1226,6 +1941,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Wael Mohya [36] - Bor. Mönchengladbach - Forum | Seite 106",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnVocEFISk1CNklpN19qeS0xNklMLTBUMzMzc2hUNkhfcjZuMWN0WElvR3BOeVN2QlZrVWNuVVJRalp4M0lKUHV2d1ZNM2pnQ3R0aHBUMmFOMGxHclE2UXpGM25lVGZ0d25IcHRsdWtDbmVsVFNIMEJqcld6MnRxR1U2SFlHaDZLUDEyZFlB?oc=5",
+   "img": "",
+   "ts": "2026-11-15T21:29:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "TRANSFER & KADERPLANUNG 2026/27 (Wintertransferperiode) - VfB Stuttgart - Forum | Seite 31",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -1287,6 +2013,17 @@
    "url": "https://www.hsv.de/news/1-1-gegen-hajduk-vuskovic-comeback-sorgt-fuer-grosse-gefuehle-im-volkspark",
    "img": "",
    "ts": "2026-11-15T20:59:19.390965+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Allgemeine Transferdiskussion - FC Bayern München - Forum | Seite 12439",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0FMYWs1dGFxSlNfZWZZZTBZUWsyM1p1UlFaMWRReGRGbzVwQll3WXlEUmF6RUd2RllIUkVxbWxCdDl5S0lLbzVUbngyOGFKQlVPU1RaOEMzSlBMb0Y3Z2JjVi10bzFvaDlpcnJ2SFBHcTRKam9UbXlDRXJBdU1CVElXd2xjalN5NDh1X2lQWmhXSDhIUC1ILU1HanBjaUVPcFZTMm9B?oc=5",
+   "img": "",
+   "ts": "2026-11-15T20:49:00+00:00"
   },
   {
    "club": null,
@@ -1377,6 +2114,17 @@
    "ts": "2026-11-15T18:50:00+00:00"
   },
   {
+   "club": "HSV",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Mario Vuskovic feiert Comeback für HSV im Testspiel gegen Hajduk Split",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWE12czB0VUExNUVTbzdUQThCOEFONUpBS29iLTdaajd3VEJnOUNMRFp2MnZVVnd3S2lzbHp4X2tXRVFnQW1JdnJuYjdWR29jWVBKS3BQbDlsX1otLW1ROXZ0TTMwVW5iaHNVOTlEV1N5eGdESlRaN09xcE9WdGI2TFdLQVFpc1FIa1BHTXB0WllSM0x0OGxUZlV3Zl83eDFzX2RoMFpaZFlZVEFwX3lGYWYta1pEVEtneURtdl92OVNuQQ?oc=5",
+   "img": "",
+   "ts": "2026-11-15T18:43:00+00:00"
+  },
+  {
    "club": null,
    "league": null,
    "tag": "Transfer",
@@ -1413,6 +2161,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Jürgen Klopp will das komplette Potential von Kai Havertz herauskitzeln",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0VJUmVVYkJUYmRFNnI1dTNEaGZvcGZPZ1JVeFg0QW5YMmdxRVZoRDFwZGJDSWhJWDgwVW1RUXV3TWhSNXZMLVk4Y04xUmtsVnBrdElBdGhYU200dGl6emVDRzBoOUw1QUNabHQtYnFPSkNTMkxZYnh0bkhqQWlSS0VzbTRYNkZRcFF0WEdCZnJiSkMwSjlCdUhmUmVtdURWeWxhUk55NzlyNFR6a0h2RzFnU2RKM2hfUE1oZktWNTc0WmM?oc=5",
+   "img": "",
+   "ts": "2026-11-15T18:32:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "Jürgen Klopp über die Hierarchie in der Abwehr der deutschen Nationalmannschaft",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
@@ -1430,6 +2189,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHpyLV9uNWxkWF85WGU2ZGlzdEVFbmc1SjdrQ3ZrdXI3NVVfcFFPMHZYU2JjQ0Zvc3c0TUh0WTQyaVVhQ09OU3JoaFJZVjN5cW9aSklmcnMtYjZIc00weVR5cmVVZ3JyU01veE9wS2VObXZ1dWFDUU5yTmN4WUE5cUwtMDBlR0VkYktwZ3NIWnpyMUZUNXlFa3RKbzlkMGw4MC1OX1J0WkR0T0pmazlDS2VKTmZXUWEw?oc=5",
    "img": "",
    "ts": "2026-11-15T18:23:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Jürgen Klopp über die deutschen Innenverteidiger und Virgil van Dijk",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHU3ZUMzbExhWUhGSkE5S0RobWN1LXYwRmNsS3ZVdUpYTjVibzY1MXVFTVpLNjEwRHdCNVQxU0xFOXdOcUlPWUNKX1R6LUcxZjNiaHJPcnBhejd2SXFNWVNBcVVpMENGOVZvQm9XelBzNWNlLXFXdFJxWVJEVGRETXowZVBsT0JHX1NWcGVua0trWk9qdEtVZXY0R3NNNEJXMzhjczJvZTAyZVV0ZHp0RHoySVZsM3p4MWlqMmRTYXo?oc=5",
+   "img": "",
+   "ts": "2026-11-15T18:19:00+00:00"
   },
   {
    "club": "HSV",
@@ -1702,6 +2472,17 @@
    "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN3N4UzVWNkJTUjZVemNVMzRGYWpQY3l4U2lzSUU3aWFnLU1UNnIyTEVsbGhEejl4NGM2NXhxNWdiUzdLVG0tX0d1QlJPaVZMdjZnVzNocWpXUng0VWRpWlctS0ZmVHlfUHctc2VxS2pMUFA5bTFBbldtWmtKejdLZ3lacHVVb1BXVXZvRzNYOTdPMVE?oc=5",
+   "img": "",
+   "ts": "2026-11-15T15:45:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Gerücht",
+   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEg0bFRPY3lnNUp6S1RKNDV2SThnQUpFdGo0cUlTSGwtUU16SExvNy1BSmZnX2E1M2JFVHhzLWd0WGNhNFpnd2RDbTRrbWo4QWtfNHF3RlpncFV6ODljcFlQMVhMbjlZSUxTc2N3U3h5d21zMi1BbWlNR1dMLVg1aHhoQ19tZ2pKTnFWbFlLc1JSX2s?oc=5",
    "img": "",
    "ts": "2026-11-15T15:45:00+00:00"
@@ -1815,6 +2596,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGI0RnZmSkFmQlgxbDNtQXR0X0FoRS1rc0FtUV8tQms5Sy1PUUFfd1VkS25zSkdWRVNnc3A0blhGSFluZWNhdGp5Snp2eTVnZE1jUWRXUlZFMEZHUkJaN1ZXQ0hPdnRvdTBJUkVkdS1aZ1VMekhUMzdiUkpWMzBsXzJCc2FYaGhKUC03b1Q4VlBmVVVpZDVFYzlRZjRMVkU4TmtsSEFsNzA?oc=5",
    "img": "",
    "ts": "2026-11-15T15:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Amon-Ra St. Brown mit dem ersten Touchdown für Detroit Lions im NFL Munich Game",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSE5NSmM4S1NwN1hXMWdtTnFQTXdxV2FWVXlhMkhtanJKcmVJUTl4NmVxQWxjamloejQyVUZST2NxTWFwSUs0WmJ1RlJSTThWVXNyM3I5NHFUemFDVURqcjYxOVBfVWlzMHZ6Q296UFN4djRmRTJmYVNVcmpyRzFQMmpHODQ0U25HV1V5bmdjaHQ5VGNHZWxfblFEVXdGeEdQbEsxZzQyQ0o0NjZ6SklaQko5ZURSUVhfUnFuNk40cklLcnB6UFE?oc=5",
+   "img": "",
+   "ts": "2026-11-15T15:08:00+00:00"
   },
   {
    "club": null,
@@ -1999,9 +2791,31 @@
    "title": "Portugal mit historischer Heimpleite gegen Dänemark",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXFsY2xIbjNLdVlTcWsxYk1jVURRazQyR3Jud2lyUVZhYjlDUmU2NXNaQ0N4d05rbDVRdzR3MDZIQTE0NndQYVI0bUNwNldzbl9ZelhSQ3VwaUwzOWEyQ2F5YUxkYWdoNWFLaHJHM1lPdEdnRlphRWNWOVZHMVhYaUNHSjctV3hzZlFtVmZvR2Z4MHlnQktEOWVmU3VLSHZjNmg4NzVFTnQ?oc=5",
+   "img": "",
+   "ts": "2026-11-15T13:32:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Portugal mit historischer Heimpleite gegen Dänemark",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREJKLU5FWG1NU2lKOWJZRExWTWZzdjczQ0swM3FlSEhSLTczZEVkRktESUpOd0duQkNRVUI1Yk92bzhTem5uWGp3OG1yOGE5dDNUanhfZnRQa1o0SjhmV2xCTlBXM1NEQUk5YzhDT0Rwbnl1RW9FOU9sRlJOb0pmbW1xQkN0eUxIOEZSRU1acWtVMl9KMk5MYUs1bHhvb0FpZk1PcEhpX00?oc=5",
    "img": "",
    "ts": "2026-11-15T13:32:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Haaland trifft spät bei Norwegen-Sieg über Wales",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHNFTlN1Y3IwV2NtQ2RObHZpRHBZNWhrcHNpN01qaGxySEFYOEdFTVRZX2QxXzgxZDU3QWZnOEw2cEJENHAta21LakdqWWdPLWpDLVFHcjN2NE9LalVhSVN6TEZoeEw3NGZ3TFUtdjlBMDhsRmZZZXVpdFpWUnhQSFVFRDJFc0hmTlBqNkx6LU5TSVRwUHJOY2xwRVhYZFI1REx3THZR?oc=5",
+   "img": "",
+   "ts": "2026-11-15T13:30:00+00:00"
   },
   {
    "club": "BVB",
@@ -2035,6 +2849,17 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlhEMWUxSG1tV0JGWnpKQ1hhbVAxOEcyWHROMFdlWU5BSnE1VUpzTmM5b1dVcm9YcWhZa3NNbThOSTdadVFaTjFmdzRsMzhxUW5rU0pyZjZ6d1M5dGtocEZabXFtMVhjbFBHUnNuby1USmZnZmRTZGlJUnR4LWFPcG1BNVFRcjdRTzdVTThESmRVd3hmVXhMUXc1M0lYaWZxOE5qMnpLTlJydE1E?oc=5",
    "img": "",
    "ts": "2026-11-15T13:10:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Gerücht",
+   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTNwaU44TVJ2NVIwdzNETTdub01fMnVZV1VHajl5YW9mZ3VIS2d6MDNCYWVHWVZzSUpVazRsNjl1dThtU2J4OWtYTWpUX29uSFY1aVVsWnRqVUNza3h0d1Vidk80MllZTVFSSnhaRGd6dGV5MnZocXB1azdmYU5zYVpuZFpWNWQwNUZCRHYxTDdieGM?oc=5",
+   "img": "",
+   "ts": "2026-11-15T12:46:00+00:00"
   },
   {
    "club": "FCN",
@@ -2159,7 +2984,7 @@
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "2. Bundesliga",
    "tag": "Gerücht",
    "title": "Transfer-Ticker: 80 Millionen für einen Bundesliga-Star? FC Bayern schaut wohl ebenfalls hin",
    "summary": "Gemeldet von sport.de",
@@ -2233,6 +3058,28 @@
    "url": "https://www.kicker.de/matsima-ausfall-droht-mit-dem-personal-ging-die-augsburger-stabilitaet-floeten-1271713/artikel#omrss",
    "img": "",
    "ts": "2026-11-15T10:26:21+00:00"
+  },
+  {
+   "club": "HSV",
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "Nach Spekulationen um Bundesliga-Rückkehr: Choupo-Moting bei Ex-Klub aufgetaucht",
+   "summary": "Gemeldet von 90min.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlI3NDJ1d2ZQVEFuT0JQVHZZTnpGRlBpRUxuRWxQeTZTZ2VtbVhQR3dudDhaamhRMml4N3NKOFJKT1VGOUtoTXJwMEZwaFEyTEl3WnNKZWg0aUxsRFNBV2R2ZVZtdXZsOGxhTUNwSGFXaFlZbnp4dnBYYWd6YTNxVHJtM2EyZjZJenpkZDgzTVZGazVsZUFuX2o2RVNxeV9Nenc?oc=5",
+   "img": "",
+   "ts": "2026-11-15T10:17:14+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
+   "title": "Eintracht Frankfurt Frauen - Eintracht Frankfurt - Forum | Seite 186",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVBWbXBWVTdpekVrVDBYNV9RVXJDLTRMN29TNzNnU3FUOWVtVHRnU1RvYVh2LUZGX0NEOGhEZXNJcm9yckhJY25ycGFFbVRYYkt5dEdubkF1TWhrM0U1OFFkb0s5MUxVQS1ubFpzZUlIWGVRdXlTbEdHb2M2bzBEcTNGczhPV3ZXU1hmVmVKVnJMTzdDal9hU3BfMUZyQUZFU2ltVg?oc=5",
+   "img": "",
+   "ts": "2026-11-15T10:15:00+00:00"
   },
   {
    "club": null,
@@ -2403,6 +3250,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Giannis kontert Cunningham - Heat schlägt Pistons",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWZiS1FtazBFTEQtZ2Izdmh4VkFtNWxFeUlUcF9XOThZbl9fWlVQS2F4OWNjR005akVwSGphX2FvTmVvVkE2VkU4UGJHclBvUlJ2ek01NnRDemNlZ2tLel90bnJKVnBnaUc5bXQ0ZmVtM0U0d0JOOFFIUHBoX0NhMkI3cmc0SE1PQ3F4THBhUi1WRFVLX0ZXSDhzMGc?oc=5",
+   "img": "",
+   "ts": "2026-11-15T07:40:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "Moritz Wagner verliert mit Brooklyn Nets: Weltmeister punktet bei NBA-Pleite gegen Memphis",
    "summary": "Gemeldet von Sky.de",
    "source": "Weitere Medien",
@@ -2456,7 +3314,7 @@
   },
   {
    "club": null,
-   "league": "2. Bundesliga",
+   "league": "3. Liga",
    "tag": "Transfer",
    "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027",
    "summary": "Gemeldet von ka-news",
@@ -2620,17 +3478,6 @@
    "ts": "2026-11-14T20:51:14+00:00"
   },
   {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2401",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2ZIZVRnc0pBQ01WdmpnNE02NXdyX0VPVFBUNDFpSWRhSlNGc3dBUDNkc3NTMF9KSEZxczJPb2E0QnFQQWItMVpyNmpQMHNqM0VoT3E2d1JFT2pHZ3ZJUlBGTURMbGFwZ2ROVGhWT0VFNlFxdUdkT0VPcDlTUzJIbGpGX01panF6MWdBcU1XR2pmN1pHYnY0MGduSTg0eXBpNWc?oc=5",
-   "img": "",
-   "ts": "2026-11-14T20:39:00+00:00"
-  },
-  {
    "club": null,
    "league": null,
    "tag": "Gerücht",
@@ -2706,6 +3553,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUNtcDlLZ21NZGp1TWw2aHo4aUxfZWtHUV9wNHAzdWdKT215S1hkUUVyb1FLM2hJNTVfM0NwdlI3aTNMb1BiWkdvOTlFRVotbG1RS3ZCbFF4Q19PLVByVFVsYUtvU2hockg3MXpXNlJTQXpPUHZSMHJ5eUJrV2NnTG9kYzJZLWNKVDVVdEF6VFNIbWEyc0lSdm0xUXJMemFiUmlMOXEzRHhnZ1RpUjgwNkNocHcycGhyV0VHYmUzN3ItX3pBMnhDNE9mQVl1bzdfaEhwUE5RUURNaXlvT2hhNndR?oc=5",
    "img": "",
    "ts": "2026-11-14T19:38:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "Transfer",
+   "title": "FC Bayern gewinnt gegen VfL Wolfsburg in der Frauen-Bundesliga",
+   "summary": "Gemeldet von Sky.de",
+   "source": "Weitere Medien",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFNxcWFFY0ZfcUxNRHhieWRmT1pteVM5VEc2QW13TUNiaDJMNmxneng3bm5mMks5c1M2d2d1cmw0ZVM3QmJrZlhsbGNJZTFVUWlYS0tpZzBUdmg5bjYtYjhlV3VHMGMzMmhOVTZ4VUdZazBwRy1JaWs0NjBOay1oVXdwSlF1LU1lSVFySTM1czRod1pFQVAxU2RVQjItZ1ZyamRoaHRfUkM0S1NXRmIxa0RrUmJZQQ?oc=5",
+   "img": "",
+   "ts": "2026-11-14T19:30:00+00:00"
   },
   {
    "club": null,
@@ -3275,13 +4133,24 @@
    "title": "Ehemalige Borussen - Borussia Dortmund - Forum | Seite 3155",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVl9MQWtMRlZ3NXdSQVkycjc2Q2ZsZFV2bngyd1Z3TWh1dlpaQmRhZU1uYV9qNVYyb08yMXBsd25jRFZLM0dCN3V0aWZ1bVhKMlNKUDcxaktaLXo2cWtjbXZfclVwUWZTd283eE9EWkQxRnRHQnNTSjVFdWxxT01UN3FSaTMxX19GSEhEVjdBNks2ckQ5QWtXajJOMnA?oc=5",
+   "img": "",
+   "ts": "2026-11-14T10:34:00+00:00"
+  },
+  {
+   "club": "BVB",
+   "league": null,
+   "tag": "Transfer",
+   "title": "Ehemalige Borussen - Borussia Dortmund - Forum | Seite 3155",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3pSd2h2RUh0YnNyR0ZtSkJqMU50dmdxalE1ZVd6Q0ZSSXRBOHpGUVYycXljc1k5Y29kN2ZpUEdnamdvY09uZHd2QjJSMXFiNDNGbFlWUXY0V01tYmhnTTZqQjJKWmNETTdjTGZwOTFZYkZ5SmF0WGtHeXhtV0ZGeWIxeUE0dEdFM2d2ZFpHSnpTRng5?oc=5",
    "img": "",
    "ts": "2026-11-14T10:34:00+00:00"
   },
   {
    "club": null,
-   "league": "Bundesliga",
+   "league": "2. Bundesliga",
    "tag": "Transfer",
    "title": "Winter-Plan für Schalke: Baumann hat Zweitliga-Shootingstar im Blick",
    "summary": "Gemeldet von SchalkeTOTAL",
@@ -3470,6 +4339,17 @@
    "club": null,
    "league": null,
    "tag": "Transfer",
+   "title": "Rouven Schröder [Head of Sports] - Bor. Mönchengladbach - Forum | Seite 355",
+   "summary": "Gemeldet von Transfermarkt",
+   "source": "Transfermarkt",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzdQZVlIWF92bDRBNGtOcXdYZjBCVVdqSFZnOXRVTEdPWU9Cblh1aW03WDlCX1lLNnRwQ0VCYmc3LUh6NzV1bGVZazk2SmVMcklEVmJNcExUSG5lTG5PWnB6Vlh0ZG1Vem9vZU03RXBkRktOR1ZTNTdOUTl3c25XTmhkNFJVZzFUSl9QMzBVdE40aHRsSl9pNDJfVUFheFd0OEczMGljcXliUGVpWXc?oc=5",
+   "img": "",
+   "ts": "2026-11-14T08:43:00+00:00"
+  },
+  {
+   "club": null,
+   "league": null,
+   "tag": "Transfer",
    "title": "TRANSFER & KADERPLANUNG 2026/27 (Wintertransferperiode) - VfB Stuttgart - Forum | Seite 27",
    "summary": "Gemeldet von Transfermarkt",
    "source": "Transfermarkt",
@@ -3588,820 +4468,6 @@
    "ts": "2026-11-14T05:03:57+00:00"
   },
   {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Der Club / Kommuniqué des Vereinsbeirats Nürnberg braucht das neue Stadion",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/kommunique-des-vereinsbeirats-nuernberg-braucht-das-neue-stadion/",
-   "img": "",
-   "ts": "2026-11-14T02:39:55.620581+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Internationale Konkurrenz - FC Bayern München - Forum | Seite 8824",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDhObWZDemNNTXpuZFRUeDluc2RPZVBMZUJYcU5TMUZqdnNuWVRvYktBdFBiZ2pkaTlfNXUtY0RndHk4YVNVRkRhVTB3bzZ3TG45ZHpFcDk0eHU4bjlERU80LUhtTFFCY0RRd3NuUTRTUVNTT1dicHhzREhmWlRXczBxSEZwRUdlTXlLMHJ0NnJTYmthNXNxbFZrVmxIOU0?oc=5",
-   "img": "",
-   "ts": "2026-11-14T01:28:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Svitolina schlägt Sabalenka und komplettiert Halbfinals bei den WTA Finals",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzJmNmI3eGNpZmtISHAycTZqZEttUUNoQkppbXRITEdTRHdBSmVIQ01KdlRCRnlPOTJ1Z0Q1c2N4S0ZoMFoxMHpkREtNMmRLYXl5aXRodmxMcy12cUp1cnVEc01kbVAxN3M0TjBTSHcyeHExd0N3enlQVXExSmU3X25XUTFzY0ktdVZSXzlpV2RaeS1qSUFHS3RtNmNsM2xoUHFCS0Q1MEN1dDNjME14ZmxTQ1RoajBNTzZVRlB4N3h3eHRI?oc=5",
-   "img": "",
-   "ts": "2026-11-14T00:02:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Erkenntnisse von Lothar Matthäus nach dem Serbien-Spiel",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1RfWmdSalpUTDIzZUl1bnU1UzNYbmg3MzlLMG5vMkREYmxmTUk3OVAxOWxVbGVuLU5adDcyckJQTzZxYzJINTJZTy11SXlzZ2l6SVdULW9FYXEtT2txNGkzQ1hqTy0zRjI0NnVQZHBOUkNObWQxYnpSQnBvbHlsMVdNYmExS1RjMEs0Rl9PemJJNGJfYVFFNXdiSmNPVUFNenZ0Q0psa1Q?oc=5",
-   "img": "",
-   "ts": "2026-11-13T23:49:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Klopp: Deshalb hat Lennart Karl nicht gespielt",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanZZb2djNTdPV004MF95aXgtbW1scFdjekwxYmdzejRZelk2cDZCdWRvc0VsSllqb2czWF9lcURXVloyZFZ5UV9tQm5LbGt6LWh3N1REMXY3dFVTNWE0cjRIYlg5VnpnNXpYakg0c1hueWZUdHhlVUszNGw3eVBITDRkYzVzZlM4ZXJHcTQ4VjBFVXBYWWstLUFkZzRNTGc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T23:25:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Reijnders-Hattrick gegen Griechenland: Niederlande feiern Schützenfest vor Deutschland-Duell",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS3lPN2tJUU1TUFdodEV1UV82RVFCelRVczJkZTcyOElTNS02eFR1TUJiZDhlbWltQjhpUlVhWVVUcmFISGZuX2JrQnkxTXZaWW9hdGNvd1FJNXFabzBrXy1pQkNMY3RQenJXeDVQNlNDVjRUcVk5c1dNNFpERWZUeGRCWm5ubkkxUXNldFdiMER3NHo4akNQZnl0czlYRzFhUzYzRjBQNlhTQ0dKTWxUa0UxTHBFOFUtRVJ6alpDWW9iWll4eXEwY2d2RmgwTl94QTE3Tzl6bWlpdXZJWmc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T23:10:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2400",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0F3aDhtVGJzMWNtcUZoeE1fWmtsR0VLcTg3aFFIRGZLN1RaRGwtbEdsQ1llbWJwcnJ3UlNyVmsxd0NNQ092anhQNTdfeGRJaG0zYTdueHphbFVKTjNhU093TUtOb2pRY0ZDZzVFX1lvRUxmMGtvX2puSjZRT2d0YVRERk82RWN3am9VMTBIaGQxSHdiajNNQWxFYWY3bFBhUnc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T23:09:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Sehenswert: Barratt kontert Krefelds Ausgleich nach nur 19 Sekunden",
-   "summary": "Die Nürnberg Ice Tigers führten in Krefeld lange mit 2:0, verspielten dann eine lange Überzahl, kassierten den Ausgleich, aber gewannen am Ende doch noch mit 4:2 - und sind nun Tabellenzweiter.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/sehenswert-barratt-kontert-krefelds-ausgleich-nach-nur-19-sekunden-1271420/video#omrss",
-   "img": "",
-   "ts": "2026-11-13T22:55:38+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Nations League: So zieht Deutschland gegen die Niederlande ins Viertelfinale ein",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEpsQ2RjZXFzbndOSTJBWFdkMlpLR1M3U1NYYjN1MGJ3U092eW5QWXdCeVRPOXRSeFB1SVdBRUZOLVFuanpMMGw1OWtxM0hzenFONE5Gc0p2NU82NXpDTURvRjV1dS1RaWxwcm5QWnlwbHVlLWcycTZwZjlSTGtGbUE5YjVkWS1OVDdCcXROMjFZRGZRRHpBLTNjeEFFalkwWEZNT3FCaVd5ZFBJTXYtVUJGazdzcjdxN0pWNTAxbExzOUg1aWtHYXphdlo?oc=5",
-   "img": "",
-   "ts": "2026-11-13T22:35:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Jürgen Klopp lobt bärenstarken Debütanten Brajan Gruda",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlBoV3F0V0xTSEd6WHI2UlpHbWZ1a0JyQTlGQ1ZFMGgyWWFJWFlIdjVvTU00U0dwQWYtSC1iMnFfaTMwUXJCUDBwdnhRa2NYZ1FsYnhzZUlKeXNNS2ZfZENDRnpYd1NmRENtTXhMVUZrNEl6NWFrN25jTGJfXzZESlVGVG9XWlQyUFQyYi1MeTMtakh6WWVtSjhlT3RlWjhhRkd1d0c3OFhmVUtmUkpF?oc=5",
-   "img": "",
-   "ts": "2026-11-13T22:34:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "TRANSFER & KADERPLANUNG 2026/27 (Wintertransferperiode) - VfB Stuttgart - Forum | Seite 26",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUhvZDhZSzBXeG5pMmVQNlJJT0ZSWllMMzdZY1JaVUtFNlNZOUhJbXVnWTRCSWVQYkVWMl94M2VXank4cnlSVFNIRW0xM0FnSkdLTVBDOEYyQXdIX1Njdzl6b2Uzc1dHNmFyTU4zbUUzaXhEXzlGYWJmR1BmUzhsakRFckN0dHc3S1hZRUk4QkI0dFdiZkszdnZiOTRab0dpUnFrdkZvbjZSc05TcmZ0XzlwaGxpOE5fNDg4RFRjeFpfZWpXMjVoeE9B?oc=5",
-   "img": "",
-   "ts": "2026-11-13T22:15:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Fans / Online erhältlich Heimspiel-Tickets im Vorverkauf",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/tickets-fuer-heimspiele-des-1-fcn-hier-laeuft-der-vorverkauf/",
-   "img": "",
-   "ts": "2026-11-13T22:08:08.626391+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Fans / Laufende Vorverkäufe Tickets für Auswärtsspiele",
-   "summary": "",
-   "source": "FCN.de",
-   "url": "https://www.fcn.de/news/artikel/tickets-fuer-auswaertsspiele-des-1-fcn-hier-laeuft-der-vorverkauf/",
-   "img": "",
-   "ts": "2026-11-13T22:08:08.626391+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "Traum-Freistoß als Krönung: HSV feiert 6:1-Sieg gegen schwache Mainzerinnen",
-   "summary": "Gegen Schlusslicht Mainz feierten die HSV-Frauen einen souveränen 6:1-Sieg. Die Highlights der Partie gibt es hier im Video.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/traum-freistoss-als-kroenung-hsv-feiert-6-1-sieg-gegen-schwache-mainzerinnen-1271401/video#omrss",
-   "img": "",
-   "ts": "2026-11-13T21:58:23+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "EM-Qualifikation 2028: Deutschland in Topf 1 und vor Top-Gegnern geschützt",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFIdUk2eGVVakZxVEpTUy1BSS1wX0hodndsZGxDQWZqY0FrU21WWWFwRFg3Zk95ODN4LUhJSDQ2TWE4ZFhmSzA1WHFfZWRYVEJLUWt5NmY1RG1qeEMyMy1SeGs5QmZ1VDBreGFvR1NpUGY3dnZVMVgwOGJZRUNHbHh1eHFPb0c2X1hxdW5wVTRGbzZha2phUWlRTFB1WngzRzJZY3RJZUdMREJ0QWd5S2hsMll1N0xpR2R4Q3VfcVlJc1pBTXc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:39:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46102",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1pCc0NPZHlOT1UxWnJWR085ajloRG1HS1pQLXI0ejJRQUhJRDNiSkZabm9ESENmTnVxZkFkalNHX0VqQnlQcng1dHhpTi1qNkpOSDc3dzhWZ0FDN1dVUW5LQk9nNUdBQmQ3bHpJRDdvMy1wbGRQSi1BSlBJbTYyenJiRTFqenhoN0QwUGRJcXdOQmRvWTRyV1RQS05CdFYzYkhJ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:25:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Nach tödlichem Zusammenstoß: Spaniens Verband sperrt Torhüter Jesus Owono für zwölf Spiele",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2VLZ3FZTzJNWlR5ekNzU1BnU1lDTEU2MjFtZzUxemZzOHJBOEJaUXI1amsydWhQOFBhNF9hb2Q5TWJ2M2ExMGM5UW93cXpCcGlMclI5VDF2enE2Rk5GbTZkdzVrTk5veDE4ekxLeHd6elV3Yml1MDFNVkFLZlZ2RFJ4b2dzc18wcGVIUEg1QVAxTnNMbDB3a0tRMWFnT3J0MkM5dzFwdHc1NGhOMDhIY1JWRkZKRHc1T2k4aUZMS0FRTTJjWlM3OXhvMmxpSTZqeFlXcWw2V0N3UUplUGtadQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:20:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Spiele ohne FCB-Beteiligung - FC Bayern München - Forum | Seite 46101",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWZHZk9LSnJRUC0xakVPSW82RVNWc29TOEhrbllxX1dOaXl4UEFRQmg2YlRrczIyZVMycEJBZUZ5bkJJb0ZNSm5rVC1rNXVCZ0l0VlZROWV5cFMzZklVME8wVnFVMUlCZGJxTkVMdWtTYlJrRHl3aFY5WkhOS3d3Q0w4R3Z3QmJ0RmhjMmFSYW1EaHZxOGRJdERkSmc5NXU5WnlN?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:20:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2400",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlJHMkp0OWJMeWxjTHRoYW1USFA4RXplMk5wS0J1TmtVT2k3LTR4UTJQd2dFUVM3WWhUSWNUcTdWQTNIeC1sUXJwRmR4QkItamtQZm9LUWxjbmZOQW5IckNudURDNWdqUTJaUURySE1KcnZ4ZTF1QWJ5M3FkM1Z4cE1OcTRTRVdmQ1RGaFlWSlQzczlEVlNkcnJfSW1iT1piOUZWdmV0ckVDQQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:19:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "News",
-   "title": "Grizzlys ärgern Eisbären, Nürnberg nun Zweiter, Tigers verlieren Derby",
-   "summary": "Am 15. Spieltag der PENNY DEL haben die Grizzlys Wolfsburg in einem wilden Match 4:3 nach Penalty-Schießen gegen Serienmeister Berlin triumphiert. Die Nürnberg Ice Tigers schoben sich durch ein 4:2 in Krefeld auf Rang zw",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/grizzlys-aergern-eisbaeren-nuernberg-nun-zweiter-tigers-verlieren-derby-1271316/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T21:08:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "\"TM.de-Ethikrat\" ☕ - FC Bayern München - Forum | Seite 23190",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWFuMXVxZmhLVFRBX19GOUV1LTNCbWhKNjByOVBTbVUyUzE0dEZCVzFtalBSV1JxbHBra040UjFuY0FkOTIwZzFZRDBta2w1VFV4U195M29aYVJIeU92UWVZTDg1ZTlTWnQ2OEpVSjYwNDM3UkVjXzUtaHRuYzB1Z0hUZFVkelVXWFVPMW04c1dlNldfYlBWNV9aMmZlcDd5Wmc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T21:03:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2399",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWk85TURSRS1acTJOLXlRRE8ySEtEWU5vOVZmTUtpRjQ4cjVORjFZcS1YS0ZHUDFjVjJfaV9FRmZFaGhvOVNJejVtT2dWaWlkbTUyNzN1RjQ2MTl5TmJlZlN5RlBvNkpxYzE4bG1aRFNSd0F4UnBGYUlLWkM4dW1sWDZKTml3a3dFMldjX3VhTzNkV2hFNGNTbENlQzBxZlhrM2pxV3lrQUFqdw?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:56:00+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Bayern: Stößt Finn Jeltsch zum Kreis der deutschen Nationalspieler hinzu?",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTZxMHozSy1FcjBPRWtZZkt2MFVGYjI1c0owQi0xakkzUDFKbUlyQXlMZG5MVFR6czBXajBHQUR4VTZqdUdSbUw1eUdHd05OYy00SXJBRng4ZW8yOGdSZmxfV3RXZ2NYY0ZiQjNVOHBDVVFuRHRXMnNWTF9abjZhVWludmk3aFVhSWpTT1ZaMHdjSVB3WFBnUk5KQzduWV9COFE?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:51:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "HSV-Frauen gewinnen mühelos gegen Mainz",
-   "summary": "Die Hamburgerinnen bauten am Freitagabend ihre gute Heimbilanz aus und verließen in der Tabelle einen Abstiegsrang.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/regional/ndr/klarer-sieg-im-kellerduell-hsv-frauen-gewinnen-muehelos-gegen-mainz,hsv-frauen-400.html",
-   "img": "",
-   "ts": "2026-11-13T20:41:57+00:00"
-  },
-  {
-   "club": null,
-   "league": "Regionalliga Nord",
-   "tag": "News",
-   "title": "Siegtor in der Nachspielzeit: D/A trotzt zwei Rückständen im Topspiel gegen Oldenburg",
-   "summary": "Zum Auftakt des 18. Spieltags der Regionalliga Nord stand das Topspiel zwischen dem VfB Oldenburg und der SV Drochtersen/Assel auf dem Programm. Dank eines Treffers in der Nachspielzeit hatten die Gastgeber dabei das bes",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/siegtor-in-der-nachspielzeit-d-a-trotzt-zwei-rueckstaenden-im-topspiel-gegen-oldenburg-1246016/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T20:41:04+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB - Sponsoren - Borussia Dortmund - Forum | Seite 271",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGNlcnZWTUNpUVFENS1zX1U0TkROQUlIOFAyRHUyV2s0TXpTYko3RWJJdU11YzA1SjhMYUdvamp2am5JTS0yaEVxMnJpS3c3MHY4c2tvbFVhS3AzZ3g2bHEwQlo3Qkl1V3Noa0RVNllXcVMyN2E2X1hQNFVDc1lQNDkwQ29LNXpKejdpU1Z1cWZEWXpxQ1E?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:34:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2398",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2oxN2VFQ1BGbzdZSWlKTVVNcTkwYlBPalY2TG40RmlFMlhmcno5QkpVRTdMRXJ1WW5JRVExdHJST3ZjaXhfZTZTTXVxd1JvQzNweHlzUEJNUFRmUkxtT2FEenYxNkI2TUtwcWhsRUJRNFRSMXk5ZXlnZGZsbk5rUTVaQWMwOG0wVHZ1ZkYtV1hGRkZ6c3NDbUJUN0NpR0swbnh3dFNWeHdPUQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:27:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Ibrahim Maza vor Verlängerung bei Bayer 04 Leverkusen: Neuer Deal bis 2031 ohne Ausstiegsklausel",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXZ3a0N1UHUzcGNmRHpXNTFhaWVrTDlrT3Y2STVyejNaX3hxcFNHRnUyX3BZbUc0Q2dvMW1qcHltQnZuZmh3bktxNFVEX01mSkFnQU81c0plSnhGRER0OWhDWkM3NkRydUV5cVF6b0xUSm44VXhLNHA3WHVLam9WR1l4eFBybzQ5VDNBVU9CZDhsNDRnYk0xVElDeW1uUVd1QkJ1WEVpd1l2c1B1Szcwdlh4VEpmSC1lMFpYMnNaTjhiUmRhMGdncS14cTRBaGw0QXh6bTkzV1pGa3I1T01J?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:05:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2397",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXkxMkNVT2F5TVp4R2wtNkhLeEFLZElGQ0NvYTc1d3FWbXpwWWRvcmU1cjY5aWdvd1NkX1ZQX2lFTHFvOWlyaWRKTDlrdU1lZFU5ZVpfTzZPcWFTbmpmWlJBMzNKX3Bha3h1MS1TVGZFU09xV3QtZjlTZERoamsxa1VBYXAyeWZwOTBXLVlsUmZGdEQ2VUR2TDk2QXltZmRVQWc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:03:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "DFB und Nationalmannschaften - Borussia Dortmund - Forum | Seite 2397",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnRocmRrckVTN2pOdlUyejBkUEZRV09NZkd2M0pkOHVVemNlZU1wYl80TXdsMmZjV3Bma0NoTTNqRjczWjhHZHhDb0NSMThGbGJYOWg2ZEZQQi1LU3ZrbVUwODVndXozdlZhZGt4dGVGZzg5dmlkekZpTDNkTXJXckZ3ZnU5T1VsbDNJZzFuV3NjbGQzTWpOd3J0NFNnaVR2ZF9lb1lSelMzUQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T20:03:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Regionalliga Nord",
-   "tag": "News",
-   "title": "Buchbach jubelt im Krisenduell - Vilzing verliert trotz Traumstart in Bayreuth",
-   "summary": "Der 19. Spieltag der Regionalliga Bayern wurde am Freitagabend mit zwei Partien eröffnet: Die SpVgg Bayreuth siegte trotz eines frühen Rückstands gegen Vilzing. Der TSV Buchbach behielt gegen die Fürther Zweitvertretung",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/buchbach-jubelt-im-krisenduell-vilzing-verliert-trotz-traumstart-in-bayreuth-1238049/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T20:01:43+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Ohne Nicolo Tresoldi: U21-Auswahl unterliegt Belgien nach Chancenwucher",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHFxazVmYi1OM3prdDlISk9BQUVETzJMOTFTcUNIeFE0RWJjaGVDaEJFUVRFWVkwX19CRUhMRDVhSGROSjhDZlo2UThIU0MzOUZZRllDaEVyb2FUTTVsRmg2TWwtaF91bllvaWZFTWV4cEpTMTU5ZjFfcGpjLVZKYzZTNkdLWm1WRXU4U2pGcFdWWnA5eGJyU05FaldNTVoxMEJ6b3A3TTFLbk5IM3ZmXzNqcDA5WmNacDFCNm1QRQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:39:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pOYWdFTUdzemxvaG04LWlLS2w4TF9xU29pOEdLMi1Mbm8yRW1KWl83bUZJMUlXeXA5MUFaVS1Gcnl4WE5WWjZsbDEwVVFtNEJPZVJFRXZEcmhScG9YR2V2SG83T2dTMFNGS1hzbkhtUU1LdGdRbFRyeGgwZVJUVkdfN0tJZ0pONDlVUG9oV0Yxb28?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:23:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUUzdDdsQl9sVVlHQVhVaTBGa002WTJkaGUta29oTFU0M0k2ZWdKQUJXakJRVVhmMkhXWmlVTjhTMEhQS3JEMklHQXM5MzV5WUJ2MnB5TDg4TzYybjBsc2QwWkZPSmlIU2pVVjVObDd5bVhONkhnZHF6cW5pdzhQRVpTNHVjRV9oT3IzTWtzVmhjd3c?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:23:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQXhvWFNQRnhxdWo2cExLSG9KeXBhZm1nX2VhcW5wNFBmblB6R0pGZEgyazJmU0tRcUVvZDRxX0hlVFp6S1VveHEwNlhxOGhuUm0zel96NjhCM0RxbHUtS2VqVWRyMXBUOGF2Ti1mRFNyNnB5Tm1ZVUZYY1lPTU41cm1TNGJIaVZpcEVMRWNjUmFwVnc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:23:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3Rzb3VJbGtyb3UtdVB1TXUtTGtvcVZqQi1kaEU1cFdXWWtPbk9lSWtUcWp0anVjRTc1TjJKenN0bFJVdW16SEV2NGRkdG9jZHRXYWZLNldkdWpyMnBRYkFPUXE2dkwwTlRSZjNfZExMOWdBUVdOaExlWnBHSE9HOHA2TnVvdlRyeTVIYkJmd3p3Wk0?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:23:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTNwaU44TVJ2NVIwdzNETTdub01fMnVZV1VHajl5YW9mZ3VIS2d6MDNCYWVHWVZzSUpVazRsNjl1dThtU2J4OWtYTWpUX29uSFY1aVVsWnRqVUNza3h0d1Vidk80MllZTVFSSnhaRGd6dGV5MnZocXB1azdmYU5zYVpuZFpWNWQwNUZCRHYxTDdieGM?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:23:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Gerücht",
-   "title": "Nations League: Wie viele Teams kommen weiter? Die Aufstiegsregeln erklärt",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmdZNVE2Ymo0cTE1UHFaLTFaTkhXMXhrMmY3cTR3TVI0cWVnS21GWHNCV3QtMzNFTGZ2UmhNQ1dFOTRRYWpSNllvd1BFRS1rcTRYYTJhdEZMUFZUN2tnN2ZJcXZfMWV6WGo3UUUyU1lVS2xzZFRKbE5aUzhibDhQaEpzQVhFUWF5RV9zMktVUTByQlVNV3M5RHJVTmx0NmRZLTRkS3Vobw?oc=5",
-   "img": "",
-   "ts": "2026-11-13T19:02:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Niko Kovac [Trainer] - Borussia Dortmund - Forum | Seite 847",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmFrNG5aWTlydktfOE80ZlA0Y2h0eFRPV2dPd25ad2xGTnQzY3NTXy1nWmVOWGR4NzRXRmtseWtERURhQlB3OEVHUkNRU1JNWmd4RzQ5VmFVellra3BkUFh4SjJYZXZDd0FfcHo0Sk55NVJXQ21GX0tNNjZKcmlrLVZERm5Cc0c2VHVvMXAwZjBDUDli?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:36:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Niko Kovac [Trainer] - Borussia Dortmund - Forum | Seite 847",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGs5MEVNWWNsNFpyMG1IcUw1cV9xeE16b3ZvYkhsWVZ6UmZ4NU4xdmF3dDNQOUdTN21JbTJybUczR2Y5NGNudDJJb2VoVzA0MWZRVmN5UWZoMHBmem5sR2F3bG14WUxVUU1IazE0M2hZQTZXT1JsU1M0RE5XUGVnUDg0SWI1SFdLQl9WdFpEWUd2T001eEhzTFl2UElzQQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:36:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Gesagt. Gemeint! vom 13.11.2026",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFh0Z3RzSFNYQjRLT0ZrUXN3d2o4VWdrQmt0cHM5amgwQXdkakw3MnpXX0tsQmxGaDA2anJjQVl6VHBSOWtLMmtWYk4zLVMwZ2o3c1pSQkdvRHZsbWh1VzUtYktMMl9fUFFqWUlfcUthc0ZiSC1ZWW1CTXItM0pwcGRZY1JxTV9CRWc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:19:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Gesagt. Gemeint! vom 13.11.2026",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sbVlCVEFicUc5NVFfWHZPOEt2TnRPcnZBTjhJRERPakJTRlZZUENzTkpEUVhRcGxNaWhFb0JzR0QtVGxYNnc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:19:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Gerücht",
-   "title": "90-Millionen-Transfer? Ligarivalen an Chelsea-Star interessiert",
-   "summary": "Gemeldet von fussballdaten.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJHWUswSkdHMmxzaGx1blVvOGRwS2ZQX0NZYTA3TW5zRklmdWRFN3FKWDFIMUVrU3dSYUgzWlQ3Yl9oTGFnX3FKX2hSbW4tSEY5aFZyWlMyc2lveGJOaUtnYTRtaWp0aDBMVFdQNk1uU3pYV2t4VktwZUIxc2JPam1WYmgyRTg?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:15:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "NFL Playoffs 2026: Alle Playoff-Plätze und der Weg zum Super Bowl LXI",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVUtMGhhbDFWZDU3X3R6cDdjUkEtdzlpLS1UQ3JjYzhDd25uZW92NnlyaXRiZDhKUjFvSjFmWUgtOU82YlIzdGNxRVNPRVlBTy1hMXV2NmI3TXRubGQtQnRpdFZBTE1NSjg0Y25PM2RfWWh1RUFlZzg5RVNOd1RRNXBtZGFEOU1tS1h1TmQ5d1U2QTBfSWh3TF90NUUzVWZXa1NhMTV4NTcxaGJSUVBEWXpaR2psdGw5?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:05:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Wünsche/Transfergerüchte OHNE Quelle - Hamburger SV - Forum | Seite 3972",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjdOLTlSMTdmbjNCYWpTdFgwbUZ2NlhvZTlZQ3pnZFFWdlhhdW92bWJDSWRVbnA1OWlrUUduRFppcmNZZWZtWUJVUF83blJCRnp5VTVhTE5BZVBTVTV1VnplS0VrZ2ZhX3pMdlROek5GZFMtSTFLZjU3MjBvTGFmLXBzeF9qeVNhczNUcEdKSzdWTGdOaUI5Q3hTMkFybU9CX2NWaEI4N3k2NFI2?oc=5",
-   "img": "",
-   "ts": "2026-11-13T18:00:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "Fußball: 100-Mio-Hammer um Ex-HSV-Star?",
-   "summary": "Gemeldet von Sport Bild",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnEtMzR0eWhEeV9mVFY1cHJkZUdLTjV5RVNyVlQydDUtaXdXS0JGQ1BtWjY2VWFKWnB5cWJvSGk5RE5QRTB1dERHVXBiVXlDNUNJbWtpYTRHckJ1Ui1rak5Ta2c1bkxWNnVqSVdoaEtiWXRMQm9JdFJYM05lTTlBTjI3MHRWS2tSX2RZYUUwZEtlT0pfZW1VYXM1cUxIaC1ZTVlVM3lKd2JBX0xPUWhwa2U4NU5hX3Vra0tDNXd1eXo?oc=5",
-   "img": "",
-   "ts": "2026-11-13T17:51:32+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB-News heute: Rheinmetall-Aus besiegelt ++ Lange Pause für Dortmund-Talent",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjFwNFIxRzg1a3A3U3JwSm85bDVxeW5JR2I2b2pwTXhSM2VwYWxtSUxQeHM5dmpqRUVoVm5PVTQzVlBoSTNfR3FMbG5uUXNLaW1uRk1OeExVaHVsNFQ5SllsTEF6RDlYVVVJdmREUEs3VkZEN2JJTUZUdUNYWlJUNzNiSFBaWXdfN1VmUW5aTzdwNTFzX1FwRmE0UnQ4Z25kbEpwZGZ0Ymo?oc=5",
-   "img": "",
-   "ts": "2026-11-13T17:25:54+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "FC Schalke 04 – Transfer-News: S04-Flop könnte Millionen einbringen ++ Zweitliga-Star auf dem Zettel",
-   "summary": "Gemeldet von DerWesten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3FCOTNOenppYmFBMzJCV3VXUzFUZ1F4dFNCR3pDTDVDcmhhN1RjYThBYWg2R1VNZ0dMRzVYbVpVVUJ0Vl9YTnhOUDVoaFFSU3BnZ3Vzd3huMTRLcU02TGNIWG5oUVNUNXhWY1FtMzBHTUZTY1JtazgxME9KbmMwWkNuSnNtZ0lJZjhkekhJSWQyRTh4bkRaZkpKTW9hS0JLbHA4a0pkcUhuSDA2SEFwcg?oc=5",
-   "img": "",
-   "ts": "2026-11-13T17:23:04+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "\"Durchaus gewillt, die Schatulle im Winter zu öffnen\": Angeblicher Transferplan des BVB enthüllt",
-   "summary": "Gemeldet von SPOX.com",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMS1hdTh5dkZPYndIQzVYd29OUGFwQXp0YTZEU25Pa3hTNmF5VjJmcHhCdGEyM2pESE90bVZLYVg3YktEdzdrbmpTOTVYQ19HcnZFT0ZadFZSQnY2RWlsTi1lajAtalpuVVQ0dm9mVzdkR1NsQXZFSncyXzBnNlpla2FjbHd4Ukl1bkMyQzBUZjNJWEtfZTBLRGptTlBvaVRDVWdaWFpqRnVPRXZ6WHM1UVR5TmNqYWpCd2EzaGJJa3RJUmVqb0lVZmg5b3ZnRWFMTXZnMFVFNjVjZi1PNDI1YjZhcw?oc=5",
-   "img": "",
-   "ts": "2026-11-13T17:21:11+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Gerücht",
-   "title": "BVB, News und Gerüchte: Dortmund will Gladbachs Supertalent Wael Mohya aus einem bestimmten Grund nicht",
-   "summary": "Gemeldet von SPOX.com",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVE04aU1YUm9GempEVFNMYzZYMGpVOVBEUGltM25sa3NoVk8taWJYbEVhRm5KSnZnMzJZZFRsUjVNTHFveXAyX2h5NGJMU0xiUndMbWE3N1JtQzdzN1lSb21Qd0FYWlAzMmJfZXhIZUtURDFNZjhTU1B6YWZUeUI1OVIwVHRKLXNkeDQ2TURvTHNVNUlKckc2TU52UEVpdy1NS1djNjlncVVSeWZMcW5jWkJzM3FvTVJ4VUszaFBPNHpfUzB1ckpoaUxPTGxWTGtsTTlmdTZmYkg4NkF0UHJHVWlYOWR6RWd2OFdFTS1n?oc=5",
-   "img": "",
-   "ts": "2026-11-13T17:10:58+00:00"
-  },
-  {
-   "club": "FCN",
-   "league": null,
-   "tag": "Transfer",
-   "title": "SG Barockstadt verpflichtet erfahrenen Defensivspieler Pius Krätschmer",
-   "summary": "Gemeldet von Osthessen|News",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVNHM25MMHdjeEhBRXAxVE1OVklWb2k2WU4yLXNKcFg3VkJ1QU01NmFaV1lMeVBLd0dmRmNsSHFFeGtyZ1dsSl9HT0JTdVM2UHJHU3V0UTV3OENwaG12ZlBkMk5lS1N6eUZXaVpZS0hzeVpxUFRXMDlHMXEzQUxWTXFhR3JwWmpOeDQwWUNIeDhWcEI4MUNTdnA3N3RCTS12RGlsQUNYZkVqQllPRk9sVw?oc=5",
-   "img": "",
-   "ts": "2026-11-13T16:28:49+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "2. Bundesliga",
-   "tag": "Gerücht",
-   "title": "Dortmunds Winter-Pläne: Neuer Innenverteidiger beim BVB in Anflug?",
-   "summary": "Gemeldet von 90min.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2hqQXg2dV91b25SZ25jaGVsUlVCSE11Y18tQkY1YTJDV0hZdTdXdXlIS3N1SEJleHZfbDY5Y0ZFLUdtazZiUWVOR0duRlgzQUJJVmlneVU2djhHR3A1ZGN3cDZheWxFNVIyVFlMel9lM1ZicXhDMTJvaHpoXzE0X2lzZUhfOHBTQUc5YWpn?oc=5",
-   "img": "",
-   "ts": "2026-11-13T16:25:53+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Amon-Ra St. Brown begeistert Lions-Coach: \"Er hat das Herz eines Löwen\"",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVlLTmR3QmxGWThDdG1HcDJxNUtNZnJEUjk4VzhxT0pNMGlxT291eVRMZmtjbjVNeHBSOEhyMTRJV3lMYld1ODNYQ0JYNTh4Y0s2Rm5mUmYxUTYyWFFFMWQ4bnJmLTFCME9HQWYzUndkbE5NZTFFSkdKR3haZ0J5RkRsaHdBMTlRMnNxaVNBaEtZR0RNR3BzNjhOcHVIX1VPWWx6YzN5MDQyemM4V2ltc0hDWUxiT3c?oc=5",
-   "img": "",
-   "ts": "2026-11-13T16:24:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "13.11.2026 Supporters Club-Pubquiz: Wer kennt den HSV am besten? Im neuen Quizformat können Mitglieder ihr HSV-Wissen unter Beweis stellen! Am 25. November gibt es in der Barkasse die erste Auflage.",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/supporters-club-pubquiz-wer-kennt-den-hsv-am-besten-",
-   "img": "",
-   "ts": "2026-11-13T16:12:34.193568+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "News",
-   "title": "13.11.2026 Seniors-Talk: 30 Jahre HSV mit Jürgen Ahlert Beim Seniors Club-Talk gab Jürgen Ahlert, Koordinator der Ehrenliga, spannende Einblicke in seine über 30-jährige HSV-Karriere.",
-   "summary": "",
-   "source": "HSV.de",
-   "url": "https://www.hsv.de/news/seniors-talk-30-jahre-hsv-mit-juergen-ahlert",
-   "img": "",
-   "ts": "2026-11-13T16:12:34.193568+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "News",
-   "title": "Abstimmung - Bundesliga soll 50+1 \"einheitlich umsetzen\"",
-   "summary": "Am 3. Dezember kommen die Klubs der Bundesliga und 2. Bundesliga zu einer Mitgliederversammlung zusammen. Dabei will das Präsidium des Ligaverbands eine Abstimmung zu 50+1 abhalten.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
-   "img": "",
-   "ts": "2026-11-13T16:07:11+00:00"
-  },
-  {
-   "club": null,
-   "league": "2. Bundesliga",
-   "tag": "Transfer",
-   "title": "Dynamo Dresden 2. Liga: Gonther spricht über Transfer-Pläne und „verrücktes Angebot“",
-   "summary": "Gemeldet von Lausitzer Rundschau",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRUVTZjRPT3FkSXJGdDBPTi10Vkp3NWRIRVpUdzJ3bHgzZmpST0FzcG01SWV2amZMWnBGcGEyaUZMdDR5ZkN3SDhPNGRUODgxMlh4aEJORGlHVEwzSjgxX1A2LXNsOFNCZnk3eEpkaTNIWHZMdFZLbU15ckJQSm5CWnU2VGc1ZE1OVGlJUWkxUDRsQ3dvdEU2LWtIeXI1ckdqd0hsX0hvNlR3OEI2WFM0bFplUk5KbVdIcmxGX0ZOd3ZEMGliNVhKMTBpUTFESVEtdTRDR2QwR19qaWVkZ3p6b1F3?oc=5",
-   "img": "",
-   "ts": "2026-11-13T16:00:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Ab 18.30 Uhr live - Holt Mainz gegen Hamburg die ersten Punkte?",
-   "summary": "Am 10. Spieltag der Frauen-Bundesliga empfängt der Hamburger SV die Mainzerinnen zum Kellerduell.",
-   "source": "Sportschau",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306295/hamburger-sv_1-fsv-mainz-05/liveticker",
-   "img": "",
-   "ts": "2026-11-13T15:52:23+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Baltimore Ravens müssen sechs bis zehn Wochen auf Quarterback Lamar Jackson verzichten",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUpYc0ZGdkczS2o2Z1dBR1B3OWJSRHhtNnNMaFA2V09ZQkFBZF9rV1g3cS02X1N3c2pOYjFJWU9ZVDJ2NVZvWTBSTWVGcTlKYmxNZnotSDkxTkh1V2R4ZGZrcGdOVG53WmFmRjBBRWpnT2pEV3VpdWJQWWxTOFR6YzEyX0tnMFdJV0RvNU1QZzg3cktFcEV0SFhoZ0cxZW43a1hkRUszOXVvTnJHQlplajVFcml1U3JUNkFCamtSanNGLTFTMFZBd3pDTDA5cUpwVERhQlNlRQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T15:52:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB plant ersten Winter-Transfer",
-   "summary": "Gemeldet von Fussball Transfers",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFJ0YkVaaDBKLUJxUzRyNEN3RGpCSThSWUFMNTlKTkJfSnpKWThfNjNNcHlJOXFjcmhaVHFOMTNUNWNJeXRsbDFfWEJXNG9STjJHZ09aby1jQXpGQUlRbElSYjU1WTNZOEVBTzlBWUNxVmo3ZHpnQVlHVl92X2x2NjBVeU9sN1A1YXhOUldxR2s?oc=5",
-   "img": "",
-   "ts": "2026-11-13T15:44:51+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "„Sky“: RB Leipzig hat Palma im Visier – Unter wertvollsten Verteidigern des Jahrgangs 2008",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2J0R1A4T09aaEFYVzdCS2lMa25RR1FseDQyUnE3TXZvZWEteXVLdTJaYVdDUmZieG9lVEw2Wk1xWFFLM3d5V3QwM0I3V2xLbGZWU3JnX1o5bjdOelh6U0k1elB1bllNUXJEb1pvQlg2NWotVTZxbjFmYkZ5MndydDQtcEVuLW5WeHEwakdsTmhMNFgzZWEwcmtWMW1vMXBYQmxtTlpDR3BTZ3M5VzE3M015bUd6ZXNmZEtDWGZORGJhU2NCZzQ4eEROQkxsRGJRMWNz?oc=5",
-   "img": "",
-   "ts": "2026-11-13T15:28:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "Gerücht",
-   "title": "Die 2 Bundesliga 2026/2027 Was wird sie bringen? - Karlsruher SC - Forum | Seite 39",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZjMyVU5tYzh2dE1yWDhrS0lzR0taTWpzMWxCNTlmakdsUU40clVCMHhqNjE4SVVmVF91NkNCNTN0alZDQzBQbVRLUVB6TXZiOEFRcDhXM192cE9CbXhLdEszdjMzbF9QbnBSZnZkb1B0eDMyWkptOUJTdlR0WF8wTVZVQ05oc1JDaGk4NVhOb0VLbW1HamVmajRYZnFzXy14Z1FzNUplVlJrTldGQVFjUnktd2ZoWVJXU2c?oc=5",
-   "img": "",
-   "ts": "2026-11-13T15:20:00+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Ein Blick über den Tellerrand - Fussball (inter)national - Hertha BSC - Forum | Seite 1579",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZW9mSVJJN3czR1M3Q2VUa19TVkdMVjYxUGZzZDhIbDlHdFZraWItMVVYYWQtbDBaVEotR1ZrTXA1NmEzWmlXVFlBQ3htT1RSLWNiUElDMGU2cU9LTEZIajZsVVE1WDFXMUhnWlltNkNadjMzSC1jVFU2czZTSlV2VFQzRlJSY1dhNU1teE4zdzh3b3J6a0dGSkd2NDdKbm1fTXBxRVB4VE95SXlQMDY0dDJhMW1senFabVI2RGJsMUxMVkE?oc=5",
-   "img": "",
-   "ts": "2026-11-13T15:17:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "\"Ein Traum für die Liga\": Flensburg fordert Magdeburg",
-   "summary": "Beim Bundesliga-Gipfeltreffen steht vor allem die SG Flensburg-Handewitt im Fokus. Für die Norddeutschen ist das Duell in Magdeburg richtungsweisend - glaubt zumindest ein Handball-Star.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/ein-traum-fuer-die-liga-flensburg-fordert-magdeburg-1271219/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T15:06:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": "Bundesliga",
-   "tag": "Transfer",
-   "title": "Fußball-Bundesliga: Borussia Dortmund beendet umstrittene Partnerschaft mit Rheinmetall",
-   "summary": "Gemeldet von DIE ZEIT",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2ZPamFqOGxEYTdaVHptN2JkUlNsWEY4SnFwN0t5dW1TbmdrVW9NdkhVbEwzS2xENkZ0X2w3blZTWWo2Mkg3bU42WjVHUFRDWEpNYmRfUE9jUl9HN2VjV1NKZWRsakphbXNRbUlvOTFBN2NjNkpBWnBiZm9HOGRxMVhOZTBtWnRkNll4ZmFycGI1c1pybkZabV9DT2IwN0gt?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:57:30+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB - Sponsoren - Borussia Dortmund - Forum | Seite 270",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGhidHhuNzhWdWVyaEcyOU9nV0FTWE9uaVh2UEFzZUtkclVUdDJqd2N2MU5QcXh5YkNMNWx6TnBuS3l1RUJId3c2Yk9wLXBTYTVqX1hRZGdfdGRTWjV0TXRidmZ4REtXMFBRVjNyVVBVMnhEbGM1cUZqUVpOZzRxYlYtZXpoWHZlZnduNQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:57:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB - Sponsoren - Borussia Dortmund - Forum | Seite 270",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGNOcXlNWENraUx6WnV2cy1JeXpfRjRUaGZ6NFo1SXl5TXJ1bmExWG5NYmdpNU8tWW14aURHTEVQNHpVZWhyTEpackI3bFpCaTIyVUtOb0w1NVVuRU9iSVJ5UldwbGhabmF5eEZJYmlpS2pxQmNhQ3FFc29IT0FuRDVraWVpb3JQMElhNkQ4bGE2U0s0emc?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:57:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "\"Jede Serie geht irgendwann zu Ende\": So will Lerch die Bayern stoppen",
-   "summary": "Im Topspiel der Frauen-Bundesliga erwartet der VfL Wolfsburg am Samstag den FC Bayern München. Aber wie hält man die beste Offensive der Liga in Schach? Der kicker hat bei VfL-Coach Stephan Lerch nachgefragt.",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/jede-serie-geht-irgendwann-zu-ende-so-will-lerch-die-bayern-stoppen-1271319/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T14:53:23+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Die Spiele der Anderen - Karlsruher SC - Forum | Seite 2753",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemtSdVNheVNhN0JuUjJsS3NKQld4ZENPemNELWxOUHphZEhRaTM5dUQ5S3RCX3V0RzFIZDA1N1J1QVltcGVsdmphRGYwUmtIa3pneU0wMnVBZmc3YzczeVNDOFRwRlhfRmo4NllSdHRXYmNpRlo3dUFubklzTGVwVVZvVVNSdl9FT3J2b0p1UlVPRTNkMGNheU5n?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:52:00+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Transfer",
-   "title": "„War letztes Jahr schon hier“: Warum Hausicke Werder für Union verließ",
-   "summary": "Gemeldet von Berliner Zeitung",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzRKSFFsRU1IcHN6WXhXSEdodGlCN0xjUE5HR2h3VFFjeEdrLXI2Q2poU3M2dWJ6clNlMi1qTnlzQnVLOWlEdWV5OHlja21HYjk0MW52NzdkRnJoUnZaUEoyVUFQZTlzODBTdGdFRWZjRmljdlZTZmdYUWVqcEVBN2RZRF9kYjZOZnptZ3d5aHhERkNNalBiLUJ6blhPQU5QTHVVTUNtMVhiUGp2OVdHa2RvWHdfd3l2VWwwMA?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:45:50+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "Bericht: Lions-Superstar Amon-Ra St. Brown könnte neuen Mega-Vertrag unterschreiben",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjBQQ1hJLWZUV1FjY0FfbmJ1QVVzdmZJU0hOYzd2VDJYWnJZM0ltMHpYa0xxYWJ0VFlJdkE1ZVZkeUFFOXZKRmlCV3BWVHFFUzhjdkRFTk1XSUkzUExQWXZhVTNPcjBXdndTbmMwRzRlZHJPVlkwZWkwb3gwaVA0VmNUcGJFQ1RaSVJ5Z1QxZnlzb2NZQ2tWMTE2b2ZYU3MxOVQtcm5INFJUcmtZdTdTS2JCWDBTbEpXTlVRdEpmUkhKemJtdzZCSkJB?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:43:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB beendet Rheinmetall-Sponsoring zum 30. Juni 2027",
-   "summary": "Gemeldet von ad-hoc-news.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkhMTmxvbVpRV3Nld0d2bUFTVGxkQmVzXzFkYmZpeDBaekxJVnlwS0VKdGx1ZjF4Y2dMc0ZyS3NMOVBKbnh1S3B6RzdYNjNzamZIMEpjM2pMWUZoLTZ6VXJ0c0Zsc0l1QzIyZEM4b3Z2QmRZMVp5X1hsRkNnQ09lOFF5SWdYTE9LdWZGeXV2N2tPWjVXUHZIeG5Ibw?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:25:26+00:00"
-  },
-  {
-   "club": null,
-   "league": null,
-   "tag": "Transfer",
-   "title": "FC Bayern München muss bei Fanklub-Besuchen auf Vincent Kompany und Jamal Musiala verzichten",
-   "summary": "Gemeldet von Sky.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMmRoUVY4ZUw3T3liM0RaRldmUC02dHdleFlFMnp4QTJhNnNBb3lmeTdxU09pRG9iSVpXRWh5LXhUamZYVFVRejlUdlNLMHpVRFowQThzalBScEs1UnZxOXVWakFPZUlZM1F2VEV6b3pabndHWEIzUDEtUU83dlFOOXhibjk4WUl3cWJYQzBJbkNoZnY0eHVINjhtc3VQXzRyXzBkNGtxb295c0ppbDVJV3JtOVhEc2kzX0kyaEc0ODNTTUpoVDFuUW9rVVFrOXZNcEl6ZlhZcTI5c1F1Rklv?oc=5",
-   "img": "",
-   "ts": "2026-11-13T14:24:00+00:00"
-  },
-  {
-   "club": null,
-   "league": "Bundesliga",
-   "tag": "News",
-   "title": "Torflut überrollt die Konkurrenz: Füllkrug ist Spieler des Monats",
-   "summary": "Niclas Füllkrug war im Oktober nicht zu toppen. Sechs Tore erzielte er in vier Ligaspielen und erhält dafür nun eine besondere Ehre. Erstmals seit über drei Jahren ist der DFB-Rückkehrer Spieler des Monats der Bundesliga",
-   "source": "Kicker",
-   "url": "https://www.kicker.de/torflut-ueberrollt-die-konkurrenz-fuellkrug-ist-spieler-des-monats-1271277/artikel#omrss",
-   "img": "",
-   "ts": "2026-11-13T14:22:04+00:00"
-  },
-  {
    "club": "BVB",
    "league": null,
    "tag": "Video",
@@ -4411,61 +4477,6 @@
    "url": "https://www.youtube.com/watch?v=rzQzF2ZGZ0o",
    "img": "https://i3.ytimg.com/vi/rzQzF2ZGZ0o/hqdefault.jpg",
    "ts": "2026-11-13T14:00:10+00:00"
-  },
-  {
-   "club": null,
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "Aus der Vereinslosigkeit in die 3. Liga: Überraschender Transfer von Levin Öztunali",
-   "summary": "Gemeldet von Goal.com",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2pWLVJQUGRlWENab2RVYkJyYkFZLWxnMW00NXZ6WHh6ZHZtSlkzcWxGQXR2UjF3cGxTRGU3bDZnWkFYWVBKSjJBeGJtOGxHc3gzSDF0bXZuQlB2V1Y2SUdYRG5CM0I3YU1BWnNnRFJ6RHlIRm42SGpKZ0tDSGVwZ1dBeHd3VVZQcnBDSElnbmNDckRTSXZsbUdLNVVBLVVsZmZ5TmhsNUd4U1ZSVlZDdWh5MWVqbnQ2cUxVQ0FzR2FwSDNHTG5lS3A0TTN5azBOc19n?oc=5",
-   "img": "",
-   "ts": "2026-11-13T13:52:28+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": "3. Liga",
-   "tag": "Transfer",
-   "title": "Aus der Vereinslosigkeit in die 3. Liga: Überraschender Transfer von Levin Öztunali",
-   "summary": "Gemeldet von Yahoo Nachrichten",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjBDbDJpMWNFVE5HVUk5eWtKT1Ria01aQkNZMFVwamJBMnNuWWE2S2JBRENSQzg5YWsxMnpLRDVSUjN3c2g0eFc2cmZVZzI5VGdnS1R2QlR0NVdxajFFRERxaDZKa1UtSGwycHF3ZVdIalMzQXJZdGFPaV9GRFJ0b1pCZGpfYzNrSWdic1RjZVBWWGFFMDFFaUU5Rk5nbTlZVFRJZ3htc2VKQQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T13:52:28+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Borussia Dortmund beendet Sponsoring mit Rheinmetall",
-   "summary": "Gemeldet von SuaraGarut.ID",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iMXhjVXNJcnVNcy1USG42TkVUTWduVVI1dC1Pd2lvZTdrdTB4dUR4WklTLXI5Nm5yT0l5UlUzYWxQZW02TzZEVS1NMFlCYWs0Y3N6NnJ5S0trYkozdHgyUUFRbXBFaFRJRDY2SDdkNjRrUQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T13:36:20+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB beendet Partnerschaft mit Rheinmetall: „Müssen geplante Investitionen neu priorisieren“",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRThBb2RCbDZDWmFHal9WNWt5WWlmRm83ajlXMGh1dFNvZ3k3bjlKeGZ4Y2ViZTZrM2pOQXd5S0hTMzdiMTVqM1VxNHlIYkJYOXFJVmRtS210b1VRQVR5cWJWLWxMazI4S3EzX3YyNTNKbUJFSENFV3MyMEVoMmNZS3M5OXFLeElCLUY4bjFTTW9OalJOMnA5TkR6MTRlM2k1RWg3bWdmWkFzZEJxRnROY09zdU43SDhwZEdPX2MzTkUwQTl5VTE1SFlqZlYxVW00ZG9XT2NkVQ?oc=5",
-   "img": "",
-   "ts": "2026-11-13T13:31:00+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "BVB beendet Partnerschaft mit Rheinmetall – Watzke: „Hat den Verein Körner gekostet“ - News-Forum - Forum | Seite 1",
-   "summary": "Gemeldet von Transfermarkt",
-   "source": "Transfermarkt",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQU1jU3A5V0RyTERuaTlnMnljeF9PWDl2cm1WUEV1djlzZXZOS3lPQUI0SWswWjVhYWRQMGNOWWMySXNxMzVqZzJSZ1ZuQUpJQmxGS3BDR3BlZ0NRSDJEQ1g4S3V0aFBiYWlaVU1ocGtpTFRTMWdmVG1rdkxmYmpod2FNVzVBVGJZZnMtT255cXRidjNPRVg1QjY3empDQzhsd2c5U3QtSndjcGkwNGF4WXRYUmFVakdyUjZoTWZCYzlCd3h1bHlMOHItcXhaVnhadHpsWXIwNVJiSFNqNE9lNjZn?oc=5",
-   "img": "",
-   "ts": "2026-11-13T13:31:00+00:00"
   },
   {
    "club": "BVB",
@@ -5049,17 +5060,6 @@
    "url": "https://www.youtube.com/watch?v=KxqhxAemHno",
    "img": "https://i4.ytimg.com/vi/KxqhxAemHno/hqdefault.jpg",
    "ts": "2026-10-27T23:00:04+00:00"
-  },
-  {
-   "club": "HSV",
-   "league": null,
-   "tag": "Video",
-   "title": "RE-LIVE: MATCHDAY-PRESSEKONFERENZ MIT MERLIN POLZIN | HSV vs. Eintracht Frankfurt",
-   "summary": "",
-   "source": "YouTube",
-   "url": "https://www.youtube.com/watch?v=ph4IQmeyu8o",
-   "img": "https://i1.ytimg.com/vi/ph4IQmeyu8o/hqdefault.jpg",
-   "ts": "2026-10-27T20:01:19+00:00"
   }
  ],
  "next": [
@@ -12460,8 +12460,8 @@
    "FCN": 171
   },
   "af_used": {
-   "d": "2026-11-16",
-   "n": 3
+   "d": "2026-11-17",
+   "n": 1
   },
   "af_bulk": true,
   "reg_try": "2026-10-20T22:37:47.605065+00:00",
