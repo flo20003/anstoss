@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T23:16:02.397417+00:00",
+ "updated": "2026-11-26T05:24:59.789617+00:00",
  "items": [
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Völlig unverständlich\": Kimmich kritisiert Bayern-Bosse wegen Musiala",
+   "summary": "Um Jamal Musiala gab es in den letzten Tagen reichlich Wirbel. Schuld daran waren die Bayern-Granden. Joshua Kimmich sprach nun Klartext und stärkte seinen Mitspieler.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/voellig-unverstaendlich-kimmich-kritisiert-bayern-bosse-wegen-musiala-1275108/artikel#omrss",
+   "img": "",
+   "ts": "2026-11-25T23:35:51+00:00"
+  },
   {
    "club": "HSV",
    "league": null,
@@ -44,6 +55,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hLclpKSmVxLUNjb3VzNV9UQTlUekt2SVlsaEh4d2w2N3BDb1FTU2tCZWJJYThYekdPR1Y5Qm5haUgycmlTRGRMUndPU2hrV0RFS21NQmdDYThyN1VXaEhPNDF3QkFyaGZ0VUd0ZllhVW53dWFDUFhDNjNITE1fZ3J0QzR1NXpXaXNDYW9qdjhLYmxReU80U3Y2T0VvU2pjMlcyN21Td1BBdUxwWWszUG1SUDhzQ1dncVhKVE5uX0lrRXc?oc=5",
    "img": "",
    "ts": "2026-11-25T23:08:00+00:00"
+  },
+  {
+   "club": null,
+   "league": "Bundesliga",
+   "tag": "News",
+   "title": "\"Absolutes No-Go\": Kimmichs Statement Richtung Bayern-Führung im Video",
+   "summary": "Joshua Kimmich wurde in der Mixed Zone nach dem Champions-League-Spiel in Lille deutlich und kritisierte Karl-Heinz Rummenigge und Uli Hoeneß für deren Aussagen in der Situation rund um Jamal Musiala.",
+   "source": "Kicker",
+   "url": "https://www.kicker.de/absolutes-no-go-kimmichs-statement-richtung-bayern-fuehrung-im-video-1275116/video#omrss",
+   "img": "",
+   "ts": "2026-11-25T23:00:48+00:00"
   },
   {
    "club": null,
@@ -4499,28 +4521,6 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclpUSGc0eE5RU01kak5BUTI0dU52TDNQT1Y2bjRvaEo3NC1WNzVlRHktNTRndkZXb2hycDlaOWI0aTQwVWFBXzFjMjhQSUpzTmNpeFdQZ19CS2lzU09zUXdLY3gzLTNuZ3RsNVQtMVRiXy0tal9RT043N0dFcXJuWWg2Tm0?oc=5",
    "img": "",
    "ts": "2026-11-23T12:28:51+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "\"Kommt mit dem Niveau nicht zurecht\": Übles Zwischenfazit bei Leihe von BVB-Talent",
-   "summary": "Gemeldet von SPOX.com",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaG1VaDZaQ1hUVlpnYWttNm9IMHBMUFBLeTkxdWc5ZzRGWE9OX1VfTGx0VXR2RHlYMG9VOTRVZ1VZU1ZDWXpKYUNYVmM3MnpTQXpGamdJZUNnekQ4c3dSZ2tIZDF4ZlFsZVNITjRoVno5RjlFX3FBYjNrWkFOTFlISHRKUzJpZE5NYWdFR2JxMVFiWk10aVpNX29aWDE0STg4MVpKS1plZjFWbk5NRmNJSWptb29HV0FPWGNtR0xoN3kzbnZSa1VJQ0Q2bnBZa2JZeG1HdXNyT3BsR2JsYXlUUEVKVWYtek1HYS1od2tKS1VpZw?oc=5",
-   "img": "",
-   "ts": "2026-11-23T12:25:54+00:00"
-  },
-  {
-   "club": "BVB",
-   "league": null,
-   "tag": "Transfer",
-   "title": "Borussia Dortmund/Cramer: Geschlossenheit wichtiger als Rheinmetall-Vertrag",
-   "summary": "Gemeldet von boerse.de",
-   "source": "Weitere Medien",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVNzZDVhNHFJRWh2Q3RJal9CV1dfUy1aeXdaUFY2ODVpQlVOend6eXFjT2RIeVpFdlBIcUNLU1lxUWRORWt3UFhoc3NxYkI2eFhFZWNFQ3V0Q1A1SHpFNWJYTmtXZ2sySkR6cXN6QmNxREpDNE1aam9ENFhqZzN0TEFrSjVtQTU2WGk3Ym42NEc3azFTUkxPb0lYeDNjcDZfQXZtdkYtdWRJdTlwLUZqSmI4QVY2d3MzX3dHNXBB0gG-AUFVX3lxTFBxU3NkNWE0cUlFaHZDdElqX0JXV19TLVp5d1pQVjY4NWlCVU56d3p5cWNPZEh5WkV2UEhxQ0tTWXFRZE5Fa3dQWGhzc3FiQjZ4WEVlY0VDdXRDUDVIekU1YlhOa1dnazJKRHpxc3pCY3FESkM0TVpqb0Q0WGpnM3RMQWtKNW1BNTZYaTdibjY0RzdrMVNSTE9vSVh4M2NwNl9Bdm12Ri11ZEl1OXAtRmpKYjhBVjZ3czNfd0c1cEE?oc=5",
-   "img": "",
-   "ts": "2026-11-23T12:21:14+00:00"
   },
   {
    "club": "BVB",
@@ -12460,8 +12460,8 @@
    "FCN": 171
   },
   "af_used": {
-   "d": "2026-11-25",
-   "n": 3
+   "d": "2026-11-26",
+   "n": 1
   },
   "af_bulk": true,
   "reg_try": "2026-10-20T22:37:47.605065+00:00",
